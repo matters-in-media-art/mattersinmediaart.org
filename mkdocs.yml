@@ -1,6 +1,0 @@
-site_name: Matters in Media Art
-theme: flatly
-pages:
-- Home : 'index.md'
-- Acquiring: 'acquiring_2008/index.md'
-- Lending : 'lending_2005/index.md'
