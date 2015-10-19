@@ -13,7 +13,7 @@ A condition report for time-based media works of art is divided into three secti
 
 ## Overview of loaning time-based media
 
-**Media**
+**Media
 
 * In most cases only the exhibition format of the media element will be lent (for example a DVD).
 * This is made from a master that will be retained by the lender.
