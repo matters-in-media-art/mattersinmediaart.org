@@ -14,3 +14,17 @@ body {
   height: 60px;
   background-color: #f5f5f5;
 }
+
+
+/* all links */
+ .nav>li>a {
+    padding: 4px 20px;
+
+}
+
+/* nested links */
+ .nav .nav>li>a {
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 30px;
+}
