@@ -3,8 +3,6 @@ layout: default
 title: Acquiring time-based media 2008
 ---
 
-# Acquiring time-based media: 2008
-
 ![](http://images.tate.org.uk/sites/default/files/styles/grid-normal-12-cols/public/images/eija-liisaahtila_annieakiegod_1998_0.jpg?itok=lJxaLd3A)
 
 Eija-Liisa Ahtila

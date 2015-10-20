@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="container">
+      <div class="row">
+        <div class="col-md-3">
+          <ul>
+            <li><a href="{{ site.baseurl }}/acquiring_2008/process-diagram.html">Process diagram</a></li>
+            <li><a href="{{ site.baseurl }}/acquiring_2008/pre-acquisitions.html">Pre-acquisitions</a></li>
+            <li><a href="{{ site.baseurl }}/acquiring_2008/accessioning.html">Accessioning</a></li>
+            <li><a href="{{ site.baseurl }}/acquiring_2008/post-acquisitions.html">Post-acquisitions</a></li>
+            <li><a href="{{ site.baseurl }}/acquiring_2008/templates-acquisitions.html">Templates for acquisitions</a></li>
+            <ul>
+              <li><a href="{{ site.baseurl }}/acquiring_2008/records-time-based-media-works.html">Records for time-based media works of art</a></li>
+            </ul>
+            <li><a href="{{ site.baseurl }}/acquiring_2008/frequently-asked-questions.html">Frequently asked questions</a></li>
+          </ul>
+        </div>
+        <div class="col-md-9">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
