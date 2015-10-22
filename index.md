@@ -4,7 +4,7 @@ title: Matters in Media Art
 ---
 
 
-Collaborating towards the care of time-based media: a multi-phase project designed to provide guidelines for care of time-based media works of art
+#####Collaborating towards the care of time-based media: a multi-phase project designed to provide guidelines for care of time-based media works of art
 
 ![](http://www.tate.org.uk/sites/default/files/styles/grid-normal-12-cols/public/images/matters%20in%20media%20art%20graphic.gif?itok=2N8J6St_)
 

@@ -2,31 +2,30 @@
 layout: default
 title: Lending Time-based media art
 ---
-![](http://images.tate.org.uk/sites/default/files/styles/grid-normal-12-cols/public/images/bruce_namuman_make_me_think_me_exhibition_01.jpg?itok=GhSPJEAV)
+![]()
 
 <div markdown = "0">    
-<div class="card">
-    <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="https://c2.staticflickr.com/6/5019/5501458212_49dece16cb_b.jpg">
-    </div>
-    <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4">I'm a hacked furby!<i class="material-icons right"></i></span>
-      <p><a href="#">Click on my image!</a></p>
-    </div>
-    <div class="card-reveal">
-      <span class="card-title grey-text text-darken-4">Hi!<i class="material-icons right">close</i></span>
-      <p>Beep Boop Bop</p>
-    </div>
-  </div>
+      <div class="row">
+        <div class="col s12 m12">
+          <div class="card">
+            <div class="card-image">
+              <img src="http://images.tate.org.uk/sites/default/files/styles/grid-normal-12-cols/public/images/bruce_namuman_make_me_think_me_exhibition_01.jpg?itok=GhSPJEAV">
+            </div>
+            <div class="card-content">
+              <p>Bruce Nauman
+<i>Make Me Think Me</i>
+Installation view Tate Liverpool exhibition 2006
+© Tate 2006</p>
+            </div>
+          </div>
+        </div>
+      </div>
       </div>
 
-Bruce Nauman
-_Bruce Nauman: Make Me Think Me_
-Installation view Tate Liverpool exhibition 2006
-© Tate 2006
 
 
-The process diagram and documents for loans are guidelines and templates for owners to follow when borrowing and lending time-based media.
+
+The [process diagram]({{ site.url }}/loan-process.html) and documents for loans are guidelines and templates for owners to follow when borrowing and lending time-based media.
 
 The documents include sample templates for exhibition budgets, condition reports, facilities reports, installation documents and loan agreements. They seek to update existing practice for more traditional art by incorporating new requirements of time-based media.
 

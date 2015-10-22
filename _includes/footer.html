@@ -1,7 +1,13 @@
-<footer class="page-footer blue">
-  <div class="container">
-    <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-        <ul class="social-media-list">
+        <footer class="page-footer blue">
+          <div class="container">
+            <div class="row">
+              <div class="col l6 s12">
+                <h5 class="white-text">Matters in Media Art</h5>
+                <p class="grey-text text-lighten-4">{{ site.description }}</p>
+              </div>
+              <div class="col l4 offset-l2 s12">
+<!--                 <h5 class="white-text">Links</h5>
+ -->        <ul>
           {% if site.github_username %}
           <li>
             <a href="https://github.com/{{ site.github_username }}">
@@ -25,7 +31,14 @@
           </li>
           {% endif %}
         </ul>
-
-        <p class="text">{{ site.description }}</p>
-  </div>
-</footer>
+              </div>
+            </div>
+          </div>
+          <div class="footer-copyright">
+            <div class="container">
+            © 2015 Matters in Media Art
+            <a class="grey-text text-lighten-4 right" href="mailto:{{ site.email }}">{{ site.email }}</a>
+            </div>
+          </div>
+        </footer>
+            

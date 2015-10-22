@@ -3,12 +3,23 @@ layout: default
 title: Accessioning
 ---
 
-# Accessioning
-
-## Download templates
-* [Purchase agreement]({{ site.url }}/downloads/mattersmediaart_purchaseagreement.rtf)
-* [Copyright Agreement]({{ site.url }}/downloads/mattersmediaart_copyrightlicense.rtf)
-* [Deed of gift]({{ site.url }}/downloads/mattersmediaart_deedofgift.doc)
+<div markdown="0">
+  <div class="row">
+    <div class="col s12 m9">
+      <div class="card blue-grey darken-1">
+        <div class="card-content white-text">
+          <span class="card-title">Download templates</span>
+          <p>Here are some templates to assist you with the accessioning process...</p>
+        </div>
+        <div class="card-action">
+          <a href="{{ site.url }}/downloads/mattersmediaart_purchaseagreement.rtf">Purchase agreement</a>
+          <a href="{{ site.url }}/downloads/mattersmediaart_copyrightlicense.rtf">Copyright Agreement</a>
+          <a href="{{ site.url }}/downloads/mattersmediaart_deedofgift.doc">Deed of gift</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 ## Key questions
 * What rights do we need to secure as part of the acquisition of the work?

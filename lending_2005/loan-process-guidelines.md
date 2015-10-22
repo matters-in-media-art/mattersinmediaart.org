@@ -3,10 +3,20 @@ layout: default
 title: Loan process guidelines
 ---
 
+<div markdown="0">
+      <div class="row">
+        <div class="col s12 m12">
+          <div class="card blue-grey darken-1">
+            <div class="card-content white-text">
+              <span class="card-title">Explore, compile and review</span>
+              <p>The key to successful implementation is thorough planning. The following checklist should give the potential borrower a good indication of whether they can install, manage and maintain the work.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+ </div>       
 
 
-##Explore, compile and review
-The key to successful implementation is thorough planning. The following checklist should give the potential borrower a good indication of whether they can install, manage and maintain the work.
 
 ###Borrower
 
