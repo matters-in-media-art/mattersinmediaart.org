@@ -1,30 +1,23 @@
-<header class="site-header">
 
+  <div class="site-header" class="mdl-layout mdl-js-layout" >
   <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/"></a>
-    
-    <header class="mdl-layout__header mdl-layout__header--transparent">
-    <span class="mdl-layout-title">Title</span>
+  <header class="mdl-layout__header">
     <div class="mdl-layout__header-row">
       <!-- Title -->
-      
+      <a class="mdl-layout-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
       <!-- Add spacer, to align navigation to the right -->
-      <a class="mdl-layout-spacer" href="{{ site.baseurl }}/">{{ site.title }}</a>
-      <!-- Navigation -->
-      <nav class="mdl-navigation">
-      
-        <ul class="nav navbar-nav">
-        <li><a href="{{ site.baseurl }}/using-matters-media-art-resources.html">Using the project resources</a></li>
-        <li><a href="{{ site.baseurl }}/matters-media-art-project-team.html">Project team</a></li>
-        <li><a href="{{ site.baseurl }}/external-resources.html">External resources</a></li>
+      <div class="mdl-layout-spacer"></div>
+      <!-- Navigation. We hide it in small screens. -->
+      <nav class="mdl-navigation mdl-layout--large-screen-only">
+      <li><a class="mdl-navigation__link" href="{{ site.baseurl }}/using-matters-media-art-resources.html">Using the project resources</a></li>
+        <li><a class="mdl-navigation__link" href="{{ site.baseurl }}/matters-media-art-project-team.html">Project team</a></li>
+        <li><a class="mdl-navigation__link" href="{{ site.baseurl }}/external-resources.html">External resources</a></li>
 
-      </ul>
       </nav>
     </div>
+    </div>
   </header>
-
-
+ 
 <!--     <nav class="site-nav">
       <a href="#" class="menu-icon">
 
