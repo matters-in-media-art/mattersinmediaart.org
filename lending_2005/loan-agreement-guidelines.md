@@ -3,7 +3,6 @@ layout: default
 title: Loan agreement guidelines
 ---
 
-# Loan agreement guidelines
 This is a contract between a lender and a borrower. It specifies what is to be lent, the conditions of loan and the respective responsibilities of each party. A covering letter may also be issued with the agreement which draws attention to particularly important conditions of loan.
 
 The loan agreement (may also be called a lender’s agreement, borrower’s agreement or loan contract) should be final. 

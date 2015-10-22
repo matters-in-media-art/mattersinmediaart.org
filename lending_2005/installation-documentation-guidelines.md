@@ -3,7 +3,6 @@ layout: default
 title: Installation documentation guidelines
 ---
 
-# Installation documentation guidelines
 
 The installation documentation is produced by the owner and accompanies the loan. The installation documentation for time-based media works of art is ideally agreed with the artist when a work is acquired. This project assumes that the artist’s views have been recorded prior to loan and are able to guide the lender and the borrower in honouring what is important for a good installation of the work. When this is not the case, the loan may provide an occasion for dialogue and documentation. It may be part of the nature of the work that there are different ways in which it can be installed and this should be indicated in the installation documentation. In some cases the installation documentation will have evolved through an ongoing dialogue between the owner and the artist. The installation of the work provides an opportunity to add to the documentation. This is a live document with room for evolution.
 

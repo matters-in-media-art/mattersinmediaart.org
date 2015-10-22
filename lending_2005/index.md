@@ -3,7 +3,6 @@ layout: default
 title: Lending Time-based media art
 ---
 
-# Lending Time-Based Media Art
 ![](http://images.tate.org.uk/sites/default/files/styles/grid-normal-12-cols/public/images/bruce_namuman_make_me_think_me_exhibition_01.jpg?itok=GhSPJEAV)
 
 

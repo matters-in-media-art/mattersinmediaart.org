@@ -1,41 +1,46 @@
+<header>
 
-  <div class="site-header" class="mdl-layout mdl-js-layout" >
-  <div class="wrapper">
-  <header class="mdl-layout__header">
-    <div class="mdl-layout__header-row">
-      <!-- Title -->
-      
-      
-      <!-- Add spacer, to align navigation to the right -->
-      <!-- Navigation. We hide it in small screens. -->
-      <nav>
-        <div class="nav-wrapper">
-          <a href="#" class="brand-logo left">Matters in Media Art</a>
-          <ul id="nav-mobile" class="right hide-on-med-and-down">
-            <li><a class="mdl-navigation__link" href="{{ site.baseurl }}/using-matters-media-art-resources.html">Using the project resources</a></li>
-            <li><a class="mdl-navigation__link" href="{{ site.baseurl }}/matters-media-art-project-team.html">Project team</a></li>
-            <li><a class="mdl-navigation__link" href="{{ site.baseurl }}/external-resources.html">External resources</a></li>
-          </ul>
-        </div>
-      </nav>
-    </div>
-    </div>
-  </header>
- 
-<!--     <nav class="site-nav">
-      <a href="#" class="menu-icon">
-
-      </a>
-
-      <div class="trigger">
-        {% for page in site.pages %}
-          {% if page.title %}
-          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
-        {% endfor %}
+<nav class="top-nav blue">
+    <div class="container">
+      <div class="nav-wrapper">
+        <a class="page-title">Matters in Media Art: {{page.title}}</a>
       </div>
-    </nav> -->
-
   </div>
+</nav>
+
+<div class="container"><a href="#" data-activates="nav-mobile" class="button-collapse top-nav full hide-on-large-only"><i class="mdi-navigation-menu"></i></a></div>
+
+<ul id="nav-mobile" class="side-nav fixed" style="left: 0px; width:350px;">
+        <li class="no-padding">
+          <ul class="">
+            <li class="bold active"><a class="" href="{{ site.baseurl }}/lending_2005/">Lending time-based media: 2005</a>
+              <div class="" style="display: block;">
+                <ul>
+                  <li><a href="{{ site.baseurl }}/lending_2005/loan-process.html">Loan process diagram</a></li>
+                  <li><a href="{{ site.baseurl }}/lending_2005/loan-process-guidelines.html">Loan process guidelines</a></li>
+                  <li><a href="{{ site.baseurl }}/lending_2005/budget-guidelines.html">Budget guidelines</a></li>
+                  <li><a href="{{ site.baseurl }}/lending_2005/loan-agreement-guidelines.html">Loan agreement guidelines</a></li>
+                  <li><a href="{{ site.baseurl }}/lending_2005/facilities-report-guidelines.html">Facilities report</a></li>
+                  <li><a href="{{ site.baseurl }}/lending_2005/installation-documentation-guidelines.html">Installation documentation guidelines</a></li>
+                  <li><a href="{{ site.baseurl }}/lending_2005/condition-report-guidelines.html">Condition report guidelines</a></li>
+                </ul>
+              </div>
+            </li>
+            <li class="bold"><a href="{{ site.baseurl }}/acquiring_2008/">Acquiring time-based media: 2008</a>
+              <div class="" style="">
+                <ul>
+                  <li><a href="{{ site.baseurl }}/acquiring_2008/process-diagram.html">Process diagram</a></li>
+                  <li><a href="{{ site.baseurl }}/acquiring_2008/pre-acquisitions.html">Pre-acquisitions</a></li>
+                  <li><a href="{{ site.baseurl }}/acquiring_2008/accessioning.html">Accessioning</a></li>
+                  <li><a href="{{ site.baseurl }}/acquiring_2008/post-acquisitions.html">Post-acquisitions</a></li>
+                  <li><a href="{{ site.baseurl }}/acquiring_2008/templates-acquisitions.html">Templates for acquisitions</a></li>
+                  <li><a href="{{ site.baseurl }}/acquiring_2008/records-time-based-media-works-art.html">Records for time-based media works of art</a></li>
+                  <li><a href="{{ site.baseurl }}/acquiring_2008/frequently-asked-questions.html">Frequently asked questions</a></li>
+                </ul>
+              </div>
+            </li>
+          </ul>
+        </li>
+</ul>
 
 </header>

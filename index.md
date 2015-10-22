@@ -3,7 +3,6 @@ layout: default
 title: Matters in Media Art
 ---
 
-# Matters in Media Art
 
 Collaborating towards the care of time-based media: a multi-phase project designed to provide guidelines for care of time-based media works of art
 

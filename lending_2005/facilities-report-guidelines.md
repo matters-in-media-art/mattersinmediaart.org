@@ -2,8 +2,6 @@
 layout: default
 title: Facilities report guidelines
 ---
-# Facilities report guidelines
-
 A facilities report outlines an institution’s facilities, climate, security, staffing, insurance and loan history. Examples of standard facilities reports are to be found on the websites of the registrars groups listed in the External resources section. Most institutions have a completed report on file which has been verified by a registrar.
 
 The purpose of this document is to assure a lender that the borrower has a history of professional and responsible care of museum artefacts. It is often required by a lender in the early stages of a loan request to determine if the borrower’s facilities are appropriate. Further dialogue may then be initiated between the lending and borrowing institutions to discuss the specific needs of a particular artwork. 

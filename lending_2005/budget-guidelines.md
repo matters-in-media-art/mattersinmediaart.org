@@ -3,7 +3,6 @@ layout: default
 title: Budget guidelines
 ---
 
-# Budget guidelines
 The categories listed below give some indication of the likely costs to be considered. The aim of this section is to identify the true costs of loan for the borrower and the lender. A sample template is provided as an Excel download.
 
 In most cases the borrower will bear the transport, installation and maintenance costs associated with the loan. However, some costs may be associated with the preparation of the work of art for loan. For example there may be conservation costs, servicing costs associated with any equipment to be lent, or costs of the production of new exhibition format material. The lender will wish to identify these costs and either negotiate with the borrower over contributing to these costs as a condition of loan or agree to meet them themselves.

@@ -4,7 +4,6 @@ title: Loan process guidelines
 ---
 
 
-# Loan process guidelines
 
 ##Explore, compile and review
 The key to successful implementation is thorough planning. The following checklist should give the potential borrower a good indication of whether they can install, manage and maintain the work.

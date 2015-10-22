@@ -3,8 +3,6 @@ layout: default
 title: Condition report guidelines
 ---
 
-# Condition report guidelines
-
 The aim of these guidelines is to extend existing condition reporting practices to include time-based media works of art. A condition report provides the baseline against which future examinations can be compared.
 
 It is assumed in the loan agreement that the lender will provide a condition report to accompany a loan. In this case, the sections relating to the installation (template section 7), changes to the display (template section 8) and any additional documentation (template section 11) will be completed by the borrower. The borrower might also wish to annotate previous sections. If any discrepancies are noted between the report and the work the owner is notified immediately (see Loan agreement). The condition report is signed and dated (template section 10) each time the work is checked and the date and authorship of any annotations is made clear. Where a condition report does not accompany a loan it is good practice for the borrower to create a new report in order to have a record of the condition of the work at the beginning of the loan and to send a copy to the lender.
