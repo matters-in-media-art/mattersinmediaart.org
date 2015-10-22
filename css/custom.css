@@ -5994,6 +5994,10 @@ button.btn-floating {
     background-color: rgba(76, 175, 80, 0.7); }
   .waves-effect.waves-teal .waves-ripple {
     background-color: rgba(0, 150, 136, 0.7); }
+     .waves-effect.waves-blue .waves-ripple {
+      background-color: rgba(33, 150, 243, 0.7);
+    }
+        
 
 .waves-notransition {
   -webkit-transition: none !important;
