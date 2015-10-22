@@ -3,34 +3,26 @@
   <div class="wrapper">
 
     <a class="site-title" href="{{ site.baseurl }}/"></a>
-
-
-<nav class="navbar navbar-default">
-  <div class="container">
-    <!-- Brand and toggle get grouped for better mobile display -->
-    <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-        <span class="sr-only">Toggle navigation</span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </button>
-      <a class="navbar-brand" href="{{ site.baseurl }}/">{{ site.title }}</a>
-    </div>
-
-    <!-- Collect the nav links, forms, and other content for toggling -->
-    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-      <ul class="nav navbar-nav">
+    
+    <header class="mdl-layout__header mdl-layout__header--transparent">
+    <span class="mdl-layout-title">Title</span>
+    <div class="mdl-layout__header-row">
+      <!-- Title -->
+      
+      <!-- Add spacer, to align navigation to the right -->
+      <a class="mdl-layout-spacer" href="{{ site.baseurl }}/">{{ site.title }}</a>
+      <!-- Navigation -->
+      <nav class="mdl-navigation">
+      
+        <ul class="nav navbar-nav">
         <li><a href="{{ site.baseurl }}/using-matters-media-art-resources.html">Using the project resources</a></li>
         <li><a href="{{ site.baseurl }}/matters-media-art-project-team.html">Project team</a></li>
         <li><a href="{{ site.baseurl }}/external-resources.html">External resources</a></li>
 
       </ul>
-  
-
-    </div><!-- /.navbar-collapse -->
-  </div><!-- /.container-fluid -->
-</nav>
+      </nav>
+    </div>
+  </header>
 
 
 <!--     <nav class="site-nav">
