@@ -1,10 +1,16 @@
 ---
 layout: default
 title: Matters in Media Art
+published: true
 ---
 
 
+
 #####Collaborating towards the care of time-based media: a multi-phase project designed to provide guidelines for care of time-based media works of art
+
+I am testing out Prose.io. Here is an image I uploaded through their WYSIWYG editor.
+
+![test]({{site.baseurl}}/IMG_3873.JPG)
 
 ![](http://www.tate.org.uk/sites/default/files/styles/grid-normal-12-cols/public/images/matters%20in%20media%20art%20graphic.gif?itok=2N8J6St_)
 
