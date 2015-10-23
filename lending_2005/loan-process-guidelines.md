@@ -3,22 +3,21 @@ layout: default
 title: Loan process guidelines
 ---
 
+
+
+### Explore, compile and review
+The key to successful implementation is thorough planning. The following checklist should give the potential borrower a good indication of whether they can install, manage and maintain the work.
+
+
 <div markdown="0">
       <div class="row">
         <div class="col s12 m12">
-          <div class="card blue-grey darken-1">
-            <div class="card-content white-text">
-              <span class="card-title">Explore, compile and review</span>
-              <p>The key to successful implementation is thorough planning. The following checklist should give the potential borrower a good indication of whether they can install, manage and maintain the work.</p>
-            </div>
-          </div>
-        </div>
-      </div>
- </div>       
+          <div class="card grey lighten-4">
+            <div class="card-content black-text">
+<p>
+<div markdown="1">
 
-
-
-###Borrower
+### Borrower
 
 * Create a list of works under consideration
 * Identify sources of information about the works
@@ -26,13 +25,13 @@ title: Loan process guidelines
 * [Create a draft budget](http://www.tate.org.uk/about/projects/matters-media-art/budget-guidelines)  
 * Review, proceed or stop
 
-####Information to compile about the works
+#### Information to compile about the works
 
 * Title
 * Owner
 * What is the lender’s lead time and loans administration procedure? (Beware for some Institutions this could be twelve months) 
 
-####Equipment list
+#### Equipment list
 
 * Will the equipment be available for loan?
 * What is its condition?
@@ -77,9 +76,27 @@ What costs are involved?
 * Is conservation required before the work can be lent?
 * Is the equipment needed still available?
 * What are the costs involved? Who will pay?
+</div>
+</p>
+<div markdown="0">   
+          </div>
+        </div>
+      </div>
+ </div>
+ </div>
+ </div>       
 
+<div markdown="1">
 ## Request, consider, approve
 Here the lender and the borrower come together to consider a particular request. The main areas of discussion are often the nature of the work and associated costs. Not all requests are accepted and successful requests often include some degree of negotiation. The resulting loan agreement is the document outlining the agreed-upon terms of the loan.
+
+<div markdown="0">
+      <div class="row">
+        <div class="col s12 m12">
+          <div class="card grey lighten-4">
+            <div class="card-content black-text">
+<p>
+<div markdown="1">
 
 ###Borrower – request
 In submitting a request to the lender provide the following:
@@ -115,8 +132,28 @@ Terms may be specified in the loan agreement:
 * Consider and discuss installation documentation
 * Finalise budget
 
+</div>
+</p>
+<div markdown="0">   
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>  
+
+
 ## Send, install and return 
 The following checklist of actions is a guide for the borrower and the lender in the implementation of the loan and generally includes the following:
+
+
+<div markdown="0">
+      <div class="row">
+        <div class="col s12 m12">
+          <div class="card grey lighten-4">
+            <div class="card-content black-text">
+<p>
+<div markdown="1">
 
 ###Borrower
 
@@ -186,3 +223,13 @@ Those monitoring the work whilst on display will need to know:
 ####Close loan file
 * Check the work has returned.
 * The loan file is only closed once the condition report is completed and all outstanding costs have been paid.
+
+</div>
+</p>
+<div markdown="0">   
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>  
