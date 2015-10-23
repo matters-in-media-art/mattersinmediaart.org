@@ -12,8 +12,6 @@ I am testing out Prose.io. Here is an image I uploaded through their WYSIWYG edi
 
 ![test]({{site.baseurl}}/IMG_3873.JPG)
 
-![test]({{site.baseurl}}//asdf.jpg)
-
 ![](http://www.tate.org.uk/sites/default/files/styles/grid-normal-12-cols/public/images/matters%20in%20media%20art%20graphic.gif?itok=2N8J6St_)
 
 ![](http://images.tate.org.uk/sites/default/files/styles/grid-normal-8-cols/public/images/node/243433.jpg?itok=uZLO16wG)
