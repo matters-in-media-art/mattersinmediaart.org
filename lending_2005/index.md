@@ -4,21 +4,6 @@ title: Lending Time-based media art
 ---
 ![](http://images.tate.org.uk/sites/default/files/styles/grid-normal-12-cols/public/images/bruce_namuman_make_me_think_me_exhibition_01.jpg?itok=GhSPJEAV)
 
-<div markdown = "0">    
-<div class="card">
-    <div class="card-image waves-effect waves-block waves-light">
-      <img class="activator" src="https://c2.staticflickr.com/6/5019/5501458212_49dece16cb_b.jpg">
-    </div>
-    <div class="card-content">
-      <span class="card-title activator grey-text text-darken-4">I'm a hacked furby!<i class="material-icons right"></i></span>
-      <p><a href="#">Click on my image!</a></p>
-    </div>
-    <div class="card-reveal">
-      <span class="card-title grey-text text-darken-4">Hi!<i class="material-icons right">close</i></span>
-      <p>Beep Boop Bop</p>
-    </div>
-  </div>
-      </div>
 
 Bruce Nauman
 _Bruce Nauman: Make Me Think Me_

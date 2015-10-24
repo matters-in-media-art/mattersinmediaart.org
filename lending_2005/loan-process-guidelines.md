@@ -13,7 +13,7 @@ The key to successful implementation is thorough planning. The following checkli
       <div class="row">
         <div class="col s12 m12">
           <div class="card grey lighten-4">
-            <div class="card-content black-text">
+            <div class="card-content black-text hoverable">
 <p>
 <div markdown="1">
 
