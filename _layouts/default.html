@@ -4,6 +4,17 @@
   {% include head.html %}
 {% include header.html %}
   <body>
+  </script>
+</script>
+    <script>
+  $("li.rise").hover(function(){
+  $(this).addClass("z-depth-2");
+  console.log("card hover");
+},  function() {
+    $( this ).removeClass( "z-depth-2" );
+  }
+);
+  </script>
   
   <main>
     
