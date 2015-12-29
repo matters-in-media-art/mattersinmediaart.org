@@ -1,3 +1,51 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 200;
+  font-size: 24px;
+}
+
+html{
+  font-size: 14px;
+}
+
+h1, h2, h3, h4, h5, h6  {
+    font-family: 'Open Sans', sans-serif;
+  font-weight: 800 !important; 
+
+}
+
+#nav{
+  overflow: hidden;
+}
+
+#button{
+  cursor: pointer;
+}
+
+#nav-pages.left.hide-on-med-and-down{
+  position: absolute !important;
+  top: 92px !important;
+  left: 28px !important;
+}
+
+#nav ul a{
+    font-family: 'Open Sans', sans-serif !important;
+  font-weight: 800 !important; 
+  font-size: 20px !important;
+  color: black;
+}
+
+/*h3{
+  color: gray;
+  font-size: 1.92rem !important;
+}*/
+
+.brand-logo{
+  padding-left: 10px !important;
+  padding-top: 10px !important;
+}
+
+
 .materialize-red.lighten-5 {
   background-color: #fdeaeb !important; }
 
@@ -8236,8 +8284,7 @@ nav ul li:hover, nav ul li.active {
   border: 1px solid #eee;
   padding: 20px 20px; }
 
-header, main, footer {
-  padding-left: 240px; }
+
 
 .parallax-demo header, .parallax-demo main, .parallax-demo footer {
   padding-left: 0; }
