@@ -16,7 +16,13 @@ h1, h2, h3, h4, h5, h6  {
 
 #nav{
   overflow: hidden;
+  height: 166px;
 }
+
+.navbar-fixed{
+  margin-bottom: 140px;
+}
+
 
 #button{
   cursor: pointer;
@@ -26,7 +32,7 @@ h1, h2, h3, h4, h5, h6  {
   position: relative !important;
   top: 20px !important;
   left: -5px !important;
-  opacity: 0;
+  opacity: 1;
 }
 
 #nav ul a{
@@ -51,6 +57,7 @@ h1, h2, h3, h4, h5, h6  {
 .menu{
 background-color: white;
 cursor: pointer;
+opacity: 0;
 }
 
 .menu:hover{
