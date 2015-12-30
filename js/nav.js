@@ -3,6 +3,8 @@
 
 $( document ).ready(function() {
 
+    $('.scrollspy').scrollSpy();
+
 // initial check in case doc is loading already scrolled down the page...
         if ($(document).scrollTop() > 140){
             $('#nav').stop().animate({height:'64px'}, 0);

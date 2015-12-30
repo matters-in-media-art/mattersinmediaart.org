@@ -3,9 +3,24 @@ layout: default
 title: Sustaining Your Collection
 ---
 
+<div class="col hide-on-small-only m3 l2 contextualmenu">
+	<ul class="section table-of-contents">
+		<li><a href="#scoping-collection">Scoping Your Collection</a></li>
+		<li><a href="#context">Your Context: Budget/Skills</a></li>
+		<li><a href="#information-systems">Information Systems</a></li>
+		<li><a href="#scoping-system">Scoping Your System</a></li>
+		<li><a href="#developing">Developing Your System</a></li>
+		<li><a href="#prepare">Preparing Your Collection</a></li>
+		<li><a href="#store">Store Your Collection</a></li>
+	</ul>
+</div>
+
+
 Welcome to the third phase of Matters in Media Art. These pages focus on the challenge of moving our digital video collections from tape to file based storage and delivery.
 
 Our aim is to provide information that is useful to those who are caring for their own collection of video artworks outside an institution, as well as small, medium and large organisations. Throughout these pages key principles are highlighted and approaches are suggested depending on the size of your collection and your available resources, namely skills, budget and infrastructure. For each section we invite you to fill in a survey, this will act as a tool to help you to outline the needs of your collection. The results will form the basis for an overall preservation system design.
+
+<a id="scoping-collection" class="section scrollspy"></a>
 
 ## Scoping Your Collection 
 The best way to approach the challenge of sustaining your digital video art depends on your context; a key element of this context is the nature of your collection. This section therefore focuses on assessing key facts about your collection of digital video art, for example how large it is and what types of formats exist.  A tool provided in this section is a survey designed to help you to gather all the core information.
@@ -16,6 +31,8 @@ There are Core Principles that underpin the management of digital collections, h
 This survey has been designed to help you to establish an overview of your digital collection. Although these pages only address the needs of digital video the presence of other types of digital artwork or digital components will have an impact on decisions regarding your systems for example the needs for storage.
 
 [survey will go here - need to find a nice way to format it, and make it interactive]
+
+<a id="context" class="section scrollspy"></a>
 
 ## Your context: Budget and Skills
 When developing a budget for costs associated with the move from digital tape to digital file based storage and delivery, there are two different types of cost to consider: capital costs (one¬time purchases of fundamental infrastructure or tools that will in theory last years) and ongoing or recurring costs that will become part of regular operating budgets and may increase as your collections grow. Some of the elements to consider:
@@ -297,6 +314,7 @@ Level 3 is designed for collections with a significant amount of digital materia
 [diagrams from each institution go here w/ explanation]
 
 
+<a id="prepare" class="section scrollspy"></a>
 ## Prepare your collection
 ### Pre-ingest procedures
 Add intro text here applicable to all
