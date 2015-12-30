@@ -42,6 +42,10 @@ h1, h2, h3, h4, h5, h6  {
   color: #B9B9B9;
 }
 
+#nav ul {
+  list-style: none;
+}
+
 
 /*h3{
   color: gray;
@@ -2047,8 +2051,7 @@ html {
 *, *:before, *:after {
   box-sizing: inherit; }
 
-ul {
-  list-style-type: none; }
+
 
 a {
   color: #039be5;
@@ -2068,10 +2071,7 @@ a {
   .valign-wrapper .valign {
     display: block; }
 
-ul {
-  padding: 0; }
-  ul li {
-    list-style-type: none; }
+
 
 .clearfix {
   clear: both; }
@@ -5527,23 +5527,27 @@ h2 {
   margin: 1.78rem 0 1.424rem 0; }
 
 h3 {
-  font-size: 2.92rem;
+  font-size: 2.52rem;
   line-height: 110%;
+  color: gray;
   margin: 1.46rem 0 1.168rem 0; }
 
 h4 {
-  font-size: 2.28rem;
+  font-size: 2.08rem;
   line-height: 110%;
+  color: gray;
   margin: 1.14rem 0 0.912rem 0; }
 
 h5 {
-  font-size: 1.64rem;
+  font-size: 1.44rem;
   line-height: 110%;
+  color: gray;
   margin: 0.82rem 0 0.656rem 0; }
 
 h6 {
   font-size: 1rem;
   line-height: 110%;
+  color: gray;
   margin: 0.5rem 0 0.4rem 0; }
 
 em {
