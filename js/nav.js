@@ -24,10 +24,12 @@ $( document ).ready(function() {
             $('#nav').stop().animate({height:'166px'}, 300);
             $(this).html("Close");
             $('#nav-pages').stop().animate({opacity:'1'},500);
+            $('.contextualmenu').stop().animate({opacity:'0'},300);
         }
         else {
     	   $('#nav').animate({height:'64px'}, 300);
     	   $('#nav-pages').stop().animate({opacity:'0'},500);
+           $('.contextualmenu').stop().animate({opacity:'1'},300);
     	   $(this).html("Menu");
         }
     });
@@ -39,12 +41,14 @@ $( document ).ready(function() {
             $('#nav').stop().animate({height:'64px'}, 200);
             $('#nav-pages').stop().animate({opacity:'0'},300);
             $('#menubutton').stop().animate({opacity:'1'},300);
+            $('.contextualmenu').stop().animate({opacity:'1'},300);
             $('#menubutton').html("Menu");
         }
         else if ($(document).scrollTop() < 145){
             $('#nav').stop().animate({height:'166px'}, 100);
             $('#nav-pages').stop().animate({opacity:'1'},200);
             $('#menubutton').stop().animate({opacity:'0'},200);
+            $('.contextualmenu').stop().animate({opacity:'0'},300);
         }
     });
 });

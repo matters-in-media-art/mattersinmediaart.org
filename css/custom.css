@@ -57,9 +57,10 @@ h1, h2, h3, h4, h5, h6  {
 
 .contextualmenu{
   position: fixed;
-  left: 100px;
-  top: 200px;
+  left: 125px;
+  top: 40px;
   font-size: 12px;
+  opacity: 0;
 }
 
 

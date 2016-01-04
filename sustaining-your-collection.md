@@ -22,7 +22,7 @@ Our aim is to provide information that is useful to those who are caring for the
 
 <a id="scoping-collection" class="section scrollspy"></a>
 
-## Scoping Your Collection 
+<h2 id="scoping-collection" class="section scrollspy">Scoping Your Collection </h2>
 The best way to approach the challenge of sustaining your digital video art depends on your context; a key element of this context is the nature of your collection. This section therefore focuses on assessing key facts about your collection of digital video art, for example how large it is and what types of formats exist.  A tool provided in this section is a survey designed to help you to gather all the core information.
 
 There are Core Principles that underpin the management of digital collections, however there are different ways (systems, tools, and procedures) to realise these Core Principles. The best way forward will depend on your context, i.e. the size of your collection, your infrastructure, available expertise and budget.
@@ -32,9 +32,7 @@ This survey has been designed to help you to establish an overview of your digit
 
 [survey will go here - need to find a nice way to format it, and make it interactive]
 
-<a id="context" class="section scrollspy"></a>
-
-## Your context: Budget and Skills
+<h2 id="context" class="section scrollspy">Your context: Budget and Skills</h2>
 When developing a budget for costs associated with the move from digital tape to digital file based storage and delivery, there are two different types of cost to consider: capital costs (one¬time purchases of fundamental infrastructure or tools that will in theory last years) and ongoing or recurring costs that will become part of regular operating budgets and may increase as your collections grow. Some of the elements to consider:
 
 * Cost of project planning and communication
@@ -89,9 +87,9 @@ Much like how tapes in the analogue realm were reformatted periodically as tape 
 
 #### Understanding of various display technologies
 Tied to an understanding of video technology is a basic understanding of various display technologies so that you can ensure you are faithfully playing back your digital video. This includes the basic mechanics of Cathode Ray Tube (CRT) displays, Flatscreens (LED, Plasma, OLED, LCD, and various playback devices (Brightsigns, DVD players, Blu¬ray players, etc.).
-There are a number of organisations which provide community support, training and information regarding developments in digital video. However, developing skills and expertise takes commitment and a focussed amount of time especially in a rapidly evolving field. If your digital video collection represents only a small amount of your overall collection you might want to develop a network of trusted experts who can support you to care for your collection. In this scenario you will still need to develop some degree of knowledge in order to be able to understand and engage in the key decisions which will need to be made.  
+There are a number of organisations which provide community support, training and information regarding developments in digital video. However, developing skills and expertise takes commitment and a focussed amount of time especially in a rapidly evolving field. If your digital video collection represents only a small amount of your overall collection you might want to develop a network of trusted experts who can support you to care for your collection. In this scenario you will still need to develop some degree of knowledge in order to be able to understand and engage in the key decisions which will need to be made. 
 
-## Information Systems
+<h2 id="information-systems" class="section scrollspy">Information Systems</h2>
 Whether you are an individual artist or large institution the first step in sustaining your digital video art is knowing what you have and where it is located.  
 An inventory could range from an excel spreadsheet, a database like Filemaker, an open source collection management software such as CollectiveAccess (http://www.collectiveaccess.org/about) or Omeka (http://omeka.org/about/) to the type of collection management system employed by museums, for example The Museum System (TMS), Mimsy or a bespoke system developed by your institution. No matter which of these systems is used, as you work through "Scoping Your Context" it is likely that the type of information you will need to scope your collection may already be found within this system, or alternatively you might want to add the information you generate through this process to your inventory.  
 Most museums and large institutions have comprehensive collection management databases for tracking their artworks, and digital storage for their data infrastructure. In Museums, databases are usually managed by the registration and collections management department, and data storage is usually in the realm of IT. In order to evaluate your current systems for the management of collection information for digital video, talk to the registration and collections management teams as well as any IT staff supporting the systems. It is important to find out how current management systems are functioning, what they are technically capable of, for example what backup systems are already in place.
