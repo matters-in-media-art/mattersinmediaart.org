@@ -5,6 +5,21 @@ $( document ).ready(function() {
 
     $('.scrollspy').scrollSpy();
 
+// var waypoint = new Waypoint({
+//   element: document.getElementsByClassName('scrollspy'),
+//   handler: function(direction) {
+//     console.log(this);
+//     var key = this.key.substr(9);
+//     var element = this.element[key];
+//     var elementID = element.id;
+//     console.log(elementID);
+//     var menuID = 'menu-'+elementID;
+//     console.log(menuID);
+//     var menuItem = document.getElementById(menuID);
+//     menuID.className = 'active';
+//   }
+// })
+
 // initial check in case doc is loading already scrolled down the page...
         if ($(document).scrollTop() > 140){
             $('#nav').stop().animate({height:'64px'}, 0);

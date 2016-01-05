@@ -3,26 +3,17 @@ layout: default
 title: Sustaining Your Collection
 ---
 
-<div class="col hide-on-small-only m3 l2 contextualmenu">
-	<ul class="section table-of-contents">
-		<li><a href="#scoping-collection">Scoping Your Collection</a></li>
-		<li><a href="#context">Your Context: Budget/Skills</a></li>
-		<li><a href="#information-systems">Information Systems</a></li>
-		<li><a href="#scoping-system">Scoping Your System</a></li>
-		<li><a href="#developing">Developing Your System</a></li>
-		<li><a href="#prepare">Preparing Your Collection</a></li>
-		<li><a href="#store">Store Your Collection</a></li>
-	</ul>
-</div>
-
 
 Welcome to the third phase of Matters in Media Art. These pages focus on the challenge of moving our digital video collections from tape to file based storage and delivery.
 
 Our aim is to provide information that is useful to those who are caring for their own collection of video artworks outside an institution, as well as small, medium and large organisations. Throughout these pages key principles are highlighted and approaches are suggested depending on the size of your collection and your available resources, namely skills, budget and infrastructure. For each section we invite you to fill in a survey, this will act as a tool to help you to outline the needs of your collection. The results will form the basis for an overall preservation system design.
 
-<a id="scoping-collection" class="section scrollspy"></a>
 
-<h2 id="scoping-collection" class="section scrollspy">Scoping Your Collection </h2>
+
+
+<section id="scoping-collection" class="section scrollspy" markdown="1">
+
+##Scoping Your Collection
 The best way to approach the challenge of sustaining your digital video art depends on your context; a key element of this context is the nature of your collection. This section therefore focuses on assessing key facts about your collection of digital video art, for example how large it is and what types of formats exist.  A tool provided in this section is a survey designed to help you to gather all the core information.
 
 There are Core Principles that underpin the management of digital collections, however there are different ways (systems, tools, and procedures) to realise these Core Principles. The best way forward will depend on your context, i.e. the size of your collection, your infrastructure, available expertise and budget.
@@ -32,7 +23,15 @@ This survey has been designed to help you to establish an overview of your digit
 
 [survey will go here - need to find a nice way to format it, and make it interactive]
 
-<h2 id="context" class="section scrollspy">Your context: Budget and Skills</h2>
+</section>
+
+
+
+
+
+<section id="context" class="section scrollspy" markdown="1">
+
+##Your context: Budget and Skills
 When developing a budget for costs associated with the move from digital tape to digital file based storage and delivery, there are two different types of cost to consider: capital costs (one¬time purchases of fundamental infrastructure or tools that will in theory last years) and ongoing or recurring costs that will become part of regular operating budgets and may increase as your collections grow. Some of the elements to consider:
 
 * Cost of project planning and communication
@@ -89,9 +88,16 @@ Much like how tapes in the analogue realm were reformatted periodically as tape 
 Tied to an understanding of video technology is a basic understanding of various display technologies so that you can ensure you are faithfully playing back your digital video. This includes the basic mechanics of Cathode Ray Tube (CRT) displays, Flatscreens (LED, Plasma, OLED, LCD, and various playback devices (Brightsigns, DVD players, Blu¬ray players, etc.).
 There are a number of organisations which provide community support, training and information regarding developments in digital video. However, developing skills and expertise takes commitment and a focussed amount of time especially in a rapidly evolving field. If your digital video collection represents only a small amount of your overall collection you might want to develop a network of trusted experts who can support you to care for your collection. In this scenario you will still need to develop some degree of knowledge in order to be able to understand and engage in the key decisions which will need to be made. 
 
-<h2 id="information-systems" class="section scrollspy">Information Systems</h2>
-Whether you are an individual artist or large institution the first step in sustaining your digital video art is knowing what you have and where it is located.  
-An inventory could range from an excel spreadsheet, a database like Filemaker, an open source collection management software such as CollectiveAccess (http://www.collectiveaccess.org/about) or Omeka (http://omeka.org/about/) to the type of collection management system employed by museums, for example The Museum System (TMS), Mimsy or a bespoke system developed by your institution. No matter which of these systems is used, as you work through "Scoping Your Context" it is likely that the type of information you will need to scope your collection may already be found within this system, or alternatively you might want to add the information you generate through this process to your inventory.  
+</section>
+
+
+
+
+
+<section id="information-systems" class="section scrollspy" markdown="1">
+
+##Information Systems
+Whether you are an individual artist or large institution the first step in sustaining your digital video art is knowing what you have and where it is located. An inventory could range from an excel spreadsheet, a database like Filemaker, an open source collection management software such as CollectiveAccess (http://www.collectiveaccess.org/about) or Omeka (http://omeka.org/about/) to the type of collection management system employed by museums, for example The Museum System (TMS), Mimsy or a bespoke system developed by your institution. No matter which of these systems is used, as you work through "Scoping Your Context" it is likely that the type of information you will need to scope your collection may already be found within this system, or alternatively you might want to add the information you generate through this process to your inventory.  
 Most museums and large institutions have comprehensive collection management databases for tracking their artworks, and digital storage for their data infrastructure. In Museums, databases are usually managed by the registration and collections management department, and data storage is usually in the realm of IT. In order to evaluate your current systems for the management of collection information for digital video, talk to the registration and collections management teams as well as any IT staff supporting the systems. It is important to find out how current management systems are functioning, what they are technically capable of, for example what backup systems are already in place.
 
 ### Catalogue
@@ -113,8 +119,16 @@ All material is collected alongside the digital video file in a single directory
 ##### Tier 3 (large collection)
 Digital video file is stored by itself in a directory structure that uses the unique ID as an identifier for later ingest into a digital repository. Information about the artwork is stored in a directory structure that also conforms to the unique ID naming convention but is accessible across departments leveraging the institutions records management systems.
 
+</section>
 
-## Scoping Your System
+
+
+
+
+
+<section id="scoping-system" class="section scrollspy" markdown="1">
+
+##Scoping Your System
 
 ### Collections Management
 Metadata, Collections Management and Policies
@@ -201,6 +215,14 @@ Policies might relate to the following:
 * under what circumstances you change the format of the material provided by the artist
 * policies related to storage
 * policies related to access
+
+</section>
+
+
+
+
+
+<section id="developing" class="section scrollspy" markdown="1">
 
 ## Developing Your System
 This section will offer guidance on developing your own systems based on the nature of your collection and the available resources. These pages consider the different roles and responsibilities, hardware and software infrastructure and documentation models involved in developing a system for the preservation of video art and examine the processes that tie them together. This will serve as a resource guide for designing your preservation system.
@@ -311,8 +333,14 @@ Level 3 is designed for collections with a significant amount of digital materia
 
 [diagrams from each institution go here w/ explanation]
 
+</section>
 
-<a id="prepare" class="section scrollspy"></a>
+
+
+
+
+<section id="prepare" class="section scrollspy" markdown="1">
+
 ## Prepare your collection
 ### Pre-ingest procedures
 Add intro text here applicable to all
@@ -356,6 +384,14 @@ This is copied directly from the scenarios developed for the PERICLES project. P
 
 [Tate workflow needs to be copied in here in a format that makes sense for the web.. table?]
 
+</section>
+
+
+
+
+
+<section id="store" class="section scrollspy" markdown="1">
+
 ## Store Your Collection
 At this phase, you have gained intellectual control over your collection by way of survey, cataloging, pre-ingest, and assessment. We have also covered assessing needs and requirements for designing a digital storage system for your particular needs. It is now time to consider how one packages digital collections material for long-term preparation, before placing the material in storage.
 
@@ -385,3 +421,18 @@ When including any type of identifier that serves as a linkage between systems �
 
 ## Community Resources
 In this section we provide references for relevant publications; helpful online resources and downloadable tools we feel can be useful to art collections. The references are organized in broad categories, General Information, Data Preservation, Digital Video and Hardware. 
+
+</section>
+
+
+<div id="contextualmenu" class="col hide-on-small-only m3 l2 contextualmenu">
+	<ul class="section table-of-contents">
+		<li><a href="#scoping-collection">Scoping Your Collection</a></li>
+		<li><a href="#context">Your Context: Budget/Skills</a></li>
+		<li><a href="#information-systems">Information Systems</a></li>
+		<li><a href="#scoping-system">Scoping Your System</a></li>
+		<li><a href="#developing">Developing Your System</a></li>
+		<li><a href="#prepare">Preparing Your Collection</a></li>
+		<li><a href="#store">Store Your Collection</a></li>
+	</ul>
+</div>

@@ -59,8 +59,14 @@ h1, h2, h3, h4, h5, h6  {
   position: fixed;
   left: 125px;
   top: 40px;
-  font-size: 12px;
+  font-size: 14px;
   opacity: 0;
+}
+
+.scrollspy{
+  position: relative;
+/*  height: 100px;
+  overflow-y:scroll;*/
 }
 
 
@@ -7116,11 +7122,11 @@ select {
   .table-of-contents a:hover {
     color: #a8a8a8;
     padding-left: 19px;
-    border-left: 1px solid #ea4a4f; }
+    border-left: 1px solid #78F38D; }
   .table-of-contents a.active {
     font-weight: 500;
     padding-left: 18px;
-    border-left: 2px solid #ea4a4f; }
+    border-left: 2px solid #78F38D; }
 
 .side-nav {
   position: fixed;
