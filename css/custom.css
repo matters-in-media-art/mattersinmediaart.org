@@ -48,6 +48,7 @@ h1, h2, h3, h4, h5, h6  {
 
 .table-of-contents{
   list-style: none;
+  padding-left: 0;
 }
 
 .table-of-contents a{
@@ -55,12 +56,28 @@ h1, h2, h3, h4, h5, h6  {
   height: 1rem;
 }
 
+.table-of-contents ul{
+  padding-left: 0px !important;
+}
+
+
 .contextualmenu{
-  position: fixed;
-  left: 125px;
+  padding-left: -200px;
   top: 40px;
   font-size: 14px;
   opacity: 0;
+}
+
+@media screen and (max-width: 1400px) {
+  .contextualmenu{
+    font-size: 13px;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .contextualmenu{
+    font-size: 12px;
+  }
 }
 
 .scrollspy{

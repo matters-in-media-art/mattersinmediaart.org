@@ -432,14 +432,4 @@ In this section we provide references for relevant publications; helpful online
 </section>
 
 
-<div id="contextualmenu" class="col hide-on-small-only m3 l2 contextualmenu">
-	<ul class="section table-of-contents">
-		<li><a href="#scoping-collection">Scoping Your Collection</a></li>
-		<li><a href="#context">Your Context: Budget/Skills</a></li>
-		<li><a href="#information-systems">Information Systems</a></li>
-		<li><a href="#scoping-system">Scoping Your System</a></li>
-		<li><a href="#developing">Developing Your System</a></li>
-		<li><a href="#prepare">Preparing Your Collection</a></li>
-		<li><a href="#store">Store Your Collection</a></li>
-	</ul>
-</div>
+
