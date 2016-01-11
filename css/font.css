@@ -1,0 +1,40 @@
+
+
+
+h1, h2, h3, h4, h5, h6 {
+  color: white;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  font-size: 80px;
+}
+
+p {
+  clear: both;
+  margin-top: 0;
+  margin-bottom: 1.5rem;
+  font-size: 22px;
+}
+
+.group::after, .gallery::after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.gallery {
+  margin-bottom: 1.5rem;
+}
+
+.cell {
+  float: left;
+  text-align: center;
+  padding: 0 0.75rem;
+  width: 25%;
+}
+.cell:nth-of-type(4n+1) {
+  clear: left;
+}
+
+.amp {
+  font-size: 3em;
+}
