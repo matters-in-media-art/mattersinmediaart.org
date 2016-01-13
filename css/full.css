@@ -39,25 +39,35 @@ video {
 }
 
 #polina { 
-
   background: rgba(0,0,0,0.66);
   color: white;
   padding: 2rem;
-
-
-  position: absolute;
-  margin: auto;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  width: 921px;
-  height: 507px;
   border-radius: 3px;
   color: white;
+   width: 921px;
+/*  height: 507px;
+*/  margin: auto;
+    margin-top: 20% !important; 
+
+}
 
 
+.splashbg{
+      background: rgba(0,0,0,0.76);
+  color: white;
+  padding: 2rem;
+  border-radius: 3px;
+  color: white;
+  margin-top: 5%;
+}
 
+.splashbg p{
+  color: white;
+}
+
+.splashwhite{
+  background-color: white;
+  color: black;
 }
 
 #polina p{

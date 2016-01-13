@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 
+
 <html>
 
   {% include splash_head.html %}
@@ -7,23 +8,37 @@
 
     <script type="text/javascript">
 $(document).ready(function(){
-    $("#polina").hide(0).delay(500).fadeIn(3000)
+    // $(window).scroll(function(){
+
+    //     if ($(document).scrollTop() > 140){
+    //         $('video').fadeOut(3000);
+    //     }
+
+    // });
+
+    $("#polina").hide(0).delay(500).fadeIn(3000);
+    $(".row").hide(0).delay(500).fadeIn(3000);
+
+
+
 });
 </script>
 
   
     <!-- Navigation -->
     <video autoplay id="bgvid" loop>
-  <!-- WCAG general accessibility recommendation is that media such as background video play through only once. Loop turned on for the purposes of illustration; if removed, the end of the video will fade in the same way created by pressing the "Pause" button  -->
+  WCAG general accessibility recommendation is that media such as background video play through only once. Loop turned on for the purposes of illustration; if removed, the end of the video will fade in the same way created by pressing the "Pause" button 
 
-<source src="{{site.baseurl}}/badtv5.mp4" type="video/mp4">
+<source src="{{site.baseurl}}/bg-web.mp4" type="video/mp4">
 </video>
 
-<div id="polina" class="cell">
-<span class="amp amp--andale">
+<main>
+	<div class="container">
 
-  {{ content }}
+	  {{ content }}
 
-  </body>
+	</div>
+</main>
+
 
 </html>
