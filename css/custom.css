@@ -20,7 +20,7 @@ img {
 
 #nav{
   overflow: hidden;
-  height: 136px;
+  height: 166px;
 }
 
 .navbar-fixed{
@@ -34,7 +34,7 @@ img {
 
 #nav-pages {
   position: relative !important;
-  top: 0px !important;
+  top: 20px !important;
   left: -45px !important;
   opacity: 1;
 }
