@@ -5,22 +5,23 @@ title: Matters in Media Art
 
 
 <div id="polina" markdown="1">
-<div class="row" markdown="1">
 
-
-<div class="col s12" markdown="1">
 # Matters in Media Art
-</div>
 
-<div class="col s12" markdown="1">
 
 Launched in 2005, this collaborative project between the New Art Trust (NAT) and its partner museums – the Museum of Modern Art (MoMA), the San Francisco Museum of Modern Art (SFMOMA) and Tate – has been designed to help those who collect and keep time-based artworks (e.g. video, film, audio and software-based installations).
 
-</div>
-</div>
+<div class="center" markdown="1">
+
+[enter](landing.html)
+
 </div>
 
-<div class="row" markdown="1">
+</div>
+
+
+
+<!-- <div class="row" markdown="1">
 
 <div class="col 12 splashbg">
 
@@ -65,7 +66,7 @@ Supported by The New Art Trust
 
 </div>
 
-</div>
+</div> -->
 
 <img src="http://images.tate.org.uk/sites/default/files/mattermediaart_logos.jpg" class="logo">
 

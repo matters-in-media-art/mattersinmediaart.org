@@ -39,15 +39,19 @@ video {
 }
 
 #polina { 
-  background: rgba(0,0,0,0.66);
+  background: rgba(0,0,0,0.82);
   color: white;
   padding: 2rem;
   border-radius: 3px;
   color: white;
    width: 921px;
-/*  height: 507px;
-*/  margin: auto;
-    margin-top: 20% !important; 
+    height: 444px;  
+    margin: auto;
+    position: fixed;
+    top:50%;
+    margin-top: -250px !important;
+    left: 50%;
+    margin-left: -430px;
 
 }
 
@@ -72,6 +76,7 @@ video {
 
 #polina p{
   color: white;
+      font-weight: 400;
 }
 
 
@@ -100,6 +105,6 @@ a:hover{
   right: 0;
   filter: invert(1);
   -webkit-filter: invert(1);
-  opacity: .4;
+  opacity: .7;
 }
 
