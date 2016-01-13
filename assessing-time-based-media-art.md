@@ -7,8 +7,6 @@ published: true
 
 Assessing your video files is a crucial step when they enter your collection. Not only will it help you to understand what codecs and formats you’re dealing with, but also it is necessary to identify possible errors or inaccuracies within the digital video, like encoding glitches, wrong aspect ratios, or generally a codec used that does not fit your preservation policy.
 
-test text
-
 When conducting this assessment, it is helpful to work with a Condition Report which will walk you through all the steps. This could either be a PDF form or a sheet incorporated in your database. An example template can be downloaded here.
 
 In this section you will find four components of an assessment workflow and also details of how to set up an assessment workstation. The components of an assessment workflow are:

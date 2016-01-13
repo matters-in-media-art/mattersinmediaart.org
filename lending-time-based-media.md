@@ -4,6 +4,7 @@ title: Lending Time-based media art
 ---
 
 
+
 ![](http://images.tate.org.uk/sites/default/files/styles/grid-normal-12-cols/public/images/bruce_namuman_make_me_think_me_exhibition_01.jpg?itok=GhSPJEAV)
 
 Bruce Nauman
@@ -30,6 +31,13 @@ The sample forms and other materials contained on this site are provided as exam
 It was beyond the scope of the project at this time to fully address the needs of computer-based art. It is however our aim to turn to this in the future.
 
 
+
+
+
+
+
+
+<section id="process" class="section scrollspy" markdown="1">
 
 ##Loan Process Guidelines
 
@@ -207,8 +215,20 @@ Those monitoring the work whilst on display will need to know:
 * Check the work has returned.
 * The loan file is only closed once the condition report is completed and all outstanding costs have been paid.
 
-<!-- budget guidelines -->
-# Budget Guidelines
+</section>
+
+
+
+
+
+
+
+
+
+
+<section id="budget" class="section scrollspy" markdown="1">
+
+## Budget Guidelines
 
 The categories listed below give some indication of the likely costs to be considered. The aim of this section is to identify the true costs of loan for the borrower and the lender. A sample template is provided as an Excel download.
 
@@ -256,7 +276,18 @@ Costs associated with shipping are usually met by the borrower, however it is im
 * Complimentary tickets/publications for lenders
 * Miscellaneous/contingency
 
-# Loan Agreement Guidelines
+</section>
+
+
+
+
+
+
+
+
+<section id="agreement" class="section scrollspy" markdown="1">
+
+## Loan Agreement Guidelines
 
 This is a contract between a lender and a borrower. It specifies what is to be lent, the conditions of loan and the respective responsibilities of each party. A covering letter may also be issued with the agreement which draws attention to particularly important conditions of loan.
 
@@ -279,10 +310,18 @@ The loan agreement (may also be called a lender’s agreement, borrower’s agre
 ## Loan costs
 * Some institutions may charge a loan administration fee. In addition, a depreciation fee may be invoked for replaceable components associated with the loan work.
 
+</section>
 
 
-<!-- Facilities report guidelines -->
-# Facilities report guidelines
+
+
+
+
+
+
+<section id="facilities-report" class="section scrollspy" markdown="1">
+
+## Facilities report guidelines
 
 A facilities report outlines an institution’s facilities, climate, security, staffing, insurance and loan history. Examples of standard facilities reports are to be found on the websites of the registrars groups listed in the External resources section. Most institutions have a completed report on file which has been verified by a registrar.
 
@@ -310,8 +349,20 @@ The installation and maintenance of time-based media works of art requires speci
 * Is this electrical supply surge-protected?
 * Will a qualified electrician be available to consult/install the electrical supply?
 
-<!-- Installation Documentation Guidelines -->
-#Installation Documentation Guidelines
+</section>
+
+
+
+
+
+
+
+
+
+
+<section id="documentation" class="section scrollspy" markdown="1">
+
+## Installation Documentation Guidelines
 
 The installation documentation is produced by the owner and accompanies the loan. The installation documentation for time-based media works of art is ideally agreed with the artist when a work is acquired. This project assumes that the artist’s views have been recorded prior to loan and are able to guide the lender and the borrower in honouring what is important for a good installation of the work. When this is not the case, the loan may provide an occasion for dialogue and documentation. It may be part of the nature of the work that there are different ways in which it can be installed and this should be indicated in the installation documentation. In some cases the installation documentation will have evolved through an ongoing dialogue between the owner and the artist. The installation of the work provides an opportunity to add to the documentation. This is a live document with room for evolution.
 
@@ -493,4 +544,4 @@ Can any of the electrical elements (e.g. plugs/cables) be modified without the a
 * Do any components require the wearing of gloves?
 * What is most likely to go wrong?
 
-
+</section>
