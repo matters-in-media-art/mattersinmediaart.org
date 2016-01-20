@@ -69,6 +69,6 @@ Supported by The New Art Trust
 
 </div> -->
 
-<img src="http://images.tate.org.uk/sites/default/files/mattermediaart_logos.jpg" class="logo">
+<img src="{{site.baseurl}}/img/mattermediaart_logos.jpg" class="logo">
 
 
