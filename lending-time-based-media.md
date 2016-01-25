@@ -54,43 +54,72 @@ The key to successful implementation is thorough planning. The following checkli
 * [Create a draft budget](http://www.tate.org.uk/about/projects/matters-media-art/budget-guidelines)  
 * Review, proceed or stop
 
-#### Information to compile about the works
-
-* Title
-* Owner
-* What is the lender’s lead time and loans administration procedure? (Beware for some Institutions this could be twelve months) 
-
-#### Equipment list
-
-* Will the equipment be available for loan?
-* What is its condition?
-* What are your responsibilities for maintenance and repair?
-* What costs are involved? 
-
-####Exhibition format
-
-* Will the exhibition format material be delivered as part of the loan?
-* Does it already exist or does it need to be produced?
-* What costs are involved?
-
-####Space requirements
-
-Do you have the space available to show this work?
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+  <div class="collapsible-header"><b>1.</b> Information to compile about the works</div>
+  <div class="collapsible-body">
+  	<ul>
+  		<li>Title</li>
+  		<li>Owner</li>
+  		<li>What is the lender’s lead time and loans administration procedure? (Beware for some Institutions this could be twelve months)</li>
+  	</ul>
+  </div>
+</li>
+<li>
+  <div class="collapsible-header"><b>2.</b> Equipment list</div>
+  <div class="collapsible-body">
+  	<ul>
+  		<li>Will the equipment be available for loan?</li>
+  		<li>What is its condition?</li>
+  		<li>What are your responsibilities for maintenance and repair?</li>
+  		<li>What costs are involved? </li>
+  	</ul>
+  </div>
+</li>
+<li>
+  <div class="collapsible-header"><b>3.</b> Exhibition format</div>
+  <div class="collapsible-body">
+  	<ul>
+  	<li>Will the exhibition format material be delivered as part of the loan?</li>
+  	<li>Does it already exist or does it need to be produced?</li>
+  	<li>What costs are involved?</li>
+  	</ul>
+  </div>
+</li>
+<li>
+  <div class="collapsible-header"><b>4.</b> Space requirements</div>
+  <div class="collapsible-body">
+  	<ul>
+  		<li></li>
+  		<li></li>
+  		<li></li>
+  		Do you have the space available to show this work?
 Is any construction required?
 What costs are involved? 
-
-####Acoustic requirements
-
-* Will the audio from adjacent works of art interfere with this piece?
+  	</ul>
+  </div>
+</li>
+<li>
+  <div class="collapsible-header"><b>5.</b> Acoustic requirements</div>
+  <div class="collapsible-body">
+  	<ul>
+  		<li></li>
+  		<li></li>
+  		<li></li>
+  	</ul>
+  	* Will the audio from adjacent works of art interfere with this piece?
 * Will the audio from this installation interfere with other exhibits on display?
 * Will you require special sound insulation?
 * Does the work require a carpet?
 * Has the artist tightly specified a particular acoustic quality to the space?
 * Will you need to hire in any expertise?
 * What costs are involved? 
+  </div>
+</li>
 
-####Installation expertise required
-
+<li>
+  <div class="collapsible-header"><b>6.</b> Installation expertise required</div>
+  <div class="collapsible-body" markdown="1">
 * Do you have the expertise in-house to install this work of art?
 * Will the artist or artist’s technician be involved in the installation – if so, what is their role?
 * Will you need to hire in additional expertise for design and installation?
@@ -99,24 +128,38 @@ What costs are involved?
 * What are the maintenance requirements for the installation?
 * Do you have the expertise in-house to maintain the installation?
 * What are the costs involved? 
+</div>
+</li>
 
-####Conservation requirements
-
+<li>
+  <div class="collapsible-header"><b>7.</b> Conservation requirements</div>
+  <div class="collapsible-body" markdown="1">
 * Is conservation required before the work can be lent?
 * Is the equipment needed still available?
 * What are the costs involved? Who will pay?  
+</div>
+</li>
+</ul>
 
 ## Request, consider, approve
 Here the lender and the borrower come together to consider a particular request. The main areas of discussion are often the nature of the work and associated costs. Not all requests are accepted and successful requests often include some degree of negotiation. The resulting loan agreement is the document outlining the agreed-upon terms of the loan.
 
-###Borrower – request
+
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+  <div class="collapsible-header">Borrower – request</div>
+  <div class="collapsible-body" markdown="1">
 In submitting a request to the lender provide the following:
 
 * A compelling argument
 * Exhibition dates including all venues
 
-###Lender – consider
+</div>
+</li>
 
+<li>
+  <div class="collapsible-header">Lender – consider</div>
+  <div class="collapsible-body" markdown="1">
 In receiving a request the lender considers:
 
 * The contribution of the work to the exhibition
@@ -125,75 +168,115 @@ In receiving a request the lender considers:
 * The borrower’s ability to install and maintain the work
 * Resource implications to the lender, including staff time
 
-###Borrower – agree terms
+</div>
+</li>
 
+<li>
+  <div class="collapsible-header">Borrower – agree terms</div>
+  <div class="collapsible-body" markdown="1">
 Terms may be specified in the loan agreement:
 
 * Review budget
 * Return completed loan agreement and facilities report
+</div>
+</li>
 
-###Lender – approve
-
+<li>
+  <div class="collapsible-header">Lender – approve</div>
+  <div class="collapsible-body" markdown="1">
 * Approve facilities report
 * Finalise budget
 * Provide installation documentation
+</div>
+</li>
 
-###Borrower – installation documentation
-
+<li>
+  <div class="collapsible-header">Borrower – installation documentation</div>
+  <div class="collapsible-body" markdown="1">
 * Consider and discuss installation documentation
 * Finalise budget
+</div>
+</li>
+
+</ul>
+
 
 ## Send, install and return 
 The following checklist of actions is a guide for the borrower and the lender in the implementation of the loan and generally includes the following:
 
 ###Borrower
 
-####Insure/ship
+<ul class="collapsible" data-collapsible="accordion">
 
+<li>
+  <div class="collapsible-header">Insure/ship</div>
+  <div class="collapsible-body" markdown="1">
 * Some elements of a time-based media installation are mass-produced or copies and may be easily replaceable but this should not be assumed.
 * In some cases it may be very difficult to provide replacements because the master may have been lost or a piece of equipment is obsolete or rare.
 * Other components may have been modified by the artist or be sculptural objects.
 * Make sure you understand the status of the components being insured and shipped .
+</div>
+</li>
 
-####Check display equipment
-
+<li>
+  <div class="collapsible-header">Check display equipment</div>
+  <div class="collapsible-body" markdown="1">
 * The standards required for display of time-based media works of art are higher than required in an office or domestic setting.
 * It is important that someone with the relevant expertise check the performance of the display equipment (hired or purchased) well in advance of the display.
 * Testing should mirror the display as closely as possible (eg size of image, lighting conditions).
+</div>
+</li>
 
-####Construct space
-
+<li>
+  <div class="collapsible-header">Construct space</div>
+  <div class="collapsible-body" markdown="1">
 * Many time-based media installations require light-lock corridors, false ceilings and other forms of construction.
 * Scale drawings are invaluable.
 * Always check real measurements of the gallery space as small inaccuracies can have a large impact on an installation.
+</div>
+</li>
 
-####Check acoustics
-
+<li>
+  <div class="collapsible-header">Check acoustics</div>
+  <div class="collapsible-body" markdown="1">
 * Some artists specify the acoustic requirements of the installation very precisely.
 * You may need to make adjustments depending on what is being shown in the adjacent spaces.
 * Carpet, acoustic panelling, and corridors between spaces all help to cut down sound spill.
 * Professional advice from an acoustic engineer may be necessary in complex or tightly specified situations.
+</div>
+</li>
 
-####Install
-
+<li>
+  <div class="collapsible-header">Install</div>
+  <div class="collapsible-body" markdown="1">
 * Hold a meeting with interested parties to sign off the installation once it is completed.
 
 Those monitoring the work whilst on display will need to know:
 * The appearance of the work when it is operating correctly, and how to recognise faults
 * The reporting procedure for faults
 * The procedures for switching the work on and off
+</div>
+</li>
 
-####Maintain
-
+<li>
+  <div class="collapsible-header">Maintain</div>
+  <div class="collapsible-body" markdown="1">
 * Time-based media installations are dynamic systems which need to be maintained in order to minimise the risk of failure.
 * Purchase all elements which need to be replaced regularly (filters, lamps etc) prior to display.
 * Establish a schedule and a team of people trained to carry out basic maintenance. It is valuable to keep a log of such work throughout an exhibition.
 * Complete and update installation documentation
 * Check whether the lender has requested any photographs or documentation as part of the loan agreement.
+</div>
+</li>
 
-####Condition check
-
+<li>
+  <div class="collapsible-header">Condition check</div>
+  <div class="collapsible-body" markdown="1">
 * When condition checking consider the Condition report guidelines
+</div>
+</li>
+
+</ul>
 
 ###Lender
 
