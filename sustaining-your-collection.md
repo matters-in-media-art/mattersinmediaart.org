@@ -14,13 +14,72 @@ The best way to approach the challenge of sustaining your digital video art depe
 
 There are Core Principles that underpin the management of digital collections, however there are different ways (systems, tools, and procedures) to realise these Core Principles. The best way forward will depend on your context, i.e. the size of your collection, your infrastructure, available expertise and budget.
 
-### Survey: Scoping Your Digital Collection
-This survey has been designed to help you to establish an overview of your digital collection. Although these pages only address the needs of digital video the presence of other types of digital artwork or digital components will have an impact on decisions regarding your systems for example the needs for storage.
+<div class="row">
+<div class="col s12 m12">
+  <div class="card blue-grey darken-1">
+    <div class="card-content white-text">
+      <span class="card-title">Survey: Scoping Your Digital Collection</span>
+      <p>This survey has been designed to help you to establish an overview of your digital collection. Although these pages only address the needs of digital video the presence of other types of digital artwork or digital components will have an impact on decisions regarding your systems for example the needs for storage.</p>
+    </div>
+    <div class="card-action">
+      <a class="modal-trigger" href="#modal1" >Take the survey</a>
+    </div>
+  </div>
+</div>
+</div>
 
-[survey will go here - need to find a nice way to format it, and make it interactive]
+
+
+
 
 </section>
 
+
+<!-- Modal Structure -->
+<div id="modal1" class="modal modal-fixed-footer">
+<div class="modal-content">
+  <h4>Scoping Your Collection</h4>
+  <p>We can put a nice interactive survey here...</p>
+
+<div class="row">
+<form class="col s12">
+  <div class="row">
+    <div class="input-field col s6">
+      <input placeholder="Placeholder" id="first_name" type="text" class="validate">
+      <label for="first_name">First Name</label>
+    </div>
+    <div class="input-field col s6">
+      <input id="last_name" type="text" class="validate">
+      <label for="last_name">Last Name</label>
+    </div>
+  </div>
+  <div class="row">
+    <div class="input-field col s12">
+      <input disabled value="I am not editable" id="disabled" type="text" class="validate">
+      <label for="disabled">Disabled</label>
+    </div>
+  </div>
+  <div class="row">
+    <div class="input-field col s12">
+      <input id="password" type="password" class="validate">
+      <label for="password">Password</label>
+    </div>
+  </div>
+  <div class="row">
+    <div class="input-field col s12">
+      <input id="email" type="email" class="validate">
+      <label for="email">Email</label>
+    </div>
+  </div>
+</form>
+</div>
+        
+
+</div>
+<div class="modal-footer">
+  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat ">Close</a>
+</div>
+</div>
 
 
 
@@ -56,33 +115,41 @@ Do you have a person/team responsible for your video collection? Is that person 
 * Other
 * Combination of the above
 
-Do you have an IT specialist/IT team?
-Can they support your storage solution?
+Do you have an IT specialist/IT team? Can they support your storage solution?
 
-#### Ethics of conservation as applied to digital material
-A conservator of any type of material has a responsibility to understand and carefully document decisions made which impact the history of that material. This is also the case for digital video. The conservator is responsible for keeping careful records which reflect an understanding of what is important to preserve about a work and what the likely risks are of not being able to maintain particular properties of a work. Within a contemporary art context the artist is central to decisions regarding what is important to preserve about a work and this ongoing dialogue with the artist is an important element of what is recorded. There is an increasing acceptance within contemporary art conservation that a work of art will evolve and change over time and managing and documenting these changes is an increasingly important part of the role of the conservator.
+### Core Compentencies
 
-#### Familiarity with Unix
-While you do not need to be an expert in the command line, a basic familiarity and understanding of unix is crucial in caring for digital video files.
-
-#### Understanding of Digital Video
-A basic understanding of how digital video operates is an important part of  caring for this material as well as for communicating with other collaborators, vendors and IT. This includes how video is encoded, the basics of luminance and chrominance sub¬sampling, resolution, colorspace and frame rate.  
-
-#### Ability to identify codecs and wrappers
-Codecs and wrappers can be considered to be the video signal and instructions on how to play back the video. Given the speed of codec development and progression, the ability to identify codecs is necessary in gaining both intellectual control over your collection as well as identifying potential risks to the long-term preservation of your digital video material. Luckily there are excellent tools that can help with this for example …..  
-
-#### Ability to carry out diagnostics on files
-Using various tools allows you to gain an understanding of what the files you have consists of and how to best care for them.
-* MediaInfo
-* FFprobe
-* QCTools
-
-#### Understanding and ability to perform transcoding
-Much like how tapes in the analogue realm were reformatted periodically as tape technology progressed in terms of resolution, digital video files may from time to time need to be transcoded for preservation and access. It is important to know how to avoid the creation of artefacts and how to maintain the quality of your collection.
-
-#### Understanding of various display technologies
-Tied to an understanding of video technology is a basic understanding of various display technologies so that you can ensure you are faithfully playing back your digital video. This includes the basic mechanics of Cathode Ray Tube (CRT) displays, Flatscreens (LED, Plasma, OLED, LCD, and various playback devices (Brightsigns, DVD players, Blu¬ray players, etc.).
-There are a number of organisations which provide community support, training and information regarding developments in digital video. However, developing skills and expertise takes commitment and a focussed amount of time especially in a rapidly evolving field. If your digital video collection represents only a small amount of your overall collection you might want to develop a network of trusted experts who can support you to care for your collection. In this scenario you will still need to develop some degree of knowledge in order to be able to understand and engage in the key decisions which will need to be made. 
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+  <div class="collapsible-header"><i class="material-icons">perm_identity</i>Ethics of conservation as applied to digital material</div>
+  <div class="collapsible-body"><p>A conservator of any type of material has a responsibility to understand and carefully document decisions made which impact the history of that material. This is also the case for digital video. The conservator is responsible for keeping careful records which reflect an understanding of what is important to preserve about a work and what the likely risks are of not being able to maintain particular properties of a work. Within a contemporary art context the artist is central to decisions regarding what is important to preserve about a work and this ongoing dialogue with the artist is an important element of what is recorded. There is an increasing acceptance within contemporary art conservation that a work of art will evolve and change over time and managing and documenting these changes is an increasingly important part of the role of the conservator.</p></div>
+</li>
+<li>
+  <div class="collapsible-header"><i class="material-icons">code</i>Familiarity with Unix</div>
+  <div class="collapsible-body"><p>While you do not need to be an expert in the command line, a basic familiarity and understanding of unix is crucial in caring for digital video files.</p></div>
+</li>
+<li>
+  <div class="collapsible-header"><i class="material-icons">videocam</i>Understanding of Digital Video</div>
+  <div class="collapsible-body"><p>A basic understanding of how digital video operates is an important part of  caring for this material as well as for communicating with other collaborators, vendors and IT. This includes how video is encoded, the basics of luminance and chrominance sub¬sampling, resolution, colorspace and frame rate.  </p></div>
+</li>
+<li>
+  <div class="collapsible-header"><i class="material-icons">zoom_in</i>Ability to identify codecs and wrappers</div>
+  <div class="collapsible-body"><p>Codecs and wrappers can be considered to be the video signal and instructions on how to play back the video. Given the speed of codec development and progression, the ability to identify codecs is necessary in gaining both intellectual control over your collection as well as identifying potential risks to the long-term preservation of your digital video material. Luckily there are excellent tools that can help with this for example</p></div>
+</li>
+<li>
+  <div class="collapsible-header"><i class="material-icons">report_problem</i>Ability to carry out diagnostics on files</div>
+  <div class="collapsible-body"><p>Using various tools allows you to gain an understanding of what the files you have consists of and how to best care for them. MediaInfo, FFprobe, and QCTools are just a few examples of digital video diagnostic tools.</p></div>
+</li>
+<li>
+  <div class="collapsible-header"><i class="material-icons">shuffle</i>Understanding and ability to perform transcoding</div>
+  <div class="collapsible-body"><p>Much like how tapes in the analogue realm were reformatted periodically as tape technology progressed in terms of resolution, digital video files may from time to time need to be transcoded for preservation and access. It is important to know how to avoid the creation of artefacts and how to maintain the quality of your collection.</p></div>
+</li>
+<li>
+  <div class="collapsible-header"><i class="material-icons">settings_brightness</i>Understanding of various display technologies</div>
+  <div class="collapsible-body"><p>Tied to an understanding of video technology is a basic understanding of various display technologies so that you can ensure you are faithfully playing back your digital video. This includes the basic mechanics of Cathode Ray Tube (CRT) displays, Flatscreens (LED, Plasma, OLED, LCD, and various playback devices (Brightsigns, DVD players, Blu¬ray players, etc.).
+There are a number of organisations which provide community support, training and information regarding developments in digital video. However, developing skills and expertise takes commitment and a focussed amount of time especially in a rapidly evolving field. If your digital video collection represents only a small amount of your overall collection you might want to develop a network of trusted experts who can support you to care for your collection. In this scenario you will still need to develop some degree of knowledge in order to be able to understand and engage in the key decisions which will need to be made. </p></div>
+</li>
+</ul>
 
 </section>
 

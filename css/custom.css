@@ -20,11 +20,11 @@ img {
 
 #nav{
   overflow: hidden;
-  height: 136px;
+  height: 144px;
 }
 
 .navbar-fixed{
-  margin-bottom: 140px;
+  margin-bottom: 91px;
 }
 
 
@@ -50,6 +50,14 @@ img {
   list-style: none;
 }
 
+.collapsible ul{
+  list-style-type: none !important;
+}
+
+.collapsible li{
+  list-style-type: none !important;
+}
+
 .table-of-contents{
   list-style: none;
   padding-left: 0;
@@ -67,9 +75,9 @@ img {
 
 .contextualmenu{
   padding-left: -200px;
-  top: 40px;
+  top: 140px;
   font-size: 14px;
-  opacity: 0;
+  opacity: 1;
 }
 
 @media screen and (max-width: 1400px) {
@@ -120,6 +128,14 @@ cursor: pointer;
 }
 
 .navhover:hover{
+  background-color: white;
+  border-bottom: solid;
+  border-bottom-color: #78F38D;
+  border-bottom-width: 4px;
+  height: 55px;
+}
+
+.hoverclass{
   background-color: white;
   border-bottom: solid;
   border-bottom-color: #78F38D;
@@ -8446,7 +8462,9 @@ a.button-collapse.top-nav {
 
 @media only screen and (min-width : 993px) {
   .container {
-    width: 85%; } }
+    width: 85%;
+    margin-left: 9%;
+     } }
 
 #front-page-logo {
   display: inline-block;
@@ -8858,7 +8876,9 @@ pre[class*="language-"] {
       color: #FFCDD2; }
 
 footer {
-  font-size: .9rem; }
+  font-size: .9rem;
+  font-weight: 800; 
+}
 
 body.parallax-demo footer {
   margin-top: 0; }

@@ -18,84 +18,132 @@ In this section you will find four components of an assessment workflow and also
 
 Some people will carry out all assessment before ingest into a digital repository, others will choose to ingest the material provided by the artist into their repository and then carry out a full assessment.
 
-## Visual Assessment 
 
-* Colour space and gamma
-* Luminance
-* Chrominance
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+  <div class="collapsible-header"><i class="material-icons">visibility</i>Visual Assessment</div>
+  <div class="collapsible-body">
+  	<p>
+  		Colour space and gamma, Luminance, and Chrominance are the key charactersitcs to visually asses
+  	</p>
+    <strong> Tools for Visual Assessment</strong>
+   <ul>
+    <li>Reference monitor (SD vs HD)</li>
+    <li>Waveform/ vectorscope</li>
+   </ul>
+  </div>
+</li>
+<li>
+  <div class="collapsible-header"><i class="material-icons">hearing</i>Aural Assessment </div>
+  <div class="collapsible-body"><p>Key characteristics for Aural assessment: Levels (db vs VU), Phase</p>
+   <ul>Tools for Aural Assessment
+    <li>Meters (digital)</li>
+    <li>Phase Oscilloscope</li>
+    <li>Monitors</li>
+    <li>Waveform visualization</li>
+   </ul>
+  </div>
+</li>
+<li>
+  <div class="collapsible-header"><i class="material-icons">warning</i>Visual and Aural Artefacts</div>
+  <div class="collapsible-body">
+   <ul>
+    <li>Analogue ‘burn in’ artefacts</li>
+    <li>Digital artefacts</li>
+    <li>Identifying cause/ origina – A/V Artifact Atlas</li>
+   </ul>
+  </div>
+</li>
+</ul>
 
-### Tools for Visual Assessment 
-
-* Reference monitor (SD vs HD)
-* Waveform/ vectorscope
-
-##	Aural Assessment 
-
-* Levels (db vs VU)
-* Phase
-
-###	Tools for Aural Assessment
-
-* Meters (digital)
-* Phase Oscilloscope
-* Monitors
-* Waveform visualization
-
-##	Visual and Aural Artefacts
-
-* Analogue ‘burn in’ artefacts
-* Digital artefacts
-* Identifying cause/ origina – A/V Artifact Atlas
 
 ##	Assessment Documentation 
 Text needed
 
 ##	 Assessment Workstation
-To assess, quality-control and condition report your digital video files, you might want to consider designing a workstation that is customized to your needs and dedicated to these video evaluating activities. Below you will find three examples of workstations that serve various budgets and are aimed at different levels of quality-control. The three tiers outlined are designed to serve both standard definition and high definition video systems. If you are working exclusively with either SD or HD material, different, more customized, and maybe even more economic solutions can be found.
-
+To assess, quality-control and condition report your digital video files, you might want to consider designing a workstation that is customized to your needs and dedicated to these video evaluating activities. Below you will find three examples of workstations that serve various budgets and are aimed at different levels of quality-control. The three tiers outlined are designed to serve both standard definition and high definition video systems. If you are working exclusively with either SD or HD material, different, more customized, and maybe even more economic solutions can be found. 
 Before going into specific equipment, we are going to describe a few standard features that are applicable to all examples.
 
-###	Connection Types
-Since the signal connections of your devices will play an important role in the playback of your video files, we’ll briefly describe what is available and make some recommendations. It is important to note that many analog formats only support 1 signal type and therefore outputting them on a “better” signal type can actually change the authenticity of the signal.
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+  <div class="collapsible-header"><i class="material-icons">settings_input_composite</i>Connection Types</div>
+  <div class="collapsible-body">
+  	<p>
+  		Since the signal connections of your devices will play an important role in the playback of your video files, we’ll briefly describe what is available and make some recommendations. It is important to note that many analog formats only support 1 signal type and therefore outputting them on a “better” signal type can actually change the authenticity of the signal.
+  	</p>
+  	<p>
+  		Composite Video [analog connection, SD]: All the information that composes the signal, luminance, chrominance, blanking and synchronization (CVBS), is merged together into one signal. Composite video is a single connection type (either BnC or RCA). Analog formats that utilize a composite signal output and are recorded using a composite signal are ½” open-reel, ¾” U-matic and VHS.
+  	</p>
+  	<p>
+  		S-Video or Y/C [analog connection, SD]: As opposed to the composite signal, S-Video separates the luminance (Y) and the chrominance (C) into two different channels. Thereby it is a step up in quality from the composite video. It is transmitted by a distinctive looking, 4 pin plug. Formats that allowed for Y/C [ADD].
+  	</p>
+  	<p>
+  		Component Video [analog connection, SD]: Component video is the best quality connection to transmit analog video signals. The signal is separated into three channels: Y (luminance), Pb (Blue minus L) and Pr (Red minus L). The green is derived using the pythagoreon theorem. Component video comes as three adjoined plugs, sometimes color-coded to green (Y), blue (Pb) and red (Pr). This connection should be used on analog Betacam and Betacam SP.
+  	</p>
+  	<p>
+  		Serial Digital Interface [SDI, SD or HD]. The SDI signal is a digital bit stream that is either used to transmit analog and digital video signals as well as used by many digital formats to record the signal to tape (Digibeta). SD-SDI is a signal connection type, using the BnC connection type, that packages the video, aural and any ancillary data (timecode, closed captioning, etc) into a signal bit stream for transmission. SD SDI is a 4:2:2 YUV system of video transmission. HD-SDI uses the same principal but splits the signal amongst multiple connections to increase the bandwidth necessary for transmission of High Definition material.
+  	</p>
+  	<p>
+  		High Definition Multimedia Interface [HDMI]: HDMI is typically used in the connection of monitors and other devices together in the transmission of high definition material.
+  	</p>
 
-Composite Video [analog connection, SD]: All the information that composes the signal, luminance, chrominance, blanking and synchronization (CVBS), is merged together into one signal. Composite video is a single connection type (either BnC or RCA). Analog formats that utilize a composite signal output and are recorded using a composite signal are ½” open-reel, ¾” U-matic and VHS.
+  </div>
+</li>
+<li>
+  <div class="collapsible-header"><i class="material-icons">settings_overscan</i>Monitor</div>
+  <div class="collapsible-body">
+  	<p>
+  		For standard definition video files –for example videos that come from SD tape transfers–, watching the video on a CRT monitor is crucial, as only these monitors will show you both fields of the interlaced content and provide you an authentic display of the video signal. Since CRT monitors are not fabricated anymore today, you’ll most likely have to scout appropriate web platforms (eg. eBay) or watch for a garage sale of a nearby Broadcast studio getting rid of their equipment. Make sure the video inputs fit your system before you buy it, and have it calibrated for best use.
+  	</p>
+  	<p>
+  	Viewing interlaced video files on a computer monitor is problematic because these monitors cannot display interlaced footage and will attempt to merge the fields together into discrete frames. Certain errors, e.g. a head clog from a tape digitization, can only affect one field and lead to complete image loss, which you would not see on a computer monitor.</p>
+  	<p>
+  	With high definition video, the term progressive entered the video world. Progressive means that a video –just like film– contains full frames, as opposed to the two-fields interlaced. This is often indicated by a lower case p, like 720p. These videos can be quality-controlled easily on a computer monitor. A more advanced approach for viewing these kinds of files would be a color-calibrated, LCD studio monitor.
+    </p>
 
-S-Video or Y/C [analog connection, SD]: As opposed to the composite signal, S-Video separates the luminance (Y) and the chrominance (C) into two different channels. Thereby it is a step up in quality from the composite video. It is transmitted by a distinctive looking, 4 pin plug. Formats that allowed for Y/C [ADD].
-
-Component Video [analog connection, SD]: Component video is the best quality connection to transmit analog video signals. The signal is separated into three channels: Y (luminance), Pb (Blue minus L) and Pr (Red minus L). The green is derived using the pythagoreon theorem. Component video comes as three adjoined plugs, sometimes color-coded to green (Y), blue (Pb) and red (Pr). This connection should be used on analog Betacam and Betacam SP.
-
-Serial Digital Interface [SDI, SD or HD]. The SDI signal is a digital bit stream that is either used to transmit analog and digital video signals as well as used by many digital formats to record the signal to tape (Digibeta). SD-SDI is a signal connection type, using the BnC connection type, that packages the video, aural and any ancillary data (timecode, closed captioning, etc) into a signal bit stream for transmission. SD SDI is a 4:2:2 YUV system of video transmission. HD-SDI uses the same principal but splits the signal amongst multiple connections to increase the bandwidth necessary for transmission of High Definition material.
-
-High Definition Multimedia Interface [HDMI]: HDMI is typically used in the connection of monitors and other devices together in the transmission of high definition material.
-
-###	Monitor
-For standard definition video files –for example videos that come from SD tape transfers–, watching the video on a CRT monitor is crucial, as only these monitors will show you both fields of the interlaced content and provide you an authentic display of the video signal. Since CRT monitors are not fabricated anymore today, you’ll most likely have to scout appropriate web platforms (eg. eBay) or watch for a garage sale of a nearby Broadcast studio getting rid of their equipment. Make sure the video inputs fit your system before you buy it, and have it calibrated for best use.
-
-Viewing interlaced video files on a computer monitor is problematic because these monitors cannot display interlaced footage and will attempt to merge the fields together into discrete frames. Certain errors, e.g. a head clog from a tape digitization, can only affect one field and lead to complete image loss, which you would not see on a computer monitor.
-
-With high definition video, the term progressive entered the video world. Progressive means that a video –just like film– contains full frames, as opposed to the two-fields interlaced. This is often indicated by a lower case p, like 720p. These videos can be quality-controlled easily on a computer monitor. A more advanced approach for viewing these kinds of files would be a color-calibrated, LCD studio monitor.
-
-###	Computer
-Watching digital videos, especially compressed ones, can be challenging for older or regular “desktop”-computers. For your workstation you would want quite a powerful computer, with at least several GB of RAM. Most videos will lag, if you play them off of external hard drives, depending on your interface, or off of servers, depending on your connection; it is thereby often necessary to save them locally, which requires enough storage space on your computer. Alternatively you could consider an external hard drive or RAID with a fast enough interface connection. The platform you choose –Mac or PC– depends on the kind of software you’d like to use: Final Cut Pro only works on Macs, whereas Adobe Premiere is available for both platforms. Make sure to choose your computer platform depending on your software and hardware needs and compatibilities.
-
-### A/D converter
-An Analog to Digital converter is necessary to process both standard definition material from your computer to a CRT monitor as well as provides connection types for connecting external HD monitors and scopes.
-
-###	Scopes
-Monitors that display visual information, even when calibrated, are inherently subjective in how they represent the visual information. Oscilloscopes provide an objective view of the signal by providing access to the luminance and chrominance electronic information. The two critical scopes for the assessment of both analog and digital video are a waveform monitor and a vectorscope.
+  </div>
+</li>
+<li>
+  <div class="collapsible-header"><i class="material-icons">settings</i>Computer</div>
+  <div class="collapsible-body">
+  	<p>Watching digital videos, especially compressed ones, can be challenging for older or regular “desktop”-computers. For your workstation you would want quite a powerful computer, with at least several GB of RAM. Most videos will lag, if you play them off of external hard drives, depending on your interface, or off of servers, depending on your connection; it is thereby often necessary to save them locally, which requires enough storage space on your computer. Alternatively you could consider an external hard drive or RAID with a fast enough interface connection. The platform you choose –Mac or PC– depends on the kind of software you’d like to use: Final Cut Pro only works on Macs, whereas Adobe Premiere is available for both platforms. Make sure to choose your computer platform depending on your software and hardware needs and compatibilities.</p>
+  </div>
+</li>
+<li>
+  <div class="collapsible-header"><i class="material-icons">input</i>A/D converter</div>
+  <div class="collapsible-body">
+  	<p>An Analog to Digital converter is necessary to process both standard definition material from your computer to a CRT monitor as well as provides connection types for connecting external HD monitors and scopes.</p>
+  </div>
+</li>
+<li>
+  <div class="collapsible-header"><i class="material-icons">track_changes</i>Scopes</div>
+  <div class="collapsible-body">
+  	<p>Monitors that display visual information, even when calibrated, are inherently subjective in how they represent the visual information. Oscilloscopes provide an objective view of the signal by providing access to the luminance and chrominance electronic information. The two critical scopes for the assessment of both analog and digital video are a waveform monitor and a vectorscope.
 
 Waveform Monitor: [IMAGE]The waveform monitor allows you to measure the luminance
 (black and white) information of the video signal. A graticule is used to plot the information on a scale and allows one to see whether the black are too low in the signal (which may disrupt sync in an analog system) or the whites are two high (which would allow visual confirmation that the whites are “blown out” or exceed 100 IRE).
-Vectorscope: [IMAGE]The vectorscope is a 360 degree color wheel that allows one to measure the hue and saturation of the chrominance information in the video signal. Known references like fleshtone, blue sky, etc can be used to see whether the chrominance information is being represented faithfully or may warrant re-transfer or processing done by a processing amplifier.
+Vectorscope: [IMAGE]The vectorscope is a 360 degree color wheel that allows one to measure the hue and saturation of the chrominance information in the video signal. Known references like fleshtone, blue sky, etc can be used to see whether the chrominance information is being represented faithfully or may warrant re-transfer or processing done by a processing amplifier.</p>
+  </div>
+</li>
+<li>
+  <div class="collapsible-header"><i class="material-icons">perm_device_information</i>Software</div>
+  <div class="collapsible-body">
+  	<p>Software is crucial in the assessment of your digital video material. It’s important to understand the basics of the software and how it functions to know whether your video is being processed and faithfully represented. Typically, capture and editing software like Blackmagic’s Media Express, Adobe Premiere and Final Cut Pro X can be used to analyze the discrete portions of your video material and allows for an in-depth assessment of its basic characteristics (luminance, chrominance and audio). Free tools such as QCtools (REF) also allow for in depth assessment of your video files and have been developed for the archiving community.</p>
+  </div>
+</li>
+<li>
+  <div class="collapsible-header"><i class="material-icons">volume_up</i>Audio</div>
+  <div class="collapsible-body">
+  	<p>[IMAGE OF MONITORS AND METERS]
+Quality audio monitors and meters are also necessary in the assessment of video material. A pair of studio grade, near-field speakers is recommended for close listening to a piece. In addition, audio scopes using either the db or vu method of measurement are useful in looking at whether the audio is clipped, compressed or otherwise distorted as well as measuring whether the audio is in phase or not.</p>
+  </div>
+</li>
+</ul>
 
-### Software
-Software is crucial in the assessment of your digital video material. It’s important to understand the basics of the software and how it functions to know whether your video is being processed and faithfully represented. Typically, capture and editing software like Blackmagic’s Media Express, Adobe Premiere and Final Cut Pro X can be used to analyze the discrete portions of your video material and allows for an in-depth assessment of its basic characteristics (luminance, chrominance and audio). Free tools such as QCtools (REF) also allow for in depth assessment of your video files and have been developed for the archiving community.
-
-### Audio
-[IMAGE OF MONITORS AND METERS]
-Quality audio monitors and meters are also necessary in the assessment of video material. A pair of studio grade, near-field speakers is recommended for close listening to a piece. In addition, audio scopes using either the db or vu method of measurement are useful in looking at whether the audio is clipped, compressed or otherwise distorted as well as measuring whether the audio is in phase or not.
 
 ###	Different Assessment Workstation Examples
+
+
 
 ####	TIER 1
 
@@ -109,18 +157,19 @@ Example of Tier one Setup:
  
 ####	TIER 2
 
-# CRT monitor with composite and SDI input
-# A/D video card
-# Computer
-# Analog Waveform Monitor/Vector Scope
-# Audio Monitors
-# Audio Meter
-# Video Editing Software
-# Video playback software Assessment Software
+* CRT monitor with composite and SDI input
+* A/D video card
+* Computer
+* Analog Waveform Monitor/Vector Scope
+* Audio Monitors
+* Audio Meter
+* Video Editing Software
+* Video playback software Assessment Software
 
 Example of Tier 2 Setup:
 
-####	TIER 3
+#### TIER 3
+
 * CRT Monitor with composite, component and SDI input
 * A/D video card
 * Computer
