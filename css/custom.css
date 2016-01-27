@@ -1,7 +1,8 @@
 body {
   font-family: 'Open Sans', sans-serif;
-  font-weight: 200;
-  font-size: 24px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 1.58;
 }
 
 html{
