@@ -23,13 +23,20 @@ h1, h2, h3, h4, h5, h6  {
   opacity: 0;
 }
 
+.menuicon{
+  width: 50px;
+  display: inline-block !important;
+  cursor: pointer;
+  opacity: 0;
+}
+
 img {
   max-width: 100%;
 }
 
 #nav{
   overflow: hidden;
-  height: 144px;
+  height: 136px;
 }
 
 .navbar-fixed{
@@ -43,7 +50,7 @@ img {
 
 #nav-pages {
   position: relative !important;
-  top: 0px !important;
+  top: -10px !important;
   left: -45px !important;
   opacity: 1;
 }
@@ -114,8 +121,9 @@ img {
 }*/
 
 .brand-logo{
-  padding-left: 10px !important;
+  padding-left: 0px !important;
   padding-top: 10px !important;
+  display: inline-block !important;
 }
 
 

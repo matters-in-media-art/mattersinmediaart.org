@@ -4,6 +4,7 @@
 $( document ).ready(function() {
     $('.modal-trigger').leanModal();
     $('.scrollspy').scrollSpy();
+    $('.brand-logo').stop().animate({'margin-left':'-44px'},0);
 
     var url = window.location.pathname;
     console.log (url);
@@ -51,15 +52,15 @@ $( document ).ready(function() {
         // }
 
 // when the menu / close button is clicked
-    $('#nav').hover(function(){
+    $('.menuicon').click(function(){
         if ($(document).scrollTop() > 120){
-        	if ($(this).height() < 100) {
-                $(this).stop().animate({height:'136px'}, 150);
+        	if ($('#nav').height() < 100) {
+                $('#nav').stop().animate({height:'136px'}, 150);
                 $('#nav-pages').stop().animate({opacity:'1'},300);
                 $('.contextualmenu').stop().animate({top:'144px'},150);
             }
             else {
-        	   $(this).animate({height:'64px'}, 150);
+        	   $('#nav').animate({height:'64px'}, 150);
         	   $('#nav-pages').stop().animate({opacity:'0'},300);
                 $('.contextualmenu').stop().animate({top:'44px'},150);
             }
@@ -68,18 +69,24 @@ $( document ).ready(function() {
 
 // when the user scrolls
     $(window).scroll(function(){
-
-        if ($(document).scrollTop() > 120){
+        if ($(document).scrollTop() > 1200){
+            $('#backtotop').stop().animate({opacity:'1'},150);
+        }
+        else if ($(document).scrollTop() > 120){
             $('#nav').stop().animate({height:'64px'}, 200);
             $('#nav-pages').stop().animate({opacity:'0'},150);
-            $('#backtotop').stop().animate({opacity:'1'},150);
             $('.contextualmenu').stop().animate({top:'44px'},150);
+            $('.brand-logo').stop().animate({'margin-left':'-10px'},150);
+            $('.menuicon').stop().animate({opacity:'1'},300);
+
         }
         else if ($(document).scrollTop() < 125){
             $('#nav').stop().animate({height:'136px'}, 100);
             $('#nav-pages').stop().animate({opacity:'1'},150);
             $('#backtotop').stop().animate({opacity:'0'},150);
             $('.contextualmenu').stop().animate({top:'144px'},150);
+            $('.brand-logo').stop().animate({'margin-left':'-44px'},150);
+            $('.menuicon').stop().animate({opacity:'0'},300);
         }
     });
 });
