@@ -89,14 +89,31 @@ There are Core Principles that underpin the management of digital collections, h
 ##Your context: Budget and Skills
 When developing a budget for costs associated with the move from digital tape to digital file based storage and delivery, there are two different types of cost to consider: capital costs (one¬time purchases of fundamental infrastructure or tools that will in theory last years) and ongoing or recurring costs that will become part of regular operating budgets and may increase as your collections grow. Some of the elements to consider:
 
-* Cost of project planning and communication
-* Cost of staff updating your current systems and policies to take into account digital video files. For example you may need a new location to be agreed, you may need new field on your collection management system or to agree the metadata you will capture
-* Cost of staff in operating the workflow and carrying out quality assessment
-* Cost of project management. Whilst any project is underway progress will need to be reviewed, estimates and systems re¬calibrated, policies developed
-* Cost of any new software, hardware and training
-* Cost of storage infrastructure, this may include two levels: investment needed to set up and expand storage, as well as ongoing maintenance and support for existing infrastructure. Infrastructure needed for significant step up in capacity and the unit costs within the existing infrastructure. Examples: Cooling, Power Consumption etc. Cost of consumables such as data tapes
+<div class="card-panel grey lighten-4">
+		Cost of project planning and communication
+</div>
 
-Link to the budget template: https://docs.google.com/spreadsheets/d/1WBgSIlsFzoQEWQQaz-cIWYo5LjTrvcYtuWyd9¬HnG8g/edit?usp=sharing
+<div class="card-panel grey lighten-4">
+		Cost of staff updating your current systems and policies to take into account digital video files. For example you may need a new location to be agreed, you may need new field on your collection management system or to agree the metadata you will capture
+</div>
+
+<div class="card-panel grey lighten-4">
+		Cost of staff in operating the workflow and carrying out quality assessment
+</div>
+
+<div class="card-panel grey lighten-4">
+		Cost of project management. Whilst any project is underway progress will need to be reviewed, estimates and systems re¬calibrated, policies developed
+</div>
+
+<div class="card-panel grey lighten-4">
+		Cost of any new software, hardware and training
+</div>
+
+<div class="card-panel grey lighten-4">
+		Cost of storage infrastructure, this may include two levels: investment needed to set up and expand storage, as well as ongoing maintenance and support for existing infrastructure. Infrastructure needed for significant step up in capacity and the unit costs within the existing infrastructure. Examples: Cooling, Power Consumption etc. Cost of consumables such as data tapes
+</div>      
+
+[Link to the budget template](https://docs.google.com/spreadsheets/d/1WBgSIlsFzoQEWQQaz-cIWYo5LjTrvcYtuWyd9¬HnG8g/edit?usp=sharing)
 
 How do we introduce the Moma diagrams? 
 
@@ -378,7 +395,7 @@ Cloud storage is a model of networked enterprise storage where data is stored in
 Following are the key points to remember for Cloud Storage Services:
 
 * Charges on out-bound access can be leveraged based on per- request and per-byte -Check security policies offered by providers -???
-* References http://www.calctool.org/CALC/prof/computing/transfer_time (calculates data transfer time)
+* References [data transfer time calculator](http://www.calctool.org/CALC/prof/computing/transfer_time)
 * Costs (based on 2015 prices)
 * There are many personal paid cloud options which can range from $4.00-$10.00/£3.00-£7.00 per month.
 
