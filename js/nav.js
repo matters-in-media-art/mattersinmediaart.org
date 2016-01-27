@@ -17,7 +17,10 @@ $( document ).ready(function() {
         }
     });
 
-    
+    $('#backtotop').click(function(){
+               $("html, body").animate({ scrollTop: 0 }, "fast");
+  return false;
+            });
 
 // var waypoint = new Waypoint({
 //   element: document.getElementsByClassName('scrollspy'),
@@ -69,11 +72,13 @@ $( document ).ready(function() {
         if ($(document).scrollTop() > 120){
             $('#nav').stop().animate({height:'64px'}, 200);
             $('#nav-pages').stop().animate({opacity:'0'},150);
+            $('#backtotop').stop().animate({opacity:'1'},150);
             $('.contextualmenu').stop().animate({top:'44px'},150);
         }
         else if ($(document).scrollTop() < 125){
             $('#nav').stop().animate({height:'136px'}, 100);
             $('#nav-pages').stop().animate({opacity:'1'},150);
+            $('#backtotop').stop().animate({opacity:'0'},150);
             $('.contextualmenu').stop().animate({top:'144px'},150);
         }
     });
