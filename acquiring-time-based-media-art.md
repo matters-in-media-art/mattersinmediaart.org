@@ -169,7 +169,7 @@ Outside contractors
 * Does this acquisition warrant the need for formal legal documents?
 
 ### About the accessioning phase
-![Process diagram highlighting the stages you should go through before on accessioning a work of time-based media art](http://www.tate.org.uk/sites/default/files/styles/grid-normal-12-cols/public/images/image/matters-media-art-process-diagram-accessions.gif?itok=cmcpZMgk)
+<iframe seamless src="http://mhellar.github.io/intropages/imgmap/index2.html" scrolling="no" frameborder="0" width="1080" height="503"></iframe>
 
 Contractual documents are required to acquire an artwork. Because of the complexities attached to the bundle of rights being conferred with the transfer of ownership of time-based media works, legal documents take on a greater significance than is the case with more traditional works.
 
