@@ -32,7 +32,7 @@ The process diagram and documents for the acquisition process are grouped into t
 * What master material and equipment should come with the acquisition?
 
 ### About the pre-acquisition phase
-![](http://www.tate.org.uk/sites/default/files/styles/grid-normal-12-cols/public/images/node/243451.gif?itok=2L9ZjBkV)
+<iframe seamless src="http://mhellar.github.io/intropages/imgmap/index.html" scrolling="no" frameborder="0" width="1080" height="430"></iframe>
 
 The focus of the pre-acquisition phase for time-based media works is deciding whether to acquire the work of art. Information gathered during this phase is used to justify the acquisition and to forecast costs, installation logistics, and conservation concerns for future ownership. This information falls into two main categories, conceptual and technical.
 
