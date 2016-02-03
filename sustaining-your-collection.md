@@ -3,6 +3,12 @@ layout: default
 title: Sustaining Your Collection
 ---
 
+![](http://wiki.dpconline.org/images/5/59/ArchiveData_safe.png)
+
+<span class="img-caption" markdown="1">
+Illustration courtesy [Digital Preservation Business Case Toolkit](http://wiki.dpconline.org/)
+</span>
+
 Welcome to the third phase of Matters in Media Art. These pages focus on the challenge of moving our digital video collections from tape to file based storage and delivery.
 
 Our aim is to provide information that is useful to those who are caring for their own collection of video artworks outside an institution, as well as small, medium and large organisations. Throughout these pages key principles are highlighted and approaches are suggested depending on the size of your collection and your available resources, namely skills, budget and infrastructure. For each section we invite you to fill in a survey, this will act as a tool to help you to outline the needs of your collection. The results will form the basis for an overall preservation system design.
@@ -254,7 +260,7 @@ ADD WORK FLOWS??
 
 ### Scoping your Storage Infrastructure
 
-<iframe src="https://drive.google.com/a/moma.org/file/d/0B7UigiIlA126TUxUTUpQeTVhaW8/preview" width="100%" height="480"></iframe>
+<iframe src="https://drive.google.com/a/moma.org/file/d/0B7UigiIlA126TUxUTUpQeTVhaW8/preview" width="100%" height="420"></iframe>
 
 The problem of bit preservation of data has been solved, however it does require careful management. These principles can be applied to a small personal collection of material as well as a fully automated system used within a museum.
 
@@ -297,6 +303,11 @@ This section will offer guidance on developing your own systems based on the nat
 Covering the basic concepts and requirements of redundancy, fixity and storage we will look at different ways in which this could be achieved, ranging from a simple manual system through to a large automated system. In partnership with storage it is also necessary to create a workstation with the ability to play, assess and provide access to the material held in your storage environment. An example workstation will also be described.
 
 ### Core concepts: Storage 
+![](img/Img_51614_critical-data-centre-at-uni-of-hertfordshire.jpeg)
+<span class="img-caption" markdown="1">
+Image courtesy Wikieditor243 [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons
+</span>
+
 This section outlines the key elements associated with the design and build of reliable storage for long term digital preservation. The content has been arranged to address a range of situations; whether you are an individual who is designing a low risk personal storage solution, through to a large organisation. No matter the size of your collection the following core concepts need to be built into your storage:
 
 * multiple copies stationed at different geographical locations,

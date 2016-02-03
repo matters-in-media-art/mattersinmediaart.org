@@ -24,6 +24,10 @@ h1, h2, h3, h4, h5, h6  {
   background-color: rgba(255, 255, 255, 0.85);
 }
 
+.img-caption{
+  font-size: 11px;
+}
+
 .noselect {
   -webkit-touch-callout: none; /* iOS Safari */
   -webkit-user-select: none;   /* Chrome/Safari/Opera */
@@ -5586,7 +5590,7 @@ html {
   line-height: 1.5;
   font-family: "Roboto", sans-serif;
   font-weight: normal;
-  color: rgba(0, 0, 0, 0.87); }
+  color: rgba(0, 0, 0, 0.71); }
   @media only screen and (min-width: 0) {
     html {
       font-size: 14px; } }

@@ -7,10 +7,14 @@ title: Lending Time-based media art
 
 ![](http://images.tate.org.uk/sites/default/files/styles/grid-normal-12-cols/public/images/bruce_namuman_make_me_think_me_exhibition_01.jpg?itok=GhSPJEAV)
 
+<span class="img-caption" markdown="1">
 Bruce Nauman
 _Bruce Nauman: Make Me Think Me_
 Installation view Tate Liverpool exhibition 2006
 © Tate 2006
+</span>
+
+
 
 
 The process diagram and documents for loans are guidelines and templates for owners to follow when borrowing and lending time-based media.
