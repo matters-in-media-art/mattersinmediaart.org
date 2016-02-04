@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Sustaining Your Collection
+published: true
 ---
+
 
 ## General Introduction
 Welcome to the third phase of Matters in Media Art. These pages focus on the challenge of moving our digital video collections from tape to file based storage and delivery.
@@ -511,6 +513,3 @@ When including any type of identifier that serves as a linkage between systems â
 In this section we provide references for relevant publicationsÍ¾ helpful online resources and downloadable tools we feel can be useful to art collections. The references are organized in broad categories, General Information, Data Preservation, Digital Video and Hardware. 
 
 </section>
-
-
-
