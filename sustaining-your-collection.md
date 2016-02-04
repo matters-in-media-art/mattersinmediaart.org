@@ -3,9 +3,17 @@ layout: default
 title: Sustaining Your Collection
 ---
 
+## General Introduction
 Welcome to the third phase of Matters in Media Art. These pages focus on the challenge of moving our digital video collections from tape to file based storage and delivery.
 
 Our aim is to provide information that is useful to those who are caring for their own collection of video artworks outside an institution, as well as small, medium and large organisations. Throughout these pages key principles are highlighted and approaches are suggested depending on the size of your collection and your available resources, namely skills, budget and infrastructure. For each section we invite you to fill in a survey, this will act as a tool to help you to outline the needs of your collection. The results will form the basis for an overall preservation system design.
+
+Caring for Digital Art Collections: Core Principles
+* Do to digital works as you would to any art work: identify, catalog, describe, treat, document, and track
+* Be prepared to be unprepared: the necessary skills evolve constantly and will be found both within and beyond your walls
+* Build storage for your present collection but lay groundwork for the future
+* The budget to build collection storage is nothing without the budget to sustain it
+* Digital collections require active maintenance and will not survive passive storage
 
 <section id="scoping-collection" class="section scrollspy" markdown="1">
 
