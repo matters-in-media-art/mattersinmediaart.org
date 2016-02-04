@@ -19,7 +19,7 @@ Caring for Digital Art Collections: Core Principles
 
 <section id="scoping-collection" class="section scrollspy" markdown="1">
 
-##Scoping Your Collection
+##Scoping Your Collection TEST
 The best way to approach the challenge of sustaining your digital video art depends on your context; a key element of this context is the nature of your collection. This section therefore focuses on assessing key facts about your collection of digital video art, for example how large it is and what types of formats exist.  A tool provided in this section is a survey designed to help you to gather all the core information.
 
 There are Core Principles that underpin the management of digital collections, however there are different ways (systems, tools, and procedures) to realise these Core Principles. The best way forward will depend on your context, i.e. the size of your collection, your infrastructure, available expertise and budget.
