@@ -1,7 +1,7 @@
 body {
   font-family: 'Open Sans', sans-serif;
   font-weight: 400;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 1.58;
 }
 
@@ -11,7 +11,6 @@ html{
 
 h1, h2, h3, h4, h5, h6  {
     font-family: 'Open Sans', sans-serif;
-  font-weight: 800 !important; 
 
 }
 
@@ -21,6 +20,22 @@ h1, h2, h3, h4, h5, h6  {
   bottom: 10%;
   right: 5%;
   opacity: 0;
+  padding: 5px;
+  background-color: rgba(255, 255, 255, 0.85);
+}
+
+.img-caption{
+  font-size: 11px;
+}
+
+.noselect {
+  -webkit-touch-callout: none; /* iOS Safari */
+  -webkit-user-select: none;   /* Chrome/Safari/Opera */
+  -khtml-user-select: none;    /* Konqueror */
+  -moz-user-select: none;      /* Firefox */
+  -ms-user-select: none;       /* IE/Edge */
+  user-select: none;           /* non-prefixed version, currently
+                                  not supported by any browser */
 }
 
 .menuicon{
@@ -5575,7 +5590,7 @@ html {
   line-height: 1.5;
   font-family: "Roboto", sans-serif;
   font-weight: normal;
-  color: rgba(0, 0, 0, 0.87); }
+  color: rgba(0, 0, 0, 0.71); }
   @media only screen and (min-width: 0) {
     html {
       font-size: 14px; } }
@@ -5587,7 +5602,7 @@ html {
       font-size: 15px; } }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 400;
+  font-weight: 300;
   line-height: 1.1; }
 
 h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -5604,27 +5619,23 @@ h2 {
   margin: 1.78rem 0 1.424rem 0; }
 
 h3 {
-  font-size: 2.12rem;
+  font-size: 2.2rem;
   line-height: 110%;
-  color: gray;
   margin: 1.46rem 0 1.168rem 0; }
 
 h4 {
   font-size: 1.48rem;
   line-height: 110%;
-  color: gray;
   margin: 1.14rem 0 0.912rem 0; }
 
 h5 {
   font-size: 1.24rem;
   line-height: 110%;
-  color: gray;
   margin: 0.82rem 0 0.656rem 0; }
 
 h6 {
   font-size: 1rem;
   line-height: 110%;
-  color: gray;
   margin: 0.5rem 0 0.4rem 0; }
 
 em {
@@ -7165,7 +7176,7 @@ select {
 .table-of-contents.fixed {
   position: fixed; }
 .table-of-contents li {
-  padding: 2px 0; }
+  padding: 6px 0; }
 .table-of-contents a {
   display: inline-block;
   font-weight: 300;
@@ -8479,8 +8490,8 @@ a.button-collapse.top-nav {
 
 @media only screen and (min-width : 993px) {
   .container {
-    width: 85%;
-    margin-left: 9%;
+/*    width: 85%;
+    margin-left: 9%;*/
      } }
 
 #front-page-logo {
@@ -8893,8 +8904,8 @@ pre[class*="language-"] {
       color: #FFCDD2; }
 
 footer {
-  font-size: .9rem;
-  font-weight: 800; 
+  font-size: 1.2rem;
+  font-weight: 500; 
 }
 
 body.parallax-demo footer {

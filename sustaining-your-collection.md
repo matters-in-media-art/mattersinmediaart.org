@@ -6,6 +6,12 @@ published: true
 
 
 ## General Introduction
+![](http://wiki.dpconline.org/images/5/59/ArchiveData_safe.png)
+
+<span class="img-caption" markdown="1">
+Illustration courtesy [Digital Preservation Business Case Toolkit](http://wiki.dpconline.org/)
+</span>
+
 Welcome to the third phase of Matters in Media Art. These pages focus on the challenge of moving our digital video collections from tape to file based storage and delivery.
 
 Our aim is to provide information that is useful to those who are caring for their own collection of video artworks outside an institution, as well as small, medium and large organisations. Throughout these pages key principles are highlighted and approaches are suggested depending on the size of your collection and your available resources, namely skills, budget and infrastructure. For each section we invite you to fill in a survey, this will act as a tool to help you to outline the needs of your collection. The results will form the basis for an overall preservation system design.
@@ -46,13 +52,13 @@ Consumables
 
 <div class="row">
 <div class="col s12 m12">
-  <div class="card blue-grey darken-1">
+  <div class="card green accent-3">
     <div class="card-content white-text">
       <span class="card-title">Survey: Scoping Your Digital Collection</span>
       <p>This survey has been designed to help you to establish an overview of your digital collection. Although these pages only address the needs of digital video the presence of other types of digital artwork or digital components will have an impact on decisions regarding your systems for example the needs for storage.</p>
     </div>
     <div class="card-action">
-      <a class="modal-trigger" href="#modal1" >Take the survey</a>
+      <a class="modal-trigger white-text" href="#modal1" >Take the survey</a>
     </div>
   </div>
 </div>
@@ -119,29 +125,12 @@ Consumables
 ##Your context: Budget and Skills
 When developing a budget for costs associated with the move from digital tape to digital file based storage and delivery, there are two different types of cost to consider: capital costs (one¬time purchases of fundamental infrastructure or tools that will in theory last years) and ongoing or recurring costs that will become part of regular operating budgets and may increase as your collections grow. Some of the elements to consider:
 
-<div class="card-panel grey lighten-4">
-		Cost of project planning and communication
-</div>
-
-<div class="card-panel grey lighten-4">
-		Cost of staff updating your current systems and policies to take into account digital video files. For example you may need a new location to be agreed, you may need new field on your collection management system or to agree the metadata you will capture
-</div>
-
-<div class="card-panel grey lighten-4">
-		Cost of staff in operating the workflow and carrying out quality assessment
-</div>
-
-<div class="card-panel grey lighten-4">
-		Cost of project management. Whilst any project is underway progress will need to be reviewed, estimates and systems re¬calibrated, policies developed
-</div>
-
-<div class="card-panel grey lighten-4">
-		Cost of any new software, hardware and training
-</div>
-
-<div class="card-panel grey lighten-4">
-		Cost of storage infrastructure, this may include two levels: investment needed to set up and expand storage, as well as ongoing maintenance and support for existing infrastructure. Infrastructure needed for significant step up in capacity and the unit costs within the existing infrastructure. Examples: Cooling, Power Consumption etc. Cost of consumables such as data tapes
-</div>      
+* Cost of project planning and communication
+* Cost of staff updating your current systems and policies to take into account digital video files. For example you may need a new location to be agreed, you may need new field on your collection management system or to agree the metadata you will capture
+* Cost of staff in operating the workflow and carrying out quality assessment
+* Cost of project management. Whilst any project is underway progress will need to be reviewed, estimates and systems re¬calibrated, policies developed
+* Cost of any new software, hardware and training
+* Cost of storage infrastructure, this may include two levels: investment needed to set up and expand storage, as well as ongoing maintenance and support for existing infrastructure. Infrastructure needed for significant step up in capacity and the unit costs within the existing infrastructure. Examples: Cooling, Power Consumption etc. Cost of consumables such as data tapes
 
 [Link to the budget template](https://docs.google.com/spreadsheets/d/1WBgSIlsFzoQEWQQaz-cIWYo5LjTrvcYtuWyd9¬HnG8g/edit?usp=sharing)
 
@@ -207,13 +196,17 @@ There are a number of organisations which provide community support, training an
 <section id="information-systems" class="section scrollspy" markdown="1">
 
 ##Information Systems
-Whether you are an individual artist or large institution the first step in sustaining your digital video art is knowing what you have and where it is located. An inventory could range from an excel spreadsheet, a database like Filemaker, an open source collection management software such as CollectiveAccess (http://www.collectiveaccess.org/about) or Omeka (http://omeka.org/about/) to the type of collection management system employed by museums, for example The Museum System (TMS), Mimsy or a bespoke system developed by your institution. No matter which of these systems is used, as you work through "Scoping Your Context" it is likely that the type of information you will need to scope your collection may already be found within this system, or alternatively you might want to add the information you generate through this process to your inventory.  
+Whether you are an individual artist or large institution the first step in sustaining your digital video art is knowing what you have and where it is located. An inventory could range from an excel spreadsheet, a database like Filemaker, an open source collection management software such as CollectiveAccess (http://www.collectiveaccess.org/about) or Omeka (http://omeka.org/about/) to the type of collection management system employed by museums, for example The Museum System (TMS), Mimsy or a bespoke system developed by your institution. No matter which of these systems is used, as you work through "Scoping Your Context" it is likely that the type of information you will need to scope your collection may already be found within this system, or alternatively you might want to add the information you generate through this process to your inventory.
+
 Most museums and large institutions have comprehensive collection management databases for tracking their artworks, and digital storage for their data infrastructure. In Museums, databases are usually managed by the registration and collections management department, and data storage is usually in the realm of IT. In order to evaluate your current systems for the management of collection information for digital video, talk to the registration and collections management teams as well as any IT staff supporting the systems. It is important to find out how current management systems are functioning, what they are technically capable of, for example what backup systems are already in place.
 
 ### Catalogue
-Depending on the scale of your collection and your systems you may decide to keep information about the artwork (for example installation instructions, acquisition details, exhibition history, documentation, conservation records, artist interviews, rights and contracts) in your repository alongside your digital video file. For larger institutions who have collections management systems which manage a complete collection, including non digital objects, there will be conventions for records management. In this situation the risks of developing a unique system of records management for digital objects may be greater than conforming to an institutional wide policy. Example risks in this situation are siloing your digital video collection, creating a situation where integration is difficult, falling outside standard upgrades of databases etc. However, if you manage a small collection and you do not have a robust collection management system that is fully supported it may represent a lower risk to store information about the artwork and its history alongside the digital video file.  
+Depending on the scale of your collection and your systems you may decide to keep information about the artwork (for example installation instructions, acquisition details, exhibition history, documentation, conservation records, artist interviews, rights and contracts) in your repository alongside your digital video file. For larger institutions who have collections management systems which manage a complete collection, including non digital objects, there will be conventions for records management. In this situation the risks of developing a unique system of records management for digital objects may be greater than conforming to an institutional wide policy. Example risks in this situation are siloing your digital video collection, creating a situation where integration is difficult, falling outside standard upgrades of databases etc. However, if you manage a small collection and you do not have a robust collection management system that is fully supported it may represent a lower risk to store information about the artwork and its history alongside the digital video file.
+
 Whichever solution you chose it is essential that you can access the information held within the repository and relate it to any records held outside the repository. For example, you can store information about the artwork in your records management system while the digital file is kept in a digital repository.
+
 Every artwork should have a unique ID that can be identified across systems. Most collections have a system of assigning accession numbers, for example at MoMA 45.2014 would be a unique number which refers to the 45th work acquired in 2014. For Tate T01234 is simply a unique number assigned at acquisition. These accession numbers may also be underpinned by alternate numbers which allow for a persistent link between the artwork and its associated information.
+
 Many artworks have associated with them a number of components. For digital video these may be different exhibition formats, access copies or archival formats. A digital video artwork may also be made up of multiple channels of video with a discrete file for each channel. It is useful to create component numbers for these items for example
 
 45.2014.x1, 45.2014.x2, 45.2014.x3, etc.  or T01234.01, T01234.02 etc.
@@ -297,7 +290,7 @@ ADD WORK FLOWS??
 
 ### Scoping your Storage Infrastructure
 
-<iframe src="https://drive.google.com/a/moma.org/file/d/0B7UigiIlA126TUxUTUpQeTVhaW8/preview" width="100%" height="480"></iframe>
+<iframe src="https://drive.google.com/a/moma.org/file/d/0B7UigiIlA126TUxUTUpQeTVhaW8/preview" width="100%" height="420"></iframe>
 
 The problem of bit preservation of data has been solved, however it does require careful management. These principles can be applied to a small personal collection of material as well as a fully automated system used within a museum.
 
@@ -340,6 +333,11 @@ This section will offer guidance on developing your own systems based on the nat
 Covering the basic concepts and requirements of redundancy, fixity and storage we will look at different ways in which this could be achieved, ranging from a simple manual system through to a large automated system. In partnership with storage it is also necessary to create a workstation with the ability to play, assess and provide access to the material held in your storage environment. An example workstation will also be described.
 
 ### Core concepts: Storage 
+![](img/Img_51614_critical-data-centre-at-uni-of-hertfordshire.jpeg)
+<span class="img-caption" markdown="1">
+Image courtesy Wikieditor243 [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0), via Wikimedia Commons
+</span>
+
 This section outlines the key elements associated with the design and build of reliable storage for long term digital preservation. The content has been arranged to address a range of situations; whether you are an individual who is designing a low risk personal storage solution, through to a large organisation. No matter the size of your collection the following core concepts need to be built into your storage:
 
 * multiple copies stationed at different geographical locations,
