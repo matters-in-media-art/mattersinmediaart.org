@@ -26,7 +26,7 @@ Our aim is to provide information that is useful to those who are caring for the
 <section id="What is a Digital Repository" class="section scrollspy" markdown="1">
 
 ##What is a Digital Repository 
-A digital repository for your collection is about more than just storage. There are many functions that can be carried out by a digital repository system in order to monitor and ensure the ongoing preservation of your collection objects. Just as for Collection Management systems, the way these functions are implemented will depend on individual circumstances. For a small, homogenous collection, many of these functions could be carried out manually. For a larger and more varied collection, there are significant benefits to having automated workflows and systems in place.
+A digital repository for your collection is about more than just storage. There are many functions that can be carried out by a digital repository system in order to monitor and ensure the ongoing preservation of your collection objects. Just as for Collection Management systems, the way these functi        ons are implemented will depend on individual circumstances. For a small, homogenous collection, many of these functions could be carried out manually. For a larger and more varied collection, there are significant benefits to having automated workflows and systems in place.
 
 This is an area which has developed very rapidly in recent years, and many organisations have struggled to develop the infrastructure to keep pace with their growing digital collections. It is therefore important to understand that the term repository refers to a number of functions which need to be carried out and which are underpinned by some of the key ideas to emerge regarding digital preservation practice.
 
@@ -41,14 +41,24 @@ Collection size and characteristics
 * Establish which collections are in scope.
 
 [IMAGE]
+<section id="Collection Management" class="section scrollspy" markdown="1">
+
+* Have a complete list of collection items
+* Record acquisition details, including information about the artist, any donor or purchase information and any key provenance information
+* Record exhibition or displays history, including loans
+* Track the location of physical and digital parts of collections items, including the ability to track versions of digital files as they get transcoded or migrated
+* Record condition information  and technical information about an artwork to inform its ongoing management
+
+
 <section id="Budget" class="section scrollspy" markdown="1">
-Budget
+
 A budget will include
-Capital costs and ongoing maintenance costs
-Replacement and upgrade costs (every 5 years)
-Growth costs
-Staff time
-Consumables
+
+* Capital costs and ongoing maintenance costs
+* Replacement and upgrade costs (every 5 years)
+* Growth costs
+* Staff time
+* Consumables
 
 
 <div class="row">
@@ -64,8 +74,6 @@ Consumables
   </div>
 </div>
 </div>
-
-
 
 
 
