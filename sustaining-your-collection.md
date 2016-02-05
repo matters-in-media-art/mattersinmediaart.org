@@ -23,14 +23,12 @@ Our aim is to provide information that is useful to those who are caring for the
 * The budget to build collection storage is nothing without the budget to sustain it
 * Digital collections require active maintenance and will not survive passive storage
 
-<section id="What is a Digital Repository" class="section scrollspy" markdown="1">
 
 ##What is a Digital Repository 
 A digital repository for your collection is about more than just storage. There are many functions that can be carried out by a digital repository system in order to monitor and ensure the ongoing preservation of your collection objects. Just as for Collection Management systems, the way these functi        ons are implemented will depend on individual circumstances. For a small, homogenous collection, many of these functions could be carried out manually. For a larger and more varied collection, there are significant benefits to having automated workflows and systems in place.
 
 This is an area which has developed very rapidly in recent years, and many organisations have struggled to develop the infrastructure to keep pace with their growing digital collections. It is therefore important to understand that the term repository refers to a number of functions which need to be carried out and which are underpinned by some of the key ideas to emerge regarding digital preservation practice.
 
-<section id="Core Principles" class="section scrollspy" markdown="1">
 [IMAGE]
 Collection size and characteristics
 
@@ -41,7 +39,6 @@ Collection size and characteristics
 * Establish which collections are in scope.
 
 [IMAGE]
-<section id="Collection Management" class="section scrollspy" markdown="1">
 
 * Have a complete list of collection items
 * Record acquisition details, including information about the artist, any donor or purchase information and any key provenance information
@@ -50,7 +47,6 @@ Collection size and characteristics
 * Record condition information  and technical information about an artwork to inform its ongoing management
 
 
-<section id="Budget" class="section scrollspy" markdown="1">
 
 A budget will include
 
@@ -77,7 +73,6 @@ A budget will include
 
 
 
-</section>
 
 
 <!-- Modal Structure -->
