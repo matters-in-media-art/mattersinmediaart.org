@@ -28,7 +28,7 @@ WCAG general accessibility recommendation is that media such as background video
 </div>
 
 <div class="row" markdown="1">
-<div class="col s8 offset-s2" markdown="1">
+<div class="col s8 offset-s2 flow-text" markdown="1">
 
 
 Since 2005, the Matters in Media Art project has been providing art collectors, museums, and artists, with guidelines for the collection and long-term care and preservation of time-based artworks.
@@ -80,10 +80,10 @@ Conceived originally as a consensus building project for the three partner museu
 
 
 
-<div class="row" markdown="1">
+<div class="row flow-text" markdown="1">
 <div class="col s8 offset-s2" markdown="1">
 
-#### Developing a model for inter-museum exchange
+### Developing a model for inter-museum exchange
 The first two phases of Matters in Media Art on acquisitions and loans, published online in 2005 and 2008, established the project’s track record as a model for inter-museum exchange. In this third phase, it is our aim to expand our content to keep pace with changing demands, not only to reflect new media formats that artists are using today, but also to extend this model for exchange by strengthening and refreshing our connections to other networks of allied research and practice. 
 
 Supported by The New Art Trust
