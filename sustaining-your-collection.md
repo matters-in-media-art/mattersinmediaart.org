@@ -33,6 +33,7 @@ This is an area which has developed very rapidly in recent years, and many organ
 <section id="Core Principles" class="section scrollspy" markdown="1">
 [IMAGE]
 Collection size and characteristics
+
 * To plan and develop a system for digital art you will need to know some details about your collection and its possible growth. 
 * Record information on number of works and related media items, duration, size (for digital material). 
 * Capture information on both born digital items and legacy material that will be migrated.
