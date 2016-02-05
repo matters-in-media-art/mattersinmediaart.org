@@ -10,19 +10,39 @@ Welcome to the third phase of Matters in Media Art. These pages focus on the cha
 
 Our aim is to provide information that is useful to those who are caring for their own collection of video artworks outside an institution, as well as small, medium and large organisations. Throughout these pages key principles are highlighted and approaches are suggested depending on the size of your collection and your available resources, namely skills, budget and infrastructure. For each section we invite you to fill in a survey, this will act as a tool to help you to outline the needs of your collection. The results will form the basis for an overall preservation system design.
 
-Caring for Digital Art Collections: Core Principles
+##Caring for Digital Art Collections: Core Principles
 * Do to digital works as you would to any art work: identify, catalog, describe, treat, document, and track
 * Be prepared to be unprepared: the necessary skills evolve constantly and will be found both within and beyond your walls
 * Build storage for your present collection but lay groundwork for the future
 * The budget to build collection storage is nothing without the budget to sustain it
 * Digital collections require active maintenance and will not survive passive storage
 
-<section id="scoping-collection" class="section scrollspy" markdown="1">
+<section id="What is a Digital Repository" class="section scrollspy" markdown="1">
 
-##Scoping Your Collection TEST
-The best way to approach the challenge of sustaining your digital video art depends on your context; a key element of this context is the nature of your collection. This section therefore focuses on assessing key facts about your collection of digital video art, for example how large it is and what types of formats exist.  A tool provided in this section is a survey designed to help you to gather all the core information.
+##What is a Digital Repository 
+A digital repository for your collection is about more than just storage. There are many functions that can be carried out by a digital repository system in order to monitor and ensure the ongoing preservation of your collection objects. Just as for Collection Management systems, the way these functions are implemented will depend on individual circumstances. For a small, homogenous collection, many of these functions could be carried out manually. For a larger and more varied collection, there are significant benefits to having automated workflows and systems in place.
 
-There are Core Principles that underpin the management of digital collections, however there are different ways (systems, tools, and procedures) to realise these Core Principles. The best way forward will depend on your context, i.e. the size of your collection, your infrastructure, available expertise and budget.
+This is an area which has developed very rapidly in recent years, and many organisations have struggled to develop the infrastructure to keep pace with their growing digital collections. It is therefore important to understand that the term repository refers to a number of functions which need to be carried out and which are underpinned by some of the key ideas to emerge regarding digital preservation practice.
+
+<section id="Core Principles" class="section scrollspy" markdown="1">
+[IMAGE]
+Collection size and characteristics
+* To plan and develop a system for digital art you will need to know some details about your collection and its possible growth. 
+* Record information on number of works and related media items, duration, size (for digital material). 
+* Capture information on both born digital items and legacy material that will be migrated.
+* Monitor the growth patterns of your collection. 
+* Establish which collections are in scope.
+
+[IMAGE]
+<section id="Budget" class="section scrollspy" markdown="1">
+Budget
+A budget will include
+Capital costs and ongoing maintenance costs
+Replacement and upgrade costs (every 5 years)
+Growth costs
+Staff time
+Consumables
+
 
 <div class="row">
 <div class="col s12 m12">
