@@ -18,54 +18,29 @@ $( document ).ready(function() {
         }
     });
 
+
+
+
     $('#backtotop').click(function(){
                $("html, body").animate({ scrollTop: 0 }, "fast");
   return false;
             });
 
-// var waypoint = new Waypoint({
-//   element: document.getElementsByClassName('scrollspy'),
-//   handler: function(direction) {
-//     console.log(this);
-//     var key = this.key.substr(9);
-//     var element = this.element[key];
-//     var elementID = element.id;
-//     console.log(elementID);
-//     var menuID = 'menu-'+elementID;
-//     console.log(menuID);
-//     var menuItem = document.getElementById(menuID);
-//     menuID.className = 'active';
-//   }
-// })
 
-// initial check in case doc is loading already scrolled down the page...
-        // if ($(document).scrollTop() > 120){
-        //     $('#nav').stop().animate({height:'64px'}, 0);
-        //     $('#nav-pages').stop().animate({opacity:'0'},0);
-        //     $('#menubutton').stop().animate({opacity:'1'},0);
-        //     $('#menubutton').html("Menu");
-        // }
-        // else if ($(document).scrollTop() < 125){
-        //     $('#nav').stop().animate({height:'136px'}, 0);
-        //     $('#nav-pages').stop().animate({opacity:'1'},0);
-        //     $('#menubutton').stop().animate({opacity:'0'},0);
-        // }
 
-// when the menu / close button is clicked
-    $('.menuicon').click(function(){
-        if ($(document).scrollTop() > 120){
-        	if ($('#nav').height() < 100) {
-                $('#nav').stop().animate({height:'136px'}, 150);
-                $('#nav-pages').stop().animate({opacity:'1'},300);
-                $('.contextualmenu').stop().animate({top:'144px'},150);
-            }
-            else {
-        	   $('#nav').animate({height:'64px'}, 150);
-        	   $('#nav-pages').stop().animate({opacity:'0'},300);
-                $('.contextualmenu').stop().animate({top:'44px'},150);
-            }
-        }
-    });
+
+// set variables based on screen size
+if ($(window).width() < 600) {
+        var navHeightExpanded = 250;
+        var navHeightCollapsed = 64;
+        $('#nav').stop().animate({height:navHeightExpanded}, 0);
+}
+else if ($(window).width() > 600) {
+        var navHeightExpanded = 120;
+        var navHeightCollapsed = 64;
+        $('#nav').stop().animate({height:navHeightExpanded}, 0);
+}
+
 
 // when the user scrolls
     $(window).scroll(function(){
@@ -73,7 +48,7 @@ $( document ).ready(function() {
             $('#backtotop').stop().animate({opacity:'1'},150);
         }
         else if ($(document).scrollTop() > 120){
-            $('#nav').stop().animate({height:'64px'}, 200);
+            $('#nav').stop().animate({height:navHeightCollapsed}, 200);
             $('#nav-pages').stop().animate({opacity:'0'},150);
             $('.contextualmenu').stop().animate({top:'44px'},150);
             $('.brand-logo').stop().animate({'margin-left':'-10px'},150);
@@ -81,7 +56,7 @@ $( document ).ready(function() {
 
         }
         else if ($(document).scrollTop() < 125){
-            $('#nav').stop().animate({height:'136px'}, 100);
+            $('#nav').stop().animate({height:navHeightExpanded}, 100);
             $('#nav-pages').stop().animate({opacity:'1'},150);
             $('#backtotop').stop().animate({opacity:'0'},150);
             $('.contextualmenu').stop().animate({top:'144px'},150);
@@ -89,4 +64,23 @@ $( document ).ready(function() {
             $('.menuicon').stop().animate({opacity:'0'},300);
         }
     });
+
+
+// when the menu / close button is clicked
+    $('.menuicon').click(function(){
+        if ($(document).scrollTop() > 120){
+            if ($('#nav').height() < 100) {
+                $('#nav').stop().animate({height:navHeightExpanded}, 150);
+                $('#nav-pages').stop().animate({opacity:'1'},300);
+                $('.contextualmenu').stop().animate({top:'144px'},150);
+            }
+            else {
+               $('#nav').animate({height:navHeightCollapsed}, 150);
+               $('#nav-pages').stop().animate({opacity:'0'},300);
+                $('.contextualmenu').stop().animate({top:'44px'},150);
+            }
+        }
+    });
+
+
 });

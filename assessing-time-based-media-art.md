@@ -230,8 +230,8 @@ How was the work edited? e.g Final Cut Pro 7.0.7, Adobe Premiere Pro CC
 What playback environment did you use when viewing your piece? e.g. Mac Pro running OS X 10.9, PC Tower running Windows 8, etc.
 What software do you typically use when checking/viewing your files? e.g. Quicktime 7, Quicktime X, VLC, etc.
 Display Characteristics
-As with any time¬based media artwork, it is useful at this stage to understand any display specifications, for more information see
-http://www.tate.org.uk/about/projects/matters¬media¬art/acquisitions/preacquisitions/
+As with any time¬based media artwork, it is useful at this stage to understand any display specifications, for more information see [link](http://www.tate.org.uk/about/projects/matters¬media¬art/acquisitions/preacquisitions/)
+
 At this stage it is useful to understand the artist’s attitude to changes in the appearance of their video artwork over time. For example, changes in display technology (LCD projectors vs DLP projectors, changes in playback devices), color shifts, etc.  
 For digital video artworks in particular, this information can prove critical in quantifying the changes that can occur to a file through various playback and display technologies. For example, a particular combination of stream(s) and wrapper may not provide unambiguous instructions for decoding leaving the possibility that different players might play back the video stream differently.
 It is helpful to ask if the artist or their representative have experienced any problems with achieving a suitable level of consistent playback for this work, if so please ask them to describe. 

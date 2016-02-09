@@ -65,7 +65,7 @@ img {
 
 #nav-pages {
   position: relative !important;
-  top: -10px !important;
+  top: -18px !important;
   left: -45px !important;
   opacity: 1;
 }
@@ -5474,13 +5474,13 @@ nav {
       -o-transform: translateX(-50%);
       transform: translateX(-50%); }
     @media only screen and (max-width : 992px) {
-      nav .brand-logo {
+/*      nav .brand-logo {
         left: 50%;
         -webkit-transform: translateX(-50%);
         -moz-transform: translateX(-50%);
         -ms-transform: translateX(-50%);
         -o-transform: translateX(-50%);
-        transform: translateX(-50%); }
+        transform: translateX(-50%); }*/
         nav .brand-logo.left, nav .brand-logo.right {
           padding: 0;
           -webkit-transform: none;
@@ -8484,7 +8484,7 @@ a.button-collapse.top-nav {
 
 @media only screen and (max-width : 992px) {
   nav .nav-wrapper {
-    text-align: center; }
+    /*text-align: center;*/ }
     nav .nav-wrapper a.page-title {
       font-size: 36px; } }
 

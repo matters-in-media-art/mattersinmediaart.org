@@ -32,7 +32,7 @@ The process diagram and documents for the acquisition process are grouped into t
 * What master material and equipment should come with the acquisition?
 
 ### About the pre-acquisition phase
-<iframe seamless src="http://mhellar.github.io/intropages/imgmap/index.html" scrolling="no" frameborder="0" width="1080" height="430"></iframe>
+<iframe seamless src="http://mhellar.github.io/intropages/imgmap/index.html" scrolling="no" frameborder="0" width="100%" height="430"></iframe>
 
 The focus of the pre-acquisition phase for time-based media works is deciding whether to acquire the work of art. Information gathered during this phase is used to justify the acquisition and to forecast costs, installation logistics, and conservation concerns for future ownership. This information falls into two main categories, conceptual and technical. An understanding of the conceptual and technical elements that comprise the work of art is essential for acquisition consideration, but also to the continued viability and authentic presentation of the work. In reality, there is often little time prior to an acquisition to gather all the information in detail. However, you are aiming to gain a general understanding of the areas outlined below. The information collected during the pre-acquisition phase provides a baseline of knowledge for deeper levels of documentation after the work is acquired. 
 
@@ -239,7 +239,7 @@ Does this acquisition warrant the need for formal legal documents?
 
 
 ### About the accessioning phase
-<iframe seamless src="http://mhellar.github.io/intropages/imgmap/index2.html" scrolling="no" frameborder="0" width="1080" height="503"></iframe>
+<iframe seamless src="http://mhellar.github.io/intropages/imgmap/index2.html" scrolling="no" frameborder="0" width="100%" height="503"></iframe>
 
 Contractual documents are required to acquire an artwork. Because of the complexities attached to the bundle of rights being conferred with the transfer of ownership of time-based media works, legal documents take on a greater significance than is the case with more traditional works.
 
