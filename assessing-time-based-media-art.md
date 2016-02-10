@@ -3,9 +3,11 @@ layout: default
 title: "Assessing Time-Based Media Art"
 ---
 
-![](img/assessment.jpg)
-
+<span class="flow-text">
 Assessing your video files is a crucial step when they enter your collection. Not only will it help you to understand what codecs and formats you’re dealing with, but also it is necessary to identify possible errors or inaccuracies within the digital video, like encoding glitches, wrong aspect ratios, or generally a codec used that does not fit your preservation policy.
+</span>
+
+![](img/assessment.jpg)
 
 When conducting this assessment, it is helpful to work with a Condition Report which will walk you through all the steps. This could either be a PDF form or a sheet incorporated in your database. An example template can be downloaded here.
 
@@ -209,7 +211,7 @@ FOR MACS:
 1. Open VLC and playback your video. Go to Window>Media Information
 2. Select second tab: “Codec Details”
 
-4/30/2015 https://sites.google.com/a/moma.org/mma3/developing-your-systems/prepare-your-collection/2-assessment/initial-diagnostics?tmpl=%2Fsystem%2Fapp%2Fte…
+[4/30/2015](https://sites.google.com/a/moma.org/mma3/developing-your-systems/prepare-your-collection/2-assessment/initial-diagnostics?tmpl=%2Fsystem%2Fapp%2Fte…)
 
 FOR WINDOWS:
 
@@ -223,7 +225,7 @@ FOR WINDOWS:
 You should  then advise the artist or representative to view the file in VLC and confirm that the above characteristics are present and the file looks accurate.
 Environment Characteristics
 Having information about the environment of creation (i.e. the software and hardware used) can be useful in confirming assessment and/or diagnosing errors.
-4/30/2015 https://sites.google.com/a/moma.org/mma3/developing-your-systems/prepare-your-collection/2-assessment/initial-diagnostics?tmpl=%2Fsystem%2Fapp%2Fte…
+[4/30/2015](https://sites.google.com/a/moma.org/mma3/developing-your-systems/prepare-your-collection/2-assessment/initial-diagnostics?tmpl=%2Fsystem%2Fapp%2Fte…)
 
 How was the work edited? e.g Final Cut Pro 7.0.7, Adobe Premiere Pro CC
  If possible, could you provide your project file or XML output of it?
@@ -259,7 +261,7 @@ To begin the technical assessment of your video files, you first need to run med
 MAC:
 Open Terminal
 run media info on the video files you are about to assess command: mediainfo ¬f [path to input file]
-4/30/2015 https://sites.google.com/a/moma.org/mma3/developing-your-systems/prepare-your-collection/2-assessment/technical-assessment?tmpl=%2Fsystem%2Fapp%2…
+[4/30/2015](https://sites.google.com/a/moma.org/mma3/developing-your-systems/prepare-your-collection/2-assessment/technical-assessment?tmpl=%2Fsystem%2Fapp%2…)
 It will look something like this:
  
 On PC: open
@@ -267,7 +269,7 @@ run mediainfo with the following command it will look something like this:
 Confirm that the basic content is as expected, for example the codec, the wrapper, audio sample rate and bit¬depth, subsampling, frame rate and the duration
 Confirmation of Content
  This step in the technical assessment of your video files is to confirm the files you have received match what was expected from the artist or their representative.
-4/30/2015 https://sites.google.com/a/moma.org/mma3/developing-your-systems/prepare-your-collection/2-assessment/technical-assessment?tmpl=%2Fsystem%2Fapp%2…
+[4/30/2015](https://sites.google.com/a/moma.org/mma3/developing-your-systems/prepare-your-collection/2-assessment/technical-assessment?tmpl=%2Fsystem%2Fapp%2…)
 Identifying Obvious Technical Problems
  
 This step is to confirm that the files integrity is intact and there are no obvious signs that the file is incomplete or corrupted. The first method of checking the integrity of the file is to confirm that the file checksum associated with the file validates when transferred or moved to your storage infrastructure. If the checksum does not validate, this is a clear sign that something technically has changed within the file. The second method of checking the file integrity to to analyze the mediainfo report for clear indicators of technical problems. These can vary, but an example is a file that will not open and the mediainfo report looks like the image below:
@@ -275,7 +277,7 @@ This step is to confirm that the files integrity is intact and there are no obvi
  
 By analyzing this report, it becomes clear that the file is incomplete and lacks the video and audio streams necessary for playback as mediainfo report finishes without displaying the video or audio stream technical metadata. This makes it clear that this information is not present in the file and is the reason for its inability to be displayed.
 This is a critical error with the file and will necessitate replacement.
-4/30/2015 https://sites.google.com/a/moma.org/mma3/developing-your-systems/prepare-your-collection/2-assessment/technical-assessment?tmpl=%2Fsystem%2Fapp%2…
+[4/30/2015](https://sites.google.com/a/moma.org/mma3/developing-your-systems/prepare-your-collection/2-assessment/technical-assessment?tmpl=%2Fsystem%2Fapp%2…)
 Identifying Technical Conflicts in Wrapper versus Streams
 Problems might arise in the consistent playback of a video stream with regards to aspect ratio and colour interpretation if there is conflicting metadata held in the wrapper and the stream.
 Video

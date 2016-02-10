@@ -210,6 +210,9 @@ The following checklist of actions is a guide for the borrower and the lender in
 
 ###Borrower
 
+
+
+
 <ul class="collapsible" data-collapsible="accordion">
 
 <li>
@@ -372,9 +375,14 @@ Costs associated with shipping are usually met by the borrower, however it is im
 
 
 
+
+
+
 <section id="agreement" class="section scrollspy" markdown="1">
 
 ## Loan Agreement Guidelines
+
+
 
 This is a contract between a lender and a borrower. It specifies what is to be lent, the conditions of loan and the respective responsibilities of each party. A covering letter may also be issued with the agreement which draws attention to particularly important conditions of loan.
 

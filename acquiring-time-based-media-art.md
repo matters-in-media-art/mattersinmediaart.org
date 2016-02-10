@@ -3,15 +3,24 @@ layout: default
 title: Acquiring Time-Based Media Art
 ---
 
+
+<span class="flow-text">
+Because time-based media works require a proactive approach to care and management, the moment of acquisition is critical in gathering information that will ensure their display and care into the future.
+</span>
+
 ![](http://images.tate.org.uk/sites/default/files/styles/grid-normal-12-cols/public/images/eija-liisaahtila_annieakiegod_1998_0.jpg?itok=lJxaLd3A)
 
+<span class="img-caption" markdown="1">
 Eija-Liisa Ahtila
 _Anne, Akie & God_ 1998
 © Eija-Liisa Ahtila
+</span>
 
-Because time-based media works require a proactive approach to care and management, the moment of acquisition is critical in gathering information that will ensure their display and care into the future.
+
+
 
 The process diagram and documents for the acquisition process are grouped into three overlapping phases: pre-acquisition, accessioning, and post-acquisition. Although these three phases are distinct, knowledge about the artwork continuously builds from the moment it is considered for acquisition to final installation and long-term storage. This knowledge informs future decisions about storing, exhibiting, loaning, and conserving the work.
+
 
 
 
@@ -20,10 +29,23 @@ The process diagram and documents for the acquisition process are grouped into t
 
 ## Pre-acquisitions
 
-### Download templates
-* [Installation specifications]({{ site.url }}/downloads/installationinstructions_1.rtf)
-* [Cost assessment]({{ site.url }}/downloads/mattersmediaart_costassessmenttemplate.xls)
-* [Structure and condition report]({{ site.url }}/downloads/structure_and_condition_reports.rtf)
+<div class="row">
+  <div class="col s12">
+    <div class="card green accent-3">
+      <div class="card-content white-text">
+        <span class="card-title">Download templates</span>
+        <p>Here are some templates to assist you with the pre-acquisition process...</p>
+      </div>
+      <div class="card-action">
+        <a class="white-text" href="{{ site.url }}/downloads/installationinstructions_1.rtf">Installation specifications</a>
+        <a class="white-text" href="{{ site.url }}/downloads/mattersmediaart_costassessmenttemplate.xls">Cost assessment</a>
+        <a class="white-text" href="{{ site.url }}/downloads/structure_and_condition_reports.rtf">Structure and condition report</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 
 ### The key questions
 
