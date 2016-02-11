@@ -247,8 +247,6 @@ These functions include:
 #END OF CURRENT EDITING SECTION 
 
 
-=======
-
 [inline of survey]
 
 # Storage Infrastructure 
