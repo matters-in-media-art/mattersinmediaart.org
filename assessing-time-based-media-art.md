@@ -145,7 +145,7 @@ Quality audio monitors and meters are also necessary in the assessment of video 
 
 ###	Different Assessment Workstation Examples
 
-<table class="assessment">
+<table class="assessment bordered highlight">
         <thead>
           <tr>
               <th data-field="id">Name of equipment</th>

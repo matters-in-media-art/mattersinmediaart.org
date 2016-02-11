@@ -32,8 +32,12 @@ h1, h2, h3, h4, h5, h6  {
   width: 100%;
 }
 
+.assessment td, th{
+padding: 6px 5px !important;
+}
+
 .assessment .yes{
-  background-color: green;
+  background-color: #00E676;
 }
 
 .container .s12 ul{
