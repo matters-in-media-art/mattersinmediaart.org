@@ -48,7 +48,6 @@ Curabitur placerat risus ut imperdiet varius. Nullam cursus mi tortor, sed finib
 ## Project team
 
 #### Museum of Modern Art
-
 * Nancy Adelson, Associate General Counsel
 * John Alexander, Senior Assistant Registrar
 * Ramona Bannayan, Director Collection Management and Exhibition Registration
@@ -78,23 +77,23 @@ Curabitur placerat risus ut imperdiet varius. Nullam cursus mi tortor, sed finib
 * Tanya Zimbardo, Assistant Curator in Media Arts
 
 #### Tate
-Bryony Bery, Sculpture Conservation Researcher/Administrator
-Catherine Clement, Senior Loans Registrar
-Stuart Comer, Curator
-Katie Dance, E-Collection Curator
-Sophie Dijan, Conservation Administration
-Adrian George, Curator
-Lisa Hayes, Loans Registrar
-Sarah Joyce, Senior Conservator for Time-Based Media
-Alice Keys-Toyer, Art Handling Administrator
-Pip Laurenson, Head of Time-Based Media Conservation
-Jon Lewis, Senior Conservation Technician for Time-Based Media
-Gregor Muir, Kramlich Curator of Contemporary Art
-Alex Musson, Web Developer
-Anna Nesbit, AV Manager Art Handling
-Kate Parsons, Head Registrar
-Kellie Schneider, Conservation Administrator
-Sarah Tinsley, Senior Digital Content Manager
+* Bryony Bery, Sculpture Conservation Researcher/Administrator
+* Catherine Clement, Senior Loans Registrar
+* Stuart Comer, Curator
+* Katie Dance, E-Collection Curator
+* Sophie Dijan, Conservation Administration
+* Adrian George, Curator
+* Lisa Hayes, Loans Registrar
+* Sarah Joyce, Senior Conservator for Time-Based Media
+* Alice Keys-Toyer, Art Handling Administrator
+* Pip Laurenson, Head of Time-Based Media Conservation
+* Jon Lewis, Senior Conservation Technician for Time-Based Media
+* Gregor Muir, Kramlich Curator of Contemporary Art
+* Alex Musson, Web Developer
+* Anna Nesbit, AV Manager Art Handling
+* Kate Parsons, Head Registrar
+* Kellie Schneider, Conservation Administrator
+* Sarah Tinsley, Senior Digital Content Manager
 
 #### Facilitator
 George Gawlinski
