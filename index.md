@@ -32,7 +32,9 @@ WCAG general accessibility recommendation is that media such as background video
 <div class="col s8 offset-s2 flow-text" markdown="1">
 
 
-Nulla facilisi. Vestibulum in nisi nunc. Nullam non lectus molestie, congue eros vel, malesuada eros. In posuere iaculis nibh, maximus pretium ex. Fusce erat dui, placerat eu dictum vel, vestibulum vel odio. Donec vel ligula nisl. Etiam dui lorem, facilisis eu felis in, pellentesque malesuada nisi. Curabitur arcu purus, faucibus quis condimentum et, pretium ut ex. Vestibulum non felis sit amet elit rutrum pellentesque. Vestibulum auctor ullamcorper lacus in pulvinar.
+This is where a really nice introductory paragraph will go. Short and sweet. For now, here is some filler text. Everyday carry letterpress wayfarers, pour-over banh mi chicharrones jean shorts kombucha skateboard before they sold out aesthetic meggings semiotics. Brooklyn master cleanse locavore, helvetica lo-fi tacos freegan letterpress wayfarers crucifix microdosing disrupt yuccie actually.
+
+
 
 
 </div>
