@@ -67,15 +67,15 @@ Curabitur placerat risus ut imperdiet varius. Nullam cursus mi tortor, sed finib
 * Allyson Wolfe, Registrar Assistant
 
 #### New Art Trust
-Christopher Eamon, Director, New Art Trust on Matters in Media Art
-San Francisco Museum of Modern Art
-Michelle Barger, Deputy Head of Conservation/Conservator of Objects
-Allison Cummings, Assistant Registrar for Permanent Collection
-Steve Dye, Exhibitions Technical Manager
-Marie-Chantale Poisson, Fellow in the Conservation of Contemporary Art
-Gwynne Barney Ryan, Fellow in the Conservation of Contemporary Art
-Jill Sterrett, Director of Collections and Conservation
-Tanya Zimbardo, Assistant Curator in Media Arts
+* Christopher Eamon, Director, New Art Trust on Matters in Media Art
+* San Francisco Museum of Modern Art
+* Michelle Barger, Deputy Head of Conservation/Conservator of Objects
+* Allison Cummings, Assistant Registrar for Permanent Collection
+* Steve Dye, Exhibitions Technical Manager
+* Marie-Chantale Poisson, Fellow in the Conservation of Contemporary Art
+* Gwynne Barney Ryan, Fellow in the Conservation of Contemporary Art
+* Jill Sterrett, Director of Collections and Conservation
+* Tanya Zimbardo, Assistant Curator in Media Arts
 
 #### Tate
 Bryony Bery, Sculpture Conservation Researcher/Administrator

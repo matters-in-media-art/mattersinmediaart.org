@@ -145,45 +145,91 @@ Quality audio monitors and meters are also necessary in the assessment of video 
 
 ###	Different Assessment Workstation Examples
 
+<table class="assessment">
+        <thead>
+          <tr>
+              <th data-field="id">Name of equipment</th>
+              <th data-field="name">$</th>
+              <th data-field="price">$$</th>
+              <th data-field="price">$$$</th>
+          </tr>
+        </thead>
 
-
-####	TIER 1
-
-* CRT monitor with SDI video input
-* A/D video card
-* Computer
-* Video Editing Software
-* Video playback software Assessment Software
-
-Example of Tier one Setup:
- 
-####	TIER 2
-
-* CRT monitor with composite and SDI input
-* A/D video card
-* Computer
-* Analog Waveform Monitor/Vector Scope
-* Audio Monitors
-* Audio Meter
-* Video Editing Software
-* Video playback software Assessment Software
-
-Example of Tier 2 Setup:
-
-#### TIER 3
-
-* CRT Monitor with composite, component and SDI input
-* A/D video card
-* Computer
-* Analog Waveform Monitor/Vectorscope
-* Digital Waveform Monitor/Vectorscope
-* Sync Generator with Colorbars/1Khz tone
-* Audio Monitors
-* Audio Meter
-* Video Editing Software
-* Video playback software Assessment Software
-
-Example of Tier 3 Setup:
+        <tbody>
+          <tr>
+            <td>Analog-to-digital video card</td>
+            <td class="yes"></td>
+            <td class="yes"></td>
+            <td class="yes"></td>
+          </tr>
+          <tr>
+            <td>Computer</td>
+            <td class="yes"></td>
+            <td class="yes"></td>
+            <td class="yes"></td>
+          </tr>
+          <tr>
+            <td>Video Editing Software</td>
+            <td class="yes"></td>
+            <td class="yes"></td>
+            <td class="yes"></td>
+          </tr>
+          <tr>
+            <td>Video playback software Assessment Software</td>
+            <td class="yes"></td>
+            <td class="yes"></td>
+            <td class="yes"></td>
+          </tr>
+          <tr>
+            <td>CRT Monitor has SDI video input</td>
+            <td class="yes"></td>
+            <td class="yes"></td>
+            <td class="yes"></td>
+          </tr>
+          <tr>
+            <td>CRT Monitor has composite video input</td>
+            <td></td>
+            <td class="yes"></td>
+            <td class="yes"></td>
+          </tr>
+          <tr>
+            <td>Audio Monitors</td>
+            <td></td>
+            <td class="yes"></td>
+            <td class="yes"></td>
+          </tr>
+          <tr>
+            <td>Audio Meter</td>
+            <td></td>
+            <td class="yes"></td>
+            <td class="yes"></td>
+          </tr>
+          <tr>
+            <td>Analog Waveform Monitor/Vectorscope</td>
+            <td></td>
+            <td class="yes"></td>
+            <td class="yes"></td>
+          </tr>
+          <tr>
+            <td>Digital Waveform Monitor/Vectorscope</td>
+            <td></td>
+            <td></td>
+            <td class="yes"></td>
+          </tr>
+          <tr>
+            <td>Sync Generator with Colorbars/1Khz tone</td>
+            <td></td>
+            <td></td>
+            <td class="yes"></td>
+          </tr>
+          <tr>
+            <td>CRT Monitor has component video input</td>
+            <td></td>
+            <td></td>
+            <td class="yes"></td>
+          </tr>
+        </tbody>
+      </table>
 
 ##	Initial Diagnostics
 The amount of technical information that you might receive with a digital video artwork will vary depending on how technical the artist is or how good their technical support is.
