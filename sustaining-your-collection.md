@@ -4,15 +4,15 @@ title: Sustaining Your Collection
 published: true
 ---
 
+<span class="flow-text">
+This section focuses on the challenge of moving digital video collections from tape to file based storage and delivery.
+</span>
 
-## General Introduction
 ![](http://wiki.dpconline.org/images/5/59/ArchiveData_safe.png)
 
 <span class="img-caption" markdown="1">
 Illustration courtesy [Digital Preservation Business Case Toolkit](http://wiki.dpconline.org/)
 </span>
-
-Welcome to the third phase of Matters in Media Art. These pages focus on the challenge of moving our digital video collections from tape to file based storage and delivery.
 
 Our aim is to provide information that is useful to those who are caring for their own collection of video artworks outside an institution, as well as small, medium and large organisations. Throughout these pages key principles are highlighted and approaches are suggested depending on the size of your collection and your available resources, namely skills, budget and infrastructure. For each section we invite you to fill in a survey, this will act as a tool to help you to outline the needs of your collection. The results will form the basis for an overall preservation system design.
 

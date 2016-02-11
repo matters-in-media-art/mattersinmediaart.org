@@ -50,6 +50,7 @@ else if ($(window).width() > 600) {
         else if ($(document).scrollTop() > 120){
             $('#nav').stop().animate({height:navHeightCollapsed}, 200);
             $('#nav-pages').stop().animate({opacity:'0'},150);
+            $('#about-faq').stop().animate({opacity:'0'},50);
             $('.contextualmenu').stop().animate({top:'44px'},150);
             $('.brand-logo').stop().animate({'margin-left':'-10px'},150);
             $('.menuicon').stop().animate({opacity:'1'},300);
@@ -58,6 +59,7 @@ else if ($(window).width() > 600) {
         else if ($(document).scrollTop() < 125){
             $('#nav').stop().animate({height:navHeightExpanded}, 100);
             $('#nav-pages').stop().animate({opacity:'1'},150);
+            $('#about-faq').stop().animate({opacity:'1'},150);
             $('#backtotop').stop().animate({opacity:'0'},150);
             $('.contextualmenu').stop().animate({top:'144px'},150);
             $('.brand-logo').stop().animate({'margin-left':'-44px'},150);

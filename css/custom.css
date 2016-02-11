@@ -14,8 +14,42 @@ h1, h2, h3, h4, h5, h6  {
 
 }
 
+#about-faq{
+  position: fixed;
+  top: 55px;
+  right: 10px;
+}
+
+#about-faq li{
+  float: inherit;
+}
+
+#about-faq .navhover{
+  font-size: 15px !important;
+}
+
 .container img{
   width: 100%;
+}
+
+
+
+.container .s12 ul{
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 0em;
+    -webkit-margin-start: 1px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-start: 18px;
+}
+
+.row-title{
+  margin-bottom: 0 !important;
+}
+
+
+
+.container .s12 li{
+    list-style-type: circle;
 }
 
 #backtotop{
@@ -5230,9 +5264,9 @@ nav ul a span.badge {
   margin-left: -0.75rem;
   margin-right: -0.75rem; }
 
-.section {
+/*.section {
   padding-top: 1rem;
-  padding-bottom: 1rem; }
+  padding-bottom: 1rem; }*/
   .section.no-pad {
     padding: 0; }
   .section.no-pad-bot {
