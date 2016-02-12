@@ -35,6 +35,7 @@ Our aim is to provide information that is useful to those who are caring for the
 ###Collection size and characteristics
 
 To plan and develop a system for digital art you will need to know some details about your collection and its possible growth. 
+
 * Record descriptive and technical information about the works
 * Capture information on both born-digital items and legacy material that will be migrated
 * Monitor the growth patterns of your collection 
