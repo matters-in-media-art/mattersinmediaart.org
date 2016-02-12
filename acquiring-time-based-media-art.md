@@ -58,6 +58,10 @@ The process diagram and documents for the acquisition process are grouped into t
 
 The focus of the pre-acquisition phase for time-based media works is deciding whether to acquire the work of art. Information gathered during this phase is used to justify the acquisition and to forecast costs, installation logistics, and conservation concerns for future ownership. This information falls into two main categories, conceptual and technical. An understanding of the conceptual and technical elements that comprise the work of art is essential for acquisition consideration, but also to the continued viability and authentic presentation of the work. In reality, there is often little time prior to an acquisition to gather all the information in detail. However, you are aiming to gain a general understanding of the areas outlined below. The information collected during the pre-acquisition phase provides a baseline of knowledge for deeper levels of documentation after the work is acquired. 
 
+This is a test...
+
+{% include slidertest.html %}
+
 Prior to acquisition of a time-based media work, the following steps may be taken by a curator or collector.
 
 <ul class="collapsible" data-collapsible="accordion">
