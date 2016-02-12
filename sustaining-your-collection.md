@@ -16,6 +16,8 @@ Illustration courtesy [Digital Preservation Business Case Toolkit](http://wiki.d
 
 Our aim is to provide information that is useful to those who are caring for their own collection of video artworks outside an institution, as well as small, medium and large organisations. Throughout these pages key principles are highlighted and approaches are suggested depending on the size of your collection and your available resources, namely skills, budget and infrastructure. For each section we invite you to fill in a survey, this will act as a tool to help you to outline the needs of your collection. The results will form the basis for an overall preservation system design.
 
+<section id="Core Princples" class="section scrollspy" markdown="1">
+
 #Core Principles
 
 * Do to digital works as you would to any art work: identify, catalog, describe, treat, document, and track
