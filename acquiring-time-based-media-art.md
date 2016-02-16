@@ -29,6 +29,26 @@ The process diagram and documents for the acquisition process are grouped into t
 
 ## Pre-acquisitions
 
+* What information do I need to make a decision about a possible acquisition?
+* How do I anticipate the cost of owning this work?
+* What master material and equipment should come with the acquisition?
+
+
+Prior to acquisition of a time-based media work, the following steps may be taken by a curator or collector.
+
+
+{% include slidertest.html %}
+
+
+### About the pre-acquisition phase
+<!-- <iframe seamless src="http://mhellar.github.io/intropages/imgmap/index.html" scrolling="no" frameborder="0" width="100%" height="430"></iframe>
+ -->
+The focus of the pre-acquisition phase for time-based media works is deciding whether to acquire the work of art. Information gathered during this phase is used to justify the acquisition and to forecast costs, installation logistics, and conservation concerns for future ownership. This information falls into two main categories, conceptual and technical. An understanding of the conceptual and technical elements that comprise the work of art is essential for acquisition consideration, but also to the continued viability and authentic presentation of the work. In reality, there is often little time prior to an acquisition to gather all the information in detail. However, you are aiming to gain a general understanding of the areas outlined below. The information collected during the pre-acquisition phase provides a baseline of knowledge for deeper levels of documentation after the work is acquired.
+
+
+
+
+
 <div class="row">
   <div class="col s12">
     <div class="card green accent-3">
@@ -45,68 +65,8 @@ The process diagram and documents for the acquisition process are grouped into t
   </div>
 </div>
 
+### Consider costs
 
-
-### The key questions
-
-* What information do I need to make a decision about a possible acquisition?
-* How do I anticipate the cost of owning this work?
-* What master material and equipment should come with the acquisition?
-
-### About the pre-acquisition phase
-<iframe seamless src="http://mhellar.github.io/intropages/imgmap/index.html" scrolling="no" frameborder="0" width="100%" height="430"></iframe>
-
-The focus of the pre-acquisition phase for time-based media works is deciding whether to acquire the work of art. Information gathered during this phase is used to justify the acquisition and to forecast costs, installation logistics, and conservation concerns for future ownership. This information falls into two main categories, conceptual and technical. An understanding of the conceptual and technical elements that comprise the work of art is essential for acquisition consideration, but also to the continued viability and authentic presentation of the work. In reality, there is often little time prior to an acquisition to gather all the information in detail. However, you are aiming to gain a general understanding of the areas outlined below. The information collected during the pre-acquisition phase provides a baseline of knowledge for deeper levels of documentation after the work is acquired. 
-
-This is a test...
-
-{% include slidertest.html %}
-
-Prior to acquisition of a time-based media work, the following steps may be taken by a curator or collector.
-
-<ul class="collapsible" data-collapsible="accordion">
-  <li>
-    <div class="collapsible-header">What is it? – Get to know the artwork</div>
-    <div class="collapsible-body" markdown="1">
-1. Understand what you are proposing to acquire: what is it?
-2. Gather general information: artist, title, date, medium, duration, edition details, provenance, artist’s dates, credit line, display dimensions
-3. Understand key qualities of the work and prepare a description of the elements necessary to maintain the integrity of the artwork. This includes:
-* Artist statement about the work (from artist, gallery or seller)
-* Curatorial/collector statement for importance in collection
-* Non-technical description of what the viewer experiences
-* Basic installation specifications
-</div>
-  </li>
-  <li>
-    <div class="collapsible-header">Explore deeper</div>
-    <div class="collapsible-body" markdown="1">
-Based on the artist’s statement and installation instructions, determine the following:
-
-* What are the essential vs. desirable exhibition conditions, including space requirements?
-* What can and cannot be changed in the display?
-* Can you physically display the work in your exhibition space?
-
-You also need to determine:
-
-* Original master: Where is it? What is the format? Where does it reside? Who owns it?
-* Who owns the copyright to the work?
-* Acquire reference images that will facilitate the acquisition process (stills or screen grabs, installation photo, exhibition copy, etc.)
-</div>
-  </li>
-  <li>
-    <div class="collapsible-header">Assemble expertise</div>
-    <div class="collapsible-body" markdown="1">
-* In order to proceed, the curator/collector will need to gather more detailed information relying on the expertise of a larger group of people.
-* Large institutions may assemble a team comprising some or all of the following expertise: curatorial, conservation, registration exhibitions, technical/media/audio-visual, IT, legal/intellectual property.
-* Collectors and small institutions may find knowledgeable technical support: contact a museum conservation department, art gallery, art consultant, and/or artist/studio to recommend sources.
-</div>
-  </li>
-</ul>
-
-
-
-### Get the details – Identify areas for further inquiry and pursue detailed information
-Once team/resources are established, curator/collector presents the proposed acquisition. The following information may be gathered both internally and externally. Identify one person to be the co-ordinator for this process. In some circumstances, cataloguing the work may begin prior to acquisition (see details in post-acqusition phase). Before proceeding with the acquisition, consider the key questions at the head of each section below. These are indicated by solid bullets.
 
 <ul class="collapsible" data-collapsible="accordion">
   <li>
@@ -220,9 +180,8 @@ Outside contractors
 
 Using the information gathered from the assembled team and consultants, the curator/collector determines if the art work is an appropriate acquisition for the Collection. If yes, then the curator/collector identifies recommendations to incorporate into the purchase agreement.
 
-* Identify issues for negotiation.
+* What can and cannot be changed in the display? Identify issues for negotiation.
 * Specify the preferred preservation and exhibition material required, e.g. master, sub-master, exhibition copy.
-* Provide a final equipment list necessary for acquisition and display: what is provided by the seller? What must be additionally purchased?
 
 </section> 
 
@@ -234,6 +193,83 @@ Using the information gathered from the assembled team and consultants, the cura
 <section id="accessioning" class="section scrollspy" markdown="1">
 
 ## Accessioning
+
+<!-- <iframe seamless src="http://mhellar.github.io/intropages/imgmap/index2.html" scrolling="no" frameborder="0" width="100%" height="503"></iframe>
+ -->
+Contractual documents are required to acquire an artwork. Because of the complexities attached to the bundle of rights being conferred with the transfer of ownership of time-based media works, legal documents take on a greater significance than is the case with more traditional works.
+
+These documents include a purchase agreement, or a deed of gift, and a copyright licence. They specify the terms and conditions of the acquisition and help ensure that all parties understand their respective rights and obligations.
+
+The documents can be used among the following parties (which, in any given transaction, may be a museum, artist or artist’s estate, gallery or collector): purchaser, seller, donor, and copyright holder. Templates for the documents are provided here for reference purposes.
+
+Depending, of course, on the terms of each transaction, they may be used as a starting point in negotiations.
+
+<div id="acq-slider" class="liquid-slider">
+    
+<div markdown="1">
+<h2 class="title">Key questions</h2>
+
+* What rights do we need to secure as part of the acquisition of the work?
+* Do we have what we need for the future conservation and display of the work?
+* Can we make copies for exhibition and preservation?
+* Does this acquisition warrant the need for formal legal documents?
+
+</div>
+
+
+
+<div markdown="1">
+<h2 class="title">Notify the vendor</h2>
+Once a decision has been made to acquire the work, it is important to notify the vendor or the donor of this intention as soon as possible. In some cases there may be strong competition for a particular work. It is important that the accessioning stage is completed as quickly and smoothly as possible.
+</div>
+
+
+
+
+<div markdown="1">
+<h2 class="title">Verify artwork components</h2>
+During the pre-acquisition phase the buyer will have familiarised themselves with the details of the work and established what is important to its installation and conservation. Preliminary discussions will have taken place to clarify what is being offered as part of the purchase price. During this phase those elements are delivered, and the recipient will have the opportunity to check that what has been agreed has arrived and that it is in good condition. In some cases, the vendor may wait to deliver the certificate until after payment.
+</div>
+
+
+
+
+<div markdown="1">
+<h2 class="title">Secure and check preservation material</h2>
+During the pre-acquisition phase, any tasks to be carried out during the accessioning phase to produce preservation material will have been identified. In some cases the vendor may supply archival material as part of the purchase. In other cases the recipient may agree to oversee the production and pay for the material needed. These discussions are best carried out as part of the initial negotiations. Once the payment is made and the acquisition completed, it can be very difficult to go back and ask for access to masters or request the rights to make copies for preservation. To help ensure that you have what you need to enable continued display of the work in the future, it is advisable to complete all archiving before the work is accessioned. It is also useful to specify any subsequent access that might be needed in a legal document such as a Purchase Agreement. If the work is being donated you may need to go back to the artist to ask for access to master material.
+
+It is important to view the material you have received as part of the acquisition in order to check that its condition is as you expected. It is not unheard of to find problems with both media elements and any equipment provided as part of an acquisition. If equipment has been provided as part of a purchase, check what your situation is regarding the warranty.
+</div>
+
+
+<div markdown="1">
+<h2 class="title">Exchange contracts</h2>
+Contractual documents are exchanged during the accessioning phase. This may be as simple as an invoice; however there are cases where it is of benefit to all parties to have more detailed contracts. These documents include a purchase agreement, or a deed of gift, and a copyright licence. They specify the terms and conditions of the acquisition and help ensure that all parties understand their respective rights and obligations. The documents can be used among the following parties (which, in any given transaction, may be a museum, artist or artist’s estate, gallery or collector): purchaser, seller, donor, and copyright holder. Templates for the documents are provided for reference purposes.
+
+Depending on the terms of each transaction, the templates will be modified and are offered here simply as a starting point in negotiations. A relationship of trust between the artist and their representatives and the new owner is important to successful custodianship. If you think that there is something controversial in the agreement, for example requests to stream the media elements online, discuss this with the artist first. Some artists may trust a museum and not worry about reading contractual documents carefully, it is therefore good practice to make sure they are aware of the content.
+
+You are advised not to sign any agreement unless you first obtain legal advice. Sellers, Donors and Copyright Holders must bear in mind that these documents were drafted from the perspective of the Museum as Purchaser or Donee. The documents are also drafted from a generic perspective of UK and US law and should not be considered a substitute for legal counsel.
+</div>
+
+
+
+
+
+</div> <!-- end of slider -->
+
+
+
+## Accessioning guidelines
+The accessioning phase lies between formally agreeing to acquire a work and actually being in a position, with everything in place, to accession a work into a collection. It is a moment when you make sure that you have everything that was agreed as part of the purchase or gift. In the case of traditional works of art, for example a painting, this is the moment when you check the painting arrived, that it is the painting you thought you were buying and that it is in the expected condition. The end of this phase is marked by legal title passing to the new owner.
+
+There may be occasions when sculptures, paintings or other types of objects are also included as part of the work. However, for the majority of cases, what you are buying when you buy a time-based media work of art is not a unique material object but rather the means and the rights to be able to display the work, loan it, preserve it and sell it. To be able to enact these rights you will need to be in possession of preservation master material and information about how the work is to be installed.
+
+
+### The key acquisition documents are:
+1. Purchase Agreement: a contract between the Seller of the work of art and the Purchaser that controls the terms of sale. OR
+2. Deed of Gift: a document that memorialises the transfer of ownership of a work of art by way of gift. AND
+3. Copyright Licence: because ownership of an artwork does not necessarily include ownership of the copyright to that artwork this document is an authorisation from the Copyright Holder to the Owner of a work of art permitting the Owner to, for example, reproduce the work in publications and/or for preservation purposes.
+
 
 <div class="row">
   <div class="col s12">
@@ -250,76 +286,6 @@ Using the information gathered from the assembled team and consultants, the cura
     </div>
   </div>
 </div>
-
-
-
-### Key questions
-What rights do we need to secure as part of the acquisition of the work?
-
-Do we have what we need for the future conservation and display of the work?
-
-Can we make copies for exhibition and preservation?
-
-Does this acquisition warrant the need for formal legal documents?
-
-
-
-### About the accessioning phase
-<iframe seamless src="http://mhellar.github.io/intropages/imgmap/index2.html" scrolling="no" frameborder="0" width="100%" height="503"></iframe>
-
-Contractual documents are required to acquire an artwork. Because of the complexities attached to the bundle of rights being conferred with the transfer of ownership of time-based media works, legal documents take on a greater significance than is the case with more traditional works.
-
-These documents include a purchase agreement, or a deed of gift, and a copyright licence. They specify the terms and conditions of the acquisition and help ensure that all parties understand their respective rights and obligations.
-
-The documents can be used among the following parties (which, in any given transaction, may be a museum, artist or artist’s estate, gallery or collector): purchaser, seller, donor, and copyright holder. Templates for the documents are provided here for reference purposes.
-
-Depending, of course, on the terms of each transaction, they may be used as a starting point in negotiations.
-
-## Accessioning guidelines
-The accessioning phase lies between formally agreeing to acquire a work and actually being in a position, with everything in place, to accession a work into a collection. It is a moment when you make sure that you have everything that was agreed as part of the purchase or gift. In the case of traditional works of art, for example a painting, this is the moment when you check the painting arrived, that it is the painting you thought you were buying and that it is in the expected condition. The end of this phase is marked by legal title passing to the new owner.
-
-There may be occasions when sculptures, paintings or other types of objects are also included as part of the work. However, for the majority of cases, what you are buying when you buy a time-based media work of art is not a unique material object but rather the means and the rights to be able to display the work, loan it, preserve it and sell it. To be able to enact these rights you will need to be in possession of preservation master material and information about how the work is to be installed.
-
-<ul class="collapsible" data-collapsible="accordion">
-  <li>
-    <div class="collapsible-header">Notify the vendor</div>
-    <div class="collapsible-body" markdown="1">
-Once a decision has been made to acquire the work, it is important to notify the vendor or the donor of this intention as soon as possible. In some cases there may be strong competition for a particular work. It is important that the accessioning stage is completed as quickly and smoothly as possible.
-</div>
-  </li>
-
-<li>
-<div class="collapsible-header">Verify artwork components</div>
-<div class="collapsible-body" markdown="1">
-During the pre-acquisition phase the buyer will have familiarised themselves with the details of the work and established what is important to its installation and conservation. Preliminary discussions will have taken place to clarify what is being offered as part of the purchase price. During this phase those elements are delivered, and the recipient will have the opportunity to check that what has been agreed has arrived and that it is in good condition. In some cases, the vendor may wait to deliver the certificate until after payment.
-</div>
-</li>
-
-
-  <li>
-    <div class="collapsible-header">Secure and check preservation material</div>
-    <div class="collapsible-body" markdown="1">
-During the pre-acquisition phase, any tasks to be carried out during the accessioning phase to produce preservation material will have been identified. In some cases the vendor may supply archival material as part of the purchase. In other cases the recipient may agree to oversee the production and pay for the material needed. These discussions are best carried out as part of the initial negotiations. Once the payment is made and the acquisition completed, it can be very difficult to go back and ask for access to masters or request the rights to make copies for preservation. To help ensure that you have what you need to enable continued display of the work in the future, it is advisable to complete all archiving before the work is accessioned. It is also useful to specify any subsequent access that might be needed in a legal document such as a Purchase Agreement. If the work is being donated you may need to go back to the artist to ask for access to master material.
-
-It is important to view the material you have received as part of the acquisition in order to check that its condition is as you expected. It is not unheard of to find problems with both media elements and any equipment provided as part of an acquisition. If equipment has been provided as part of a purchase, check what your situation is regarding the warranty.
-</div>
-  </li>
-  <li>
-    <div class="collapsible-header">Exchange contracts</div>
-    <div class="collapsible-body" markdown="1">
-Contractual documents are exchanged during the accessioning phase. This may be as simple as an invoice; however there are cases where it is of benefit to all parties to have more detailed contracts. These documents include a purchase agreement, or a deed of gift, and a copyright licence. They specify the terms and conditions of the acquisition and help ensure that all parties understand their respective rights and obligations. The documents can be used among the following parties (which, in any given transaction, may be a museum, artist or artist’s estate, gallery or collector): purchaser, seller, donor, and copyright holder. Templates for the documents are provided for reference purposes.
-
-Depending on the terms of each transaction, the templates will be modified and are offered here simply as a starting point in negotiations. A relationship of trust between the artist and their representatives and the new owner is important to successful custodianship. If you think that there is something controversial in the agreement, for example requests to stream the media elements online, discuss this with the artist first. Some artists may trust a museum and not worry about reading contractual documents carefully, it is therefore good practice to make sure they are aware of the content.
-
-You are advised not to sign any agreement unless you first obtain legal advice. Sellers, Donors and Copyright Holders must bear in mind that these documents were drafted from the perspective of the Museum as Purchaser or Donee. The documents are also drafted from a generic perspective of UK and US law and should not be considered a substitute for legal counsel.
-</div>
-  </li>
-</ul>
-
-### The key acquisition documents are:
-1. Purchase Agreement: a contract between the Seller of the work of art and the Purchaser that controls the terms of sale. OR
-2. Deed of Gift: a document that memorialises the transfer of ownership of a work of art by way of gift. AND
-3. Copyright Licence: because ownership of an artwork does not necessarily include ownership of the copyright to that artwork this document is an authorisation from the Copyright Holder to the Owner of a work of art permitting the Owner to, for example, reproduce the work in publications and/or for preservation purposes.
 
 #### For all documents
 Before signing the contract, you will have information in hand about the work [refer to Pre-acquisition Guidelines checklist]. You will already have considered the installation details, long-term preservation and exhibition requirements, future technological developments, as well as condition assessment. At this moment you might also wish to secure a Copyright Licence between you, the new owner of the work and the Copyright Holder. Although the artist normally retains the copyright in the work, you may want to secure rights to produce images and copies of the work for a range of purposes from publicity to preservation.

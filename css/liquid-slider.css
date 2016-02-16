@@ -59,12 +59,12 @@
 
 /*** Panels ***/
 .liquid-slider .ls-panel {  
-  width: 600px;
+  width: 731px;
   display: block;
   float: left;
 }
 .panel-wrapper {  
-  padding: 15px 40px;
+  padding: 15px 77px;
   position:relative;
 }
 
@@ -178,9 +178,9 @@
   display: block;
 }
 [class$="-arrow"] {
-  width: 25px;
-  height: 25px;
-  background-image: url(../img/slider/arrow.png);
+  width: 40px;
+  height: 60px;
+  background-image: url(../img/slider/mma-arrows.png);
   background-repeat: no-repeat;
   margin-top: 50px;
   position:relative;
@@ -202,10 +202,12 @@
 .ls-responsive .ls-nav-left-arrow {
   position: absolute;
   left: 0;
+  top:100px;
   z-index: 2;
 }
 .ls-responsive .ls-nav-right-arrow {
   position: absolute;
   right: 0;
+  top:100px;
   z-index: 2;
 }

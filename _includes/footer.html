@@ -40,5 +40,33 @@
             <a class="grey-text text-lighten-4 right" href="mailto:{{ site.email }}">{{ site.email }}</a>
             </div>
           </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.4/jquery.touchSwipe.min.js"></script>
+<script src="./js/jquery.liquid-slider.min.js"></script>
+<script>
+$(function(){
+     $('#main-slider').liquidSlider({
+      slideEaseFunction: "easeInOutCubic",
+      slideEaseDuration: 100,
+      includeTitle: false,
+      dynamicTabs: false,
+      heightEaseDuration: 100,
+      hoverArrows: false
+     });
+
+          $('#acq-slider').liquidSlider({
+      slideEaseFunction: "easeInOutCubic",
+      slideEaseDuration: 100,
+      includeTitle: false,
+      dynamicTabs: false,
+      heightEaseDuration: 100,
+      hoverArrows: false
+     });
+
+
+});
+
+
+</script>
         </footer>
             
