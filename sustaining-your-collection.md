@@ -262,58 +262,62 @@ These functions include:
 
 #END OF CURRENT EDITING SECTION 
 
+#Developing Your Systems
 
-[inline of survey]
+##Define your Collection Policies
 
-# Storage Infrastructure 
-The problem of bit preservation of data has been solved, however it does require careful management.
-These same principles can be applied to a small personal collection of material as well as a fully automated system used within a museum.
-When scoping your current storage infrastructure for the purposes of digital preservation it is helpful to understand the difference between standard storage setups and those suitable for digital preservation. Standard storage systems are designed for digital objects that are in active use and while backup procedures are usually included, they generally do not meet the more stringent requirements to ensure long term preservation of data. For example, within a normal institutional information technology set up, it is standard practice for backup tapes to be wiped and re-used after a few months. Active use storage is also unlikely to have a system in place to identify that information has changed or been lost as when data is changing all the time it is not possible to easily detect the difference between intended changes and accidental changes or damage to important data. In contrast, preservation storage systems require the active monitoring of data in order to detect unwanted changes such as corruption. They also have high level of redundancy meaning that material is copied in a number of locations to enable the data to be restored should a problem arise and they will also have a disaster recovery plan.
-In assessing your current storage infrastructure it may be useful to ask the following questions:
+###Define the scope of your collection 
+In order to plan for the storage and management of your collection, it is useful to define the categories of collection items and associated documentation that you hold. This might include the following:
 
-=======
-# Collection Management 
+* Master files provided by the Artist
+* Copies of the master file made for preservation purposes
+* Copies of the master file migrated to other formats or carriers
+* Derivatives of the file made for access, exhibition or loan
+* Documentation created or received relating to the creation process and intended display of the artwork
+You will then need to consider 
 
-[Image]
+##Collection Management 
+The information held within a database, often called a Collection Management System, forms the core information needed for the following functions:
 
-Whether you are an individual artist or large institution, the first step in sustaining your digital art is knowing what you have, where it is located and how you do things.  
-Most museums and large institutions have comprehensive collection management databases for tracking their artworks, and digital storage for their data infrastructure. In museums, databases are usually managed by the registration and collections management department, and data storage is usually in the realm of IT. In order to evaluate your current systems for the management of collection information for digital artworks, talk to the registration and collections management teams as well as any IT staff supporting the systems. It is important to find out how current management systems are functioning, what they are technically capable of, for example what backup systems are already in place.
-No matter which collection management system you currently use, as you work through "Scoping Your Context" it is likely that the type of information you will need to scope your collection may already be found within this system, or alternatively you might want to add the information you generate through this process to your inventory. 
-In most cases the information about an art collection will be formed of a rich cluster of records that have been compiled and edited over time. Often only a fraction of this information is held within a central database. Many institutions will also have records management systems for this associated documentation.
+* Providing an inventory of all collection items
+* Recording acquisition details, including information about the artist, any donor or purchase information and any key provenance information
+* History of exhibitions or displays, including loans
+* Tracking the location of physical and digital parts of collections items, including the ability to track versions of digital files as they get transcoded or migrated
+Recording condition information  and technical information about an artwork to inform its ongoing management
 
-[inline of survey]
+Depending on your context and the size of your collection, a collection management system will look very different. For a small institution or individual collector, collection management functionality could be carried out using a database or spreadsheets, templates and standardised metadata. For a larger institution, a managed database will be necessary in order to:
 
-# Storage Infrastructure 
-The problem of bit preservation of data has been solved, however it does require careful management.
-These same principles can be applied to a small personal collection of material as well as a fully automated system used within a museum.
-When scoping your current storage infrastructure for the purposes of digital preservation it is helpful to understand the difference between standard storage setups and those suitable for digital preservation. Standard storage systems are designed for digital objects that are in active use and while backup procedures are usually included, they generally do not meet the more stringent requirements to ensure long term preservation of data. For example, within a normal institutional information technology set up, it is standard practice for backup tapes to be wiped and re-used after a few months. Active use storage is also unlikely to have a system in place to identify that information has changed or been lost as when data is changing all the time it is not possible to easily detect the difference between intended changes and accidental changes or damage to important data. In contrast, preservation storage systems require the active monitoring of data in order to detect unwanted changes such as corruption. They also have high level of redundancy meaning that material is copied in a number of locations to enable the data to be restored should a problem arise and they will also have a disaster recovery plan.
-In assessing your current storage infrastructure it may be useful to ask the following questions:
+* provide a central information point with a consistent level of information about an entire collection regardless of medium or type
+* facilitate certain core workflows (for example an acquisition process or loans process)
+provide auditing and reporting functions
+* allow for access to information and the ability to edit information to be defined at a user level  
+* allow for multiple users to update information and keep it current
 
->>>>>>> 8a45e9b964da81e21ad5f6ccdac24355a9e6537b
-[inline of survey]
+The larger the number of users and objects and the more complex the workflows the more necessary a specialised database, ie. a collection management system, will become. Software to maintain an inventory could range from an Excel spreadsheet, a database like Filemaker, an open source collection management software such as CollectiveAccess (http://www.collectiveaccess.org/about) or Omeka (http://omeka.org/about/) to the type of collection management system employed by museums, for example The Museum System (TMS), Mimsy or a bespoke system developed by your institution. 
 
-# Digital Repository 
+It is uncommon to find one system that will facilitate both the collections management activities outlined above, and also digital preservation. Therefore it is often the case that different systems and tools are used for serving these two different core needs – for instance the use of a digital asset management system, or a digital repository in addition to a Collection Management System. Before building or implementing any specialized systems beyond a Collection Management System however, it is important to consider how this specialized system will integrate and communicate with your collection management system.    
+In a completely manual environment, you would be able to incorporate any additional information needed for the digital repository functions (for example checksum monitoring, format registry etc) and your core collection management information (for example location) into one database. For larger digital collections there are significant gains to be made in terms of time and accuracy in taking advantage of tools that automate certain functions within the workflow. This often creates information about your digital artworks which you will wish to record and maintain. Where specialist (often proprietary) databases exist, integration with any repository software or digital asset management systems can be a challenging, expensive and skilled operation.
 
-What is a digital repository?
-A digital repository for your collection is about more than just storage. There are many functions that can be carried out by a digital repository system in order to monitor and ensure the ongoing preservation of your collection objects. Just as for Collection Management systems, the way these functions are implemented will depend on individual circumstances. For a small, homogenous collection, many of these functions could be carried out manually. For a larger and more varied collection, there are significant benefits to having automated workflows and systems in place.
-This is an area which has developed very rapidly in recent years, and many organisations have struggled to develop the infrastructure to keep pace with their growing digital collections. It is therefore important to understand that the term repository refers to a number of functions which need to be carried out and which are underpinned by some of the key ideas to emerge regarding digital preservation practice. 
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+  <div class="collapsible-header"><i class="material-icons">perm_identity</i>Individual</div>
+  <div class="collapsible-body"><p>I used to use Excel, but it got unwieldy with too many objects. It’s also very easy to mess it up, because it’s more for calculations and data manipulation than keeping discrete object records. So, I set up a Panorama database for Mac and have been happier with that.</p></div>
+</li>
+<li>
+  <div class="collapsible-header"><i class="material-icons">code</i>Collector</div>
+  <div class="collapsible-body"><p>We use Collection Space to organize our material and assign everything a unique identifier which is connected to the main artwork. The UUID is a running numerical value that was initially set up for physical objects that we could use with barcodes.</p></div>
+</li>
+<li>
+  <div class="collapsible-header"><i class="material-icons">videocam</i>Institution</div>
+  <div class="collapsible-body"><p>We are a museum using TMS. We create an object record for the work and then create separate components for each physical or digital object that is part of that work. It enables us to record attributes, relationships, and contextual information, effectively centralizing the essential information about complex works with many elements. </p></div>
+</li>
 
-These functions include:
-* Automated workflows for the ingest of digital objects, including the extraction of metadata and packaging of the object and metadata for storage
-* Generation of a persistent identifier for each digital object and a permanent relationship to associated metadata
-* Generation of normalised masters where necessary. A normalised master is a preservation copy of a file in a standardised format. There is some debate regarding when the creation of normalised copies is advisable. In general video file formats are less vulnerable to obsolescence than tape formats. This is partly because it is easier to support software playback over time especially given open source tools such as ffmpeg. 
-* Generation of access derivatives and an interface for user access to these derivatives, alongside associated metadata
-* Generation of exhibition copies
-* Auditing of system and user activities
-* Active monitoring of file integrity
-* Recording and reporting on collection characteristics, such as file formats
-* Monitoring of preservation risks, e.g. file obsolescence and software dependencies
+>“I used to use Excel, but it got unwieldy with too many objects. It’s also very easy to mess >> it up, because it’s more for calculations and data manipulation than keeping discrete object 
+> records. So, I set up a Panorama database for Mac and have been happier with that.”
 
 
-###END OF CURRENT EDITING SECTION 
->>>>>>> 8a45e9b964da81e21ad5f6ccdac24355a9e6537b
-=======
->>>>>>> 8a45e9b964da81e21ad5f6ccdac24355a9e6537b
+
+##Resources 
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
