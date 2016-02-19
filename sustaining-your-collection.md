@@ -313,7 +313,7 @@ In a completely manual environment, you would be able to incorporate any additio
 </li>
 </ul>
 
->“I used to use Excel, but it got unwieldy with too many objects. It’s also very easy to mess >> it up, because it’s more for calculations and data manipulation than keeping discrete object 
+> “I used to use Excel, but it got unwieldy with too many objects. It’s also very easy to mess > it up, because it’s more for calculations and data manipulation than keeping discrete object 
 > records. So, I set up a Panorama database for Mac and have been happier with that.”
 
 
