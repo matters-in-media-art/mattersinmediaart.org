@@ -311,6 +311,7 @@ In a completely manual environment, you would be able to incorporate any additio
   <div class="collapsible-header"><i class="material-icons">videocam</i>Institution</div>
   <div class="collapsible-body"><p>We are a museum using TMS. We create an object record for the work and then create separate components for each physical or digital object that is part of that work. It enables us to record attributes, relationships, and contextual information, effectively centralizing the essential information about complex works with many elements. </p></div>
 </li>
+</ul>
 
 >“I used to use Excel, but it got unwieldy with too many objects. It’s also very easy to mess >> it up, because it’s more for calculations and data manipulation than keeping discrete object 
 > records. So, I set up a Panorama database for Mac and have been happier with that.”
