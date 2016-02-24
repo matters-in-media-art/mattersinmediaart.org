@@ -4,8 +4,6 @@ title: "Assessing Time-Based Media Art"
 ---
 
 <span class="flow-text">
-Ben is the COOLEST
-
 Assessing your video files is a crucial step when they enter your collection. Not only will it help you to understand what codecs and formats you’re dealing with, but also it is necessary to identify possible errors or inaccuracies within the digital video, like encoding glitches, wrong aspect ratios, or generally a codec used that does not fit your preservation policy.
 </span>
 
@@ -232,11 +230,6 @@ Quality audio monitors and meters are also necessary in the assessment of video 
           </tr>
         </tbody>
       </table>
-
-
-
-> This is a super cool blockquote ssess the digital video files either in your collection or during the acquisition process, you first need to have a better understanding of the environment, ie. the software and hardware system used for production and playback, and the way the video was produced. This in
-
 
 
 ##	Initial Diagnostics
