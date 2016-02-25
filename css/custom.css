@@ -20,6 +20,11 @@ h1, h2, h3, h4, h5, h6  {
   right: 10px;
 }
 
+.ls-wrapper{
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
+
 #about-faq li{
   float: inherit;
 }
