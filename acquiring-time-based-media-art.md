@@ -157,20 +157,49 @@ Using the information gathered from the assembled team and consultants, the cura
 
 <br><br>
 
+###Templates for Acquisition process
+
+
 <div class="row">
-  <div class="col s12">
+
+  <div class="col s4">
+    <a href="{{ site.url }}/downloads/installationinstructions_1.rtf">
     <div class="card green accent-3">
       <div class="card-content white-text">
-        <span class="card-title">Templates for Acquisition process</span>
-          <div class="collection">
-            <a href="{{ site.url }}/downloads/installationinstructions_1.rtf" class="collection-item green-text accent-3-text">Installation specifications</a>
-            <a href="{{ site.url }}/downloads/mattersmediaart_costassessmenttemplate.xls" class="collection-item">Cost assessment</a>
-            <a href="{{ site.url }}/downloads/structure_and_condition_reports.rtf" class="collection-item">Structure and condition report</a>
-          </div>
+        Installation specifications
+
+<div class="chip"><i class="large material-icons">play_for_work</i>
+    RTF, 59KB
+  </div>
+
       </div>
     </div>
+    </a>
   </div>
+
+  <div class="col s4">
+    <a href="{{ site.url }}/downloads/mattersmediaart_costassessmenttemplate.xls">
+        <div class="card green accent-3">
+      <div class="card-content white-text">
+        Cost assessment <div class="chip"><i class="large material-icons">play_for_work</i>Excel, 24KB </div>
+      </div>
+    </div>
+  </a>
+  </div>
+
+  <div class="col s4">
+    <a href="{{ site.url }}/downloads/structure_and_condition_reports.rtf">
+        <div class="card green accent-3">
+      <div class="card-content white-text">
+        Structure and condition report<div class="chip"><i class="large material-icons">play_for_work</i>RTF, 180KB </div>
+      </div>
+    </div>
+  </a>
+  </div>
+
 </div>
+
+
 
 <br><br>
 
@@ -182,9 +211,11 @@ Using the information gathered from the assembled team and consultants, the cura
 
 <section id="accessioning" class="section scrollspy" markdown="1">
 
-![](http://placehold.it/750x350)
+
 
 ## Accessioning
+![](http://placehold.it/750x350)
+
 * What rights do we need to secure as part of the acquisition of the work?
 * Do we have what we need for the future conservation and display of the work?
 * Can we make copies for exhibition and preservation?
@@ -196,14 +227,15 @@ Contractual documents are required to acquire an artwork. Because of the complex
   <div class="col s12">
     <div class="card green accent-3">
       <div class="card-content white-text">
-        <span class="card-title">Pre-Aquisition templates</span>
-        <p>Here are some templates to assist you with the pre-acquisition process...</p>
+        <span class="card-title">Download templates</span>
+        <p>Here are some templates to assist you with the accessioning process...</p>
+<div markdown="1">
+* [Purchase agreement]({{ site.url }}/downloads/mattersmediaart_purchaseagreement.rtf) (RTF, 34KB)
+* [Copyright agreeement]({{ site.url }}/downloads/mattersmediaart_copyrightlicense.rtf) (RTF, 42KB)
+* [Deed of gift]({{ site.url }}/downloads/mattersmediaart_deedofgift.doc) (RTF, 30KB)
+</div>
       </div>
-      <div class="card-action">
-        <a class="white-text" href="{{ site.url }}/downloads/installationinstructions_1.rtf">Installation specifications</a>
-        <a class="white-text" href="{{ site.url }}/downloads/mattersmediaart_costassessmenttemplate.xls">Cost assessment</a>
-        <a class="white-text" href="{{ site.url }}/downloads/structure_and_condition_reports.rtf">Structure and condition report</a>
-      </div>
+
     </div>
   </div>
 </div>
@@ -268,22 +300,6 @@ You are advised not to sign any agreement unless you first obtain legal advice. 
 2. Deed of Gift: a document that memorialises the transfer of ownership of a work of art by way of gift. AND
 3. Copyright Licence: because ownership of an artwork does not necessarily include ownership of the copyright to that artwork this document is an authorisation from the Copyright Holder to the Owner of a work of art permitting the Owner to, for example, reproduce the work in publications and/or for preservation purposes.
 
-
-<div class="row">
-  <div class="col s12">
-    <div class="card green accent-3">
-      <div class="card-content white-text">
-        <span class="card-title">Download templates</span>
-        <p>Here are some templates to assist you with the accessioning process...</p>
-      </div>
-      <div class="card-action">
-        <a class="white-text" href="{{ site.url }}/downloads/mattersmediaart_purchaseagreement.rtf">Purchase agreement</a>
-        <a class="white-text" href="{{ site.url }}/downloads/mattersmediaart_copyrightlicense.rtf">Copyright Agreement</a>
-        <a class="white-text" href="{{ site.url }}/downloads/mattersmediaart_deedofgift.doc">Deed of gift</a>
-      </div>
-    </div>
-  </div>
-</div>
 
 #### For all documents
 Before signing the contract, you will have information in hand about the work [refer to Pre-acquisition Guidelines checklist]. You will already have considered the installation details, long-term preservation and exhibition requirements, future technological developments, as well as condition assessment. At this moment you might also wish to secure a Copyright Licence between you, the new owner of the work and the Copyright Holder. Although the artist normally retains the copyright in the work, you may want to secure rights to produce images and copies of the work for a range of purposes from publicity to preservation.
