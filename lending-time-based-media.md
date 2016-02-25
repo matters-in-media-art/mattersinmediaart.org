@@ -15,8 +15,6 @@ Installation view Tate Liverpool exhibition 2006
 </span>
 
 
-
-
 The process diagram and documents for loans are guidelines and templates for owners to follow when borrowing and lending time-based media.
 
 The documents include sample templates for exhibition budgets, condition reports, facilities reports, installation documents and loan agreements. They seek to update existing practice for more traditional art by incorporating new requirements of time-based media.
