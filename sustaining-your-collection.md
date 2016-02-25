@@ -16,7 +16,7 @@ Illustration courtesy [Digital Preservation Business Case Toolkit](http://wiki.d
 
 Our aim is to provide information that is useful to those who are caring for their own collection of video artworks outside an institution, as well as small, medium and large organisations. Throughout these pages key principles are highlighted and approaches are suggested depending on the size of your collection and your available resources, namely skills, budget and infrastructure. For each section we invite you to fill in a survey, this will act as a tool to help you to outline the needs of your collection. The results will form the basis for an overall preservation system design.
 
-<section id="Core Princples" class="section scrollspy" markdown="1">
+<section id="Core-Principles" class="section scrollspy" markdown="1">
 
 #Core Principles
 
@@ -67,7 +67,7 @@ To build a team able to address the needs of your collection:
 * Consider the need for new roles and expertise 
 </section>
 
-<section id="Your Systems" class="section scrollspy" markdown="1">
+<section id="your-systems" class="section scrollspy" markdown="1">
 ##Your Systems
 
 ###Collection Management
@@ -100,7 +100,7 @@ Ensure that your storage infrastructure provides for:
 
 </section>
 
-<section id="Scoping Your Context" class="section scrollspy" markdown="1">
+<section id="scoping-your-context" class="section scrollspy" markdown="1">
 
 #Scoping Your Context
 
@@ -110,7 +110,7 @@ There are Core Principles that underpin the management of digital collections; h
 
 </section>
 
-<section id="Scoping Your Collection" class="section scrollspy" markdown="1">
+<section id="scoping-your-collection" class="section scrollspy" markdown="1">
 
 
 ##Scoping Your Collection
@@ -187,7 +187,7 @@ The first step to planning what you need is understanding what you have, and how
 
 </section>
 
-<section id="Scoping Your Resources" class="section scrollspy" markdown="1">
+<section id="scoping-your-resources" class="section scrollspy" markdown="1">
 
 ## Scoping your resources
 
@@ -205,7 +205,7 @@ If you are taking care of your own work, or if you are in a small organization, 
 
 </section>
 
-<section id="Scoping Your Systems" class="section scrollspy" markdown="1">
+<section id="scoping-your-systems" class="section scrollspy" markdown="1">
 
 ##Scoping your systems
 
@@ -268,13 +268,13 @@ These functions include:
 
 </section>
 
-<section id="Developing Your Digital Environment" class="section scrollspy" markdown="1">
+<section id="developing-your-digital-environment" class="section scrollspy" markdown="1">
 
 #Developing Your Digital Environment
 </section>
 
 
-<section id="Developing Your Collection Policies" class="section scrollspy" markdown="1">
+<section id="developing-your-collection-policies" class="section scrollspy" markdown="1">
 
 ##Define your Collection Policies
 
@@ -320,7 +320,7 @@ In a completely manual environment, you would be able to incorporate any additio
 </section>
 
 
-<section id="Developing Your Resources" class="section scrollspy" markdown="1">
+<section id="developing-your-resources" class="section scrollspy" markdown="1">
 
 ##Develop Your Resources 
 
@@ -359,7 +359,7 @@ There are a number of organisations which provide community support, training an
 </section>
 
 
-<section id="Developing Your Systems" class="section scrollspy" markdown="1">
+<section id="developing-your-systems" class="section scrollspy" markdown="1">
 
 ##Developing Your Systems 
 
