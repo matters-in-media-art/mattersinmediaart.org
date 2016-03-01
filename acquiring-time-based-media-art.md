@@ -223,54 +223,7 @@ Using the information gathered from the assembled team and consultants, the cura
 
 Contractual documents are required to acquire an artwork. Because of the complexities attached to the bundle of rights being conferred with the transfer of ownership of time-based media works, legal documents take on a greater significance than is the case with more traditional works. These documents include a purchase agreement, or a deed of gift, and a copyright licence. They specify the terms and conditions of the acquisition and help ensure that all parties understand their respective rights and obligations. The documents can be used among the following parties (which, in any given transaction, may be a museum, artist or artist’s estate, gallery or collector): purchaser, seller, donor, and copyright holder. Templates for the documents are provided here for reference purposes. Depending, of course, on the terms of each transaction, they may be used as a starting point in negotiations.
 
-## Templates for Acquisition 
-<div class="row">
 
-  <div class="col s12">
-    <a href="{{ site.url }}/downloads/mattersmediaart_copyrightlicense.rtf">
-        <div class="card green accent-3">
-      <div class="card-content black-text">
-        <h3>Copyright agreeement</h3>
-        <p>
-        Because ownership of an artwork does not necessarily include ownership of the copyright to that artwork this document is an authorisation from the Copyright Holder to the Owner of a work of art permitting the Owner to, for example, reproduce the work in publications and/or for preservation purposes</p>
-        <br>
-        <div class="chip"><i class="large material-icons">play_for_work</i>RTF, 30KB </div>
-      </div>
-    </div>
-  </a>
-  </div>
-</div>
-
-<div class="row">
-You will need either a deed of gift, or purchase agreement
-  <div class="col s6">
-    <a href="{{ site.url }}/downloads/mattersmediaart_deedofgift.doc">
-        <div class="card green accent-3">
-      <div class="card-content black-text">
-        <h3>Deed of gift</h3>
-        A document that memorialises the transfer of ownership of a work of art by way of gift
-        <br><br>
-        <div class="chip"><i class="large material-icons">play_for_work</i>RTF, 30KB </div>
-      </div>
-    </div>
-  </a>
-  </div>
-
-
-  <div class="col s6">
-    <a href="{{ site.url }}/downloads/mattersmediaart_purchaseagreement.rtf">
-        <div class="card green accent-3">
-      <div class="card-content black-text">
-        <h3>Purchase agreement</h3>
-         A contract between the Seller of the work of art and the Purchaser that controls the terms of sale.
-         <br><br>
-        <div class="chip"><i class="large material-icons">play_for_work</i>RTF, 34KB </div>
-      </div>
-    </div>
-  </a>
-  </div>
-
-</div>
 
 
 
@@ -325,41 +278,63 @@ You are advised not to sign any agreement unless you first obtain legal advice. 
 </div> <!-- end of slider -->
 
 
+## Acquisition Templates
+In the following templates, [square brackets] have been used where the information contained within them is optional or subject to change according to the particular circumstances – as well as to comment on particular issues that should be addressed when tailoring this agreement. All square brackets should eventually be removed and the information within them modified or deleted before the Agreement is signed. <span class="red-text">__Red bold font__</span> is used where the information contained within is optional as it specifically applies to time-based media.
+
+<div class="row">
+
+  <div class="col s12">
+    <a href="{{ site.url }}/downloads/mattersmediaart_copyrightlicense.rtf">
+        <div class="card green accent-3">
+      <div class="card-content black-text">
+        <h3>Copyright agreeement</h3>
+        <p>
+        Because ownership of an artwork does not necessarily include ownership of the copyright to that artwork this document is an authorisation from the Copyright Holder to the Owner of a work of art permitting the Owner to, for example, reproduce the work in publications and/or for preservation purposes. This template is an agreement between the Copyright Holder (usually the artist) and the collector (referred to as the ‘Museum’ in the document). It can be used as a general licence agreement as well as a document specific to time-based media.</p>
+        <br>
+        <div class="chip"><i class="large material-icons">play_for_work</i>RTF, 30KB </div>
+      </div>
+    </div>
+  </a>
+  </div>
+</div>
+
+<div class="row">
+You will need either a deed of gift...
+  <div class="col s12">
+    <a href="{{ site.url }}/downloads/mattersmediaart_deedofgift.doc">
+        <div class="card green accent-3">
+      <div class="card-content black-text">
+        <h3>Deed of gift</h3>
+        A document that memorialises the transfer of ownership of a work of art by way of gift. This template assumes a full gift between two parties. It can be adapted to situations where there is more than one Donee or if the gift is fractional.
+        <br><br>
+        <div class="chip"><i class="large material-icons">play_for_work</i>RTF, 30KB </div>
+      </div>
+    </div>
+  </a>
+  </div>
+
+</div>
+
+<div class="row">
+
+...or a purchase agreement
+  <div class="col s12">
+    <a href="{{ site.url }}/downloads/mattersmediaart_purchaseagreement.rtf">
+        <div class="card green accent-3">
+      <div class="card-content black-text">
+        <h3>Purchase agreement</h3>
+         A contract between the Seller of the work of art and the Purchaser that controls the terms of sale. This template can be adapted for use in situations where there is more than one Purchaser (i.e. a joint acquisition sometimes referred to as a co-ownership agreement and would need to be reviewed with the relevant co-ownership agreement and relevant co-owner(s).)
+         <br><br>
+        <div class="chip"><i class="large material-icons">play_for_work</i>RTF, 34KB </div>
+      </div>
+    </div>
+  </a>
+  </div>
+</div>
 
 
+Before signing the contract, you will have information in hand about the work [refer to Pre-acquisition Guidelines checklist]. You will already have considered the installation details, long-term preservation and exhibition requirements, future technological developments, as well as condition assessment. At this moment you might also wish to secure a Copyright Licence between you, the new owner of the work and the Copyright Holder. Although the artist normally retains the copyright in the work, you may want to secure rights to produce images and copies of the work for a range of purposes from publicity to preservation. Two copies of each agreement document are sent to the Seller for signature. Each party should retain one fully signed original.
 
-
-### The key acquisition documents are:
-1. Purchase Agreement: a contract between the Seller of the work of art and the Purchaser that controls the terms of sale. OR
-2. Deed of Gift: a document that memorialises the transfer of ownership of a work of art by way of gift. AND
-3. Copyright Licence: because ownership of an artwork does not necessarily include ownership of the copyright to that artwork this document is an authorisation from the Copyright Holder to the Owner of a work of art permitting the Owner to, for example, reproduce the work in publications and/or for preservation purposes.
-
-
-#### For all documents
-Before signing the contract, you will have information in hand about the work [refer to Pre-acquisition Guidelines checklist]. You will already have considered the installation details, long-term preservation and exhibition requirements, future technological developments, as well as condition assessment. At this moment you might also wish to secure a Copyright Licence between you, the new owner of the work and the Copyright Holder. Although the artist normally retains the copyright in the work, you may want to secure rights to produce images and copies of the work for a range of purposes from publicity to preservation.
-
-Please note the following with regard to the templates below:
-
-* [Square brackets] have been used:
-
-* where the information contained within them is optional or subject to change according to the particular circumstances.
-* to comment on particular issues that should be addressed when tailoring this agreement.
-* all square brackets should eventually be removed (using the search facility) and the information within them modified or deleted before the Agreement is signed.
-
-*** Red bold font** is used where the information contained within is optional as it specifically applies to time-based media.
-
-Two copies of each of the documents used (for example, the Purchase Agreement or the Deed of Gift and the Copyright Agreement) are sent to the Seller for signature. Each party should retain one fully signed original.
-
-#### Purchase Agreement
-
-This template can be adapted for use in situations where there is more than one Purchaser (i.e. a joint acquisition sometimes referred to as a co-ownership agreement and would need to be reviewed with the relevant co-ownership agreement and relevant co-owner(s).)
-
-In conjunction with the Purchase Agreement, secure a Copyright Licence with the copyright holder.
-
-#### Deed of Gift
-This template assumes a full gift between two parties. It can be adapted to situations where there is more than one Donee or if the gift is fractional.
-
-In conjunction with the Deed of Gift, secure a Copyright Licence with the copyright holder.
 
 Please note the following:
 
@@ -367,8 +342,6 @@ Please note the following:
 * Certificate of Authenticity: if donor is not in possession of, or cannot transfer it, you may need to obtain this document by other means, including contacting the artist, gallery or estate. In some cases there may be a charge for replacing a missing certificate.
 * Red bold font is used where artist or artist estate are the donor. If the artist is not the donor, bear in mind that you may need to obtain documents by other means as well as deleting the sections of non-relevance.
 
-#### Copyright Licence
-This template is an agreement between the Copyright Holder (usually the artist) and the collector (referred to as the ‘Museum’ in the document). It can be used as a general licence agreement as well as a document specific to time-based media.
 
 </section>
 
@@ -383,14 +356,13 @@ This template is an agreement between the Copyright Holder (usually the artist) 
 <!-- Post Acquisition -->
 
 # Post-acquisitions
+![](http://placehold.it/750x350)
+The work is catalogued and documented during this phase, and images are created for public release and for internal use. The artist may be interviewed after acquiring the work to answer remaining questions about future conservation and display. Technical and conceptual knowledge about the work is used to create a long-term conservation plan. The media, display equipment, and sculptural components are packed and stored in archival housing in favourable environments for long-term preservation.
 
 * What information do we need to have in place to establish a baseline record and for future record-keeping?
 * What is needed to prepare for the future life of the work as part of our Collection?
 * How do I prepare for interviewing the artist about the installation and conservation of the work?
 * The goal of the post-acquisition phase is to prepare the artwork for long-term preservation and future installation. This includes organising information about the work in digital and hard-copy format.
-
-
-The work is catalogued and documented during this phase, and images are created for public release and for internal use. The artist may be interviewed after acquiring the work to answer remaining questions about future conservation and display. Technical and conceptual knowledge about the work is used to create a long-term conservation plan. The media, display equipment, and sculptural components are packed and stored in archival housing in favourable environments for long-term preservation.
 
 ## Notify artist
 All parties must be notified after completing the acquisition process, including the artist and vendor (or donor)
@@ -407,7 +379,7 @@ Produce/acquire images for public release and internal reference
 
 
 <div markdown="1">
-<h2 class="title">Catalogue and inventory artwork</h2>
+<h2 class="title">Catalogue and inventory </h2>
 Time-based media works require more complex cataloguing than traditional works of art. Some collecting institutions create separate databases for the additional metadata associated with these works. Decisions about what information to catalogue and how to catalogue it must be made carefully, following discussion among registration, curatorial, collections management, and conservation staff, and information systems staff.
 
 Useful website for moving image archive cataloguing: IMAP Cataloguing Project
@@ -449,20 +421,14 @@ These files will grow as the work is exhibited, loaned, and conserved. Most inst
 
 </div> <!-- end of slider -->
 
-![](http://placehold.it/750x350)
-
-
-## Document artwork
-Review documentation from artist/vendor/donor. Is it sufficient for long-term care and future installation?
-
 
 <div id="post-acq-slider-2" class="liquid-slider">
     
 
-
-
 <div markdown="1">
 <h2 class="title">Document installed artwork</h2>
+Review documentation from artist/vendor/donor. Is it sufficient for long-term care and future installation?
+
 * Documenting time-based media art includes recording the work in its existing state as it enters the collection:
 * Photograph the installation and its individual components
 * Videotape the initial installation
