@@ -8832,10 +8832,13 @@ ul.table-of-contents {
   padding-top: 48px; }
 
 ul.submenu{
-  padding-left: 15px;
-  margin-left: 25px;
+  margin-left: 15px;
   font-size: 14px;
   padding-top: 0;
+}
+
+.submenu li{
+  line-height: 1px;
 }
 
 code, pre {
