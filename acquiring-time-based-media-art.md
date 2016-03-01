@@ -157,7 +157,7 @@ Using the information gathered from the assembled team and consultants, the cura
 
 <br><br>
 
-###Templates for Acquisition process
+###Pre-Acquisition templates
 
 
 <div class="row">
@@ -223,22 +223,56 @@ Using the information gathered from the assembled team and consultants, the cura
 
 Contractual documents are required to acquire an artwork. Because of the complexities attached to the bundle of rights being conferred with the transfer of ownership of time-based media works, legal documents take on a greater significance than is the case with more traditional works. These documents include a purchase agreement, or a deed of gift, and a copyright licence. They specify the terms and conditions of the acquisition and help ensure that all parties understand their respective rights and obligations. The documents can be used among the following parties (which, in any given transaction, may be a museum, artist or artist’s estate, gallery or collector): purchaser, seller, donor, and copyright holder. Templates for the documents are provided here for reference purposes. Depending, of course, on the terms of each transaction, they may be used as a starting point in negotiations.
 
+## Templates for Acquisition 
 <div class="row">
-  <div class="col s12">
-    <div class="card green accent-3">
-      <div class="card-content white-text">
-        <span class="card-title">Download templates</span>
-        <p>Here are some templates to assist you with the accessioning process...</p>
-<div markdown="1">
-* [Purchase agreement]({{ site.url }}/downloads/mattersmediaart_purchaseagreement.rtf) (RTF, 34KB)
-* [Copyright agreeement]({{ site.url }}/downloads/mattersmediaart_copyrightlicense.rtf) (RTF, 42KB)
-* [Deed of gift]({{ site.url }}/downloads/mattersmediaart_deedofgift.doc) (RTF, 30KB)
-</div>
-      </div>
 
+  <div class="col s12">
+    <a href="{{ site.url }}/downloads/mattersmediaart_copyrightlicense.rtf">
+        <div class="card green accent-3">
+      <div class="card-content black-text">
+        <h3>Copyright agreeement</h3>
+        <p>
+        Because ownership of an artwork does not necessarily include ownership of the copyright to that artwork this document is an authorisation from the Copyright Holder to the Owner of a work of art permitting the Owner to, for example, reproduce the work in publications and/or for preservation purposes</p>
+        <br>
+        <div class="chip"><i class="large material-icons">play_for_work</i>RTF, 30KB </div>
+      </div>
     </div>
+  </a>
   </div>
 </div>
+
+<div class="row">
+You will need either a deed of gift, or purchase agreement
+  <div class="col s6">
+    <a href="{{ site.url }}/downloads/mattersmediaart_deedofgift.doc">
+        <div class="card green accent-3">
+      <div class="card-content black-text">
+        <h3>Deed of gift</h3>
+        A document that memorialises the transfer of ownership of a work of art by way of gift
+        <br><br>
+        <div class="chip"><i class="large material-icons">play_for_work</i>RTF, 30KB </div>
+      </div>
+    </div>
+  </a>
+  </div>
+
+
+  <div class="col s6">
+    <a href="{{ site.url }}/downloads/mattersmediaart_purchaseagreement.rtf">
+        <div class="card green accent-3">
+      <div class="card-content black-text">
+        <h3>Purchase agreement</h3>
+         A contract between the Seller of the work of art and the Purchaser that controls the terms of sale.
+         <br><br>
+        <div class="chip"><i class="large material-icons">play_for_work</i>RTF, 34KB </div>
+      </div>
+    </div>
+  </a>
+  </div>
+
+</div>
+
+
 
 ## Accessioning guidelines
 The accessioning phase lies between formally agreeing to acquire a work and actually being in a position, with everything in place, to accession a work into a collection. It is a moment when you make sure that you have everything that was agreed as part of the purchase or gift. In the case of traditional works of art, for example a painting, this is the moment when you check the painting arrived, that it is the painting you thought you were buying and that it is in the expected condition. The end of this phase is marked by legal title passing to the new owner.
