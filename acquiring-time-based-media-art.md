@@ -224,7 +224,9 @@ Using the information gathered from the assembled team and consultants, the cura
 Contractual documents are required to acquire an artwork. Because of the complexities attached to the bundle of rights being conferred with the transfer of ownership of time-based media works, legal documents take on a greater significance than is the case with more traditional works. These documents include a purchase agreement, or a deed of gift, and a copyright licence. They specify the terms and conditions of the acquisition and help ensure that all parties understand their respective rights and obligations. The documents can be used among the following parties (which, in any given transaction, may be a museum, artist or artist’s estate, gallery or collector): purchaser, seller, donor, and copyright holder. Templates for the documents are provided here for reference purposes. Depending, of course, on the terms of each transaction, they may be used as a starting point in negotiations.
 
 
+</section>
 
+<section id="accessioning-guidelines" class="section scrollspy" markdown="1">
 
 
 ## Accessioning guidelines
@@ -276,6 +278,11 @@ You are advised not to sign any agreement unless you first obtain legal advice. 
 
 
 </div> <!-- end of slider -->
+
+
+</section>
+
+<section id="accessioning-templates" class="section scrollspy" markdown="1">
 
 
 ## Acquisition Templates
@@ -342,8 +349,8 @@ Please note the following:
 * Certificate of Authenticity: if donor is not in possession of, or cannot transfer it, you may need to obtain this document by other means, including contacting the artist, gallery or estate. In some cases there may be a charge for replacing a missing certificate.
 * Red bold font is used where artist or artist estate are the donor. If the artist is not the donor, bear in mind that you may need to obtain documents by other means as well as deleting the sections of non-relevance.
 
-
 </section>
+
 
 
 
