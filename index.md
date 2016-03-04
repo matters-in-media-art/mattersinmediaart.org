@@ -21,10 +21,10 @@ title: Matters in Media Art
 
 </div>
 
-<div class="col l8 m12 s12" markdown="1">
+<div class="col l9 m12 s12" markdown="1">
 
 <div class="card-panel white flow-text">
-A multi-phase project designed to provide guidelines for care of time-based media works of art. Collaborating towards the care of time-based media - a multi-phase project designed to provide guidelines for care of time-based media works of art.
+This site aims to be a resource for collectors, artists, and institutions of all sizes caring for works of art that have moving image, electronic, and digital elements. If you have questions about how to acquire and preserve these works, here you will find practical tools and examples to guide you.
 <img src="{{site.baseurl}}/img/mattermediaart_logos.jpg">
 </div>
 
