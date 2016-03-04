@@ -5,7 +5,7 @@ title: Matters in Media Art
 
 
 
-<video autoplay loop poster="mma-landing-1.png" id="bgvid">
+<video autoplay loop poster="vid/mma-landing-1.jpg" id="bgvid">
     <source src="vid/mma-landing-1.webm" type="video/webm">
     <source src="vid/mma-landing-1.mp4" type="video/mp4">
 </video>
