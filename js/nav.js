@@ -75,7 +75,6 @@ else if ($(window).width() > 600) {
 
 // when the menu / close button is clicked
     $('.menuicon').click(function(){
-        if ($(document).scrollTop() > 120){
             if ($('#nav').height() < 100) {
                 $('#nav').stop().animate({height:navHeightExpanded}, 150);
                 $('#nav-pages').stop().animate({opacity:'1'},300);
@@ -86,7 +85,7 @@ else if ($(window).width() > 600) {
                $('#nav-pages').stop().animate({opacity:'0'},300);
                 $('.contextualmenu').stop().animate({top:'44px'},150);
             }
-        }
+        
     });
 
 
