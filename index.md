@@ -12,7 +12,7 @@ title: Matters in Media Art
 
 <div class="row" markdown="1">
 
-<div class="col l6 m12 s12" markdown="1">
+<div class="col l7 m9 s12" markdown="1">
 
 <div class="card-panel white" markdown="1">
 # Guidelines for the care of time-based media artworks
