@@ -5,40 +5,36 @@ title: Matters in Media Art
 
 
 
-
-<div class="row" markdown="1">
-<div class="col l6 m12 s12 hide-on-small-only">
-	<br>
-
-<video autoplay id="bgvid" loop style="max-width:100%;">
-WCAG general accessibility recommendation is that media such as background video play through only once. Loop turned on for the purposes of illustration; if removed, the end of the video will fade in the same way created by pressing the "Pause" button 
-
-<source src="{{site.baseurl}}/bg-web.mp4" type="video/mp4">
+<video autoplay loop poster="mma-landing-1.png" id="bgvid">
+<!--     <source src="polina.webm" type="video/webm">
+ -->    <source src="vid/mma-landing-1.mp4" type="video/mp4">
 </video>
-&nbsp;
 
-</div>
+<div class="row valign-wrapper" markdown="1">
 
-<div class="col l6 m12 s12" markdown="1">
+<div class="col l7 m12 s12 valign" markdown="1">
 
+<div class="card-panel white landing-valign" markdown="1">
 # Guidelines for the care of time-based media artworks
 ![]({{site.baseurl}}/img/mattermediaart_logos.jpg)
+</div>
+
 
 </div>
 
+<div class="col l5 m12 s12 flow-text" markdown="1">
+
+<div class="card-panel white landing-valign" markdown="1">
+
+A multi-phase project designed to provide guidelines for care of time-based media works of art. Collaborating towards the care of time-based media - a multi-phase project designed to provide guidelines for care of time-based media works of art.
 </div>
-
-<div class="row" markdown="1">
-<div class="col s8 offset-s2 flow-text" markdown="1">
-
-
-This is where a really nice introductory paragraph will go. Short and sweet. For now, here is some filler text. Everyday carry letterpress wayfarers, pour-over banh mi chicharrones jean shorts kombucha skateboard before they sold out aesthetic meggings semiotics. Brooklyn master cleanse locavore, helvetica lo-fi tacos freegan letterpress wayfarers crucifix microdosing disrupt yuccie actually.
-
 
 
 
 </div>
-</div> <!-- end of row 1 -->
+</div>
+
+
 
 
 <!-- <div class="row" markdown="1">

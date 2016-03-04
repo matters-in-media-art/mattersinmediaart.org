@@ -1,0 +1,107 @@
+        <footer class="page-footer grey">
+          <div class="container">
+            <div class="row">
+              <div class="col l6 s12">
+                <h5 class="white-text">Matters in Media Art</h5>
+              </div>
+              <div class="col l4 offset-l2 s12">
+<!--                 <h5 class="white-text">Links</h5>
+ -->        <ul>
+          {% if site.github_username %}
+          <li>
+            <a href="https://github.com/{{ site.github_username }}">
+              <span class="icon  icon--github">
+              </span>
+
+              <span class="username">{{ site.github_username }}</span>
+            </a>
+          </li>
+          {% endif %}
+
+          {% if site.twitter_username %}
+          <li>
+            <a href="https://twitter.com/{{ site.twitter_username }}">
+              <span class="icon  icon--twitter">
+
+              </span>
+
+              <span class="username">{{ site.twitter_username }}</span>
+            </a>
+          </li>
+          {% endif %}
+        </ul>
+              </div>
+            </div>
+          </div>
+          <div class="footer-copyright">
+            <div class="container">
+            © 2015 Matters in Media Art
+            <a class="grey-text text-lighten-4 right" href="mailto:{{ site.email }}">{{ site.email }}</a>
+            </div>
+          </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.touchswipe/1.6.4/jquery.touchSwipe.min.js"></script>
+<script src="./js/jquery.liquid-slider.min.js"></script>
+<script>
+$(function(){
+     $('#main-slider').liquidSlider({
+      slideEaseFunction: "easeInOutCubic",
+      slideEaseDuration: 100,
+      includeTitle: false,
+      dynamicTabs: false,
+      heightEaseDuration: 100,
+      hoverArrows: false
+     });
+
+          $('#acq-slider').liquidSlider({
+      slideEaseFunction: "easeInOutCubic",
+      slideEaseDuration: 100,
+      includeTitle: false,
+      dynamicTabs: false,
+      heightEaseDuration: 100,
+      hoverArrows: false
+     });
+
+
+$('#eq-slider').liquidSlider({
+      slideEaseFunction: "easeInOutCubic",
+      slideEaseDuration: 100,
+      includeTitle: false,
+      dynamicTabs: false,
+      heightEaseDuration: 100,
+      hoverArrows: false
+     });
+
+$('#cost-slider').liquidSlider({
+      slideEaseFunction: "easeInOutCubic",
+      slideEaseDuration: 100,
+      includeTitle: false,
+      dynamicTabs: false,
+      heightEaseDuration: 100,
+      hoverArrows: false
+     });
+
+$('#post-acq-slider-1').liquidSlider({
+      slideEaseFunction: "easeInOutCubic",
+      slideEaseDuration: 100,
+      includeTitle: false,
+      dynamicTabs: false,
+      heightEaseDuration: 100,
+      hoverArrows: false
+     });
+
+$('#post-acq-slider-2').liquidSlider({
+      slideEaseFunction: "easeInOutCubic",
+      slideEaseDuration: 100,
+      includeTitle: false,
+      dynamicTabs: false,
+      heightEaseDuration: 100,
+      hoverArrows: false
+     });
+
+});
+
+
+</script>
+        </footer>
+            

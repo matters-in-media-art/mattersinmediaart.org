@@ -3,6 +3,13 @@ body {
   font-weight: 400;
   font-size: 18px;
   line-height: 1.58;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
 }
 
 html{
@@ -12,6 +19,28 @@ html{
 h1, h2, h3, h4, h5, h6  {
     font-family: 'Open Sans', sans-serif;
 
+}
+
+.landing-valign{
+  margin-top: 25% !important;
+
+}
+
+video#bgvid { 
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -ms-transform: translateX(-50%) translateY(-50%);
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url(polina.jpg) no-repeat;
+    background-size: cover; 
 }
 
 #about-faq{
