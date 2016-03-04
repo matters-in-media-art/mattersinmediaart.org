@@ -6,8 +6,8 @@ title: Matters in Media Art
 
 
 <video autoplay loop poster="mma-landing-1.png" id="bgvid">
-<!--     <source src="polina.webm" type="video/webm">
- -->    <source src="vid/mma-landing-1.mp4" type="video/mp4">
+    <source src="vid/mma-landing-1.webm" type="video/webm">
+    <source src="vid/mma-landing-1.mp4" type="video/mp4">
 </video>
 
 <div class="row" markdown="1">
