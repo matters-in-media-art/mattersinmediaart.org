@@ -26,6 +26,24 @@ h1, h2, h3, h4, h5, h6  {
 */
 }
 
+@media only screen and (max-width : 600px) {
+  
+  #nav-pages{
+    margin-top: 18px !important;
+  }
+
+  nav ul li{
+          -webkit-transition: background-color .3s;
+      -moz-transition: background-color .3s;
+      -o-transition: background-color .3s;
+      -ms-transition: background-color .3s;
+      transition: background-color .3s;
+      float: none !important;
+      padding: 0;
+  }
+
+   }
+
 video#bgvid { 
     position: fixed;
     top: 50%;

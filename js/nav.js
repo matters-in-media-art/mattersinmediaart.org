@@ -31,9 +31,14 @@ $( document ).ready(function() {
 
 // set variables based on screen size
 if ($(window).width() < 600) {
-        var navHeightExpanded = 250;
+        var navHeightExpanded = 300;
         var navHeightCollapsed = 64;
-        $('#nav').stop().animate({height:navHeightExpanded}, 0);
+        $('#nav').stop().animate({height:navHeightCollapsed}, 0);
+                   $('#nav-pages').stop().animate({opacity:'0'},150);
+            $('#about-faq').stop().animate({opacity:'0'},50);
+            $('.contextualmenu').stop().animate({top:'44px'},150);
+            $('.brand-logo').stop().animate({'margin-left':'-10px'},150);
+            $('.menuicon').stop().animate({opacity:'1'},300);
 }
 else if ($(window).width() > 600) {
         var navHeightExpanded = 120;
@@ -47,7 +52,7 @@ else if ($(window).width() > 600) {
         if ($(document).scrollTop() > 1200){
             $('#backtotop').stop().animate({opacity:'1'},150);
         }
-        else if ($(document).scrollTop() > 120){
+        else if ($(document).scrollTop() > 120 && $(window).width() > 600){
             $('#nav').stop().animate({height:navHeightCollapsed}, 200);
             $('#nav-pages').stop().animate({opacity:'0'},150);
             $('#about-faq').stop().animate({opacity:'0'},50);
@@ -56,7 +61,7 @@ else if ($(window).width() > 600) {
             $('.menuicon').stop().animate({opacity:'1'},300);
 
         }
-        else if ($(document).scrollTop() < 125){
+        else if ($(document).scrollTop() < 125 && $(window).width() > 600){
             $('#nav').stop().animate({height:navHeightExpanded}, 100);
             $('#nav-pages').stop().animate({opacity:'1'},150);
             $('#about-faq').stop().animate({opacity:'1'},150);
