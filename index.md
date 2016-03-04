@@ -10,23 +10,22 @@ title: Matters in Media Art
  -->    <source src="vid/mma-landing-1.mp4" type="video/mp4">
 </video>
 
-<div class="row valign-wrapper" markdown="1">
+<div class="row" markdown="1">
 
-<div class="col l7 m12 s12 valign" markdown="1">
+<div class="col l6 m12 s12" markdown="1">
 
-<div class="card-panel white landing-valign" markdown="1">
+<div class="card-panel white" markdown="1">
 # Guidelines for the care of time-based media artworks
-![]({{site.baseurl}}/img/mattermediaart_logos.jpg)
 </div>
 
 
 </div>
 
-<div class="col l5 m12 s12 flow-text" markdown="1">
+<div class="col l8 m12 s12" markdown="1">
 
-<div class="card-panel white landing-valign" markdown="1">
-
+<div class="card-panel white flow-text">
 A multi-phase project designed to provide guidelines for care of time-based media works of art. Collaborating towards the care of time-based media - a multi-phase project designed to provide guidelines for care of time-based media works of art.
+<img src="{{site.baseurl}}/img/mattermediaart_logos.jpg">
 </div>
 
 
