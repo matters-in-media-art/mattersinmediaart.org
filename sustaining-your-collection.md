@@ -18,7 +18,7 @@ Our aim is to provide information that is useful to those who are caring for the
 
 <section id="Core-Principles" class="section scrollspy" markdown="1">
 
-#Core Principles
+## Core Principles
 
 * Do to digital works as you would to any art work: identify, catalog, describe, treat, document, and track
 * Be prepared to be unprepared: the necessary skills evolve constantly and will be found both within and beyond your walls
@@ -27,14 +27,14 @@ Our aim is to provide information that is useful to those who are caring for the
 * Digital collections require active maintenance and will not survive passive storage
 
 
-#Core Practices 
+## Core Practices 
 
-##Your collection
+### Your collection
 
 ![](http://wiki.dpconline.org/images/7/76/ArchiveData_filingcabinet.png)
 
 
-###Collection size and characteristics
+#### Collection size and characteristics
 
 To plan and develop a system for digital art you will need to know some details about your collection and its possible growth. 
 
@@ -43,11 +43,11 @@ To plan and develop a system for digital art you will need to know some details 
 * Monitor the growth patterns of your collection 
 * Establish which collections are in the scope of your digital storage project
 
-##Your Resources
+### Your Resources
 [IMAGE]
 
 
-###Budget
+#### Budget
 Your budget may include costs for both preparing your collection for storage and establishing your storage infrastructure. 
 
 * Legacy media migration
@@ -58,7 +58,7 @@ Your budget may include costs for both preparing your collection for storage and
 * People with expertise
 * Consumables
 
-###Skills
+#### Skills
 
 To build a team able to address the needs of your collection: 
 * Acquire new skills through workshops, research and conferences
@@ -68,9 +68,9 @@ To build a team able to address the needs of your collection:
 </section>
 
 <section id="your-systems" class="section scrollspy" markdown="1">
-##Your Systems
+### Your Systems
 
-###Collection Management
+#### Collection Management
 
 [IMAGE]
 
@@ -86,7 +86,7 @@ Your collection management system is an essential complement to your storage inf
 
 * Record condition information and technical information about an artwork to inform its ongoing management
 
-##Storage Infrastructure
+### Storage Infrastructure
 
 Ensure that your storage infrastructure provides for:
 
@@ -102,7 +102,7 @@ Ensure that your storage infrastructure provides for:
 
 <section id="scoping-your-context" class="section scrollspy" markdown="1">
 
-#Scoping Your Context
+## Scoping Your Context
 
 The best way to approach the challenge of sustaining your digital art depends on your context; a key element of this context is the nature of your collection. This section therefore focuses on assessing key facts about your collection of digital art, for example how large it is and what types of formats exist. The survey provided in this section is designed to help you to gather all the core information.
 
@@ -113,9 +113,9 @@ There are Core Principles that underpin the management of digital collections; h
 <section id="scoping-your-collection" class="section scrollspy" markdown="1">
 
 
-##Scoping Your Collection
+### Scoping Your Collection
 
-###Collection Size and Characteristics 
+#### Collection Size and Characteristics 
 
 The first step to planning what you need is understanding what you have, and how it might grow. 
 
@@ -189,13 +189,13 @@ The first step to planning what you need is understanding what you have, and how
 
 <section id="scoping-your-resources" class="section scrollspy" markdown="1">
 
-## Scoping your resources
+###  Scoping your resources
 
-### Budget
+####  Budget
 
 When developing a budget for costs associated with the development and implementation of storage for digital art collections, there are two different types of cost to consider: capital costs (one-time purchases of fundamental infrastructure or tools that will in theory last years) and ongoing or recurring costs that will become part of regular operating budgets and may increase as your collections grow.
 
-### Skills 
+####  Skills 
 
 The management of digital artworks requires different skills, and teamwork is essential. New skills may be acquired through education and training of existing staff, establishing new collaborations, or by hiring new staff or modifying job descriptions. Larger organisations might be able to pull together a team from across departments who together have these skills. 
 
@@ -207,9 +207,9 @@ If you are taking care of your own work, or if you are in a small organization, 
 
 <section id="scoping-your-systems" class="section scrollspy" markdown="1">
 
-##Scoping your systems
+### Scoping your systems
 
-###Collection Management 
+#### Collection Management 
 
 
 [Image]
@@ -224,7 +224,7 @@ In most cases the information about an art collection will be formed of a rich c
 
 [inline of survey]
 
-###Storage Infrastructure 
+#### Storage Infrastructure 
 
 The problem of bit preservation of data has been solved, however it does require careful management.
 
@@ -238,7 +238,7 @@ In assessing your current storage infrastructure it may be useful to ask the fol
 
 [inline of survey]
 
-###Preservation Management 
+#### Preservation Management 
 
 What is a digital repository?
 
@@ -270,15 +270,15 @@ These functions include:
 
 <section id="developing-your-digital-environment" class="section scrollspy" markdown="1">
 
-#Developing Your Digital Environment
+## Developing Your Digital Environment
 </section>
 
 
 <section id="developing-your-collection-policies" class="section scrollspy" markdown="1">
 
-##Define your Collection Policies
+### Define your Collection Policies
 
-###Define the scope of your collection 
+#### Define the scope of your collection 
 
 In order to plan for the storage and management of your collection, it is useful to define the categories of collection items and associated documentation that you hold. This might include the following:
 
@@ -289,7 +289,7 @@ In order to plan for the storage and management of your collection, it is useful
 * Documentation created or received relating to the creation process and intended display of the artwork
 You will then need to consider 
 
-##Collection Management 
+### Collection Management 
 The information held within a database, often called a Collection Management System, forms the core information needed for the following functions:
 
 * Providing an inventory of all collection items
@@ -322,7 +322,7 @@ In a completely manual environment, you would be able to incorporate any additio
 
 <section id="developing-your-resources" class="section scrollspy" markdown="1">
 
-##Develop Your Resources 
+### Develop Your Resources 
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
@@ -361,13 +361,13 @@ There are a number of organisations which provide community support, training an
 
 <section id="developing-your-systems" class="section scrollspy" markdown="1">
 
-##Developing Your Systems 
+### Developing Your Systems 
 
 Whether you are an individual artist or large institution the first step in sustaining your digital video art is knowing what you have and where it is located. An inventory could range from an excel spreadsheet, a database like Filemaker, an open source collection management software such as CollectiveAccess (http://www.collectiveaccess.org/about) or Omeka (http://omeka.org/about/) to the type of collection management system employed by museums, for example The Museum System (TMS), Mimsy or a bespoke system developed by your institution. No matter which of these systems is used, as you work through "Scoping Your Context" it is likely that the type of information you will need to scope your collection may already be found within this system, or alternatively you might want to add the information you generate through this process to your inventory.
 
 Most museums and large institutions have comprehensive collection management databases for tracking their artworks, and digital storage for their data infrastructure. In Museums, databases are usually managed by the registration and collections management department, and data storage is usually in the realm of IT. In order to evaluate your current systems for the management of collection information for digital video, talk to the registration and collections management teams as well as any IT staff supporting the systems. It is important to find out how current management systems are functioning, what they are technically capable of, for example what backup systems are already in place.
 
-### Collection Management 
+####  Collection Management 
 Depending on the scale of your collection and your systems you may decide to keep information about the artwork (for example installation instructions, acquisition details, exhibition history, documentation, conservation records, artist interviews, rights and contracts) in your repository alongside your digital video file. For larger institutions who have collections management systems which manage a complete collection, including non digital objects, there will be conventions for records management. In this situation the risks of developing a unique system of records management for digital objects may be greater than conforming to an institutional wide policy. Example risks in this situation are siloing your digital video collection, creating a situation where integration is difficult, falling outside standard upgrades of databases etc. However, if you manage a small collection and you do not have a robust collection management system that is fully supported it may represent a lower risk to store information about the artwork and its history alongside the digital video file.
 
 Whichever solution you chose it is essential that you can access the information held within the repository and relate it to any records held outside the repository. For example, you can store information about the artwork in your records management system while the digital file is kept in a digital repository.
@@ -378,23 +378,23 @@ Many artworks have associated with them a number of components. For digital vide
 
 45.2014.x1, 45.2014.x2, 45.2014.x3, etc.  or T01234.01, T01234.02 etc.
 
-### Collection Management
+####  Collection Management
 
-### Redundancy
+####  Redundancy
 
-### Fixity Check
+####  Fixity Check
 
-### Access and Security 
+####  Access and Security 
 
-### Technology Monitoring
+####  Technology Monitoring
 
-### Storage Options
+####  Storage Options
 
-### Level 1
+####  Level 1
 
-### Level 2
+####  Level 2
 
-### Level 3
+####  Level 3
 
 </section>
 
