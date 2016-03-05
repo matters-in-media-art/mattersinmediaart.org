@@ -27,7 +27,7 @@ h1, h2, h3, h4, h5, h6  {
 }
 
 @media only screen and (max-width : 600px) {
-  
+
   #nav-pages{
     margin-top: 18px !important;
   }
@@ -44,7 +44,7 @@ h1, h2, h3, h4, h5, h6  {
 
    }
 
-video#bgvid { 
+video#bgvid {
     position: fixed;
     top: 50%;
     left: 50%;
@@ -58,7 +58,7 @@ video#bgvid {
     -webkit-transform: translateX(-50%) translateY(-50%);
     transform: translateX(-50%) translateY(-50%);
     background: url(polina.jpg) no-repeat;
-    background-size: cover; 
+    background-size: cover;
 }
 
 #about-faq{
@@ -168,7 +168,7 @@ img {
 
 #nav ul a{
     font-family: 'Open Sans', sans-serif !important;
-  font-weight: 800 !important; 
+  font-weight: 800 !important;
   font-size: 20px !important;
   color: #B9B9B9;
 }
@@ -5712,12 +5712,16 @@ h1 {
 h2 {
   font-size: 2.86rem;
   line-height: 110%;
-  margin: 1.78rem 0 1.424rem 0; }
+  margin: 1.78rem 0 1.424rem 0;
+  margin-bottom: 1.3em;
+  margin-top: 1.5em; }
 
 h3 {
   font-size: 2.2rem;
   line-height: 110%;
-  margin: 1.46rem 0 1.168rem 0; }
+  margin: 1.46rem 0 1.168rem 0;
+  margin-bottom: 1.3em;
+  margin-top: 1.5em; }
 
 h4 {
   font-size: 1.48rem;
@@ -6275,7 +6279,7 @@ button.btn-floating {
      .waves-effect.waves-blue .waves-ripple {
       background-color: rgba(33, 150, 243, 0.7);
     }
-        
+
 
 .waves-notransition {
   -webkit-transition: none !important;
@@ -9011,7 +9015,7 @@ pre[class*="language-"] {
 
 footer {
   font-size: 1.2rem;
-  font-weight: 500; 
+  font-weight: 500;
 }
 
 body.parallax-demo footer {
