@@ -4,11 +4,12 @@ title: Lending Time-based media art
 ---
 
 <span class="flow-text">
-Among acquisition and exhibition, a loan constitutes another important moment within the life-span of an artwork. It provides a valuable opportunity to revise an istitution's holdings, documentation and knowledge.
+Among acquisition and exhibition, a loan constitutes another important moment within the life-span of an artwork. It provides an invaluable opportunity to revise an istitution's holdings, documentation, and knowledge.
 </span>
 
-![](http://images.tate.org.uk/sites/default/files/styles/grid-normal-12-cols/public/images/bruce_namuman_make_me_think_me_exhibition_01.jpg?itok=GhSPJEAV)
+<br>
 
+![](http://images.tate.org.uk/sites/default/files/styles/grid-normal-12-cols/public/images/bruce_namuman_make_me_think_me_exhibition_01.jpg?itok=GhSPJEAV)
 <span class="img-caption" markdown="1">
 Bruce Nauman
 _Bruce Nauman: Make Me Think Me_
