@@ -5540,9 +5540,23 @@ nav {
   nav .nav-wrapper {
     position: relative;
     height: 100%; }
+
+
     nav .nav-wrapper i {
       display: block;
       font-size: 2rem; }
+
+@media only screen and (max-width : 600px) {
+   nav .nav-wrapper i {
+      display: block;
+      font-size: 4rem; }
+
+      nav.brand-logo{
+        margin-left: 0px !important;
+      }
+
+}
+
   @media only screen and (min-width : 993px) {
     nav a.button-collapse {
       display: none; } }

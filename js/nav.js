@@ -68,11 +68,11 @@ else if ($(window).width() > 600) {
             $('#backtotop').stop().animate({opacity:'0'},150);
             $('.contextualmenu').stop().animate({top:'144px'},150);
         }
-    else if ($(document).scrollTop() > 120 && $(window).width() < 600){
-            $('#nav').stop().animate({height:navHeightCollapsed}, 200);
-            $('#nav-pages').stop().animate({opacity:'0'},150);
-            $('#about-faq').stop().animate({opacity:'0'},50);
-            $('.contextualmenu').stop().animate({top:'44px'},150);
+        else if ($(document).scrollTop() > 120 && $(window).width() < 600){
+                $('#nav').stop().animate({height:navHeightCollapsed}, 200);
+                $('#nav-pages').stop().animate({opacity:'0'},150);
+                $('#about-faq').stop().animate({opacity:'0'},50);
+                $('.contextualmenu').stop().animate({top:'44px'},150);
 
         }
         // else if ($(document).scrollTop() < 125 && $(window).width() < 600){
