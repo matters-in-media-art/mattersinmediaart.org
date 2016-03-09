@@ -334,6 +334,7 @@ There is a certain amount of information you should make sure is held with the f
     </ul>
   </div>
 </li>
+</ul>
 
 There is further information that will need to be kept in order to ensure an artwork can be preserved and displayed in the future. This can be either kept with the file or in other systems, like a database or Collection Management System.
 
