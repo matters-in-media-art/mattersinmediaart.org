@@ -295,11 +295,11 @@ In order to plan for the storage and management of your collection, it is useful
 * Documentation created or received relating to the creation process and intended display of the artwork
 You will then need to consider 
 
-> “I focus on keeping master materials of my work on the hard drives I call my “archive.” I don’t have an organized way to keep the derivative files I’ve made for various other uses. Sometimes they don’t make it into the archive, but I figure I can make any format if I have the master.”
+> “I focus on keeping master materials of my work on the hard drives I call my “archive.” I don’t have an organized way to keep the derivative files I’ve made for various other uses. Sometimes they don’t make it into the archive, but I figure I can make any format if I have the master.” - Individual
 
-> “We generally receive whatever the artist delivers us, though we have been making more of an effort to get master material. The bulk of the digital collection is H.264 .mov files for screening as well as ProRes or Uncompressed masters when we are able to receive them from the artist or gallery. In addition, we have been actively migrating our analog tape material to digital master files.”
+> “We generally receive whatever the artist delivers us, though we have been making more of an effort to get master material. The bulk of the digital collection is H.264 .mov files for screening as well as ProRes or Uncompressed masters when we are able to receive them from the artist or gallery. In addition, we have been actively migrating our analog tape material to digital master files.” - Collector 
 
-> “We keep every file we receive from the artist. When we create derivatives for preservation purposes, exhibition, or loan, every new file is given a component number in our collection management system and stored in the repository, along with details about the creation of those files. We make an access copy that goes into our DAM, so that our staff can view the collection without needing direct access to the digital repository.”
+> “We keep every file we receive from the artist. When we create derivatives for preservation purposes, exhibition, or loan, every new file is given a component number in our collection management system and stored in the repository, along with details about the creation of those files. We make an access copy that goes into our DAM, so that our staff can view the collection without needing direct access to the digital repository.” - Institution 
 
 #### Organizing information about your collection 
 
@@ -354,72 +354,126 @@ BagIt - A standard developed by the Library of Congress for the packaging of fil
 
 ####Define your preservation strategy 
 
-### Collection Management 
-The information held within a database, often called a Collection Management System, forms the core information needed for the following functions:
-
-* Providing an inventory of all collection items
-* Recording acquisition details, including information about the artist, any donor or purchase information and any key provenance information
-* History of exhibitions or displays, including loans
-* Tracking the location of physical and digital parts of collections items, including the ability to track versions of digital files as they get transcoded or migrated
-Recording condition information  and technical information about an artwork to inform its ongoing management
-
-Depending on your context and the size of your collection, a collection management system will look very different. For a small institution or individual collector, collection management functionality could be carried out using a database or spreadsheets, templates and standardised metadata. For a larger institution, a managed database will be necessary in order to:
-
-* provide a central information point with a consistent level of information about an entire collection regardless of medium or type
-* facilitate certain core workflows (for example an acquisition process or loans process)
-provide auditing and reporting functions
-* allow for access to information and the ability to edit information to be defined at a user level  
-* allow for multiple users to update information and keep it current
-
-The larger the number of users and objects and the more complex the workflows the more necessary a specialised database, ie. a collection management system, will become. Software to maintain an inventory could range from an Excel spreadsheet, a database like Filemaker, an open source collection management software such as CollectiveAccess (http://www.collectiveaccess.org/about) or Omeka (http://omeka.org/about/) to the type of collection management system employed by museums, for example The Museum System (TMS), Mimsy or a bespoke system developed by your institution. 
-
-It is uncommon to find one system that will facilitate both the collections management activities outlined above, and also digital preservation. Therefore it is often the case that different systems and tools are used for serving these two different core needs – for instance the use of a digital asset management system, or a digital repository in addition to a Collection Management System. Before building or implementing any specialized systems beyond a Collection Management System however, it is important to consider how this specialized system will integrate and communicate with your collection management system.    
-In a completely manual environment, you would be able to incorporate any additional information needed for the digital repository functions (for example checksum monitoring, format registry etc) and your core collection management information (for example location) into one database. For larger digital collections there are significant gains to be made in terms of time and accuracy in taking advantage of tools that automate certain functions within the workflow. This often creates information about your digital artworks which you will wish to record and maintain. Where specialist (often proprietary) databases exist, integration with any repository software or digital asset management systems can be a challenging, expensive and skilled operation.
-
-
-
-
-> “I used to use Excel, but it got unwieldy with too many objects. It’s also very easy to mess > it up, because it’s more for calculations and data manipulation than keeping discrete object 
-> records. So, I set up a Panorama database for Mac and have been happier with that.”
-
 </section>
-
 
 <section id="developing-your-resources" class="section scrollspy" markdown="1">
 
 ### Develop Your Resources 
 
+#### Budget
+A budget is crucial to the development of your digital environment. No matter who you are, some cost will be necessary to collect and maintain digital artworks. Drawing from the results of the survey, you can start to develop how much storage you will need and begin costing for digital storage, infrastructure and support. This can range from budgeting for hard drives to developing a cost for a robust repository supported by IT staff. Below are 3 examples of different budgets and the necessary considerations to develop these budgets. 
+
+> “We have a dedicated budget for staff and collections care for digital collections, as well as a budget for building and maintaining our storage infrastructure. Budgets are revisited annually as our growth estimates evolve.” --Institution
+
+> “We do have a budget primarily for storage and modest conservation assessments and costs. This budget was originally designed around physical storage for objects, but we have since expanded it to include budgeting for digital storage. We have a running storage cost for cloud storage [insert Amazon cloud costs here] and back up everything else to LTO tapes.” --Collector
+
+> “What budget? I have zero budget, so everything I invest in cataloging and storage feels like a stretch. But I do realize I have to keep track of my work and pay attention to storage, or else I risk losing my work. It’s hard to allocate money to save back-ups of my work when it’s not like it’s earning tons of money, but by keeping things simple I think I’ve been able to cover the basics at a reasonable cost.” --Individual
+
+In order to be able to establish a budget you will need to have gathered the following: 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
-  <div class="collapsible-header"><i class="material-icons">perm_identity</i>Ethics of conservation as applied to digital material</div>
-  <div class="collapsible-body"><p>A conservator of any type of material has a responsibility to understand and carefully document decisions made which impact the history of that material. This is also the case for digital video. The conservator is responsible for keeping careful records which reflect an understanding of what is important to preserve about a work and what the likely risks are of not being able to maintain particular properties of a work. Within a contemporary art context the artist is central to decisions regarding what is important to preserve about a work and this ongoing dialogue with the artist is an important element of what is recorded. There is an increasing acceptance within contemporary art conservation that a work of art will evolve and change over time and managing and documenting these changes is an increasingly important part of the role of the conservator.</p></div>
+  <div class="collapsible-header">Information about your collection</div>
+  <div class="collapsible-body">
+    <ul>
+      <li>namely how much material you need to store, what formats it is on, the size of the files if the material is stored as digital files and the duration of the material if it is on tape (see Scoping Your Collection).</li>
+    </ul>
+  </div>
 </li>
 <li>
-  <div class="collapsible-header"><i class="material-icons">code</i>Familiarity with Unix</div>
-  <div class="collapsible-body"><p>While you do not need to be an expert in the command line, a basic familiarity and understanding of unix is crucial in caring for digital video files.</p></div>
+  <div class="collapsible-header">Guiding Principles</div>
+  <div class="collapsible-body">
+    <ul>
+      <li>
+        Guiding principles that you have decided to follow regarding the management of your collection. Examples of these principles or policies include:
+
+        * Decisions about what will you store? Artist supplied masters, archival masters (these might be copies of the files where something has changed for example they have been transcoded into a different format, whether you want to store a current exhibition format, whether you want to store all the formats in which you have this material, whether you want to store an access copy).
+        * Decisions about whether you will keep each different component stored on its own with its own metadata or will you keep all the components you have with a particular artwork together?
+        * Decisions about what type of metadata and documentation will you keep with your components and what will be kept elsewhere? 
+</li>
+    </ul>  
+  </div>
 </li>
 <li>
-  <div class="collapsible-header"><i class="material-icons">videocam</i>Understanding of Digital Video</div>
-  <div class="collapsible-body"><p>A basic understanding of how digital video operates is an important part of  caring for this material as well as for communicating with other collaborators, vendors and IT. This includes how video is encoded, the basics of luminance and chrominance sub¬sampling, resolution, colorspace and frame rate.  </p></div>
+  <div class="collapsible-header">People and Facilities</div>
+  <div class="collapsible-body">
+    <ul>
+      <li>Details about the cost of the people and facilities you will use</li>
+    </ul>
+  </div>
 </li>
-<li>
-  <div class="collapsible-header"><i class="material-icons">zoom_in</i>Ability to identify codecs and wrappers</div>
-  <div class="collapsible-body"><p>Codecs and wrappers can be considered to be the video signal and instructions on how to play back the video. Given the speed of codec development and progression, the ability to identify codecs is necessary in gaining both intellectual control over your collection as well as identifying potential risks to the long-term preservation of your digital video material. Luckily there are excellent tools that can help with this for example</p></div>
-</li>
-<li>
-  <div class="collapsible-header"><i class="material-icons">report_problem</i>Ability to carry out diagnostics on files</div>
-  <div class="collapsible-body"><p>Using various tools allows you to gain an understanding of what the files you have consists of and how to best care for them. MediaInfo, FFprobe, and QCTools are just a few examples of digital video diagnostic tools.</p></div>
-</li>
-<li>
-  <div class="collapsible-header"><i class="material-icons">shuffle</i>Understanding and ability to perform transcoding</div>
-  <div class="collapsible-body"><p>Much like how tapes in the analogue realm were reformatted periodically as tape technology progressed in terms of resolution, digital video files may from time to time need to be transcoded for preservation and access. It is important to know how to avoid the creation of artefacts and how to maintain the quality of your collection.</p></div>
-</li>
-<li>
-  <div class="collapsible-header"><i class="material-icons">settings_brightness</i>Understanding of various display technologies</div>
-  <div class="collapsible-body"><p>Tied to an understanding of video technology is a basic understanding of various display technologies so that you can ensure you are faithfully playing back your digital video. This includes the basic mechanics of Cathode Ray Tube (CRT) displays, Flatscreens (LED, Plasma, OLED, LCD, and various playback devices (Brightsigns, DVD players, Blu¬ray players, etc.).
-There are a number of organisations which provide community support, training and information regarding developments in digital video. However, developing skills and expertise takes commitment and a focussed amount of time especially in a rapidly evolving field. If your digital video collection represents only a small amount of your overall collection you might want to develop a network of trusted experts who can support you to care for your collection. In this scenario you will still need to develop some degree of knowledge in order to be able to understand and engage in the key decisions which will need to be made. </p></div>
-</li>
+  <li>
+    <div class="collapsible-header">Storage</div>
+    <div class="collapsible-body">
+      <ul> 
+        <li>Details about the cost of increasing storage</li>
+      </ul>
+    </div>
+  </li>
+    <li>
+    <div class="collapsible-header">Consumables</div>
+    <div class="collapsible-body">  
+      <ul>
+        <li>Details about the cost of any consumables</li>
+      </ul>
+    </div>
+   </li>
+   <li>
+      <div class="collapsible-header">Processing Time</div>
+    <div class="collapsible-body">
+      <ul>
+        <li> Information about how long processes will take of someone’s hands on time (some processes might take many hours of computer time to process but they only need to be monitored rather than take 100% of someone’s time). Example processes are initial assessment of material, cataloguing and documentation, preparing for ingest or transfer to storage, ingest or transfer to storage. 
+If you want your budget to link to planning you might also want to know how long it will take to complete the process from start to finish for a single item.</li>
+      </ul>
+    </div> 
+  </li>
 </ul>
+
+#### Roles
+There are some skills necessary for the proper care and maintenance of digital objects. Not everyone will be able to acquire ALL of the necessary skills, so collaboration with others is crucial to the successful care of your digital collection. Whether you hire outside consultants or staff, here is a list of skills that are necessary to for the development of your digital environment. 
+
+</li>
+    </ul>  
+  </div>
+</li>
+<li>
+  <div class="collapsible-header">Conservator</div>
+  <div class="collapsible-body">
+    <ul>
+      <li></li>
+    </ul>
+  </div>
+</li>
+  <li>
+    <div class="collapsible-header">IT</div>
+    <div class="collapsible-body">
+      <ul> 
+        <li></li>
+      </ul>
+    </div>
+  </li>
+    <li>
+    <div class="collapsible-header">Curatorial</div>
+    <div class="collapsible-body">  
+      <ul>
+        <li></li>
+      </ul>
+    </div>
+   </li>
+   <li>
+      <div class="collapsible-header">Registrar</div>
+    <div class="collapsible-body">
+      <ul>
+        <li> </li>
+      </ul>
+    </div> 
+  </li>
+</ul>
+
+> “I have the skills to do the cataloging and copying files for back-ups. I can do some tape transfers using my own decks. For some transfers I go to specialists, if the original material has a condition issue or I don’t have the deck. I work with a professional editor for transcoding or remastering digital video, because I don’t understand all the variables well enough to get the quality result that I want. You can spend a lot of time and not get the results you want, or you’ll find out after the fact that it would have been better if you’d done it a different way.” -Individual 
+
+> “We have a full time manager of the collection who oversees all aspects of the acquisition, lending and general care of the art material. In addition, we have a support staff of part time employees who specialize in cataloguing, art handling and general care/maintenance of the collection. As we have acquire more digital material, we have hired consultants to get us up to speed and adapt our collection management software to accommodate this material and set us up with the cloud storage and workflow for backing everything up.” - Collector
+
+> “We have a full-time Media Conservator, Assistant Media Conservator, and a Digital Repository Manager, supported by our IT department. Our AV department handles the installation and maintenance of display equipment. We also have several staff members dedicated to the management of TMS, our collection management database.” - Institution
 
 </section>
 
@@ -438,38 +492,153 @@ History of exhibitions or displays, including loans
 Tracking the location of physical and digital parts of collections items, including the ability to track versions of digital files as they get transcoded or migrated
 Recording condition information  and technical information about an artwork to inform its ongoing management
 
-“I used to use a spreadsheet, but it got unwieldy with too many objects. It’s also designed for calculations and data manipulation, not keeping discrete object records. I now have a database that can accommodate much more information, and is much easier to navigate and search.” 
+> “I used to use a spreadsheet, but it got unwieldy with too many objects. It’s also designed for calculations and data manipulation, not keeping discrete object records. I now have a database that can accommodate much more information, and is much easier to navigate and search.” - Individual 
+
 Depending on your context and the size of your collection, a collection management system will look very different. For a small institution or individual collector, collection management functionality could be carried out using a database or spreadsheets, templates and standardised metadata. For a larger institution, a managed database will be necessary in order to:
-provide a central information point with a consistent level of information about an entire collection regardless of medium or type
-facilitate certain core workflows (for example an acquisition process or loans process)
-provide auditing and reporting functions
-allow for access to information and the ability to edit information to be defined at a user level  
-allow for multiple users to update information and keep it current
+
+* provide a central information point with a consistent level of information about an entire collection regardless of medium or type
+* facilitate certain core workflows (for example an acquisition process or loans process)
+* provide auditing and reporting functions
+* allow for access to information and the ability to edit information to be defined at a user level  
+* allow for multiple users to update information and keep it current
+
 The larger the number of users and objects and the more complex the workflows the more necessary a specialised database, ie. a collection management system, will become. Software to maintain an inventory could range from an Excel spreadsheet, a database like Filemaker, an open source collection management software such as CollectiveAccess (http://www.collectiveaccess.org/about) or Omeka (http://omeka.org/about/) to the type of collection management system employed by museums, for example The Museum System (TMS), Mimsy or a bespoke system developed by your institution. 
 
-“We use a free, web-based open source database that’s designed for museums. It allows us to assign everything a unique identifier which is connected to the main artwork. We can add acquisition, loan, and location information to the main record, and even use barcodes to track movement of physical collection objects.”
+> “We use a free, web-based open source database that’s designed for museums. It allows us to assign everything a unique identifier which is connected to the main artwork. We can add acquisition, loan, and location information to the main record, and even use barcodes to track movement of physical collection objects.” - Collector 
+
 It is uncommon to find one system that will facilitate both the collections management activities outlined above, and also digital preservation. Therefore it is often the case that different systems and tools are used for serving these two different core needs – for instance the use of a digital asset management system, or a digital repository in addition to a Collection Management System. Before building or implementing any specialized systems beyond a Collection Management System however, it is important to consider how this specialized system will integrate and communicate with your collection management system.    
 In a completely manual environment, you would be able to incorporate any additional information needed for the digital repository functions (for example checksum monitoring, format registry etc) and your core collection management information (for example location) into one database. For larger digital collections there are significant gains to be made in terms of time and accuracy in taking advantage of tools that automate certain functions within the workflow. This often creates information about your digital artworks which you will wish to record and maintain. Where specialist (often proprietary) databases exist, integration with any repository software or digital asset management systems can be a challenging, expensive and skilled operation.
 
-“We are a museum using TMS. We create an object record for the work and then create separate components for each physical or digital object that is part of that work. It enables us to record attributes, relationships, and contextual information, effectively centralizing the essential information about complex works with many elements.”
+> “We are a museum using TMS. We create an object record for the work and then create separate components for each physical or digital object that is part of that work. It enables us to record attributes, relationships, and contextual information, effectively centralizing the essential information about complex works with many elements.” - Institution 
 
-####  Collection Management
 
-####  Redundancy
+####  Designing your storage
 
-####  Fixity Check
+This section outlines the key elements associated with the design and build of reliable storage for long term digital preservation. The content has been arranged to address a range of situations; whether you are an individual who is designing a low risk personal storage solution, through to a large organisation. No matter the size of your collection the following core principles need to be considered when designing your storage:
 
-####  Access and Security 
+</li>
+    </ul>  
+  </div>
+</li>
+<li>
+  <div class="collapsible-header">Geographic Redundancy</div>
+  <div class="collapsible-body">
+    <ul>
+      <li>Multiple copies of data should be held at different geographical locations, and a disaster recovery plan should be in place.</li>
+    </ul>
+  </div>
+</li>
+  <li>
+    <div class="collapsible-header">Fixity checking</div>
+    <div class="collapsible-body">
+      <ul> 
+        <li>Regularly monitoring digital files in order to detect corruption or unwanted changes to your data.</li>
+      </ul>
+    </div>
+  </li>
+    <li>
+    <div class="collapsible-header">Access and Security </div>
+    <div class="collapsible-body">  
+      <ul>
+        <li>The speed and restriction of access to data needs to be appropriate for its intended use and the level of protection required.  </li>
+      </ul>
+    </div>
+   </li>
+   <li>
+      <div class="collapsible-header">Technology monitoring </div>
+    <div class="collapsible-body">
+      <ul>
+        <li> Trends in storage technology should be monitored to assess when migration to new storage media will be necessary. </li>
+      </ul>
+    </div> 
+  </li>
+</ul>
 
-####  Technology Monitoring
 
-####  Storage Options
+#####  Geographic Redundancy 
+Hardware: potential options (2016)
 
-####  Level 1
+* 0 to 5TB in the next 5 years and small budget -RAID 1
+* 5TB to 25TB - RAID-5 or 6 or 7
+* 25TB and higher - some kind of enterprise storage - OR - multiple RAID 5 or 6 or 7 that support daisy chaining
 
-####  Level 2
+Keeping multiple copies in sync: potential options
 
-####  Level 3
+* Manual (sneakernet)
+* Peer-to-peer file sharing (P2P)
+* Cloud service (i.e. dropbox, crashplan, http://www.cloudwards.net...)
+
+> “I want to keep this as simple as possible so to achieve my 3 copies and multiple geographical locations, I purchased three RAID 1 drives. One for my studio, one for my home, and one for my friend’s home. To keep my three RAID 1 drives in synchronisation I manually sync my studio drive with my home drive on a weekly basis, and then manually sync with my friend’s drive twice a year.” - Individual 
+
+> “I have about 10TB of data, which I do not access that frequently and have the funds to pay an annual fee to storage my data in the cloud.” 
+“We have about 10TB of data, and expects to only have 15TB in five years, so we have two 18TB RAID devices that plugs right into my Mac at  home and the office. I pay an annual fee for a cloud backup service, which we can use to keep our two locations in synchronization, as well has having the benefit of the third copy in the cloud.” - Collector 
+
+> “I manages a collection that currently has 35TB. Based on acquisition analysis I estimate that over the course of the next five years, we will grow to around 50TB. In consultation with our IT department, I found out that they actually already have some storage infrastructure at two locations, both of which can scale to this size. They added the amount of storage that we needed for this year’s growth, and have budgeted for the anticipated growth over the next five years. I conveyed to IT that these digital artworks are very valuable, and so they have set carefully considered read/write access permissions that are more restrictive than the policies set for other kinds of data managed on this system. Ideally we should have three copies in three locations, but unfortunately the budget can not accommodate cloud storage, or building a third data center, so as an alternative I currently manually back the data up to LTO tapes which we store in a third location in the event that we need to recover from a disaster.” - Institution 
+
+The lifetime of a hard-drive varies from three months to five years. If you only have one hard drive and it breaks down, data recovery is very costly, and can be catastrophic. As a rule of thumb: One copy is no copy. Save three copies of your data on at least two mediums (e.g. hard drive, server, LTO tape, flash drive, cloud) and in at least two geographic locations.
+In the Storage Options section  each type of storage pool has different characteristics. These characteristics are generally dictated by the purpose of any given copy of your data. A duplicate copy of your data may be maintained for high availability, disaster recovery, or recovery from accidental modification or deletion (or a combination of these purposes).
+
+High-availability: This is a redundant copy of your data maintained for the ability to provide easy access to the data with no downtime in the event of loss of the primary copy. Typically this means an exact duplicate of the primary infrastructure at an off site location, with an equivalent connection to the outside world or access points. This infrastructure would contain a complete and up to date copy of your entire collection. With high-availability copies of data, ease of access is paramount.
+
+Disaster recovery: When maintaining a copy of data for disaster (for instance, in the event of fire, flood, or earthquake) recovery purposes, the goal is simply to be able to retrieve, rebuild, and access your data. Within reason, ease of access is not a priority. An LTO tape stored off-site is one example of a suitable medium for a disaster recovery backup.
+
+##### Fixity Checking 
+
+When creating a secure storage environment for your data, you will want to make sure the data itself stays safe and does not change without your knowledge. This process is known as fixity, and in digital preservation this is achieved by generating checksums for your files which are monitored by re-checking, on a regular basis.
+
+Simply put, your file is run through a certain algorithm (the most commonly used algorithms are MD5 and SHA) that produces a unique alphanumeric sequence. The slightest change to your file will produce a completely different checksum. With this simple process, it is possible to identify any changes to your files. The types of changes which can be identified with this method are those which indicate corruption, loss of data, or unintended manipulation. If you have an automatic monitoring system in place, it would alert you if such a change occurs.
+
+Calculate checksums as soon as you’ve received or created a file. This could mean creating checksums as you export a file from the hard drive on which an artwork was received, or as soon as you have exported a file from an editing program or on digitized a tape.
+
+RAID and enterprise storage systems, provide what could be considered a basic form of fixity. Data in these systems are monitored for integrity at the block-level – meaning the smaller blocks of data that a file is composed of. If one hard drive fails, the system can restore the lost data by using the redundant data block and the checksum. This however only detects data corruption that occurs as the fault of the storage device itself – it would not be aware of the accidental corruption, modification, or deletion of a file as enacted by a user or piece of software. In digital preservation we use checksums at the file-level in addition to block-level checks. 
+
+A checksum enhances these block-level checks insofar as it is a portable piece of evidence that can travel with a file, and be checked, regardless of storage the type of storage system it resides on –  it can prove that a file has not been modified since chain of custody was established.
+
+Checksum Tools 
+
+These tools can simply generate checksums – out of the box, they will not necessarily store the checksum value, or facilitate the verification of a checksum.
+
+* <a href="https://en.wikipedia.org/wiki/Md5sum">md5</a> - This can be run via Terminal on Mac or Linux. 
+* <a href="https://en.wikipedia.org/wiki/Sha1sum">shasum</a> - This can be run on Mac, Linux and Windows. 
+* FCIV (File Checksum Integrity Verifier) – windows command line tool for generating MD5 or SHA1 checksums.
+
+These tools create checksums, store the values, and facilitate the verification of checksums after the fact.
+
+Checksum+ (OS X). With this tool you can just select a file and it will create a checksum for you, stored within an .md5 file, in the same location, with the same name as your file. Double-clicking this .md5 file will run a fixity check and tell you, if everything’s ok. If you open it with a text editor, it will show you the MD5 checksum as well as the file it is pointing to. It is important that both the .md5 and the original file are stored in the same folder. https://support.apple.com/en-us/HT201259
+Fastsum - http://www.fastsum.com/ for windows.
+BagIt, developed by the Library of Congress, this tool is used in a command line interface[2]. BagIt was originally created to safely transfer files from one place to another, by packaging the original data in a ‘bag’ (folder) and creating checksums for each file within that bag. It also stores information about the date and software version as text-files within the bag, and creates checksums of all these text-files, including the checksum files themselves.https://en.wikipedia.org/wiki/BagIt, https://www.youtube.com/playlist?list=PL1763D432BE25663D 
+AVPreserve has created a tool, Fixity, that enables the user to identify seven directories that the program can check automatically on a monthly, weekly or daily basis. https://www.avpreserve.com/tools/fixity/ 
+Archivematica comes with a command-line based tool for running fixity checks
+Nagios The open source industry standard in IT infrastructure monitoring and alerting https://www.nagios.com/products/nagios-core/  Various checksum plugins are available, http://bit.ly/1p5KDGO
+For more possible check sum tools see: http://coptr.digipres.org/Category:Fixity
+
+> “I generate checksums using BagIt at the point of acquisition to ensure safe transport to my centralized storage device. Once the materials enter our repository, AVPreserve’s “Fixity” tool is implemented. It’s incredibly useful because it runs in the background, and not only alerts us to modified files, but also deleted, moved, renamed and new files since the previous check.” - Individual 
+
+> “I immediately use BagIt to transfer my files onto the server from the acquired hard drive into a bag and put a schedule in place where I verify the checksums monthly. Since I have my files in 3 locations, I run the ‘bag verifyvalid’ command on all of the bags in all three locations. I used to do this manually, but my IT department wrote a very simple bash script that runs the ‘bag verifyvalid’ command against any and all bags in the location supplied to the bash script.” - Collector 
+
+> “I don’t manually create or check any checksums, but I researched it thoroughly and found that the cloud service that I use for syncing between my three locations does in fact checksum files, and retain infinite version history. So if I ever found that I couldn’t open a file because it became corrupt, or was accidentally deleted, in theory, I could revert back to the last known good state. The only downside to this is that it doesn’t automatically notify me if something is deleted, modified, or corrupted, because it doesn’t know the difference between accidental and intentional modification.” - Individual 
+
+> “I partner with my IT department as they have to meet standards of something called PCI compliance which requires them to have software for monitoring file integrity for security purposes. They have software such as Nagios or Tripwire, which can be configured to schedule the monitoring of checksums and they handle the enterprise reliability of these systems in addition to sending me email alerts if anything has changed.” - Institution 
+
+> “We use an on-premises but remotely managed digital preservation software as service (SaaS) solution. We generate checksums using BagIt at the point of acquisition, but once materials enter our repository, fixity is monitored and managed by our service provider.” - Institution
+
+
+##### Access and Security 
+
+> “My biggest concern is people using master material without permission. Once I provide high-quality materials for one purpose, they sometimes travel and reappear elsewhere without permission. In my studio it’s not an issue; access is pretty open.” - Individual 
+
+> “Access is only open to the small staff of the collection. The RAID is internally networked and does not point “out”. There is some concern about the cloud storage system but we’ve been told it’s fairly secure. The LTO tapes are stored within our general art storage facility, which maintains a fob and key system.” - Collector 
+
+> “Different levels of permissions are set and maintained by our Digital Repository Manager, and every time a digital collection object is downloaded, there is a record of who did so and why.” - Institution 
+
+
+##### Technology Monitoring 
+
+> “I try to keep up with what are considered the best file formats to choose for long-term preservation of my master materials, using blogs and white papers put out by the digital preservation and conservation fields. However, I usually find out something is out-of-date when it stops working. I have had trouble with my back-up hard drives when I upgrade my computer or operating system, and then I have to use the old computer to move things onto new drives.”
+
+> “We lean on the expertise of our consultants to tell us what we should be looking out for. We generally try to keep to digital preservation best practices of little to no compression, open formats, etc. In terms of systems, we again rely on our consultants, who we bring in at least once a year, to assess our storage and file needs and make recommendations for us.” 
+
+> “We are able to generate statistics on the file types in our repository and we can plan accordingly.”
 
 </section>
 
