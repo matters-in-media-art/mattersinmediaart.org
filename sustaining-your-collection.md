@@ -276,7 +276,13 @@ These functions include:
 
 <section id="developing-your-collection-policies" class="section scrollspy" markdown="1">
 
-### Define your Collection Policies
+### Developing your Collection Policies
+
+Before embarking on developing systems for the preservation of your collection it is important to define your objectives. You will be able to use the information you’ve gathered in the “Scoping your Collection” section to help you make informed decisions.
+
+If you work for a large organisation you may have some work to do in convincing management of the need for digital preservation. A good first step will be to develop a policy that aligns digital preservation with the strategic objectives of your organisation. The policy should also articulate the roles and responsibilities for digital preservation and identify key stakeholders. 
+
+Regardless of the size of your collection, you will need to establish the following principles and parameters. These will help determine your requirements for systems and plan your resources. 
 
 #### Define the scope of your collection 
 
@@ -288,6 +294,64 @@ In order to plan for the storage and management of your collection, it is useful
 * Derivatives of the file made for access, exhibition or loan
 * Documentation created or received relating to the creation process and intended display of the artwork
 You will then need to consider 
+
+> “I focus on keeping master materials of my work on the hard drives I call my “archive.” I don’t have an organized way to keep the derivative files I’ve made for various other uses. Sometimes they don’t make it into the archive, but I figure I can make any format if I have the master.”
+
+> “We generally receive whatever the artist delivers us, though we have been making more of an effort to get master material. The bulk of the digital collection is H.264 .mov files for screening as well as ProRes or Uncompressed masters when we are able to receive them from the artist or gallery. In addition, we have been actively migrating our analog tape material to digital master files.”
+
+> “We keep every file we receive from the artist. When we create derivatives for preservation purposes, exhibition, or loan, every new file is given a component number in our collection management system and stored in the repository, along with details about the creation of those files. We make an access copy that goes into our DAM, so that our staff can view the collection without needing direct access to the digital repository.”
+
+#### Organizing information about your collection 
+
+You may have information about an artwork held in different places. This might include a Collection Management system, artwork records or metadata held with your digital files. 
+
+The challenge here is to ensure that when you pull a digital object from storage after many years have passed you will have the information you need to understand what the materials are, how they can be viewed properly, their purpose in relation to the artwork to which they belong, and finally the ability to validate and prove their authenticity.
+
+There is a certain amount of information you should make sure is held with the files, so that even if other information is lost, you still know what artwork it is and that the file itself has not changed. 
+
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+  <div class="collapsible-header">Core descriptive information</div>
+  <div class="collapsible-body">
+    <ul>
+      <li>Artwork title and Artist Name. If you have a Collection Management System the descriptive information should also include an identifier to that artwork’s record. These identifiers must be persistent, meaning they are permanent and will never change.</li>
+    </ul>
+  </div>
+</li>
+<li>
+  <div class="collapsible-header">Fixity</div>
+  <div class="collapsible-body">
+    <ul>
+      <li>which will allow you to check that the file has remained unchanged (see section 2b for more information)</li>
+    </ul>  
+  </div>
+</li>
+<li>
+  <div class="collapsible-header">Technical Information</div>
+  <div class="collapsible-body">
+    <ul>
+      <li>The file will have technical information embedded in its header or wrapper. If you have a large collection, you should also consider extracting this information and storing it elsewhere, so that you can search across your collection.</li>
+    </ul>
+  </div>
+</li>
+
+There is further information that will need to be kept in order to ensure an artwork can be preserved and displayed in the future. This can be either kept with the file or in other systems, like a database or Collection Management System.
+
+####Adhering to standards and best practices 
+Digital Preservation is a relatively new and rapidly evolving field, but there are already a number of established standards for the management of digital objects and metadata. Adhering to these standards helps ensure that your files can be correctly identified and interpreted in the future, and that you will be able to share information about your collection between different systems. 
+
+The most widely recognised standard for digital preservation is the <a href="http://www.oclc.org/research/publications/library/2000/lavoie-oais.html">Open Archival Information System (OAIS)</a>, developed by NASA and approved as an international standard in 2003. OAIS is a conceptual framework that defines the entities that make up an archive. Defining your designated community and ensuring that objects can be accessed and understood by this community are important concepts. The Trusted Digital Repository checklist is a useful tool for measuring your systems against the OAIS standard. 
+
+Recording information about your collection in a standardised way will help ensure that the information can be accessed and understood in the future. It will also mean that systems will recognise this information and be able to use, share and index it. Examples of metadata and packaging standards are:
+BagIt - A standard developed by the Library of Congress for the packaging of files with critical metadata, such as checksum information 
+
+<a href="http://dublincore.org/">Dublin Core</a> - A standard for recording descriptive metadata 
+
+<a href="http://www.loc.gov/standards/premis/">PREMIS</a> - An international standard for metadata to support the preservation of digital objects and ensure their long-term usability 
+
+<a href="http://www.loc.gov/standards/mets/">METS</a> - a standard for encoding descriptive, administrative, and structural metadata. 
+
+####Define your preservation strategy 
 
 ### Collection Management 
 The information held within a database, often called a Collection Management System, forms the core information needed for the following functions:
@@ -361,22 +425,32 @@ There are a number of organisations which provide community support, training an
 
 <section id="developing-your-systems" class="section scrollspy" markdown="1">
 
-### Developing Your Systems 
+### Developing Your Systems and Processes 
 
-Whether you are an individual artist or large institution the first step in sustaining your digital video art is knowing what you have and where it is located. An inventory could range from an excel spreadsheet, a database like Filemaker, an open source collection management software such as CollectiveAccess (http://www.collectiveaccess.org/about) or Omeka (http://omeka.org/about/) to the type of collection management system employed by museums, for example The Museum System (TMS), Mimsy or a bespoke system developed by your institution. No matter which of these systems is used, as you work through "Scoping Your Context" it is likely that the type of information you will need to scope your collection may already be found within this system, or alternatively you might want to add the information you generate through this process to your inventory.
-
-Most museums and large institutions have comprehensive collection management databases for tracking their artworks, and digital storage for their data infrastructure. In Museums, databases are usually managed by the registration and collections management department, and data storage is usually in the realm of IT. In order to evaluate your current systems for the management of collection information for digital video, talk to the registration and collections management teams as well as any IT staff supporting the systems. It is important to find out how current management systems are functioning, what they are technically capable of, for example what backup systems are already in place.
+This section will offer guidance on developing your own systems based on the nature of your collection and the available resources. These pages consider the different roles and responsibilities, hardware and software infrastructure and documentation models involved in developing a system for the preservation of digital art and examine the processes that tie them together. This will serve as a resource guide for designing your preservation system.
 
 ####  Collection Management 
-Depending on the scale of your collection and your systems you may decide to keep information about the artwork (for example installation instructions, acquisition details, exhibition history, documentation, conservation records, artist interviews, rights and contracts) in your repository alongside your digital video file. For larger institutions who have collections management systems which manage a complete collection, including non digital objects, there will be conventions for records management. In this situation the risks of developing a unique system of records management for digital objects may be greater than conforming to an institutional wide policy. Example risks in this situation are siloing your digital video collection, creating a situation where integration is difficult, falling outside standard upgrades of databases etc. However, if you manage a small collection and you do not have a robust collection management system that is fully supported it may represent a lower risk to store information about the artwork and its history alongside the digital video file.
+Information about your collection that’s held in one location, often called a Collection Management System, forms the core of your collection’s management and allows for the following functions: 
+Providing an inventory of all collection items
+Recording acquisition details, including information about the artist, any donor or purchase information and any key provenance information
+History of exhibitions or displays, including loans
+Tracking the location of physical and digital parts of collections items, including the ability to track versions of digital files as they get transcoded or migrated
+Recording condition information  and technical information about an artwork to inform its ongoing management
 
-Whichever solution you chose it is essential that you can access the information held within the repository and relate it to any records held outside the repository. For example, you can store information about the artwork in your records management system while the digital file is kept in a digital repository.
+“I used to use a spreadsheet, but it got unwieldy with too many objects. It’s also designed for calculations and data manipulation, not keeping discrete object records. I now have a database that can accommodate much more information, and is much easier to navigate and search.” 
+Depending on your context and the size of your collection, a collection management system will look very different. For a small institution or individual collector, collection management functionality could be carried out using a database or spreadsheets, templates and standardised metadata. For a larger institution, a managed database will be necessary in order to:
+provide a central information point with a consistent level of information about an entire collection regardless of medium or type
+facilitate certain core workflows (for example an acquisition process or loans process)
+provide auditing and reporting functions
+allow for access to information and the ability to edit information to be defined at a user level  
+allow for multiple users to update information and keep it current
+The larger the number of users and objects and the more complex the workflows the more necessary a specialised database, ie. a collection management system, will become. Software to maintain an inventory could range from an Excel spreadsheet, a database like Filemaker, an open source collection management software such as CollectiveAccess (http://www.collectiveaccess.org/about) or Omeka (http://omeka.org/about/) to the type of collection management system employed by museums, for example The Museum System (TMS), Mimsy or a bespoke system developed by your institution. 
 
-Every artwork should have a unique ID that can be identified across systems. Most collections have a system of assigning accession numbers, for example at MoMA 45.2014 would be a unique number which refers to the 45th work acquired in 2014. For Tate T01234 is simply a unique number assigned at acquisition. These accession numbers may also be underpinned by alternate numbers which allow for a persistent link between the artwork and its associated information.
+“We use a free, web-based open source database that’s designed for museums. It allows us to assign everything a unique identifier which is connected to the main artwork. We can add acquisition, loan, and location information to the main record, and even use barcodes to track movement of physical collection objects.”
+It is uncommon to find one system that will facilitate both the collections management activities outlined above, and also digital preservation. Therefore it is often the case that different systems and tools are used for serving these two different core needs – for instance the use of a digital asset management system, or a digital repository in addition to a Collection Management System. Before building or implementing any specialized systems beyond a Collection Management System however, it is important to consider how this specialized system will integrate and communicate with your collection management system.    
+In a completely manual environment, you would be able to incorporate any additional information needed for the digital repository functions (for example checksum monitoring, format registry etc) and your core collection management information (for example location) into one database. For larger digital collections there are significant gains to be made in terms of time and accuracy in taking advantage of tools that automate certain functions within the workflow. This often creates information about your digital artworks which you will wish to record and maintain. Where specialist (often proprietary) databases exist, integration with any repository software or digital asset management systems can be a challenging, expensive and skilled operation.
 
-Many artworks have associated with them a number of components. For digital video these may be different exhibition formats, access copies or archival formats. A digital video artwork may also be made up of multiple channels of video with a discrete file for each channel. It is useful to create component numbers for these items for example
-
-45.2014.x1, 45.2014.x2, 45.2014.x3, etc.  or T01234.01, T01234.02 etc.
+“We are a museum using TMS. We create an object record for the work and then create separate components for each physical or digital object that is part of that work. It enables us to record attributes, relationships, and contextual information, effectively centralizing the essential information about complex works with many elements.”
 
 ####  Collection Management
 
