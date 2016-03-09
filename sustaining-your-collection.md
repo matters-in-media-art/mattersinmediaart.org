@@ -431,10 +431,7 @@ If you want your budget to link to planning you might also want to know how long
 #### Roles
 There are some skills necessary for the proper care and maintenance of digital objects. Not everyone will be able to acquire ALL of the necessary skills, so collaboration with others is crucial to the successful care of your digital collection. Whether you hire outside consultants or staff, here is a list of skills that are necessary to for the development of your digital environment. 
 
-</li>
-    </ul>  
-  </div>
-</li>
+
 <li>
   <div class="collapsible-header">Conservator</div>
   <div class="collapsible-body">
@@ -516,10 +513,6 @@ In a completely manual environment, you would be able to incorporate any additio
 
 This section outlines the key elements associated with the design and build of reliable storage for long term digital preservation. The content has been arranged to address a range of situations; whether you are an individual who is designing a low risk personal storage solution, through to a large organisation. No matter the size of your collection the following core principles need to be considered when designing your storage:
 
-</li>
-    </ul>  
-  </div>
-</li>
 <li>
   <div class="collapsible-header">Geographic Redundancy</div>
   <div class="collapsible-body">
@@ -552,7 +545,7 @@ This section outlines the key elements associated with the design and build of r
       </ul>
     </div> 
   </li>
-</ul>
+
 
 
 #####  Geographic Redundancy 
