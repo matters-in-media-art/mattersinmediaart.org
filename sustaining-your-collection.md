@@ -526,6 +526,7 @@ This section outlines the key elements associated with the design and build of r
           <li> Fixity Checking - Regularly monitoring digital files in order to detect corruption or unwanted changes to your data. </li>
           <li> Access and Security - The speed and restriction of access to data needs to be appropriate for its intended use and the level of protection required. </li> 
           <li> Technology Monitoring - Trends in storage technology should be monitored to assess when migration to new storage media will be necessary.</li>  
+        </ul>
         </p>
        </div>
     </div>
