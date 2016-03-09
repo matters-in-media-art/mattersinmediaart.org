@@ -513,42 +513,22 @@ In a completely manual environment, you would be able to incorporate any additio
 
 This section outlines the key elements associated with the design and build of reliable storage for long term digital preservation. The content has been arranged to address a range of situations; whether you are an individual who is designing a low risk personal storage solution, through to a large organisation. No matter the size of your collection the following core principles need to be considered when designing your storage:
 
-<ul class="collapsible" data-collapsible="accordion">
-<li>
-  <div class="collapsible-header">Geographic Redundancy</div>
-  <div class="collapsible-body">
-    <ul>
-      <li>Multiple copies of data should be held at different geographical locations, and a disaster recovery plan should be in place.</li>
-    </ul>
+
+
+<div class="row">
+<div class="col s12 m12">
+  <div class="card green accent-3">
+    <div class="card-content white-text">
+      <span class="card-title">Core Principles</span>
+      <p>* Geographic Rendundancy - Multiple copies of data should be held at different geographical locations, and a disaster recovery plan should be in place.
+         * Fixity Checking - Regularly monitoring digital files in order to detect corruption or unwanted changes to your data. 
+         * Access and Security - The speed and restriction of access to data needs to be appropriate for its intended use and the level of protection required.  
+         * Technology Monitoring - Trends in storage technology should be monitored to assess when migration to new storage media will be necessary.  </p>
+
+    </div>
   </div>
-</li>
-  <li>
-    <div class="collapsible-header">Fixity checking</div>
-    <div class="collapsible-body">
-      <ul> 
-        <li>Regularly monitoring digital files in order to detect corruption or unwanted changes to your data.</li>
-      </ul>
-    </div>
-  </li>
-    <li>
-    <div class="collapsible-header">Access and Security </div>
-    <div class="collapsible-body">  
-      <ul>
-        <li>The speed and restriction of access to data needs to be appropriate for its intended use and the level of protection required.  </li>
-      </ul>
-    </div>
-   </li>
-   <li>
-      <div class="collapsible-header">Technology monitoring </div>
-    <div class="collapsible-body">
-      <ul>
-        <li> Trends in storage technology should be monitored to assess when migration to new storage media will be necessary. </li>
-      </ul>
-    </div> 
-  </li>
-</ul>
-
-
+</div>
+</div>
 
 #####  Geographic Redundancy 
 Hardware: potential options (2016)
