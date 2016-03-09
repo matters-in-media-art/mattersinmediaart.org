@@ -520,10 +520,13 @@ This section outlines the key elements associated with the design and build of r
   <div class="card green accent-3">
     <div class="card-content white-text">
       <span class="card-title">Core Principles</span>
-         * Geographic Rendundancy - Multiple copies of data should be held at different geographical locations, and a disaster recovery plan should be in place.
-         * Fixity Checking - Regularly monitoring digital files in order to detect corruption or unwanted changes to your data. 
-         * Access and Security - The speed and restriction of access to data needs to be appropriate for its intended use and the level of protection required.  
-         * Technology Monitoring - Trends in storage technology should be monitored to assess when migration to new storage media will be necessary.  
+        <p>
+         <ul>
+          <li> Geographic Rendundancy - Multiple copies of data should be held at different geographical locations, and a disaster recovery plan should be in place. </li>
+          <li> Fixity Checking - Regularly monitoring digital files in order to detect corruption or unwanted changes to your data. </li>
+          <li> Access and Security - The speed and restriction of access to data needs to be appropriate for its intended use and the level of protection required. </li> 
+          <li> Technology Monitoring - Trends in storage technology should be monitored to assess when migration to new storage media will be necessary.</li>  
+        </p>
        </div>
     </div>
   </div>
