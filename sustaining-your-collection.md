@@ -520,7 +520,6 @@ This section outlines the key elements associated with the design and build of r
   <div class="card green accent-3">
     <div class="card-content white-text">
       <span class="card-title">Core Principles</span>
-       <div markdown="1">
          * Geographic Rendundancy - Multiple copies of data should be held at different geographical locations, and a disaster recovery plan should be in place.
          * Fixity Checking - Regularly monitoring digital files in order to detect corruption or unwanted changes to your data. 
          * Access and Security - The speed and restriction of access to data needs to be appropriate for its intended use and the level of protection required.  
@@ -529,7 +528,7 @@ This section outlines the key elements associated with the design and build of r
     </div>
   </div>
 </div>
-</div>
+
 
 #####  Geographic Redundancy 
 Hardware: potential options (2016)
