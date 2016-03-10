@@ -363,11 +363,26 @@ In order to plan for the storage and management of your collection, it is useful
 * Documentation created or received relating to the creation process and intended display of the artwork
 You will then need to consider 
 
-> “I focus on keeping master materials of my work on the hard drives I call my “archive.” I don’t have an organized way to keep the derivative files I’ve made for various other uses. Sometimes they don’t make it into the archive, but I figure I can make any format if I have the master.” - Individual
 
-> “We generally receive whatever the artist delivers us, though we have been making more of an effort to get master material. The bulk of the digital collection is H.264 .mov files for screening as well as ProRes or Uncompressed masters when we are able to receive them from the artist or gallery. In addition, we have been actively migrating our analog tape material to digital master files.” - Collector 
+<div id="collection-slider" class="liquid-slider">
 
-> “We keep every file we receive from the artist. When we create derivatives for preservation purposes, exhibition, or loan, every new file is given a component number in our collection management system and stored in the repository, along with details about the creation of those files. We make an access copy that goes into our DAM, so that our staff can view the collection without needing direct access to the digital repository.” - Institution 
+<div markdown="1">
+<h2 class="title"> <font color="ef5350"> Institution</font></h2>
+“We keep every file we receive from the artist. When we create derivatives for preservation purposes, exhibition, or loan, every new file is given a component number in our collection management system and stored in the repository, along with details about the creation of those files. We make an access copy that goes into our DAM, so that our staff can view the collection without needing direct access to the digital repository.”
+</div>
+
+
+<div markdown="1">
+<h2 class="title"><font color="#40c4ff"> Collector </font> </h2>
+“We generally receive whatever the artist delivers us, though we have been making more of an effort to get master material. The bulk of the digital collection is H.264 .mov files for screening as well as ProRes or Uncompressed masters when we are able to receive them from the artist or gallery. In addition, we have been actively migrating our analog tape material to digital master files.” 
+</div>
+
+<div markdown="1">
+<h2 class="title"> <font color="#00e676"> Individual </font> </h2>
+“I focus on keeping master materials of my work on the hard drives I call my “archive.” I don’t have an organized way to keep the derivative files I’ve made for various other uses. Sometimes they don’t make it into the archive, but I figure I can make any format if I have the master.” 
+</div>
+</div>
+
 
 #### Organizing information about your collection 
 
@@ -432,7 +447,7 @@ BagIt - A standard developed by the Library of Congress for the packaging of fil
 #### Budget
 A budget is crucial to the development of your digital environment. No matter who you are, some cost will be necessary to collect and maintain digital artworks. Drawing from the results of the survey, you can start to develop how much storage you will need and begin costing for digital storage, infrastructure and support. This can range from budgeting for hard drives to developing a cost for a robust repository supported by IT staff. Below are 3 examples of different budgets and the necessary considerations to develop these budgets. 
 
-<div id="eq-slider" class="liquid-slider">
+<div id="budget-slider" class="liquid-slider">
 
 <div markdown="1">
 <h2 class="title"> <font color="ef5350"> Institution</font></h2>
@@ -469,10 +484,12 @@ In order to be able to establish a budget you will need to have gathered the fol
     <ul>
       <li>
         Guiding principles that you have decided to follow regarding the management of your collection. Examples of these principles or policies include:
-
-        * Decisions about what will you store? Artist supplied masters, archival masters (these might be copies of the files where something has changed for example they have been transcoded into a different format, whether you want to store a current exhibition format, whether you want to store all the formats in which you have this material, whether you want to store an access copy).
-        * Decisions about whether you will keep each different component stored on its own with its own metadata or will you keep all the components you have with a particular artwork together?
-        * Decisions about what type of metadata and documentation will you keep with your components and what will be kept elsewhere? </li>
+        <ul>  
+        <li> * Decisions about what will you store? Artist supplied masters, archival masters (these might be copies of the files where something has changed for example they have been transcoded into a different format, whether you want to store a current exhibition format, whether you want to store all the formats in which you have this material, whether you want to store an access copy).</li>
+        <li> * Decisions about whether you will keep each different component stored on its own with its own metadata or will you keep all the components you have with a particular artwork together?</li>
+        <li> * Decisions about what type of metadata and documentation will you keep with your components and what will be kept elsewhere?</li>
+        </ul>
+         </li>
     </ul>  
   </div>
 </li>
@@ -552,7 +569,7 @@ There are some skills necessary for the proper care and maintenance of digital o
 
 
 
-<div id="eq-slider" class="liquid-slider">
+<div id="roles-slider" class="liquid-slider">
 
 <div markdown="1">
 <h2 class="title"> <font color="ef5350"> Institution</font></h2>
@@ -647,10 +664,10 @@ Keeping multiple copies in sync: potential options
 * Cloud service (i.e. dropbox, crashplan, http://www.cloudwards.net...)
 
 
-<div id="eq-slider" class="liquid-slider">
+<div id="storage-slider" class="liquid-slider">
 
 <div markdown="1">
-<h2 class="title"> <font color="ef5350"> Institution</font></h2>
+<h2 class="title"> <font color="#00e676"> Individual</font></h2>
 “I want to keep this as simple as possible so to achieve my 3 copies and multiple geographical locations, I purchased three RAID 1 drives. One for my studio, one for my home, and one for my friend’s home. To keep my three RAID 1 drives in synchronisation I manually sync my studio drive with my home drive on a weekly basis, and then manually sync with my friend’s drive twice a year.”
 </div>
 
@@ -707,7 +724,7 @@ These tools create checksums, store the values, and facilitate the verification 
 * <a href="https://www.nagios.com/products/nagios-core/ ">Nagios</a> - The open source industry standard in IT infrastructure monitoring and alerting  Various checksum plugins are available, http://bit.ly/1p5KDGO
 * For more possible check sum tools see: http://coptr.digipres.org/Category:Fixity
 
-<div id="eq-slider" class="liquid-slider">
+<div id="fixity-slider" class="liquid-slider">
 
 <div markdown="1">
 <h2 class="title"> <font color="ef5350"> Institution</font></h2>
@@ -715,12 +732,12 @@ These tools create checksums, store the values, and facilitate the verification 
 </div>
 
 <div markdown="1">
-<h2 class="title"> <font color="ef5350">Collector</font></h2>
+<h2 class="title"> <font color="#40c4ff">Collector</font></h2>
 “I immediately use BagIt to transfer my files onto the server from the acquired hard drive into a bag and put a schedule in place where I verify the checksums monthly. Since I have my files in 3 locations, I run the ‘bag verifyvalid’ command on all of the bags in all three locations. I used to do this manually, but my IT department wrote a very simple bash script that runs the ‘bag verifyvalid’ command against any and all bags in the location supplied to the bash script.”
 </div>
 
 <div markdown="1">
-<h2 class="title"> <font color="ef5350">Individual</font></h2>
+<h2 class="title"> <font color="#00e676">Individual</font></h2>
 “I don’t manually create or check any checksums, but I researched it thoroughly and found that the cloud service that I use for syncing between my three locations does in fact checksum files, and retain infinite version history. So if I ever found that I couldn’t open a file because it became corrupt, or was accidentally deleted, in theory, I could revert back to the last known good state. The only downside to this is that it doesn’t automatically notify me if something is deleted, modified, or corrupted, because it doesn’t know the difference between accidental and intentional modification.”
 </div>
 </div>
@@ -732,7 +749,7 @@ We use an on-premises but remotely managed digital preservation software as serv
 
 ##### Access and Security 
 
-<div id="eq-slider" class="liquid-slider">
+<div id="budg-slider-2" class="liquid-slider">
 
 <div markdown="1">
 <h2 class="title"> <font color="ef5350"> Institution</font></h2>
