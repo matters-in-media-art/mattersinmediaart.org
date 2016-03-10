@@ -338,7 +338,8 @@ There is a certain amount of information you should make sure is held with the f
 
 There is further information that will need to be kept in order to ensure an artwork can be preserved and displayed in the future. This can be either kept with the file or in other systems, like a database or Collection Management System.
 
-####Adhering to standards and best practices 
+#### Adhering to standards and best practices 
+
 Digital Preservation is a relatively new and rapidly evolving field, but there are already a number of established standards for the management of digital objects and metadata. Adhering to these standards helps ensure that your files can be correctly identified and interpreted in the future, and that you will be able to share information about your collection between different systems. 
 
 The most widely recognised standard for digital preservation is the <a href="http://www.oclc.org/research/publications/library/2000/lavoie-oais.html">Open Archival Information System (OAIS)</a>, developed by NASA and approved as an international standard in 2003. OAIS is a conceptual framework that defines the entities that make up an archive. Defining your designated community and ensuring that objects can be accessed and understood by this community are important concepts. The Trusted Digital Repository checklist is a useful tool for measuring your systems against the OAIS standard. 
@@ -478,8 +479,10 @@ There are some skills necessary for the proper care and maintenance of digital o
         <li> </li>
       </ul>
     </div> 
-  </li>
+</li>
 </ul>
+
+
 
 <div id="eq-slider" class="liquid-slider">
 
@@ -500,6 +503,7 @@ There are some skills necessary for the proper care and maintenance of digital o
 
 </div>
 </div>
+
 </section>
 
 <section id="developing-your-systems" class="section scrollspy" markdown="1">
@@ -689,6 +693,7 @@ We use an on-premises but remotely managed digital preservation software as serv
 <div markdown="1">
 <h2 class="title"><font color="#40c4ff"> Collector </font> </h2>
 “I try to keep up with what are considered the best file formats to choose for long-term preservation of my master materials, using blogs and white papers put out by the digital preservation and conservation fields. However, I usually find out something is out-of-date when it stops working. I have had trouble with my back-up hard drives when I upgrade my computer or operating system, and then I have to use the old computer to move things onto new drives.”
+</div>
 <div markdown="1">
 <h2 class="title"> <font color="#00e676"> Individual </font> </h2>
 “We lean on the expertise of our consultants to tell us what we should be looking out for. We generally try to keep to digital preservation best practices of little to no compression, open formats, etc. In terms of systems, we again rely on our consultants, who we bring in at least once a year, to assess our storage and file needs and make recommendations for us.”
