@@ -15,12 +15,12 @@ Illustration courtesy [Digital Preservation Business Case Toolkit](http://wiki.d
 </span>
 
 Our aim is to provide information that is useful to those who are caring for their own collection of video artworks outside an institution, as well as small, medium and large organisations. Throughout these pages key principles are highlighted and approaches are suggested depending on the size of your collection and your available resources, namely skills, budget and infrastructure. For each section we invite you to fill in a survey, this will act as a tool to help you to outline the needs of your collection. The results will form the basis for an overall preservation system design.
-
+<br><br>
 <section id="Core-Principles" class="section scrollspy" markdown="1">
 <div class="row">
 <div class="col s12 m12">
   <div class="card light-blue accent-2">
-    <div class="card-content black-text">
+    <div class="card-content white-text">
       <span class="card-title">Core Principles</span>
         <p>
          <ul>
@@ -46,12 +46,12 @@ Our aim is to provide information that is useful to those who are caring for the
 #### Collection size and characteristics
 
 To plan and develop a system for digital art you will need to know some details about your collection and its possible growth. 
-
+<br><br>
 <section id="Core-Principles" class="section scrollspy" markdown="1">
 <div class="row">
 <div class="col s12 m12">
   <div class="card green accent-3">
-    <div class="card-content black-text">
+    <div class="card-content white-text">
         <p>
          <ul>
           <li> Record descriptive and technical information about the works</li>
@@ -70,12 +70,12 @@ To plan and develop a system for digital art you will need to know some details 
 
 #### Budget
 Your budget may include costs for both preparing your collection for storage and establishing your storage infrastructure. 
-
+<br><br>
 <section id="Core-Principles" class="section scrollspy" markdown="1">
 <div class="row">
 <div class="col s12 m12">
   <div class="card green accent-3">
-    <div class="card-content black-text">
+    <div class="card-content white-text">
         <p>
          <ul>
           <li> Legacy media migration</li>
@@ -101,7 +101,7 @@ To build a team able to address the needs of your collection
 <div class="row">
 <div class="col s12 m12">
   <div class="card green accent-3">
-    <div class="card-content black-text">
+    <div class="card-content white-text">
         <p>
          <ul>
           <li> Acquire new skills through workshops, research and conferences</li>
@@ -129,7 +129,7 @@ Your collection management system is an essential complement to your storage inf
 <div class="row">
 <div class="col s12 m12">
   <div class="card red lighten-1">
-    <div class="card-content black-text">
+    <div class="card-content white-text">
         <p>
          <ul>
           <li> Maintain an up-to-date inventory of all collection items</li>
@@ -152,7 +152,7 @@ Ensure that your storage infrastructure provides for:
 <div class="row">
 <div class="col s12 m12">
   <div class="card red lighten-1">
-    <div class="card-content black-text">
+    <div class="card-content white-text">
         <p>
          <ul>
           <li> Geographic redundancy - multiple copies of data should be held at different geographical locations, and a disaster recovery plan should be in place</li>
@@ -634,7 +634,7 @@ This section outlines the key elements associated with the design and build of r
 <div class="row">
 <div class="col s12 m12">
   <div class="card light-blue accent-2">
-    <div class="card-content black-text">
+    <div class="card-content white-text">
       <span class="card-title">Core Principles</span>
         <p>
          <ul>
