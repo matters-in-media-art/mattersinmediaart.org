@@ -352,7 +352,7 @@ BagIt - A standard developed by the Library of Congress for the packaging of fil
 
 <a href="http://www.loc.gov/standards/mets/">METS</a> - a standard for encoding descriptive, administrative, and structural metadata. 
 
-####Define your preservation strategy 
+#### Define your preservation strategy 
 
 </section>
 
@@ -363,13 +363,28 @@ BagIt - A standard developed by the Library of Congress for the packaging of fil
 #### Budget
 A budget is crucial to the development of your digital environment. No matter who you are, some cost will be necessary to collect and maintain digital artworks. Drawing from the results of the survey, you can start to develop how much storage you will need and begin costing for digital storage, infrastructure and support. This can range from budgeting for hard drives to developing a cost for a robust repository supported by IT staff. Below are 3 examples of different budgets and the necessary considerations to develop these budgets. 
 
-> “We have a dedicated budget for staff and collections care for digital collections, as well as a budget for building and maintaining our storage infrastructure. Budgets are revisited annually as our growth estimates evolve.” --Institution
+<div id="eq-slider" class="liquid-slider">
 
-> “We do have a budget primarily for storage and modest conservation assessments and costs. This budget was originally designed around physical storage for objects, but we have since expanded it to include budgeting for digital storage. We have a running storage cost for cloud storage [insert Amazon cloud costs here] and back up everything else to LTO tapes.” --Collector
+<div markdown="1">
+<h2 class="title">Institution</h2>
+ “We have a dedicated budget for staff and collections care for digital collections, as well as a budget for building and maintaining our storage infrastructure. Budgets are revisited annually as our growth estimates evolve.” 
+</div>
 
-> “What budget? I have zero budget, so everything I invest in cataloging and storage feels like a stretch. But I do realize I have to keep track of my work and pay attention to storage, or else I risk losing my work. It’s hard to allocate money to save back-ups of my work when it’s not like it’s earning tons of money, but by keeping things simple I think I’ve been able to cover the basics at a reasonable cost.” --Individual
+
+<div markdown="1">
+<h2 class="title">Collector</h2>
+“We do have a budget primarily for storage and modest conservation assessments and costs. This budget was originally designed around physical storage for objects, but we have since expanded it to include budgeting for digital storage. We have a running storage cost for cloud storage [insert Amazon cloud costs here] and back up everything else to LTO tapes.” 
+</div>
+
+<div markdown="1">
+<h2 class="title"> <font color="#00e676"> Individual </font> </h2>
+“What budget? I have zero budget, so everything I invest in cataloging and storage feels like a stretch. But I do realize I have to keep track of my work and pay attention to storage, or else I risk losing my work. It’s hard to allocate money to save back-ups of my work when it’s not like it’s earning tons of money, but by keeping things simple I think I’ve been able to cover the basics at a reasonable cost.” 
+</div>
+</div>
 
 In order to be able to establish a budget you will need to have gathered the following: 
+
+
 <ul class="collapsible" data-collapsible="accordion">
 <li>
   <div class="collapsible-header">Information about your collection</div>
@@ -388,8 +403,7 @@ In order to be able to establish a budget you will need to have gathered the fol
 
         * Decisions about what will you store? Artist supplied masters, archival masters (these might be copies of the files where something has changed for example they have been transcoded into a different format, whether you want to store a current exhibition format, whether you want to store all the formats in which you have this material, whether you want to store an access copy).
         * Decisions about whether you will keep each different component stored on its own with its own metadata or will you keep all the components you have with a particular artwork together?
-        * Decisions about what type of metadata and documentation will you keep with your components and what will be kept elsewhere? 
-</li>
+        * Decisions about what type of metadata and documentation will you keep with your components and what will be kept elsewhere? </li>
     </ul>  
   </div>
 </li>
@@ -418,17 +432,18 @@ In order to be able to establish a budget you will need to have gathered the fol
     </div>
    </li>
    <li>
-      <div class="collapsible-header">Processing Time</div>
+    <div class="collapsible-header">Processing Time</div>
     <div class="collapsible-body">
       <ul>
-        <li> Information about how long processes will take of someone’s hands on time (some processes might take many hours of computer time to process but they only need to be monitored rather than take 100% of someone’s time). Example processes are initial assessment of material, cataloguing and documentation, preparing for ingest or transfer to storage, ingest or transfer to storage. 
-If you want your budget to link to planning you might also want to know how long it will take to complete the process from start to finish for a single item.</li>
+        <li> Information about how long processes will take of someone’s hands on time (some processes might take many hours of computer time to process but they only need to be monitored rather than take 100% of someone’s time). Example processes are initial assessment of material, cataloguing and documentation, preparing for ingest or transfer to storage, ingest or transfer to storage. If you want your budget to link to planning you might also want to know how long it will take to complete the process from start to finish for a single item.
+       </li>
       </ul>
     </div> 
   </li>
 </ul>
 
 #### Roles
+
 There are some skills necessary for the proper care and maintenance of digital objects. Not everyone will be able to acquire ALL of the necessary skills, so collaboration with others is crucial to the successful care of your digital collection. Whether you hire outside consultants or staff, here is a list of skills that are necessary to for the development of your digital environment. 
 
 <ul class="collapsible" data-collapsible="accordion">
@@ -466,14 +481,26 @@ There are some skills necessary for the proper care and maintenance of digital o
   </li>
 </ul>
 
-> “I have the skills to do the cataloging and copying files for back-ups. I can do some tape transfers using my own decks. For some transfers I go to specialists, if the original material has a condition issue or I don’t have the deck. I work with a professional editor for transcoding or remastering digital video, because I don’t understand all the variables well enough to get the quality result that I want. You can spend a lot of time and not get the results you want, or you’ll find out after the fact that it would have been better if you’d done it a different way.” -Individual 
 
-> “We have a full time manager of the collection who oversees all aspects of the acquisition, lending and general care of the art material. In addition, we have a support staff of part time employees who specialize in cataloguing, art handling and general care/maintenance of the collection. As we have acquire more digital material, we have hired consultants to get us up to speed and adapt our collection management software to accommodate this material and set us up with the cloud storage and workflow for backing everything up.” - Collector
+<div id="eq-slider" class="liquid-slider">
 
-> “We have a full-time Media Conservator, Assistant Media Conservator, and a Digital Repository Manager, supported by our IT department. Our AV department handles the installation and maintenance of display equipment. We also have several staff members dedicated to the management of TMS, our collection management database.” - Institution
+<div markdown="1">
+<h2 class="title">Institution</h2>
+ “I have the skills to do the cataloging and copying files for back-ups. I can do some tape transfers using my own decks. For some transfers I go to specialists, if the original material has a condition issue or I don’t have the deck. I work with a professional editor for transcoding or remastering digital video, because I don’t understand all the variables well enough to get the quality result that I want. You can spend a lot of time and not get the results you want, or you’ll find out after the fact that it would have been better if you’d done it a different way.”
+</div>
+
+<div markdown="1">
+<h2 class="title">Collector</h2>
+“We have a full time manager of the collection who oversees all aspects of the acquisition, lending and general care of the art material. In addition, we have a support staff of part time employees who specialize in cataloguing, art handling and general care/maintenance of the collection. As we have acquire more digital material, we have hired consultants to get us up to speed and adapt our collection management software to accommodate this material and set us up with the cloud storage and workflow for backing everything up.”
+</div>
+
+<div markdown="1">
+<h2 class="title"> <font color="#00e676"> Individual </font> </h2>
+“We have a full-time Media Conservator, Assistant Media Conservator, and a Digital Repository Manager, supported by our IT department. Our AV department handles the installation and maintenance of display equipment. We also have several staff members dedicated to the management of TMS, our collection management database.” 
+</div>
+</div>
 
 </section>
-
 
 <section id="developing-your-systems" class="section scrollspy" markdown="1">
 
@@ -546,6 +573,7 @@ Keeping multiple copies in sync: potential options
 * Manual (sneakernet)
 * Peer-to-peer file sharing (P2P)
 * Cloud service (i.e. dropbox, crashplan, http://www.cloudwards.net...)
+
 
 > “I want to keep this as simple as possible so to achieve my 3 copies and multiple geographical locations, I purchased three RAID 1 drives. One for my studio, one for my home, and one for my friend’s home. To keep my three RAID 1 drives in synchronisation I manually sync my studio drive with my home drive on a weekly basis, and then manually sync with my friend’s drive twice a year.” - Individual 
 
