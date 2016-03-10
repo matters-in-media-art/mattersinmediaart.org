@@ -366,13 +366,13 @@ A budget is crucial to the development of your digital environment. No matter wh
 <div id="eq-slider" class="liquid-slider">
 
 <div markdown="1">
-<h2 class="title">Institution</h2>
+<h2 class="title"> <font color="ef5350"> Institution</font></h2>
  “We have a dedicated budget for staff and collections care for digital collections, as well as a budget for building and maintaining our storage infrastructure. Budgets are revisited annually as our growth estimates evolve.” 
 </div>
 
 
 <div markdown="1">
-<h2 class="title">Collector</h2>
+<h2 class="title"><font color="#40c4ff"> Collector </font> </h2>
 “We do have a budget primarily for storage and modest conservation assessments and costs. This budget was originally designed around physical storage for objects, but we have since expanded it to include budgeting for digital storage. We have a running storage cost for cloud storage [insert Amazon cloud costs here] and back up everything else to LTO tapes.” 
 </div>
 
@@ -481,25 +481,25 @@ There are some skills necessary for the proper care and maintenance of digital o
   </li>
 </ul>
 
-
 <div id="eq-slider" class="liquid-slider">
 
 <div markdown="1">
-<h2 class="title">Institution</h2>
+<h2 class="title"> <font color="ef5350"> Institution</font></h2>
  “I have the skills to do the cataloging and copying files for back-ups. I can do some tape transfers using my own decks. For some transfers I go to specialists, if the original material has a condition issue or I don’t have the deck. I work with a professional editor for transcoding or remastering digital video, because I don’t understand all the variables well enough to get the quality result that I want. You can spend a lot of time and not get the results you want, or you’ll find out after the fact that it would have been better if you’d done it a different way.”
 </div>
 
+
 <div markdown="1">
-<h2 class="title">Collector</h2>
+<h2 class="title"><font color="#40c4ff"> Collector </font> </h2>
 “We have a full time manager of the collection who oversees all aspects of the acquisition, lending and general care of the art material. In addition, we have a support staff of part time employees who specialize in cataloguing, art handling and general care/maintenance of the collection. As we have acquire more digital material, we have hired consultants to get us up to speed and adapt our collection management software to accommodate this material and set us up with the cloud storage and workflow for backing everything up.”
 </div>
 
 <div markdown="1">
 <h2 class="title"> <font color="#00e676"> Individual </font> </h2>
 “We have a full-time Media Conservator, Assistant Media Conservator, and a Digital Repository Manager, supported by our IT department. Our AV department handles the installation and maintenance of display equipment. We also have several staff members dedicated to the management of TMS, our collection management database.” 
-</div>
-</div>
 
+</div>
+</div>
 </section>
 
 <section id="developing-your-systems" class="section scrollspy" markdown="1">
@@ -575,12 +575,28 @@ Keeping multiple copies in sync: potential options
 * Cloud service (i.e. dropbox, crashplan, http://www.cloudwards.net...)
 
 
-> “I want to keep this as simple as possible so to achieve my 3 copies and multiple geographical locations, I purchased three RAID 1 drives. One for my studio, one for my home, and one for my friend’s home. To keep my three RAID 1 drives in synchronisation I manually sync my studio drive with my home drive on a weekly basis, and then manually sync with my friend’s drive twice a year.” - Individual 
+<div id="eq-slider" class="liquid-slider">
 
-> “I have about 10TB of data, which I do not access that frequently and have the funds to pay an annual fee to storage my data in the cloud.” 
-“We have about 10TB of data, and expects to only have 15TB in five years, so we have two 18TB RAID devices that plugs right into my Mac at  home and the office. I pay an annual fee for a cloud backup service, which we can use to keep our two locations in synchronization, as well has having the benefit of the third copy in the cloud.” - Collector 
+<div markdown="1">
+<h2 class="title"> <font color="ef5350"> Institution</font></h2>
+“I want to keep this as simple as possible so to achieve my 3 copies and multiple geographical locations, I purchased three RAID 1 drives. One for my studio, one for my home, and one for my friend’s home. To keep my three RAID 1 drives in synchronisation I manually sync my studio drive with my home drive on a weekly basis, and then manually sync with my friend’s drive twice a year.”
+</div>
 
-> “I manages a collection that currently has 35TB. Based on acquisition analysis I estimate that over the course of the next five years, we will grow to around 50TB. In consultation with our IT department, I found out that they actually already have some storage infrastructure at two locations, both of which can scale to this size. They added the amount of storage that we needed for this year’s growth, and have budgeted for the anticipated growth over the next five years. I conveyed to IT that these digital artworks are very valuable, and so they have set carefully considered read/write access permissions that are more restrictive than the policies set for other kinds of data managed on this system. Ideally we should have three copies in three locations, but unfortunately the budget can not accommodate cloud storage, or building a third data center, so as an alternative I currently manually back the data up to LTO tapes which we store in a third location in the event that we need to recover from a disaster.” - Institution 
+
+
+<div markdown="1">
+<h2 class="title"><font color="#40c4ff"> Collector </font> </h2>
+“I have about 10TB of data, which I do not access that frequently and have the funds to pay an annual fee to storage my data in the cloud.” 
+“We have about 10TB of data, and expects to only have 15TB in five years, so we have two 18TB RAID devices that plugs right into my Mac at  home and the office. I pay an annual fee for a cloud backup service, which we can use to keep our two locations in synchronization, as well as having the benefit of the third copy in the cloud.”
+</div>
+
+
+<div markdown="1">
+<h2 class="title"> <font color="ef5350"> Institution</font></h2>
+ “I manages a collection that currently has 35TB. Based on acquisition analysis I estimate that over the course of the next five years, we will grow to around 50TB. In consultation with our IT department, I found out that they actually already have some storage infrastructure at two locations, both of which can scale to this size. They added the amount of storage that we needed for this year’s growth, and have budgeted for the anticipated growth over the next five years. I conveyed to IT that these digital artworks are very valuable, and so they have set carefully considered read/write access permissions that are more restrictive than the policies set for other kinds of data managed on this system. Ideally we should have three copies in three locations, but unfortunately the budget can not accommodate cloud storage, or building a third data center, so as an alternative I currently manually back the data up to LTO tapes which we store in a third location in the event that we need to recover from a disaster.”
+</div>
+</div>
+
 
 The lifetime of a hard-drive varies from three months to five years. If you only have one hard drive and it breaks down, data recovery is very costly, and can be catastrophic. As a rule of thumb: One copy is no copy. Save three copies of your data on at least two mediums (e.g. hard drive, server, LTO tape, flash drive, cloud) and in at least two geographic locations.
 In the Storage Options section  each type of storage pool has different characteristics. These characteristics are generally dictated by the purpose of any given copy of your data. A duplicate copy of your data may be maintained for high availability, disaster recovery, or recovery from accidental modification or deletion (or a combination of these purposes).
@@ -619,33 +635,65 @@ Archivematica comes with a command-line based tool for running fixity checks
 Nagios The open source industry standard in IT infrastructure monitoring and alerting https://www.nagios.com/products/nagios-core/  Various checksum plugins are available, http://bit.ly/1p5KDGO
 For more possible check sum tools see: http://coptr.digipres.org/Category:Fixity
 
-> “I generate checksums using BagIt at the point of acquisition to ensure safe transport to my centralized storage device. Once the materials enter our repository, AVPreserve’s “Fixity” tool is implemented. It’s incredibly useful because it runs in the background, and not only alerts us to modified files, but also deleted, moved, renamed and new files since the previous check.” - Individual 
+<div id="eq-slider" class="liquid-slider">
 
-> “I immediately use BagIt to transfer my files onto the server from the acquired hard drive into a bag and put a schedule in place where I verify the checksums monthly. Since I have my files in 3 locations, I run the ‘bag verifyvalid’ command on all of the bags in all three locations. I used to do this manually, but my IT department wrote a very simple bash script that runs the ‘bag verifyvalid’ command against any and all bags in the location supplied to the bash script.” - Collector 
+<div markdown="1">
+<h2 class="title"> <font color="ef5350"> Institution</font></h2>
+“I generate checksums using BagIt at the point of acquisition to ensure safe transport to my centralized storage device. Once the materials enter our repository, AVPreserve’s “Fixity” tool is implemented. It’s incredibly useful because it runs in the background, and not only alerts us to modified files, but also deleted, moved, renamed and new files since the previous check.”
+</div>
 
-> “I don’t manually create or check any checksums, but I researched it thoroughly and found that the cloud service that I use for syncing between my three locations does in fact checksum files, and retain infinite version history. So if I ever found that I couldn’t open a file because it became corrupt, or was accidentally deleted, in theory, I could revert back to the last known good state. The only downside to this is that it doesn’t automatically notify me if something is deleted, modified, or corrupted, because it doesn’t know the difference between accidental and intentional modification.” - Individual 
+<div markdown="1">
+<h2 class="title"> <font color="ef5350">Collector</font></h2>
+“I immediately use BagIt to transfer my files onto the server from the acquired hard drive into a bag and put a schedule in place where I verify the checksums monthly. Since I have my files in 3 locations, I run the ‘bag verifyvalid’ command on all of the bags in all three locations. I used to do this manually, but my IT department wrote a very simple bash script that runs the ‘bag verifyvalid’ command against any and all bags in the location supplied to the bash script.”
+</div>
 
-> “I partner with my IT department as they have to meet standards of something called PCI compliance which requires them to have software for monitoring file integrity for security purposes. They have software such as Nagios or Tripwire, which can be configured to schedule the monitoring of checksums and they handle the enterprise reliability of these systems in addition to sending me email alerts if anything has changed.” - Institution 
+<div markdown="1">
+<h2 class="title"> <font color="ef5350">Individual</font></h2>
+“I don’t manually create or check any checksums, but I researched it thoroughly and found that the cloud service that I use for syncing between my three locations does in fact checksum files, and retain infinite version history. So if I ever found that I couldn’t open a file because it became corrupt, or was accidentally deleted, in theory, I could revert back to the last known good state. The only downside to this is that it doesn’t automatically notify me if something is deleted, modified, or corrupted, because it doesn’t know the difference between accidental and intentional modification.”
+</div>
+</div>
 
-> “We use an on-premises but remotely managed digital preservation software as service (SaaS) solution. We generate checksums using BagIt at the point of acquisition, but once materials enter our repository, fixity is monitored and managed by our service provider.” - Institution
+> “I partner with my IT department as they have to meet standards of something called PCI compliance which requires them to have software for monitoring file integrity for security purposes. They have software such as Nagios or Tripwire, which can be configured to schedule the monitoring of checksums and they handle the enterprise reliability of these systems in addition to sending me email alerts if anything has changed.
+
+We use an on-premises but remotely managed digital preservation software as service (SaaS) solution. We generate checksums using BagIt at the point of acquisition, but once materials enter our repository, fixity is monitored and managed by our service provider.” - Institution
 
 
 ##### Access and Security 
 
-> “My biggest concern is people using master material without permission. Once I provide high-quality materials for one purpose, they sometimes travel and reappear elsewhere without permission. In my studio it’s not an issue; access is pretty open.” - Individual 
+<div id="eq-slider" class="liquid-slider">
 
-> “Access is only open to the small staff of the collection. The RAID is internally networked and does not point “out”. There is some concern about the cloud storage system but we’ve been told it’s fairly secure. The LTO tapes are stored within our general art storage facility, which maintains a fob and key system.” - Collector 
+<div markdown="1">
+<h2 class="title"> <font color="ef5350"> Institution</font></h2>
+“Different levels of permissions are set and maintained by our Digital Repository Manager, and every time a digital collection object is downloaded, there is a record of who did so and why.”
+</div>
+<div markdown="1">
+<h2 class="title"><font color="#40c4ff"> Collector </font> </h2>
+“Access is only open to the small staff of the collection. The RAID is internally networked and does not point “out”. There is some concern about the cloud storage system but we’ve been told it’s fairly secure. The LTO tapes are stored within our general art storage facility, which maintains a fob and key system.”
+</div>
 
-> “Different levels of permissions are set and maintained by our Digital Repository Manager, and every time a digital collection object is downloaded, there is a record of who did so and why.” - Institution 
+<div markdown="1">
+<h2 class="title"> <font color="#00e676"> Individual </font> </h2>
+“My biggest concern is people using master material without permission. Once I provide high-quality materials for one purpose, they sometimes travel and reappear elsewhere without permission. In my studio it’s not an issue; access is pretty open.” 
+</div>
+</div>
+
 
 
 ##### Technology Monitoring 
+<div id="eq-slider" class="liquid-slider">
 
-> “I try to keep up with what are considered the best file formats to choose for long-term preservation of my master materials, using blogs and white papers put out by the digital preservation and conservation fields. However, I usually find out something is out-of-date when it stops working. I have had trouble with my back-up hard drives when I upgrade my computer or operating system, and then I have to use the old computer to move things onto new drives.”
-
-> “We lean on the expertise of our consultants to tell us what we should be looking out for. We generally try to keep to digital preservation best practices of little to no compression, open formats, etc. In terms of systems, we again rely on our consultants, who we bring in at least once a year, to assess our storage and file needs and make recommendations for us.” 
-
-> “We are able to generate statistics on the file types in our repository and we can plan accordingly.”
+<div markdown="1">
+<h2 class="title"> <font color="ef5350"> Institution</font></h2>
+“We are able to generate statistics on the file types in our repository and we can plan accordingly.”
+</div>
+<div markdown="1">
+<h2 class="title"><font color="#40c4ff"> Collector </font> </h2>
+“I try to keep up with what are considered the best file formats to choose for long-term preservation of my master materials, using blogs and white papers put out by the digital preservation and conservation fields. However, I usually find out something is out-of-date when it stops working. I have had trouble with my back-up hard drives when I upgrade my computer or operating system, and then I have to use the old computer to move things onto new drives.”
+<div markdown="1">
+<h2 class="title"> <font color="#00e676"> Individual </font> </h2>
+“We lean on the expertise of our consultants to tell us what we should be looking out for. We generally try to keep to digital preservation best practices of little to no compression, open formats, etc. In terms of systems, we again rely on our consultants, who we bring in at least once a year, to assess our storage and file needs and make recommendations for us.”
+</div>
+</div>
 
 </section>
 
