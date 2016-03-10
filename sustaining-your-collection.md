@@ -17,15 +17,24 @@ Illustration courtesy [Digital Preservation Business Case Toolkit](http://wiki.d
 Our aim is to provide information that is useful to those who are caring for their own collection of video artworks outside an institution, as well as small, medium and large organisations. Throughout these pages key principles are highlighted and approaches are suggested depending on the size of your collection and your available resources, namely skills, budget and infrastructure. For each section we invite you to fill in a survey, this will act as a tool to help you to outline the needs of your collection. The results will form the basis for an overall preservation system design.
 
 <section id="Core-Principles" class="section scrollspy" markdown="1">
-
-## Core Principles
-
-* Do to digital works as you would to any art work: identify, catalog, describe, treat, document, and track
-* Be prepared to be unprepared: the necessary skills evolve constantly and will be found both within and beyond your walls
-* Build storage for your present collection but lay groundwork for the future
-* The budget to build collection storage is nothing without the budget to sustain it
-* Digital collections require active maintenance and will not survive passive storage
-
+<div class="row">
+<div class="col s12 m12">
+  <div class="card light-blue accent-2">
+    <div class="card-content black-text">
+      <span class="card-title">Core Principles</span>
+        <p>
+         <ul>
+          <li> Do to digital works as you would to any art work: identify, catalog, describe, treat, document, and track </li>
+          <li> Be prepared to be unprepared: the necessary skills evolve constantly and will be found both within and beyond your walls </li>
+          <li> Build storage for your present collection but lay groundwork for the future </li> 
+          <li> The budget to build collection storage is nothing without the budget to sustain it</li>  
+          <li>Digital collections require active maintenance and will not survive passive storage</li>
+        </ul>
+        </p>
+       </div>
+    </div>
+  </div>
+</div>
 
 ## Core Practices 
 
@@ -38,33 +47,74 @@ Our aim is to provide information that is useful to those who are caring for the
 
 To plan and develop a system for digital art you will need to know some details about your collection and its possible growth. 
 
-* Record descriptive and technical information about the works
-* Capture information on both born-digital items and legacy material that will be migrated
-* Monitor the growth patterns of your collection 
-* Establish which collections are in the scope of your digital storage project
+<section id="Core-Principles" class="section scrollspy" markdown="1">
+<div class="row">
+<div class="col s12 m12">
+  <div class="card green accent-3">
+    <div class="card-content black-text">
+        <p>
+         <ul>
+          <li> Record descriptive and technical information about the works</li>
+          <li> Capture information on both born-digital items and legacy material that will be migrated </li>
+          <li> Monitor the growth patterns of your collection </li> 
+          <li> Establish which collections are in the scope of your digital storage project</li>  
+        </ul>
+        </p>
+       </div>
+    </div>
+  </div>
+</div>
+
 
 ### Your Resources
-[IMAGE]
-
 
 #### Budget
 Your budget may include costs for both preparing your collection for storage and establishing your storage infrastructure. 
 
-* Legacy media migration
-* Initial storage infrastructure
-* Ongoing maintenance 
-* Replacement and upgrade (every 5 years)
-* Growth 
-* People with expertise
-* Consumables
+<section id="Core-Principles" class="section scrollspy" markdown="1">
+<div class="row">
+<div class="col s12 m12">
+  <div class="card green accent-3">
+    <div class="card-content black-text">
+        <p>
+         <ul>
+          <li> Legacy media migration</li>
+          <li> Initial storage infrastructure </li>
+          <li> Ongoing maintenance </li> 
+          <li> Replacement and upgrade (every 5 years)</li>  
+          <li>Growth</li>
+          <li>People with expertise</li>
+          <li>Consumables</li>
+        </ul>
+        </p>
+       </div>
+    </div>
+  </div>
+</div>
 
 #### Skills
 
-To build a team able to address the needs of your collection: 
-* Acquire new skills through workshops, research and conferences
-* Leverage professional networks and community resources
-* If you are in an institution, bring together staff from acorss departments, and collaborate with others outside your institution
-* Consider the need for new roles and expertise 
+To build a team able to address the needs of your collection
+
+<section id="Core-Principles" class="section scrollspy" markdown="1">
+
+<div class="row">
+<div class="col s12 m12">
+  <div class="card green accent-3">
+    <div class="card-content black-text">
+        <p>
+         <ul>
+          <li> Acquire new skills through workshops, research and conferences</li>
+          <li> Leverage professional networks and community resources</li>
+          <li> If you are in an institution, bring together staff from acorss departments, and collaborate with others outside your institution </li> 
+          <li> Consider the need for new roles and expertise </li>  
+        </ul>
+        </p>
+       </div>
+    </div>
+  </div>
+</div>
+
 </section>
 
 <section id="your-systems" class="section scrollspy" markdown="1">
@@ -72,31 +122,49 @@ To build a team able to address the needs of your collection:
 
 #### Collection Management
 
-[IMAGE]
+
 
 Your collection management system is an essential complement to your storage infrastructure, and should enable you to: 
 
-* Maintain an up-to-date inventory of all collection items
+<div class="row">
+<div class="col s12 m12">
+  <div class="card red lighten-1">
+    <div class="card-content black-text">
+        <p>
+         <ul>
+          <li> Maintain an up-to-date inventory of all collection items</li>
+          <li> Record acquisition details, including information about the artist, any donor or purchase information and any key provenance information</li>
+          <li> Record exhibition or displays history, including loans </li> 
+          <li>Track the location of physical and digital parts of collections items, including the ability to track versions of digital files as they get transcoded or migrated</li>
+          <li> Record condition information and technical information about an artwork to inform its ongoing management </li>  
+        </ul>
+        </p>
+       </div>
+    </div>
+  </div>
+</div>
 
-* Record acquisition details, including information about the artist, any donor or purchase information and any key provenance information
-
-* Record exhibition or displays history, including loans
-
-* Track the location of physical and digital parts of collections items, including the ability to track versions of digital files as they get transcoded or migrated
-
-* Record condition information and technical information about an artwork to inform its ongoing management
 
 ### Storage Infrastructure
 
 Ensure that your storage infrastructure provides for:
 
-* Geographic redundancy - multiple copies of data should be held at different geographical locations, and a disaster recovery plan should be in place
-
-* Fixity checking - regularly monitoring digital files in order to detect corruption or unwanted changes to your data 
-
-* Access and security - the speed and restriction of access to data needs to be appropriate for its intended use and the level of protection required.  
-
-* Technology monitoring - trends in storage technology should be monitored to assess when migration to new storage media will be necessary
+<div class="row">
+<div class="col s12 m12">
+  <div class="card red lighten-1">
+    <div class="card-content black-text">
+        <p>
+         <ul>
+          <li> Geographic redundancy - multiple copies of data should be held at different geographical locations, and a disaster recovery plan should be in place</li>
+          <li> Fixity checking - regularly monitoring digital files in order to detect corruption or unwanted changes to your data </li>
+          <li> Access and security - the speed and restriction of access to data needs to be appropriate for its intended use and the level of protection required.   </li> 
+          <li>Technology monitoring - trends in storage technology should be monitored to assess when migration to new storage media will be necessary</li>
+        </ul>
+        </p>
+       </div>
+    </div>
+  </div>
+</div>
 
 </section>
 
@@ -530,7 +598,7 @@ Depending on your context and the size of your collection, a collection manageme
 * allow for access to information and the ability to edit information to be defined at a user level  
 * allow for multiple users to update information and keep it current
 
-The larger the number of users and objects and the more complex the workflows the more necessary a specialised database, ie. a collection management system, will become. Software to maintain an inventory could range from an Excel spreadsheet, a database like Filemaker, an open source collection management software such as CollectiveAccess (http://www.collectiveaccess.org/about) or Omeka (http://omeka.org/about/) to the type of collection management system employed by museums, for example The Museum System (TMS), Mimsy or a bespoke system developed by your institution. 
+The larger the number of users and objects and the more complex the workflows the more necessary a specialised database, ie. a collection management system, will become. Software to maintain an inventory could range from an Excel spreadsheet, a database like Filemaker, an open source collection management software such as <a href="http://www.collectiveaccess.org/about">CollectiveAccess</a> or <a href="http://omeka.org/about/">Omeka</a> to the type of collection management system employed by museums, for example <a href="www.gallerysystems.com/products-and-services/tms/">The Museum System (TMS)</a>, Mimsy or a bespoke system developed by your institution. 
 
 > “We use a free, web-based open source database that’s designed for museums. It allows us to assign everything a unique identifier which is connected to the main artwork. We can add acquisition, loan, and location information to the main record, and even use barcodes to track movement of physical collection objects.” - Collector 
 
@@ -548,8 +616,8 @@ This section outlines the key elements associated with the design and build of r
 
 <div class="row">
 <div class="col s12 m12">
-  <div class="card green accent-3">
-    <div class="card-content white-text">
+  <div class="card light-blue accent-2">
+    <div class="card-content black-text">
       <span class="card-title">Core Principles</span>
         <p>
          <ul>
@@ -631,13 +699,13 @@ These tools can simply generate checksums – out of the box, they will not nece
 
 These tools create checksums, store the values, and facilitate the verification of checksums after the fact.
 
-Checksum+ (OS X). With this tool you can just select a file and it will create a checksum for you, stored within an .md5 file, in the same location, with the same name as your file. Double-clicking this .md5 file will run a fixity check and tell you, if everything’s ok. If you open it with a text editor, it will show you the MD5 checksum as well as the file it is pointing to. It is important that both the .md5 and the original file are stored in the same folder. https://support.apple.com/en-us/HT201259
-Fastsum - http://www.fastsum.com/ for windows.
-BagIt, developed by the Library of Congress, this tool is used in a command line interface[2]. BagIt was originally created to safely transfer files from one place to another, by packaging the original data in a ‘bag’ (folder) and creating checksums for each file within that bag. It also stores information about the date and software version as text-files within the bag, and creates checksums of all these text-files, including the checksum files themselves.https://en.wikipedia.org/wiki/BagIt, https://www.youtube.com/playlist?list=PL1763D432BE25663D 
-AVPreserve has created a tool, Fixity, that enables the user to identify seven directories that the program can check automatically on a monthly, weekly or daily basis. https://www.avpreserve.com/tools/fixity/ 
-Archivematica comes with a command-line based tool for running fixity checks
-Nagios The open source industry standard in IT infrastructure monitoring and alerting https://www.nagios.com/products/nagios-core/  Various checksum plugins are available, http://bit.ly/1p5KDGO
-For more possible check sum tools see: http://coptr.digipres.org/Category:Fixity
+* <a href="https://support.apple.com/en-us/HT201259">Checksum+ (OS X)</a> -  With this tool you can just select a file and it will create a checksum for you, stored within an .md5 file, in the same location, with the same name as your file. Double-clicking this .md5 file will run a fixity check and tell you, if everything’s ok. If you open it with a text editor, it will show you the MD5 checksum as well as the file it is pointing to. It is important that both the .md5 and the original file are stored in the same folder. 
+* <a href="http://www.fastsum.com/">Fastsum</a> - for windows.
+* <a href="https://en.wikipedia.org/wiki/BagIt">BagIt</a> - developed by the Library of Congress, this tool is used in a command line interface[2]. BagIt was originally created to safely transfer files from one place to another, by packaging the original data in a ‘bag’ (folder) and creating checksums for each file within that bag. It also stores information about the date and software version as text-files within the bag, and creates checksums of all these text-files, including the checksum files themselves., https://www.youtube.com/playlist?list=PL1763D432BE25663D 
+* <a href="https://www.avpreserve.com/tools/fixity/">Fixity</a> - AVPreserve has created a tool hat enables the user to identify seven directories that the program can check automatically on a monthly, weekly or daily basis.  
+* <a href="https://www.archivematica.org/">Archivematica</a> - comes with a command-line based tool for running fixity checks
+* <a href="https://www.nagios.com/products/nagios-core/ ">Nagios</a> - The open source industry standard in IT infrastructure monitoring and alerting  Various checksum plugins are available, http://bit.ly/1p5KDGO
+* For more possible check sum tools see: http://coptr.digipres.org/Category:Fixity
 
 <div id="eq-slider" class="liquid-slider">
 
@@ -684,6 +752,8 @@ We use an on-premises but remotely managed digital preservation software as serv
 
 
 ##### Technology Monitoring 
+
+
 <div id="eq-slider" class="liquid-slider">
 
 <div markdown="1">
