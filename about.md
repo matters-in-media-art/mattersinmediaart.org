@@ -48,11 +48,22 @@ Curabitur placerat risus ut imperdiet varius. Nullam cursus mi tortor, sed finib
 ## Project team
 
 #### Museum of Modern Art
+
+##### Phase 3 
+
+* Jim Coddington, Agnes Gund Chief Conservator
+* Ben Fino-Radin, Associate Media Conservator 
+* Kate Lewis, Media Conservator 
+* Peter Oleksik, Assistant Media Conservator 
+* Glenn Wharton, former Media Conservator 
+* Amy Brost, Media Conservation Fellow 
+
+##### Phase 1 and 2
+
 * Nancy Adelson, Associate General Counsel
 * John Alexander, Senior Assistant Registrar
 * Ramona Bannayan, Director Collection Management and Exhibition Registration
 * Sydney Briggs, Associate Registrar, Collections
-* Jim Coddington, Agnes Gund Chief Conservator
 * Corey D’Augustine, Conservation Fellow
 * Margo Delidow, Conservation Fellow
 * David Hollely, Production Manager, Exhibition Design & Production
@@ -65,7 +76,16 @@ Curabitur placerat risus ut imperdiet varius. Nullam cursus mi tortor, sed finib
 * Glenn Wharton, Conservator
 * Allyson Wolfe, Registrar Assistant
 
-#### New Art Trust
+#### SFMOMA
+
+##### Phase 3 
+
+* Martina Haidvogl, Associate Media Conservator 
+* Mark Hellar, Consultant, Hellar Studios LLC
+
+
+##### Phase 1 and 2 
+
 * Christopher Eamon, Director, New Art Trust on Matters in Media Art
 * San Francisco Museum of Modern Art
 * Michelle Barger, Deputy Head of Conservation/Conservator of Objects
@@ -77,6 +97,17 @@ Curabitur placerat risus ut imperdiet varius. Nullam cursus mi tortor, sed finib
 * Tanya Zimbardo, Assistant Curator in Media Arts
 
 #### Tate
+
+##### Phase 3 
+
+* Patricia Falcao, Time-based Media Conservator 
+* Anna Henry, Digital Preservation Manager 
+* Pip Laurenson , Head of Collection Care Research 
+* John McNeill, Collection Care Research Manager
+* Claudia Roeck, Assistant Media Conseravtor 
+
+##### Phase 1 and 2 
+
 * Bryony Bery, Sculpture Conservation Researcher/Administrator
 * Catherine Clement, Senior Loans Registrar
 * Stuart Comer, Curator
@@ -94,6 +125,8 @@ Curabitur placerat risus ut imperdiet varius. Nullam cursus mi tortor, sed finib
 * Kate Parsons, Head Registrar
 * Kellie Schneider, Conservation Administrator
 * Sarah Tinsley, Senior Digital Content Manager
+
+##### Phase 1 and 2 
 
 #### Facilitator
 George Gawlinski

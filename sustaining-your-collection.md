@@ -8,19 +8,15 @@ published: true
 Welcome to the third phase of Matters in Media Art. These pages focus on the challenge of creating storage systems for our digital art collections and moving digital collections into these systems. 
 </span>
 
-![](http://wiki.dpconline.org/images/5/59/ArchiveData_safe.png)
-
-<span class="img-caption" markdown="1">
-Illustration courtesy [Digital Preservation Business Case Toolkit](http://wiki.dpconline.org/)
-</span>
+![](img/Mengbo.jpg)
 
 Our aim is to provide information that is useful to those who are caring for their own collection of video artworks outside an institution, as well as small, medium and large organisations. Throughout these pages key principles are highlighted and approaches are suggested depending on the size of your collection and your available resources, namely skills, budget and infrastructure. For each section we invite you to fill in a survey, this will act as a tool to help you to outline the needs of your collection. The results will form the basis for an overall preservation system design.
-<br><br>
+
 <section id="Core-Principles" class="section scrollspy" markdown="1">
 <div class="row">
 <div class="col s12 m12">
   <div class="card light-blue accent-2">
-    <div class="card-content white-text">
+    <div class="card-content black-text">
       <span class="card-title">Core Principles</span>
         <p>
          <ul>
@@ -46,12 +42,12 @@ Our aim is to provide information that is useful to those who are caring for the
 #### Collection size and characteristics
 
 To plan and develop a system for digital art you will need to know some details about your collection and its possible growth. 
-<br><br>
+
 <section id="Core-Principles" class="section scrollspy" markdown="1">
 <div class="row">
 <div class="col s12 m12">
   <div class="card green accent-3">
-    <div class="card-content white-text">
+    <div class="card-content black-text">
         <p>
          <ul>
           <li> Record descriptive and technical information about the works</li>
@@ -70,12 +66,12 @@ To plan and develop a system for digital art you will need to know some details 
 
 #### Budget
 Your budget may include costs for both preparing your collection for storage and establishing your storage infrastructure. 
-<br><br>
+
 <section id="Core-Principles" class="section scrollspy" markdown="1">
 <div class="row">
 <div class="col s12 m12">
   <div class="card green accent-3">
-    <div class="card-content white-text">
+    <div class="card-content black-text">
         <p>
          <ul>
           <li> Legacy media migration</li>
@@ -101,7 +97,7 @@ To build a team able to address the needs of your collection
 <div class="row">
 <div class="col s12 m12">
   <div class="card green accent-3">
-    <div class="card-content white-text">
+    <div class="card-content black-text">
         <p>
          <ul>
           <li> Acquire new skills through workshops, research and conferences</li>
@@ -129,7 +125,7 @@ Your collection management system is an essential complement to your storage inf
 <div class="row">
 <div class="col s12 m12">
   <div class="card red lighten-1">
-    <div class="card-content white-text">
+    <div class="card-content black-text">
         <p>
          <ul>
           <li> Maintain an up-to-date inventory of all collection items</li>
@@ -152,7 +148,7 @@ Ensure that your storage infrastructure provides for:
 <div class="row">
 <div class="col s12 m12">
   <div class="card red lighten-1">
-    <div class="card-content white-text">
+    <div class="card-content black-text">
         <p>
          <ul>
           <li> Geographic redundancy - multiple copies of data should be held at different geographical locations, and a disaster recovery plan should be in place</li>
@@ -367,19 +363,18 @@ You will then need to consider
 <div id="collection-slider" class="liquid-slider">
 
 <div markdown="1">
-<h2 class="title"> <font color="ef5350"> Institution</font></h2>
-“We keep every file we receive from the artist. When we create derivatives for preservation purposes, exhibition, or loan, every new file is given a component number in our collection management system and stored in the repository, along with details about the creation of those files. We make an access copy that goes into our DAM, so that our staff can view the collection without needing direct access to the digital repository.”
+<h2 class="title"> <font color="#00e676"> Simple </font> </h2>
+“I focus on keeping master materials of my work on the hard drives I call my “archive.” I don’t have an organized way to keep the derivative files I’ve made for various other uses. Sometimes they don’t make it into the archive, but I figure I can make any format if I have the master.” 
 </div>
 
-
 <div markdown="1">
-<h2 class="title"><font color="#40c4ff"> Collector </font> </h2>
+<h2 class="title"><font color="#40c4ff"> Medium </font> </h2>
 “We generally receive whatever the artist delivers us, though we have been making more of an effort to get master material. The bulk of the digital collection is H.264 .mov files for screening as well as ProRes or Uncompressed masters when we are able to receive them from the artist or gallery. In addition, we have been actively migrating our analog tape material to digital master files.” 
 </div>
 
 <div markdown="1">
-<h2 class="title"> <font color="#00e676"> Individual </font> </h2>
-“I focus on keeping master materials of my work on the hard drives I call my “archive.” I don’t have an organized way to keep the derivative files I’ve made for various other uses. Sometimes they don’t make it into the archive, but I figure I can make any format if I have the master.” 
+<h2 class="title"> <font color="ef5350"> Complex </font></h2>
+“We keep every file we receive from the artist. When we create derivatives for preservation purposes, exhibition, or loan, every new file is given a component number in our collection management system and stored in the repository, along with details about the creation of those files. We make an access copy that goes into our DAM, so that our staff can view the collection without needing direct access to the digital repository.”
 </div>
 </div>
 
@@ -634,7 +629,7 @@ This section outlines the key elements associated with the design and build of r
 <div class="row">
 <div class="col s12 m12">
   <div class="card light-blue accent-2">
-    <div class="card-content white-text">
+    <div class="card-content black-text">
       <span class="card-title">Core Principles</span>
         <p>
          <ul>
