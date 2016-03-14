@@ -94,6 +94,9 @@ Although the artist may have specific requirements for display equipment, the eq
 
 
 
+
+![Photo of conservator assessing a video]({{site.baseurl}}/img/peter-assessing.jpg)
+
 ### Pre-acquisition assessment
 
 * Is this work currently ‘exhibitable’ and can this be sustained?
