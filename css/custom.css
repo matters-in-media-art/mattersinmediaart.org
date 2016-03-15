@@ -21,9 +21,8 @@ h1, h2, h3, h4, h5, h6  {
 
 }
 
-.panel-wrapper h2{
-  margin-bottom: 0 !important;
-  margin-top: 15px !important;
+.panel-wrapper{
+  margin-bottom: 61px;
 }
 
 .landing-valign{
