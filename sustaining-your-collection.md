@@ -16,7 +16,7 @@ Our aim is to provide information that is useful to those who are caring for the
 <div class="row">
 <div class="col s12 m12">
   <div class="card light-blue accent-2">
-    <div class="card-content black-text">
+    <div class="card-content white-text">
       <span class="card-title">Core Principles</span>
         <p>
          <ul>
@@ -47,7 +47,7 @@ To plan and develop a system for digital art you will need to know some details 
 <div class="row">
 <div class="col s12 m12">
   <div class="card green accent-3">
-    <div class="card-content black-text">
+    <div class="card-content white-text">
         <p>
          <ul>
           <li> Record descriptive and technical information about the works</li>
@@ -71,7 +71,7 @@ Your budget may include costs for both preparing your collection for storage and
 <div class="row">
 <div class="col s12 m12">
   <div class="card green accent-3">
-    <div class="card-content black-text">
+    <div class="card-content white-text">
         <p>
          <ul>
           <li> Legacy media migration</li>
@@ -97,7 +97,7 @@ To build a team able to address the needs of your collection
 <div class="row">
 <div class="col s12 m12">
   <div class="card green accent-3">
-    <div class="card-content black-text">
+    <div class="card-content white-text">
         <p>
          <ul>
           <li> Acquire new skills through workshops, research and conferences</li>
@@ -125,7 +125,7 @@ Your collection management system is an essential complement to your storage inf
 <div class="row">
 <div class="col s12 m12">
   <div class="card red lighten-1">
-    <div class="card-content black-text">
+    <div class="card-content white-text">
         <p>
          <ul>
           <li> Maintain an up-to-date inventory of all collection items</li>
@@ -148,7 +148,7 @@ Ensure that your storage infrastructure provides for:
 <div class="row">
 <div class="col s12 m12">
   <div class="card red lighten-1">
-    <div class="card-content black-text">
+    <div class="card-content white-text">
         <p>
          <ul>
           <li> Geographic redundancy - multiple copies of data should be held at different geographical locations, and a disaster recovery plan should be in place</li>
@@ -629,7 +629,7 @@ This section outlines the key elements associated with the design and build of r
 <div class="row">
 <div class="col s12 m12">
   <div class="card light-blue accent-2">
-    <div class="card-content black-text">
+    <div class="card-content white-text">
       <span class="card-title">Core Principles</span>
         <p>
          <ul>
