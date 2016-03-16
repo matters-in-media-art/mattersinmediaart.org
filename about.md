@@ -48,59 +48,61 @@ Curabitur placerat risus ut imperdiet varius. Nullam cursus mi tortor, sed finib
 ## Project team
 
 ### Present
-Nancy Adelson, Associate General Counsel, MoMA
-Ramona Bannayan, Director Collection Management and Exhibition Registration, MoMA
-Michelle Barger, Deputy Head of Conservation/Conservator of Objects, SFMOMA
-Sydney Briggs, Associate Registrar, Collections, MoMA
-Amy Brost, Media Conservation Fellow, MoMA
-Jim Coddington, Agnes Gund Chief Conservator, MoMA
-Stuart Comer, Chief Curator of Media and Performance Art, MoMA
-Steve Dye, Exhibitions Technical Manager, SFMOMA
-Patricia Falcao, Time-based Media Conservator, Tate
-Ben Fino-Radin, Associate Media Conservator, MoMA
-Martina Haidvogl, Associate Media Conservator, SFMOMA
-Mark Hellar, Consultant, Hellar Studios LLC
-Anna Henry, Digital Preservation Manager, Tate
-Charlie Kalinowski, Media Services Manager, AV, MoMA
-Pip Laurenson, Head of Collection Care Research, Tate
-Kate Lewis, Media Conservator, MoMA
-John McNeill, Collection Care Research Manager, Tate
-Peter Oleksik, Assistant Media Conservator, MoMA
-Claudia Roeck, Assistant Media Conseravtor, Tate
-Cara Starke, Curatorial Assistant, Media, MoMA
-Jill Sterrett, Director of Collections and Conservation, SFMOMA
-Glenn Wharton, Clinical Associate Professor of Museum Studies, NYU
+
+* Nancy Adelson, Associate General Counsel, MoMA
+* Ramona Bannayan, Director Collection Management and Exhibition Registration, MoMA
+* Michelle Barger, Deputy Head of Conservation/Conservator of Objects, SFMOMA
+* Sydney Briggs, Associate Registrar, Collections, MoMA
+* Amy Brost, Media Conservation Fellow, MoMA
+* Jim Coddington, Agnes Gund Chief Conservator, MoMA
+* Stuart Comer, Chief Curator of Media and Performance Art, MoMA
+* Steve Dye, Exhibitions Technical Manager, SFMOMA
+* Patricia Falcao, Time-based Media Conservator, Tate
+* Ben Fino-Radin, Associate Media Conservator, MoMA
+* Martina Haidvogl, Associate Media Conservator, SFMOMA
+* Mark Hellar, Consultant, Hellar Studios LLC
+* Anna Henry, Digital Preservation Manager, Tate
+* Charlie Kalinowski, Media Services Manager, AV, MoMA
+* Pip Laurenson, Head of Collection Care Research, Tate
+* Kate Lewis, Media Conservator, MoMA
+* John McNeill, Collection Care Research Manager, Tate
+* Peter Oleksik, Assistant Media Conservator, MoMA
+* Claudia Roeck, Assistant Media Conseravtor, Tate
+* Cara Starke, Curatorial Assistant, Media, MoMA
+* Jill Sterrett, Director of Collections and Conservation, SFMOMA
+* Glenn Wharton, Clinical Associate Professor of Museum Studies, NYU
 
 ### Past
-John Alexander, Senior Assistant Registrar, MoMA
-Bryony Bery, Sculpture Conservation Researcher/Administrator, Tate
-Catherine Clement, Senior Loans Registrar, Tate
-Allison Cummings, Assistant Registrar for Permanent Collection, SFMOMA
-Corey D’Augustine, Conservation Fellow, MoMA
-Katie Dance, E-Collection Curator, Tate
-Margo Delidow, Conservation Fellow, MoMA
-Sophie Dijan, Conservation Administration, Tate
-Christopher Eamon, Director, New Art Trust on Matters in Media Art, SFMOMA
-Adrian George, Curator, Tate
-Lisa Hayes, Loans Registrar, Tate
-David Hollely, Production Manager, Exhibition Design & Production, MoMA
-Wynne Kettell, Registrar Intern, MoMA
-Barbara London, Associate Curator, Media, MoMA
-K Mita, Director, Audio Visual & e-Commerce Technology, MoMA
-Anne Morra, Assistant Curator, Department of Film and Media, MoMA
-Sarah Joyce, Senior Conservator for Time-Based Media, Tate
-Alice Keys-Toyer, Art Handling Administrator, Tate
-Jon Lewis, Senior Conservation Technician for Time-Based Media, Tate
-Gregor Muir, Kramlich Curator of Contemporary Art, Tate
-Alex Musson, Web Developer, Tate
-Anna Nesbit, AV Manager Art Handling, Tate
-Kate Parsons, Head Registrar, Tate
-Marie-Chantale Poisson, Fellow in the Conservation of Contemporary Art, SFMOMA
-Gwynne Barney Ryan, Fellow in the Conservation of Contemporary Art, SFMOMA
-Kellie Schneider, Conservation Administrator, Tate
-Sarah Tinsley, Senior Digital Content Manager, Tate
-Allyson Wolfe, Registrar Assistant, MoMA
-Tanya Zimbardo, Assistant Curator in Media Arts, SFMOMA
+
+* John Alexander, Senior Assistant Registrar, MoMA
+* Bryony Bery, Sculpture Conservation Researcher/Administrator, Tate
+* Catherine Clement, Senior Loans Registrar, Tate
+* Allison Cummings, Assistant Registrar for Permanent Collection, SFMOMA
+* Corey D’Augustine, Conservation Fellow, MoMA
+* Katie Dance, E-Collection Curator, Tate
+* Margo Delidow, Conservation Fellow, MoMA
+* Sophie Dijan, Conservation Administration, Tate
+* Christopher Eamon, Director, New Art Trust on Matters in Media Art, SFMOMA
+* Adrian George, Curator, Tate
+* Lisa Hayes, Loans Registrar, Tate
+* David Hollely, Production Manager, Exhibition Design & Production, MoMA
+* Wynne Kettell, Registrar Intern, MoMA
+* Barbara London, Associate Curator, Media, MoMA
+* K Mita, Director, Audio Visual & e-Commerce Technology, MoMA
+* Anne Morra, Assistant Curator, Department of Film and Media, MoMA
+* Sarah Joyce, Senior Conservator for Time-Based Media, Tate
+* Alice Keys-Toyer, Art Handling Administrator, Tate
+* Jon Lewis, Senior Conservation Technician for Time-Based Media, Tate
+* Gregor Muir, Kramlich Curator of Contemporary Art, Tate
+* Alex Musson, Web Developer, Tate
+* Anna Nesbit, AV Manager Art Handling, Tate
+* Kate Parsons, Head Registrar, Tate
+* Marie-Chantale Poisson, Fellow in the Conservation of Contemporary Art, SFMOMA
+* Gwynne Barney Ryan, Fellow in the Conservation of Contemporary Art, SFMOMA
+* Kellie Schneider, Conservation Administrator, Tate
+* Sarah Tinsley, Senior Digital Content Manager, Tate
+* Allyson Wolfe, Registrar Assistant, MoMA
+* Tanya Zimbardo, Assistant Curator in Media Arts, SFMOMA
 
 
 #### Facilitator
