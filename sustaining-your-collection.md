@@ -36,9 +36,6 @@ Our aim is to provide information that is useful to those who are caring for the
 
 ### Your collection
 
-![](http://wiki.dpconline.org/images/7/76/ArchiveData_filingcabinet.png)
-
-
 #### Collection size and characteristics
 
 To plan and develop a system for digital art you will need to know some details about your collection and its possible growth. 
@@ -63,6 +60,8 @@ To plan and develop a system for digital art you will need to know some details 
 
 
 ### Your Resources
+
+![](img/image for community resources.jpg)
 
 #### Budget
 Your budget may include costs for both preparing your collection for storage and establishing your storage infrastructure. 
@@ -289,6 +288,8 @@ In most cases the information about an art collection will be formed of a rich c
 [inline of survey]
 
 #### Storage Infrastructure 
+
+![](img/Server_Image.jpg)
 
 The problem of bit preservation of data has been solved, however it does require careful management.
 

@@ -95,7 +95,7 @@ Although the artist may have specific requirements for display equipment, the eq
 
 
 
-![Photo of conservator assessing a video]({{site.baseurl}}/img/peter-assessing.jpg)
+![Photo of conservator assessing a video]({{site.baseurl}}/img/assessment.jpg)
 
 ### Pre-acquisition assessment
 
