@@ -52,6 +52,7 @@ Once team/resources are established, curator/collector presents the proposed acq
 
 <div markdown="1">
 <h2 class="title">Equipment</h2>
+<h2>Equipment</h2>
 * What equipment is provided and what must be purchased (and what are the costs)?
 * How specific is the equipment to the work – is this going to present challenges in the future?
 * What is the minimum level of technical expertise necessary?
@@ -62,6 +63,7 @@ Determine which equipment is ‘dedicated’ and which is ‘non-dedicated’. I
 
 <div markdown="1">
 <h2 class="title">Dedicated equipment</h2>
+<h2>Dedicated equipment</h2>
 A particular item of equipment may be dedicated because it has been functionally or visibly modified or made by the artist (or for the artist) and is therefore irreplaceable.
 
 Specific makes and models of equipment may be designated by the artist as essential to the realisation and experience of their work. In such cases it is important to maintain this equipment even when it becomes obsolete.
@@ -76,11 +78,13 @@ Equipment dedicated to a group of works: a group of works may depend on a partic
 
 <div markdown="1">
 <h2 class="title">Non-dedicated equipment</h2>
+<h2>Non-dedicated equipment</h2>
 Although the artist may have specific requirements for display equipment, the equipment may be generic and widely available. In such cases the actual piece of equipment is not assigned to the artwork but used for the display of a range of works.
 </div>
 
 <div markdown="1">
 <h2 class="title">Installation specifications</h2>
+<h2>Installation specifications</h2>
 * How large a space is required?
 * Does the installation require construction of a specific space?
 * What specialist skills are required to install and keep the work running?
@@ -113,12 +117,14 @@ Although the artist may have specific requirements for display equipment, the eq
 
 <div markdown="1">
 <h2 class="title">Cost Assessment</h2>
+<h2>Cost Assessment</h2>
 In addition to the costs itemised below, there will be long- and short-term costs associated with the care of time-based media. A cost-assessment worksheet will help to estimate the financial commitment necessary for acquiring the work.
 </div>
 
 
 <div markdown="1">
 <h2 class="title">Acquisition costs</h2>
+<h2>Acquisition costs</h2>
 * Will the available format need to be migrated before acquisition? Will the cost of this be covered by the buyer or seller?
 * Are there crating and transit costs? Will they be covered by the buyer or seller?
 </div>
@@ -128,6 +134,7 @@ In addition to the costs itemised below, there will be long- and short-term cost
 
 <div markdown="1">
 <h2 class="title">Exhibition costs</h2>
+<h2>Exhibition costs</h2>
 * Use essential conditions for display established above to determine costs, including extraordinary requirements such as:
 * Artist/studio involvement
 * Extended installation time
@@ -138,6 +145,7 @@ In addition to the costs itemised below, there will be long- and short-term cost
 
 <div markdown="1">
 <h2 class="title">Continuing costs</h2>
+<h2>Continuing costs</h2>
 * Estimate lifetime and replaceability of physical components: are there consumable elements that must be continually replaced?
 * Understand equipment or consumables that are designated by the artist to be essential to the realisation of their work: consider purchasing back-ups for future preservation.
 * Outside contractors

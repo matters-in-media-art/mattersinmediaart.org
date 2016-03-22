@@ -72,9 +72,11 @@
 .ls-nav {
   overflow:hidden;
   clear:both;
+  margin-top: 27px;
+  margin-left: 44%
 }
 .ls-nav a {
-  background: #d8d8d8;
+  background: #E8E8E8;
   color: #333333;
   margin-right: 1px;
   padding: 10px 15px;
@@ -86,7 +88,7 @@
   text-shadow: none;
 }
 .ls-nav .current a {
-  background: #f2f2f2;
+  background: #78F38D;
 }
 .currentCrossLink {
   font-weight: bold;
@@ -95,7 +97,9 @@
   padding:0;
   clear: both;
   display: block;
-  margin: 0 0 0.3rem;
+/*  margin: 0 0 0.3rem;
+*/  margin-top: 27px;
+  margin-left: 44%
   overflow: hidden;
 }
 .ls-nav ul li {
@@ -106,8 +110,8 @@
   float: left;
   text-decoration: none;
   text-indent: -9999px;
-  width: 1.4rem;
-  height: 1.4rem;
+  width: 1.2rem;
+  height: 1.2rem;
   border-radius: 100%;
   padding: 0;
 }
