@@ -15,7 +15,7 @@ Our aim is to provide information that is useful to those who are caring for the
 <section id="Core-Principles" class="section scrollspy" markdown="1">
 <div class="row">
 <div class="col s12 m12">
-  <div class="card light-blue accent-2">
+  <div class="card green accent-3">
     <div class="card-content white-text">
       <span class="card-title">Core Principles</span>
         <p>
@@ -38,26 +38,7 @@ Our aim is to provide information that is useful to those who are caring for the
 
 #### Collection size and characteristics
 
-To plan and develop a system for digital art you will need to know some details about your collection and its possible growth. 
-
-<section id="Core-Principles" class="section scrollspy" markdown="1">
-<div class="row">
-<div class="col s12 m12">
-  <div class="card green accent-3">
-    <div class="card-content white-text">
-        <p>
-         <ul>
-          <li> Record descriptive and technical information about the works</li>
-          <li> Capture information on both born-digital items and legacy material that will be migrated </li>
-          <li> Monitor the growth patterns of your collection </li> 
-          <li> Establish which collections are in the scope of your digital storage project</li>  
-        </ul>
-        </p>
-       </div>
-    </div>
-  </div>
-</div>
-
+To plan and develop a system for digital art you will need to know some details about your collection and its possible growth. Record descriptive and technical information about the works, and capture information on both born-digital items and legacy material that will be migrated. Monitor the growth patterns of your collection, and establish which collections are in the scope of your digital storage project.
 
 ### Your Resources
 
@@ -67,25 +48,17 @@ To plan and develop a system for digital art you will need to know some details 
 Your budget may include costs for both preparing your collection for storage and establishing your storage infrastructure. 
 
 <section id="Core-Principles" class="section scrollspy" markdown="1">
-<div class="row">
-<div class="col s12 m12">
-  <div class="card green accent-3">
-    <div class="card-content white-text">
-        <p>
-         <ul>
-          <li> Legacy media migration</li>
-          <li> Initial storage infrastructure </li>
-          <li> Ongoing maintenance </li> 
-          <li> Replacement and upgrade (every 5 years)</li>  
-          <li>Growth</li>
-          <li>People with expertise</li>
-          <li>Consumables</li>
-        </ul>
-        </p>
-       </div>
-    </div>
-  </div>
-</div>
+
+<ul>
+<li> Legacy media migration</li>
+<li> Initial storage infrastructure </li>
+<li> Ongoing maintenance </li> 
+<li> Replacement and upgrade (every 5 years)</li>  
+<li>Growth</li>
+<li>People with expertise</li>
+<li>Consumables</li>
+</ul>
+
 
 #### Skills
 
@@ -93,22 +66,14 @@ To build a team able to address the needs of your collection
 
 <section id="Core-Principles" class="section scrollspy" markdown="1">
 
-<div class="row">
-<div class="col s12 m12">
-  <div class="card green accent-3">
-    <div class="card-content white-text">
-        <p>
-         <ul>
-          <li> Acquire new skills through workshops, research and conferences</li>
-          <li> Leverage professional networks and community resources</li>
-          <li> If you are in an institution, bring together staff from acorss departments, and collaborate with others outside your institution </li> 
-          <li> Consider the need for new roles and expertise </li>  
-        </ul>
-        </p>
-       </div>
-    </div>
-  </div>
-</div>
+
+<ul>
+<li> Acquire new skills through workshops, research and conferences</li>
+<li> Leverage professional networks and community resources</li>
+<li> If you are in an institution, bring together staff from acorss departments, and collaborate with others outside your institution </li> 
+<li> Consider the need for new roles and expertise </li>  
+</ul>
+
 
 </section>
 
@@ -121,45 +86,27 @@ To build a team able to address the needs of your collection
 
 Your collection management system is an essential complement to your storage infrastructure, and should enable you to: 
 
-<div class="row">
-<div class="col s12 m12">
-  <div class="card red lighten-1">
-    <div class="card-content white-text">
-        <p>
-         <ul>
-          <li> Maintain an up-to-date inventory of all collection items</li>
-          <li> Record acquisition details, including information about the artist, any donor or purchase information and any key provenance information</li>
-          <li> Record exhibition or displays history, including loans </li> 
-          <li>Track the location of physical and digital parts of collections items, including the ability to track versions of digital files as they get transcoded or migrated</li>
-          <li> Record condition information and technical information about an artwork to inform its ongoing management </li>  
-        </ul>
-        </p>
-       </div>
-    </div>
-  </div>
-</div>
+
+<ul>
+<li> Maintain an up-to-date inventory of all collection items</li>
+<li> Record acquisition details, including information about the artist, any donor or purchase information and any key provenance information</li>
+<li> Record exhibition or displays history, including loans </li> 
+<li>Track the location of physical and digital parts of collections items, including the ability to track versions of digital files as they get transcoded or migrated</li>
+<li> Record condition information and technical information about an artwork to inform its ongoing management </li>  
+</ul>
+
 
 
 ### Storage Infrastructure
 
 Ensure that your storage infrastructure provides for:
+<ul>
+<li> Geographic redundancy - multiple copies of data should be held at different geographical locations, and a disaster recovery plan should be in place</li>
+<li> Fixity checking - regularly monitoring digital files in order to detect corruption or unwanted changes to your data </li>
+<li> Access and security - the speed and restriction of access to data needs to be appropriate for its intended use and the level of protection required.   </li> 
+<li>Technology monitoring - trends in storage technology should be monitored to assess when migration to new storage media will be necessary</li>
+</ul>
 
-<div class="row">
-<div class="col s12 m12">
-  <div class="card red lighten-1">
-    <div class="card-content white-text">
-        <p>
-         <ul>
-          <li> Geographic redundancy - multiple copies of data should be held at different geographical locations, and a disaster recovery plan should be in place</li>
-          <li> Fixity checking - regularly monitoring digital files in order to detect corruption or unwanted changes to your data </li>
-          <li> Access and security - the speed and restriction of access to data needs to be appropriate for its intended use and the level of protection required.   </li> 
-          <li>Technology monitoring - trends in storage technology should be monitored to assess when migration to new storage media will be necessary</li>
-        </ul>
-        </p>
-       </div>
-    </div>
-  </div>
-</div>
 
 </section>
 
