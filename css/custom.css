@@ -30,7 +30,28 @@ h1, h2, h3, h4, h5, h6  {
 */
 }
 
+.landingrow{
+  position: relative !important;
+  top: 30% !important;
+  -webkit-transform: translateY(30%);
+  -ms-transform: translateY(30%);
+  transform: translateY(30%);
 
+}
+
+.footerlogo{
+  width: 360px !important;
+}
+
+.quote-slider{
+background-color: rgba(252,252,252,1) !important;
+}
+
+.quote-slider blockquote{
+  font-size: 28px;
+  font-style: italic;
+  border: none;
+}
 
 @media only screen and (max-width : 600px) {
 

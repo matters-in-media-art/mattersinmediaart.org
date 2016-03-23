@@ -365,16 +365,19 @@ You will then need to consider
 
 <div markdown="1">
 <h2 class="title"> <font color="#00e676"> Simple </font> </h2>
+<h2> <font color="#00e676"> Simple </font> </h2>
 “I focus on keeping master materials of my work on the hard drives I call my “archive.” I don’t have an organized way to keep the derivative files I’ve made for various other uses. Sometimes they don’t make it into the archive, but I figure I can make any format if I have the master.” 
 </div>
 
 <div markdown="1">
 <h2 class="title"><font color="#40c4ff"> Medium </font> </h2>
+<h2><font color="#40c4ff"> Medium </font> </h2>
 “We generally receive whatever the artist delivers us, though we have been making more of an effort to get master material. The bulk of the digital collection is H.264 .mov files for screening as well as ProRes or Uncompressed masters when we are able to receive them from the artist or gallery. In addition, we have been actively migrating our analog tape material to digital master files.” 
 </div>
 
 <div markdown="1">
 <h2 class="title"> <font color="ef5350"> Complex </font></h2>
+<h2> <font color="ef5350"> Complex </font></h2>
 “We keep every file we receive from the artist. When we create derivatives for preservation purposes, exhibition, or loan, every new file is given a component number in our collection management system and stored in the repository, along with details about the creation of those files. We make an access copy that goes into our DAM, so that our staff can view the collection without needing direct access to the digital repository.”
 </div>
 </div>
@@ -443,18 +446,21 @@ BagIt - A standard developed by the Library of Congress for the packaging of fil
 #### Budget
 A budget is crucial to the development of your digital environment. No matter who you are, some cost will be necessary to collect and maintain digital artworks. Drawing from the results of the survey, you can start to develop how much storage you will need and begin costing for digital storage, infrastructure and support. This can range from budgeting for hard drives to developing a cost for a robust repository supported by IT staff. Below are 3 examples of different budgets and the necessary considerations to develop these budgets. 
 
-<div id="budget-slider" class="liquid-slider">
+<div id="budget-slider" class="liquid-slider quote-slider">
 
 <div markdown="1">
+<h2 class="title"></h2>
 >“We have a dedicated budget for staff and collections care for digital collections, as well as a budget for building and maintaining our storage infrastructure. Budgets are revisited annually as our growth estimates evolve.” 
 </div>
 
 
 <div markdown="1">
+<h2 class="title"></h2>
 >“We do have a budget primarily for storage and modest conservation assessments and costs. This budget was originally designed around physical storage for objects, but we have since expanded it to include budgeting for digital storage. We have a running storage cost for cloud storage [insert Amazon cloud costs here] and back up everything else to LTO tapes.” 
 </div>
 
 <div markdown="1">
+<h2 class="title"></h2>
 >“What budget? I have zero budget, so everything I invest in cataloging and storage feels like a stretch. But I do realize I have to keep track of my work and pay attention to storage, or else I risk losing my work. It’s hard to allocate money to save back-ups of my work when it’s not like it’s earning tons of money, but by keeping things simple I think I’ve been able to cover the basics at a reasonable cost.” 
 </div>
 </div>
@@ -566,17 +572,20 @@ There are some skills necessary for the proper care and maintenance of digital o
 
 <div markdown="1">
 <h2 class="title"> <font color="ef5350"> Institution</font></h2>
+<h2> <font color="ef5350"> Institution</font></h2>
  “I have the skills to do the cataloging and copying files for back-ups. I can do some tape transfers using my own decks. For some transfers I go to specialists, if the original material has a condition issue or I don’t have the deck. I work with a professional editor for transcoding or remastering digital video, because I don’t understand all the variables well enough to get the quality result that I want. You can spend a lot of time and not get the results you want, or you’ll find out after the fact that it would have been better if you’d done it a different way.”
 </div>
 
 
 <div markdown="1">
 <h2 class="title"><font color="#40c4ff"> Collector </font> </h2>
+<h2><font color="#40c4ff"> Collector </font> </h2>
 “We have a full time manager of the collection who oversees all aspects of the acquisition, lending and general care of the art material. In addition, we have a support staff of part time employees who specialize in cataloguing, art handling and general care/maintenance of the collection. As we have acquire more digital material, we have hired consultants to get us up to speed and adapt our collection management software to accommodate this material and set us up with the cloud storage and workflow for backing everything up.”
 </div>
 
 <div markdown="1">
 <h2 class="title"> <font color="#00e676"> Individual </font> </h2>
+<h2> <font color="#00e676"> Individual </font> </h2>
 “We have a full-time Media Conservator, Assistant Media Conservator, and a Digital Repository Manager, supported by our IT department. Our AV department handles the installation and maintenance of display equipment. We also have several staff members dedicated to the management of TMS, our collection management database.” 
 
 </div>
@@ -661,6 +670,7 @@ Keeping multiple copies in sync: potential options
 
 <div markdown="1">
 <h2 class="title"> <font color="#00e676"> Individual</font></h2>
+<h2> <font color="#00e676"> Individual</font></h2>
 “I want to keep this as simple as possible so to achieve my 3 copies and multiple geographical locations, I purchased three RAID 1 drives. One for my studio, one for my home, and one for my friend’s home. To keep my three RAID 1 drives in synchronisation I manually sync my studio drive with my home drive on a weekly basis, and then manually sync with my friend’s drive twice a year.”
 </div>
 
@@ -668,6 +678,7 @@ Keeping multiple copies in sync: potential options
 
 <div markdown="1">
 <h2 class="title"><font color="#40c4ff"> Collector </font> </h2>
+<h2><font color="#40c4ff"> Collector </font> </h2>
 “I have about 10TB of data, which I do not access that frequently and have the funds to pay an annual fee to storage my data in the cloud.” 
 “We have about 10TB of data, and expects to only have 15TB in five years, so we have two 18TB RAID devices that plugs right into my Mac at  home and the office. I pay an annual fee for a cloud backup service, which we can use to keep our two locations in synchronization, as well as having the benefit of the third copy in the cloud.”
 </div>
@@ -675,6 +686,7 @@ Keeping multiple copies in sync: potential options
 
 <div markdown="1">
 <h2 class="title"> <font color="ef5350"> Institution</font></h2>
+<h2> <font color="ef5350"> Institution</font></h2>
  “I manages a collection that currently has 35TB. Based on acquisition analysis I estimate that over the course of the next five years, we will grow to around 50TB. In consultation with our IT department, I found out that they actually already have some storage infrastructure at two locations, both of which can scale to this size. They added the amount of storage that we needed for this year’s growth, and have budgeted for the anticipated growth over the next five years. I conveyed to IT that these digital artworks are very valuable, and so they have set carefully considered read/write access permissions that are more restrictive than the policies set for other kinds of data managed on this system. Ideally we should have three copies in three locations, but unfortunately the budget can not accommodate cloud storage, or building a third data center, so as an alternative I currently manually back the data up to LTO tapes which we store in a third location in the event that we need to recover from a disaster.”
 </div>
 </div>
@@ -721,16 +733,19 @@ These tools create checksums, store the values, and facilitate the verification 
 
 <div markdown="1">
 <h2 class="title"> <font color="ef5350"> Institution</font></h2>
+<h2> <font color="ef5350"> Institution</font></h2>
 “I generate checksums using BagIt at the point of acquisition to ensure safe transport to my centralized storage device. Once the materials enter our repository, AVPreserve’s “Fixity” tool is implemented. It’s incredibly useful because it runs in the background, and not only alerts us to modified files, but also deleted, moved, renamed and new files since the previous check.”
 </div>
 
 <div markdown="1">
 <h2 class="title"> <font color="#40c4ff">Collector</font></h2>
+<h2> <font color="#40c4ff">Collector</font></h2>
 “I immediately use BagIt to transfer my files onto the server from the acquired hard drive into a bag and put a schedule in place where I verify the checksums monthly. Since I have my files in 3 locations, I run the ‘bag verifyvalid’ command on all of the bags in all three locations. I used to do this manually, but my IT department wrote a very simple bash script that runs the ‘bag verifyvalid’ command against any and all bags in the location supplied to the bash script.”
 </div>
 
 <div markdown="1">
 <h2 class="title"> <font color="#00e676">Individual</font></h2>
+<h2> <font color="#00e676">Individual</font></h2>
 “I don’t manually create or check any checksums, but I researched it thoroughly and found that the cloud service that I use for syncing between my three locations does in fact checksum files, and retain infinite version history. So if I ever found that I couldn’t open a file because it became corrupt, or was accidentally deleted, in theory, I could revert back to the last known good state. The only downside to this is that it doesn’t automatically notify me if something is deleted, modified, or corrupted, because it doesn’t know the difference between accidental and intentional modification.”
 </div>
 </div>
@@ -746,15 +761,18 @@ We use an on-premises but remotely managed digital preservation software as serv
 
 <div markdown="1">
 <h2 class="title"> <font color="ef5350"> Institution</font></h2>
+<h2> <font color="ef5350"> Institution</font></h2>
 “Different levels of permissions are set and maintained by our Digital Repository Manager, and every time a digital collection object is downloaded, there is a record of who did so and why.”
 </div>
 <div markdown="1">
 <h2 class="title"><font color="#40c4ff"> Collector </font> </h2>
+<h2><font color="#40c4ff"> Collector </font> </h2>
 “Access is only open to the small staff of the collection. The RAID is internally networked and does not point “out”. There is some concern about the cloud storage system but we’ve been told it’s fairly secure. The LTO tapes are stored within our general art storage facility, which maintains a fob and key system.”
 </div>
 
 <div markdown="1">
 <h2 class="title"> <font color="#00e676"> Individual </font> </h2>
+<h2> <font color="#00e676"> Individual </font> </h2>
 “My biggest concern is people using master material without permission. Once I provide high-quality materials for one purpose, they sometimes travel and reappear elsewhere without permission. In my studio it’s not an issue; access is pretty open.” 
 </div>
 </div>
@@ -768,14 +786,17 @@ We use an on-premises but remotely managed digital preservation software as serv
 
 <div markdown="1">
 <h2 class="title"> <font color="ef5350"> Institution</font></h2>
+<h2> <font color="ef5350"> Institution</font></h2>
 “We are able to generate statistics on the file types in our repository and we can plan accordingly.”
 </div>
 <div markdown="1">
 <h2 class="title"><font color="#40c4ff"> Collector </font> </h2>
+<h2><font color="#40c4ff"> Collector </font> </h2>
 “I try to keep up with what are considered the best file formats to choose for long-term preservation of my master materials, using blogs and white papers put out by the digital preservation and conservation fields. However, I usually find out something is out-of-date when it stops working. I have had trouble with my back-up hard drives when I upgrade my computer or operating system, and then I have to use the old computer to move things onto new drives.”
 </div>
 <div markdown="1">
 <h2 class="title"> <font color="#00e676"> Individual </font> </h2>
+<h2> <font color="#00e676"> Individual </font> </h2>
 “We lean on the expertise of our consultants to tell us what we should be looking out for. We generally try to keep to digital preservation best practices of little to no compression, open formats, etc. In terms of systems, we again rely on our consultants, who we bring in at least once a year, to assess our storage and file needs and make recommendations for us.”
 </div>
 </div>
