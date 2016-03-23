@@ -36,12 +36,67 @@ In this guide, the acquisition process is discussed in three overlapping phases:
 
 The focus of the pre-acquisition phase for time-based media works is deciding whether to acquire the work of art. Information gathered during this phase is used to justify the acquisition and to forecast costs, installation logistics, and conservation concerns for future ownership. This information falls into two main categories, conceptual and technical. An understanding of the conceptual and technical elements that comprise the work of art is essential for acquisition consideration, but also to the continued viability and authentic presentation of the work. In reality, there is often little time prior to an acquisition to gather all the information in detail. However, you are aiming to gain a general understanding of the areas outlined below. The information collected during the pre-acquisition phase provides a baseline of knowledge for deeper levels of documentation after the work is acquired.
 
+</section>
+
+
+<section id="pre-gather" class="section scrollspy" markdown="1">
+
+
 <br><br>
 <span class="flow-text">
 Prior to acquisition of a time-based media work, the following steps may be taken by a curator or collector:
 </span>
 
-{% include slidertest.html %}
+<div id="main-slider" class="liquid-slider">
+
+
+<div>
+<h2 class="title"></h2>
+<h2>1. What is it?</h2>
+<p>Understand what you are proposing to acquire: what is it?
+Gather general information: artist, title, date, medium, duration, edition details, provenance, artist’s dates, credit line, display dimensions
+Understand key qualities of the work and prepare a description of the elements necessary to maintain the integrity of the artwork. This includes:</p>
+<ul>
+<li>Artist statement about the work (from artist, gallery or seller)</li>
+<li>Curatorial/collector statement for importance in collection</li>
+<li>Non-technical description of what the viewer experiences</li>
+<li>Basic installation specifications</li>
+</ul>
+</div>
+
+
+<div markdown="1">
+<h2 class="title"></h2>
+<h2>2. Explore Deeper</h2>
+Based on the artist’s statement and installation instructions, determine the following:
+
+* What are the essential vs. desirable exhibition conditions, including space requirements?
+* What can and cannot be changed in the display?
+* Can you physically display the work in your exhibition space?
+
+You also need to determine:
+
+* Original master: Where is it? What is the format? Where does it reside? Who owns it?
+* Who owns the copyright to the work?
+* Acquire reference images that will facilitate the acquisition process (stills or screen grabs, installation photo, exhibition copy, etc.)
+</div>
+
+
+
+
+<div markdown="1">
+<h2 class="title"></h2>
+<h2>3. Assemble Expertise</h2>
+* In order to proceed, the curator/collector will need to gather more detailed information relying on the expertise of a larger group of people.
+* Large institutions may assemble a team comprising some or all of the following expertise: curatorial, conservation, registration exhibitions, technical/media/audio-visual, IT, legal/intellectual property.
+* Collectors and small institutions may find knowledgeable technical support: contact a museum conservation department, art gallery, art consultant, and/or artist/studio to recommend sources.
+</div>         
+
+
+
+</div>
+
+
 
 
 ### Get the Details
@@ -95,7 +150,11 @@ Although the artist may have specific requirements for display equipment, the eq
 </div>            
 
 </div>
+</section>
 
+
+
+<section id="pre-assessment" class="section scrollspy" markdown="1">
 
 
 
@@ -168,48 +227,14 @@ Using the information gathered from the assembled team and consultants, the cura
 
 <br><br>
 
+</section>
+
+
+<section id="pre-templates" class="section scrollspy" markdown="1">
+
 ###Pre-Acquisition templates
-
-
-<div class="row">
-
-  <div class="col s4">
-    <a href="{{ site.url }}/downloads/installationinstructions_1.rtf">
-    <div class="card green accent-3">
-      <div class="card-content white-text">
-        Installation specifications
-
-<div class="chip"><i class="large material-icons">play_for_work</i>
-    RTF, 59KB
-  </div>
-
-      </div>
-    </div>
-    </a>
-  </div>
-
-  <div class="col s4">
-    <a href="{{ site.url }}/downloads/mattersmediaart_costassessmenttemplate.xls">
-        <div class="card green accent-3">
-      <div class="card-content white-text">
-        Cost assessment <div class="chip"><i class="large material-icons">play_for_work</i>Excel, 24KB </div>
-      </div>
-    </div>
-  </a>
-  </div>
-
-  <div class="col s4">
-    <a href="{{ site.url }}/downloads/structure_and_condition_reports.rtf">
-        <div class="card green accent-3">
-      <div class="card-content white-text">
-        Structure and condition report<div class="chip"><i class="large material-icons">play_for_work</i>RTF, 180KB </div>
-      </div>
-    </div>
-  </a>
-  </div>
-
-</div>
-
+* [Installation specifications]({{ site.url }}/downloads/installationinstructions_1.rtf) (RTF, 59KB)
+* [Cost assessment]({{ site.url }}/downloads/mattersmediaart_costassessmenttemplate.xls) (Excel, 24KB)
 
 
 <br><br>
@@ -225,8 +250,6 @@ Using the information gathered from the assembled team and consultants, the cura
 
 
 ## Accessioning
-![](http://placehold.it/750x350)
-
 * What rights do we need to secure as part of the acquisition of the work?
 * Do we have what we need for the future conservation and display of the work?
 * Can we make copies for exhibition and preservation?
@@ -252,7 +275,8 @@ There may be occasions when sculptures, paintings or other types of objects are 
 
 
 <div markdown="1">
-<h2 class="title">Notify the vendor</h2>
+<h2 class="title"></h2>
+<h2>Notify the vendor</h2>
 Once a decision has been made to acquire the work, it is important to notify the vendor or the donor of this intention as soon as possible. In some cases there may be strong competition for a particular work. It is important that the accessioning stage is completed as quickly and smoothly as possible.
 </div>
 
@@ -260,7 +284,8 @@ Once a decision has been made to acquire the work, it is important to notify the
 
 
 <div markdown="1">
-<h2 class="title">Verify artwork components</h2>
+<h2 class="title"></h2>
+<h2>Verify artwork components</h2>
 During the pre-acquisition phase the buyer will have familiarised themselves with the details of the work and established what is important to its installation and conservation. Preliminary discussions will have taken place to clarify what is being offered as part of the purchase price. During this phase those elements are delivered, and the recipient will have the opportunity to check that what has been agreed has arrived and that it is in good condition. In some cases, the vendor may wait to deliver the certificate until after payment.
 </div>
 
@@ -268,7 +293,8 @@ During the pre-acquisition phase the buyer will have familiarised themselves wit
 
 
 <div markdown="1">
-<h2 class="title">Secure and check preservation material</h2>
+<h2 class="title"></h2>
+<h2>Secure and check preservation material</h2>
 During the pre-acquisition phase, any tasks to be carried out during the accessioning phase to produce preservation material will have been identified. In some cases the vendor may supply archival material as part of the purchase. In other cases the recipient may agree to oversee the production and pay for the material needed. These discussions are best carried out as part of the initial negotiations. Once the payment is made and the acquisition completed, it can be very difficult to go back and ask for access to masters or request the rights to make copies for preservation. To help ensure that you have what you need to enable continued display of the work in the future, it is advisable to complete all archiving before the work is accessioned. It is also useful to specify any subsequent access that might be needed in a legal document such as a Purchase Agreement. If the work is being donated you may need to go back to the artist to ask for access to master material.
 
 It is important to view the material you have received as part of the acquisition in order to check that its condition is as you expected. It is not unheard of to find problems with both media elements and any equipment provided as part of an acquisition. If equipment has been provided as part of a purchase, check what your situation is regarding the warranty.
@@ -276,7 +302,8 @@ It is important to view the material you have received as part of the acquisitio
 
 
 <div markdown="1">
-<h2 class="title">Exchange contracts</h2>
+<h2 class="title"></h2>
+<h2>Exchange contracts</h2>
 Contractual documents are exchanged during the accessioning phase. This may be as simple as an invoice; however there are cases where it is of benefit to all parties to have more detailed contracts. These documents include a purchase agreement, or a deed of gift, and a copyright licence. They specify the terms and conditions of the acquisition and help ensure that all parties understand their respective rights and obligations. The documents can be used among the following parties (which, in any given transaction, may be a museum, artist or artist’s estate, gallery or collector): purchaser, seller, donor, and copyright holder. Templates for the documents are provided for reference purposes.
 
 Depending on the terms of each transaction, the templates will be modified and are offered here simply as a starting point in negotiations. A relationship of trust between the artist and their representatives and the new owner is important to successful custodianship. If you think that there is something controversial in the agreement, for example requests to stream the media elements online, discuss this with the artist first. Some artists may trust a museum and not worry about reading contractual documents carefully, it is therefore good practice to make sure they are aware of the content.
@@ -373,8 +400,7 @@ Please note the following:
 
 <!-- Post Acquisition -->
 
-# Post-acquisitions
-![](http://placehold.it/750x350)
+## Post-acquisitions
 The work is catalogued and documented during this phase, and images are created for public release and for internal use. The artist may be interviewed after acquiring the work to answer remaining questions about future conservation and display. Technical and conceptual knowledge about the work is used to create a long-term conservation plan. The media, display equipment, and sculptural components are packed and stored in archival housing in favourable environments for long-term preservation.
 
 * What information do we need to have in place to establish a baseline record and for future record-keeping?
@@ -382,14 +408,15 @@ The work is catalogued and documented during this phase, and images are created 
 * How do I prepare for interviewing the artist about the installation and conservation of the work?
 * The goal of the post-acquisition phase is to prepare the artwork for long-term preservation and future installation. This includes organising information about the work in digital and hard-copy format.
 
-## Notify artist
-All parties must be notified after completing the acquisition process, including the artist and vendor (or donor)
+</section>
 
 
-## Produce images
-Produce/acquire images for public release and internal reference
+<section id="post-doc" class="section scrollspy" markdown="1">
 
-
+<br><br>
+<span class="flow-text">
+Notify artist: All parties must be notified after completing the acquisition process, including the artist and vendor (or donor)
+</span>
 
 <div id="post-acq-slider-1" class="liquid-slider">
     
@@ -397,7 +424,8 @@ Produce/acquire images for public release and internal reference
 
 
 <div markdown="1">
-<h2 class="title">Catalogue and inventory </h2>
+<h2 class="title"></h2>
+<h2>Catalogue and inventory</h2>
 Time-based media works require more complex cataloguing than traditional works of art. Some collecting institutions create separate databases for the additional metadata associated with these works. Decisions about what information to catalogue and how to catalogue it must be made carefully, following discussion among registration, curatorial, collections management, and conservation staff, and information systems staff.
 
 Useful website for moving image archive cataloguing: IMAP Cataloguing Project
@@ -406,7 +434,8 @@ Assign accession number/establish basic record in collections database
 </div>
 
 <div markdown="1">
-<h2 class="title">1. Catalogue artwork</h2>
+<h2 class="title"></h2>
+<h2>1. Catalogue artwork</h2>
 Enter detailed information about the artwork gathered during the acquisition process into collections database, minimally including:
 
 * Artist, title, creation date, display dimensions
@@ -421,7 +450,8 @@ Additional information collected in the object file may be uploaded into the dat
 </div>
 
 <div markdown="1">
-<h2 class="title">2. Inventory and label artwork components</h2>
+<h2 class="title"></h2>
+<h2>2. Inventory and label artwork components</h2>
 * Media: e.g. video, audio, film, slides, hard-disk drives.
 * Useful websites: [EAI Online Resource Guide](http://www.eai.org/resourceguide/formats.html); [Texas Commission Videotape Identification and Assessment Guide](http://www.arts.state.tx.us/video/)
 * Dedicated display equipment: (e.g. screens, monitors, projectors, speakers, playback equipment, lights, cameras). Record manufacturer and model numbers; collect product manuals for all equipment
@@ -430,7 +460,8 @@ Additional information collected in the object file may be uploaded into the dat
 </div>
 
 <div markdown="1">
-<h2 class="title">3. Organise collected information</h2>
+<h2 class="title"></h2>
+<h2>3. Organise collected information</h2>
 Create object files, or binder, from the acquisition process
 
 These files will grow as the work is exhibited, loaned, and conserved. Most institutions create separate files for different purposes such as acquisition, curatorial, conservation and registration. Most of this information will be stored electronically as well, in collections databases, text documents, and digital images.
@@ -440,11 +471,123 @@ These files will grow as the work is exhibited, loaned, and conserved. Most inst
 </div> <!-- end of slider -->
 
 
+
+## Cataloging Time-Based Media
+Records for time-based media installations hold a great deal of information which can be difficult to manage.
+Below is a guide to the type of material you might find in a record for a time-based media work and a suggested way of organising this information into sections within your file or binder.
+
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+  <div class="collapsible-header">Artwork</div>
+  <div class="collapsible-body" markdown="1">
+* Accession Number
+* Artist
+* Title
+* Medium
+* Description
+* Dimensions
+* Duration
+* Image size (max / min)
+* Room size
+</div>
+</li>
+<li>
+  <div class="collapsible-header">Acquisition and registration</div>
+  <div class="collapsible-body" markdown="1">
+* Incoming receipt
+* Bill of sale
+* Purchase agreement / Deed of gift
+* In some cases you might have a commissioning agreement or a co-ownership agreement note to introduction to legal documents
+* Curatorial proposal
+* Copy of the Certificate of authenticity or the original
+* Copyright agreement
+* Acquisition correspondence
+* Original inventory of media/ display equipment/ sculptural components which are part of the acquisition
+* Cost assessment
+* Acquisition assessment
+</div>
+</li>
+
+<li>
+  <div class="collapsible-header">Dedicated component information</div>
+  <div class="collapsible-body" markdown="1">
+* Media
+* Diagram or list of media components which shows the format, when it was made, what it was made from and what it is used for.
+* Display equipment
+* List of dedicated equipment which came as part of the purchase (say why it is dedicated)
+* Manuals
+* Sculptural components
+</div>
+</li>
+
+<li>
+  <div class="collapsible-header">Display specifications</div>
+  <div class="collapsible-body" markdown="1">
+* Installation specifications
+* Additional floor plans and wiring diagrams etc.
+</div>
+</li>
+
+<li>
+  <div class="collapsible-header">Display history</div>
+  <div class="collapsible-body" markdown="1">
+* List of prior displays
+* Information about displays and other editions of the work
+* Photographs relating to prior displays
+* Texts relating to prior displays
+* Display summary, including equipment used, logs of minor incidents reported during display, display maintenance procedures, budgets, installation plans, notes about exhibition formats made for the display, photographs, correspondence.
+* Loan documents
+</div>
+</li>
+
+<li>
+  <div class="collapsible-header">Artist information</div>
+  <div class="collapsible-body" markdown="1">
+* Artist and gallery contact sheet
+* Correspondence with the artist
+* Artist recommended technical specifications
+* Artist’s statement
+* Artist’s interview
+</div>
+</li>
+
+<li>
+  <div class="collapsible-header">Art historical research / context</div>
+  <div class="collapsible-body" markdown="1">
+* Documents relating to the artwork, including other editions
+* Exhibition reviews
+</div>
+</li>
+
+<li>
+  <div class="collapsible-header">Structure and condition assessments</div>
+  <div class="collapsible-body" markdown="1">
+* Structure and condition report(s)
+</div>
+</li>
+
+<li>
+  <div class="collapsible-header">Ongoing care</div>
+  <div class="collapsible-body" markdown="1">
+* Media migration record
+* Template
+* Conservation treatment reports/ treatment photographs
+* Major damage reports
+* Storage guidelines
+* Disaster plan recommendations
+* Scientific analysis reports
+* Guidelines for packing and transport
+</div>
+</li>
+</ul>
+
+
 <div id="post-acq-slider-2" class="liquid-slider">
     
 
 <div markdown="1">
-<h2 class="title">Document installed artwork</h2>
+<h2 class="title"></h2>
+<h2>Document installed artwork</h2>
 Review documentation from artist/vendor/donor. Is it sufficient for long-term care and future installation?
 
 * Documenting time-based media art includes recording the work in its existing state as it enters the collection:
@@ -454,7 +597,8 @@ Review documentation from artist/vendor/donor. Is it sufficient for long-term ca
 </div>
 
 <div markdown="1">
-<h2 class="title">Conduct artist interviews</h2>
+<h2 class="title"></h2>
+<h2>Conduct artist interviews</h2>
 The artist interviews may actually include communications with the artist, technicians, owners, gallery staff and others familiar with the artwork. The goal of these interviews is to gather information about technical history, exhibition requirements, artist intent, and technological obsolescence.
 
 (Guidelines for artist interviews may be found on the [INCCA website](http://www.incca.org/))
@@ -463,7 +607,8 @@ Create archival transcripts of the interviews. If they can be shared and may ben
 </div>
 
 <div markdown="1">
-<h2 class="title">Develop conservation plan</h2>
+<h2 class="title"></h2>
+<h2>Develop conservation plan</h2>
 The conservation plan anticipates:
 
 * Installation equipment: maintenance requirements and future equipment replacement
@@ -478,41 +623,29 @@ Additional information about conserving media works may be found at the followin
 </div>
 
 
-</div> <!-- end of slider -->
-
-
-
-
-
-## Prepare for future display
+<div markdown="1">
+<h2 class="title"></h2>
+<h2>Prepare for future display</h2>
 * Make media exhibition copies as needed
 * Project costs for future exhibition
+</div>
 
-## Pack and store artwork
+<div markdown="1">
+<h2 class="title"></h2>
+<h2>Pack and store artwork</h2>
 * Proper archival storage and packing is crucial to the longevity of the artwork.
 * A brief summary of storage concerns for media may be found in [IMAP’s Preservation 101 section on Storage](http://www.imappreserve.org/pres_101/index.html#storage)
+</div>
 
+
+</div> <!-- end of slider -->
 
 </section>
 
 
+<section id="post-templates" class="section scrollspy" markdown="1">
 
-
-
-
-<section id="templates" class="section scrollspy" markdown="1">
-
-<!-- templates -->
-
-## Templates for acquisitions
-
-A list of downloadable templates for the different stages of acquiring works of time-based media.
-
-### Pre-acquisition
-* [Installation specifications]({{ site.url }}/downloads/installationinstructions_1.rtf) (RTF, 59KB)
-* [Cost assessment]({{ site.url }}/downloads/mattersmediaart_costassessmenttemplate.xls) (Excel, 24KB)
-
-### Structure and condition report downloads
+### Post Acquisition templates
 * [Structure and condition report]({{ site.url }}/downloads/structure_and_condition_reports.rtf) (RTF, 180KB)
 * [Video artwork prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_videoprompt.rtf) (RTF, 81KB)
 * [Audio artwork prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_audioprompt.rtf) (RTF, 77KB)
@@ -526,15 +659,8 @@ A list of downloadable templates for the different stages of acquiring works of 
 * [Film projectors display equipment prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_filmprojectors.rtf) (RTF, 114KB)
 * [Slide projectors display equipment prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_slideprojectors.rtf) (RTF, 114KB)
 
-### Accessioning
-* [Purchase agreement]({{ site.url }}/downloads/mattersmediaart_purchaseagreement.rtf) (RTF, 34KB)
-* [Copyright agreeement]({{ site.url }}/downloads/mattersmediaart_copyrightlicense.rtf) (RTF, 42KB)
-* [Deed of gift]({{ site.url }}/downloads/mattersmediaart_deedofgift.doc) (RTF, 30KB)
-
-### Post-acquisitions
-* [Record established]({{ site.url }}/acquiring_2008/records-time-based-media-works-art.html)
-
 </section>
+
 
 
 
