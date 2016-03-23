@@ -32,11 +32,16 @@ h1, h2, h3, h4, h5, h6  {
 
 .landingrow{
   position: relative !important;
-  top: 30% !important;
-  -webkit-transform: translateY(30%);
-  -ms-transform: translateY(30%);
-  transform: translateY(30%);
+  top: 25% !important;
+  -webkit-transform: translateY(25%);
+  -ms-transform: translateY(25%);
+  transform: translateY(25%);
 
+}
+
+.landing-title{
+  font-size: 50px;
+  color: white;
 }
 
 .footerlogo{
