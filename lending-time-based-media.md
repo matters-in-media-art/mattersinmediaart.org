@@ -185,9 +185,6 @@ The following checklist of actions is a guide for the borrower and the lender in
 
 ###Borrower
 
-
-
-
 <ul class="collapsible" data-collapsible="accordion">
 
 <li>
@@ -262,23 +259,43 @@ Those monitoring the work whilst on display will need to know:
 
 ###Lender
 
-####Produce exhibition format material
 
+<ul class="collapsible" data-collapsible="accordion">
+
+<li>
+  <div class="collapsible-header">Produce exhibition format material</div>
+  <div class="collapsible-body" markdown="1">
 * In many cases the only physical material loaned for a time-based media installation is the exhibition format material which has been made by the lender from their master.
 * Produce and check exhibition format material.
+</div>
+</li>
 
-####Collate documentation
-
+<li>
+  <div class="collapsible-header">Collate documentation</div>
+  <div class="collapsible-body" markdown="1">
 * Produce clear installation documentation
 * Produce condition report to accompany the work of art.
+</div>
+</li>
 
-####Condition check
-
+<li>
+  <div class="collapsible-header">Condition check</div>
+  <div class="collapsible-body" markdown="1">
 * When going on loan and when returning, the work is checked.
+</div>
+</li>
 
-####Close loan file
+<li>
+  <div class="collapsible-header">Close loan file</div>
+  <div class="collapsible-body" markdown="1">
 * Check the work has returned.
 * The loan file is only closed once the condition report is completed and all outstanding costs have been paid.
+</div>
+</li>
+
+
+</ul>
+
 
 </section>
 
@@ -301,13 +318,22 @@ In most cases the borrower will bear the transport, installation and maintenance
 
 The earlier in the process costs can be identified, the greater the likelihood of the successful completion of the loan. The budget template aims to provide useful prompts and we encourage users to copy and modify it. As discussions and negotiations regarding the loan progress it will be possible to add more detail to the budget. Every loan situation is unique and you may find that the budget is finalised earlier or later in the process than shown in the process diagram.
 
-##Expenditure
+## Expenditure checklist
 
-###Explore, compile and review
+
+<ul class="collapsible" data-collapsible="accordion">
+
+<li>
+  <div class="collapsible-header">Explore, compile and review</div>
+  <div class="collapsible-body" markdown="1">
 * Artist/curator/consultant travel and expenses
 * Installation documentation and materials (FedEx / photocopying / catalogues bought for research)
+</div>
+</li>
 
-###Send
+<li>
+  <div class="collapsible-header">Send</div>
+  <div class="collapsible-body" markdown="1">
 Costs associated with shipping are usually met by the borrower, however it is important that both parties consider this section as there may also be costs to the lender in the preparation of the work.
 
 * Loan, licensing and reproduction fees
@@ -317,8 +343,12 @@ Costs associated with shipping are usually met by the borrower, however it is im
 * Art courier travel and expenses (consult with registrars)
 * Packing materials (consult with registrars)
 * Art transport (consult with registrars)
+</div>
+</li>
 
-###Install
+<li>
+  <div class="collapsible-header">Install</div>
+  <div class="collapsible-body" markdown="1">
 * Artist’s fees and expenses
 * Consultants/technicians’ fees and expenses
 * Installation and construction
@@ -330,16 +360,30 @@ Costs associated with shipping are usually met by the borrower, however it is im
 * Furniture: plinths/vitrines
 * Graphics
 * Documentation and photograph
+</div>
+</li>
 
-###Return
+<li>
+  <div class="collapsible-header">Return</div>
+  <div class="collapsible-body" markdown="1">
 * Equipment servicing/depreciation fee (consult with [AV] installation manager). If a lender is providing equipment as part of the loan they may charge a depreciation fee.
 * Packing materials (consult with registrars)
 * Art transport (consult with registrars)
 * Art courier travel and expenses (consult with registrars)
+</div>
+</li>
 
-###Other
+<li>
+  <div class="collapsible-header">Other</div>
+  <div class="collapsible-body" markdown="1">
 * Complimentary tickets/publications for lenders
 * Miscellaneous/contingency
+</div>
+</li>
+
+
+</ul>
+
 
 </section>
 
@@ -347,38 +391,57 @@ Costs associated with shipping are usually met by the borrower, however it is im
 
 
 
-
-
-
-
-
-
 <section id="agreement" class="section scrollspy" markdown="1">
 
-## Loan Agreement Guidelines
+## Loan Agreement
+
+The Loan Agreement is a contract between a lender and a borrower. It specifies what is to be lent, the conditions of loan and the respective responsibilities of each party. A covering letter may also be issued with the agreement which draws attention to particularly important conditions of loan. The loan agreement (may also be called a lender’s agreement, borrower’s agreement or loan contract) should be final. 
 
 
+<ul class="collapsible" data-collapsible="accordion">
 
-This is a contract between a lender and a borrower. It specifies what is to be lent, the conditions of loan and the respective responsibilities of each party. A covering letter may also be issued with the agreement which draws attention to particularly important conditions of loan.
-
-The loan agreement (may also be called a lender’s agreement, borrower’s agreement or loan contract) should be final. 
-
-## Application period
+<li>
+  <div class="collapsible-header">Application period</div>
+  <div class="collapsible-body" markdown="1">
 * This period is to have been agreed beforehand.
 * Confirmation of pre-loan discussion is a condition and part of the application for the loan. See installation documentation and facilities report guidelines.
 * Each institution should agree to this period of time. As a guideline, larger institutions require a period of between six and twelve months.
+</div>
+</li>
 
-## Insurance valuation
-* The insurance valuation is based on a distinction between value of art and value of equipment or components lent.
+<li>
+  <div class="collapsible-header">Insurance valuation</div>
+  <div class="collapsible-body" markdown="1">
+The insurance valuation is based on a distinction between value of art and value of equipment or components lent.
+</div>
+</li>
 
-## General conditions
-* This is a legal document and specific language should be approved by ‘Lending Institution’s’ legal counsel. In general these are the terms and conditions used by many lending institutions.
+<li>
+  <div class="collapsible-header">General conditions</div>
+  <div class="collapsible-body" markdown="1">
+This is a legal document and specific language should be approved by ‘Lending Institution’s’ legal counsel. In general these are the terms and conditions used by many lending institutions.
+</div>
+</li>
 
-## Commercial insurance, indemnity and immunity
-* Insurance procedures may vary according to the country ‘Lending Institution’ is located. Depending upon the guidelines of the individual country, some works might need filing from immunity from seizure.
+<li>
+  <div class="collapsible-header">Commercial insurance, indemnity and immunity</div>
+  <div class="collapsible-body" markdown="1">
+Insurance procedures may vary according to the country ‘Lending Institution’ is located. Depending upon the guidelines of the individual country, some works might need filing from immunity from seizure.
+</div>
+</li>
 
-## Loan costs
-* Some institutions may charge a loan administration fee. In addition, a depreciation fee may be invoked for replaceable components associated with the loan work.
+<li>
+  <div class="collapsible-header">Loan costs</div>
+  <div class="collapsible-body" markdown="1">
+Some institutions may charge a loan administration fee. In addition, a depreciation fee may be invoked for replaceable components associated with the loan work.
+</div>
+</li>
+
+</ul>
+
+
+
+
 
 </section>
 
@@ -391,16 +454,16 @@ The loan agreement (may also be called a lender’s agreement, borrower’s agre
 
 <section id="facilities-report" class="section scrollspy" markdown="1">
 
-## Facilities report guidelines
+## Facilities report
 
-A facilities report outlines an institution’s facilities, climate, security, staffing, insurance and loan history. Examples of standard facilities reports are to be found on the websites of the registrars groups listed in the External resources section. Most institutions have a completed report on file which has been verified by a registrar.
+A facilities report outlines an institution’s facilities, climate, security, staffing, insurance and loan history. Examples of standard facilities reports are to be found on the websites of the registrars groups listed in the External resources section. Most institutions have a completed report on file which has been verified by a registrar. The purpose of this document is to assure a lender that the borrower has a history of professional and responsible care of museum artefacts. It is often required by a lender in the early stages of a loan request to determine if the borrower’s facilities are appropriate. Further dialogue may then be initiated between the lending and borrowing institutions to discuss the specific needs of a particular artwork. The installation and maintenance of time-based media works of art requires specific skills and expertise, we are therefore suggesting that it might be useful to attach an addendum to the standard facilities report asking questions specific to time-based media works. The purpose of these guidelines is to gauge the suitability and level of expertise of the borrowing institution with regard to the specific needs of time-based media works.
 
-The purpose of this document is to assure a lender that the borrower has a history of professional and responsible care of museum artefacts. It is often required by a lender in the early stages of a loan request to determine if the borrower’s facilities are appropriate. Further dialogue may then be initiated between the lending and borrowing institutions to discuss the specific needs of a particular artwork. 
 
-The installation and maintenance of time-based media works of art requires specific skills and expertise, we are therefore suggesting that it might be useful to attach an addendum to the standard facilities report asking questions specific to time-based media works. The purpose of these guidelines is to gauge the suitability and level of expertise of the borrowing institution with regard to the specific needs of time-based media works.
+<ul class="collapsible" data-collapsible="accordion">
 
-## Handling and installation
-
+<li>
+  <div class="collapsible-header">Handling and installation</div>
+  <div class="collapsible-body" markdown="1">
 * Do you have specially trained staff to handle and install time-based media art?
 * If yes, how many? Please specify the type of audio visual (AV) training this staff have received and their level of experience.
 * If there are no permanent staff in place who normally handle and install time-based media, who will be responsible for this work?
@@ -408,9 +471,12 @@ The installation and maintenance of time-based media works of art requires speci
 * Who will carry out maintenance and monitor the condition of the artwork whilst on display?
 * Do you have staff experienced in condition reporting time-based media?
 * If yes, who completes these reports and what is their experience?
+</div>
+</li>
 
-## Structural and electrical information
-
+<li>
+  <div class="collapsible-header">Structural and electrical information</div>
+  <div class="collapsible-body" markdown="1">
 * Please provide architectural plans (including elevations) for the exhibition space in which the artwork will be installed.
 * Do you have the ability to completely darken and/or soundproof the exhibition space?
 * Is there a dedicated electrical supply for this artwork in the exhibition space?
@@ -418,11 +484,17 @@ The installation and maintenance of time-based media works of art requires speci
 * How many amps are available per circuit?
 * Is this electrical supply surge-protected?
 * Will a qualified electrician be available to consult/install the electrical supply?
+</div>
+</li>
+
+
+</ul>
+
+
+
+
 
 </section>
-
-
-
 
 
 
@@ -438,68 +510,102 @@ The installation documentation is produced by the owner and accompanies the loan
 
 The goal of this document is to provide a basic framework to help understand all of the elements required for the successful installation of time-based media works of art and to maintain their integrity. Some artworks require rigid and specific installation instructions. Other works allow for more flexibility within the installation. In putting together installation documentation, consider what you would need to know if you were coming fresh to this work for the first time. We have also provided a sample template.
 
-## Artwork description
+### Artwork description
 
 A brief description of the artwork using standard terminology. The goal is to enable a reader to quickly understand the nature of the artwork. (For example: a 35-minute, 4-channel, colour video installation with stereo sound). It is also helpful to describe how the work appears if working properly.
 
-## Installation ingredients
+### Installation ingredients
 
 This represents a comprehensive list of all physical components that make up the installed artwork. This would cover the details of the exhibition format, the equipment list, the details of the installation space and materials required for the installation and any spares or consumables needed to keep the installation running.
 
-### Exhibition format details
 
+<ul class="collapsible" data-collapsible="accordion">
+
+<li>
+  <div class="collapsible-header">Exhibition format details</div>
+  <div class="collapsible-body" markdown="1">
 Enter details of the exhibition format and its duration. Some things to consider:
 
 * Is the material looped? Is the loop intended to be seamless? If not, what is the duration of black on the loop?
 * If the work comprises more than one channel, are the channels synchronised?
 * What is the availability of spares? Who is authorised to produce spares?
 * For film, slide and tapes how often should these be replaced with new copies?
+</div>
+</li>
 
-### DVDs
-
+<li>
+  <div class="collapsible-header">DVDs</div>
+  <div class="collapsible-body" markdown="1">
 * Is the video NTSC or PAL? It is often not appropriate to change this for a loan as the visual qualities of the two systems are different. However it may affect compatibility with display equipment.
 * What type of DVD is it and how was it made? (some players will not play all formats of DVD)
 * Is frame accurate searching enabled?
 * What is the structure of the disk (Title/chapters etc)?
+</div>
+</li>
 
-### Audio works
-
+<li>
+  <div class="collapsible-header">Audio works</div>
+  <div class="collapsible-body" markdown="1">
 * Is the sound played from a tape/disc/wav, AIFF, ATRAC3 file?
 * Stereo?/Mono?/Dolby 5.1 etc
+</div>
+</li>
 
-### 35 mm colour transparencies
-
+<li>
+  <div class="collapsible-header">35 mm colour transparencies</div>
+  <div class="collapsible-body" markdown="1">
 * What is the stock used?
 * How are they mounted?
 * Are they pin-registered?
+</div>
+</li>
 
-### Film
-
+<li>
+  <div class="collapsible-header">Film</div>
+  <div class="collapsible-body" markdown="1">
 * What is the stock used?
 * Is there any coating on the prints?
 * Is it intended for a looper? What is the point where the loop is spliced?
 * Are the prints graded for Xenon or Halogen?
+</div>
+</li>
 
-## Equipment list
-
+<li>
+  <div class="collapsible-header">Equipment list</div>
+  <div class="collapsible-body" markdown="1">
 * What equipment is used? (make/model number or specification )
 * What is its role in the installation? – is it purely functional or does it have a conceptual or aesthetic significance?
 * Is the equipment still available or is it obsolete?
 * What important features or qualities have led to this choice of equipment?
+</div>
+</li>
 
-## Details of the installation space
+
+</ul>
+
+
+
+
+### Details of the installation space
 
 Produce a scale plan and an elevation and written narrative confirming the details of the installation. Things to consider are:
 
-### Space
 
+<ul class="collapsible" data-collapsible="accordion">
+
+<li>
+  <div class="collapsible-header">Space</div>
+  <div class="collapsible-body" markdown="1">
 * Dimensions and shape of the space
 * Position of the entrances and exits – including details of any light-lock corridors required.
 * Details of the floor and ceiling
 * Details of the construction – for example skirting etc.
+</div>
+</li>
 
-### Elements within the space
-
+<li>
+  <div class="collapsible-header">Elements within the space</div>
+  <div class="collapsible-body" markdown="1">
 * Position of the equipment
 * Projection distances
 * Height and width of any projected images and their relationship to adjoining walls, ceilings and floors
@@ -507,17 +613,22 @@ Produce a scale plan and an elevation and written narrative confirming the detai
 * Position and nature of acoustic materials
 * Position of any sculptural elements
 * Position and design of any display furniture
+</div>
+</li>
 
-### Qualities
-
+<li>
+  <div class="collapsible-header">Qualities</div>
+  <div class="collapsible-body" markdown="1">
 * Acoustic qualities and audio levels
 * Wall and ceiling colour
 * Light levels
 
-## Other materials required for the installation
+</div>
+</li>
 
-Some things to consider:
-
+<li>
+  <div class="collapsible-header">Other materials required for the installation</div>
+  <div class="collapsible-body" markdown="1">
 * Cable specifications including a wiring diagram
 * Brackets
 * Ceiling support for any suspended elements
@@ -529,13 +640,22 @@ Some things to consider:
 * Barriers
 * High reflective paint
 * Screens
+</div>
+</li>
 
-## Spares and consumables
+
+
+</ul>
+
+
+
+
+### Spares and consumables
 
 * Enter details of filters, lamps etc. Prior to the installation find out how many hours the lamps and filters last. Manufacturers have data on this. However, these figures are affected by the amount of dust in the space and also how the equipment is switched on and off. Enter the estimated cost into the budget template and ensure that spares are on hand.
 * Equipment failure – what spares do you have available if/when this happens? What is the procedure for notifying the lender? What does the borrower have permission to do?
 
-## Key qualities / key requirements
+### Key qualities / key requirements
 
 A description of both the specific and ephemeral elements necessary to maintain the integrity of the artwork. Decisions about what constitutes integrity are based on information gathered from the artist and other sources, relating to the essential nature of the artwork and its components. Some things to consider:
 
@@ -544,12 +664,18 @@ A description of both the specific and ephemeral elements necessary to maintain 
 * Are there fixed dimensions, such as image size or gallery dimensions?
 * Must the equipment be arranged or configured in a specific way?
 
-## Artist’s statement
+<ul class="collapsible" data-collapsible="accordion">
 
-* What does the artist regard as critical to a good installation of the work? Where possible ask the artist to sign off installation instructions and include a statement as to what they consider key for a good installation of the work. Where an artist’s interview has been conducted, relevant extracts might be included.
+<li>
+  <div class="collapsible-header">Artist’s statement</div>
+  <div class="collapsible-body" markdown="1">
+What does the artist regard as critical to a good installation of the work? Where possible ask the artist to sign off installation instructions and include a statement as to what they consider key for a good installation of the work. Where an artist’s interview has been conducted, relevant extracts might be included.
+</div>
+</li>
 
-### Minimum technical knowledge / skill level required
-
+<li>
+  <div class="collapsible-header">Minimum technical knowledge / skill level required</div>
+  <div class="collapsible-body" markdown="1">
 What is the minimum technical knowledge required to install and maintain this work?
 
 Some things to consider:
@@ -559,12 +685,19 @@ Some things to consider:
 * Do the technicians need particular certification to operate the required lifting equipment etc?
 * How many technicians are required to install the artwork?
 * How long will it take to install the work?
+</div>
+</li>
 
-### Electricians notes
-
+<li>
+  <div class="collapsible-header">Electricians notes</div>
+  <div class="collapsible-body" markdown="1">
 Can any of the electrical elements (e.g. plugs/cables) be modified without the approval of the lender?
+</div>
+</li>
 
-### Power requirements
+<li>
+  <div class="collapsible-header">Power requirements</div>
+  <div class="collapsible-body" markdown="1">
 * What is the voltage?
 * How many sockets/power supplies are needed in the equipment cupboard?
 * How many sockets/power supplies are needed in the space? Where are they needed?
@@ -573,20 +706,29 @@ Can any of the electrical elements (e.g. plugs/cables) be modified without the a
 * What is the number of supplies which will be switched off nightly from a central switch? In the equipment room? In the space?
 * What are the power conditioning requirements?
 * Is a light required in the equipment cupboard?
+</div>
+</li>
 
-### Synchronisation details (if applicable)
-
+<li>
+  <div class="collapsible-header">Synchronisation details (if applicable)</div>
+  <div class="collapsible-body" markdown="1">
 * Provide the time-code references
 * Describe any authoring requirements
 * Describe which synchronisation units can be used
 * Describe the degree of accuracy required
+</div>
+</li>
 
-### Key operational notes
+<li>
+  <div class="collapsible-header">Key operational notes</div>
+  <div class="collapsible-body" markdown="1">
+Include procedures for switching the work on and off
+</div>
+</li>
 
-* Include procedures for switching the work on and off
-
-### Maintenance requirements
-
+<li>
+  <div class="collapsible-header">Maintenance requirements</div>
+  <div class="collapsible-body" markdown="1">
 * The maintenance required to ensure the integrity of the artwork is maintained while on display
 * What is the nature and frequency of the maintenance required?
 * What technical skill is required for carrying out the maintenance?
@@ -594,15 +736,24 @@ Can any of the electrical elements (e.g. plugs/cables) be modified without the a
 * Can you foresee the most likely operational failures?
 * Is there a servicing schedule that will need to be put into effect during the display? (for example a six monthly deep clean may require projectors to be swapped with a spare during a long display)
 * Are there any ephemeral elements that will be exhausted and will need to be replenished?
+</div>
+</li>
 
-### Health and safety requirements
-
+<li>
+  <div class="collapsible-header">Health and safety requirements</div>
+  <div class="collapsible-body" markdown="1">
 * Are any of the components potentially dangerous to the installation crew?
 * Are any of the components potentially dangerous to the public? (consider light levels, exit and entrance arrangements/sound levels/moving parts/exposed electrical or electronic components/strobe effects etc.)
 * Do any of the components present a fire hazard? What safeguards are in place?
 * Has a risk assessment been completed?
+</div>
+</li>
 
-## General notes
+
+</ul>
+
+
+### General notes
 
 * This section provides an opportunity to emphasise any aspect of the installation which requires special attention.
 * What details should the installation crew pay special attention to?

@@ -39,6 +39,10 @@ h1, h2, h3, h4, h5, h6  {
 
 }
 
+.collapsible-body li {
+  list-style-type: circle !important;
+}
+
 .landing-title{
   font-size: 50px;
   color: white;
