@@ -18,13 +18,9 @@ Installation view Tate Liverpool exhibition 2006
 </span>
 
 
-The process diagram and documents for loans are guidelines and templates for owners to follow when borrowing and lending time-based media.
+The process diagram and documents for loans are guidelines and templates for owners to follow when borrowing and lending time-based media. The documents include sample templates for exhibition budgets, condition reports, facilities reports, installation documents and loan agreements. They seek to update existing practice for more traditional art by incorporating new requirements of time-based media.
 
-The documents include sample templates for exhibition budgets, condition reports, facilities reports, installation documents and loan agreements. They seek to update existing practice for more traditional art by incorporating new requirements of time-based media.
-
-These resources should be used as reference documents when considering the loan of time-based media works of art and in conjunction with the process diagram.
-
-The sample forms and other materials contained on this site are provided as examples only, and do not constitute legal advice. Before using these or any forms, you should consult with legal counsel to ensure that the document is properly tailored to your institution’s particular concerns.
+These resources should be used as reference documents when considering the loan of time-based media works of art and in conjunction with the process diagram. The sample forms and other materials contained on this site are provided as examples only, and do not constitute legal advice. Before using these or any forms, you should consult with legal counsel to ensure that the document is properly tailored to your institution’s particular concerns.
 
 * Process guidelines
 * Budget guidelines
@@ -39,86 +35,60 @@ It was beyond the scope of the project at this time to fully address the needs o
 
 <section id="process" class="section scrollspy" markdown="1">
 
-##Loan Process Guidelines
-
-### Explore, compile and review
-The key to successful implementation is thorough planning. The following checklist should give the potential borrower a good indication of whether they can install, manage and maintain the work.
-
-
-
-### Borrower
-
-* Create a list of works under consideration
-* Identify sources of information about the works
-* Compile information about the works
-* [Create a draft budget](http://www.tate.org.uk/about/projects/matters-media-art/budget-guidelines)  
-* Review, proceed or stop
+## Explore, compile and review
+The key to successful implementation is thorough planning. As a borrower, your first steps are to create a list of works under consideration, and identify sources of information about the works. The following checklist should give the potential borrower a good indication of whether they can install, manage and maintain the work.
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
-  <div class="collapsible-header"><b>1.</b> Information to compile about the works</div>
-  <div class="collapsible-body">
-  	<ul>
-  		<li>Title</li>
-  		<li>Owner</li>
-  		<li>What is the lender’s lead time and loans administration procedure? (Beware for some Institutions this could be twelve months)</li>
-  	</ul>
-  </div>
+  <div class="collapsible-header">Compile information about the works</div>
+  <div class="collapsible-body" markdown="1">
+* Title
+* Owner
+* What is the lender’s lead time and loans administration procedure? (Beware for some Institutions this could be twelve months)
+</div>
 </li>
+
 <li>
-  <div class="collapsible-header"><b>2.</b> Equipment list</div>
-  <div class="collapsible-body">
-  	<ul>
-  		<li>Will the equipment be available for loan?</li>
-  		<li>What is its condition?</li>
-  		<li>What are your responsibilities for maintenance and repair?</li>
-  		<li>What costs are involved? </li>
-  	</ul>
-  </div>
+  <div class="collapsible-header">Equipment list</div>
+  <div class="collapsible-body" markdown="1">
+* Will the equipment be available for loan?
+* What is its condition?
+* What are your responsibilities for maintenance and repair?
+* What costs are involved?
+</div>
 </li>
+
 <li>
-  <div class="collapsible-header"><b>3.</b> Exhibition format</div>
-  <div class="collapsible-body">
-  	<ul>
-  	<li>Will the exhibition format material be delivered as part of the loan?</li>
-  	<li>Does it already exist or does it need to be produced?</li>
-  	<li>What costs are involved?</li>
-  	</ul>
-  </div>
+  <div class="collapsible-header">Exhibition format</div>
+  <div class="collapsible-body" markdown="1">
+* Will the exhibition format material be delivered as part of the loan?
+* Does it already exist or does it need to be produced?
+* What costs are involved?
+</div>
 </li>
+
 <li>
-  <div class="collapsible-header"><b>4.</b> Space requirements</div>
-  <div class="collapsible-body">
-  	<ul>
-  		<li></li>
-  		<li></li>
-  		<li></li>
-  		Do you have the space available to show this work?
-Is any construction required?
-What costs are involved? 
-  	</ul>
-  </div>
+  <div class="collapsible-header">Space requirements</div>
+  <div class="collapsible-body" markdown="1">
+Do you have the space available to show this work? Is any construction required? What costs are involved?
+</div>
 </li>
+
 <li>
-  <div class="collapsible-header"><b>5.</b> Acoustic requirements</div>
-  <div class="collapsible-body">
-  	<ul>
-  		<li></li>
-  		<li></li>
-  		<li></li>
-  	</ul>
-  	* Will the audio from adjacent works of art interfere with this piece?
+  <div class="collapsible-header">Acoustic requirements</div>
+  <div class="collapsible-body" markdown="1">
+* Will the audio from adjacent works of art interfere with this piece?
 * Will the audio from this installation interfere with other exhibits on display?
 * Will you require special sound insulation?
 * Does the work require a carpet?
 * Has the artist tightly specified a particular acoustic quality to the space?
 * Will you need to hire in any expertise?
 * What costs are involved? 
-  </div>
+</div>
 </li>
 
 <li>
-  <div class="collapsible-header"><b>6.</b> Installation expertise required</div>
+  <div class="collapsible-header">Installation expertise required</div>
   <div class="collapsible-body" markdown="1">
 * Do you have the expertise in-house to install this work of art?
 * Will the artist or artist’s technician be involved in the installation – if so, what is their role?
@@ -127,39 +97,45 @@ What costs are involved?
 * Maintenance requirements including expertise
 * What are the maintenance requirements for the installation?
 * Do you have the expertise in-house to maintain the installation?
-* What are the costs involved? 
+* What are the costs involved?
 </div>
 </li>
 
 <li>
-  <div class="collapsible-header"><b>7.</b> Conservation requirements</div>
+  <div class="collapsible-header">Conservation requirements</div>
   <div class="collapsible-body" markdown="1">
 * Is conservation required before the work can be lent?
 * Is the equipment needed still available?
 * What are the costs involved? Who will pay?  
 </div>
 </li>
+
 </ul>
+
+
+With this information, you can now [Create a draft budget](http://www.tate.org.uk/about/projects/matters-media-art/budget-guidelines), review, and make a decision as to whether you wish to proceed with the request or stop.
 
 ## Request, consider, approve
 Here the lender and the borrower come together to consider a particular request. The main areas of discussion are often the nature of the work and associated costs. Not all requests are accepted and successful requests often include some degree of negotiation. The resulting loan agreement is the document outlining the agreed-upon terms of the loan.
 
 
-<ul class="collapsible" data-collapsible="accordion">
-<li>
-  <div class="collapsible-header">Borrower – request</div>
-  <div class="collapsible-body" markdown="1">
+
+<div id="main-slider" class="liquid-slider">
+
+
+<div markdown="1">
+<h2 class="title"></h2>
+<h2>Borrower – request</h2>
 In submitting a request to the lender provide the following:
 
 * A compelling argument
 * Exhibition dates including all venues
-
 </div>
-</li>
 
-<li>
-  <div class="collapsible-header">Lender – consider</div>
-  <div class="collapsible-body" markdown="1">
+
+<div markdown="1">
+<h2 class="title"></h2>
+<h2>Lender – consider</h2>
 In receiving a request the lender considers:
 
 * The contribution of the work to the exhibition
@@ -167,38 +143,41 @@ In receiving a request the lender considers:
 * Its condition
 * The borrower’s ability to install and maintain the work
 * Resource implications to the lender, including staff time
-
 </div>
-</li>
 
-<li>
-  <div class="collapsible-header">Borrower – agree terms</div>
-  <div class="collapsible-body" markdown="1">
+
+
+<div markdown="1">
+<h2 class="title"></h2>
+<h2>Borrower – agree terms</h2>
 Terms may be specified in the loan agreement:
 
 * Review budget
 * Return completed loan agreement and facilities report
-</div>
-</li>
+</div>  
 
-<li>
-  <div class="collapsible-header">Lender – approve</div>
-  <div class="collapsible-body" markdown="1">
+
+<div markdown="1">
+<h2 class="title"></h2>
+<h2>Lender – approve</h2>
 * Approve facilities report
 * Finalise budget
 * Provide installation documentation
-</div>
-</li>
+</div>  
 
-<li>
-  <div class="collapsible-header">Borrower – installation documentation</div>
-  <div class="collapsible-body" markdown="1">
+
+<div markdown="1">
+<h2 class="title"></h2>
+<h2>Borrower – installation documentation</h2>
 * Consider and discuss installation documentation
 * Finalise budget
-</div>
-</li>
+</div>         
 
-</ul>
+
+
+</div>
+
+
 
 
 ## Send, install and return 
