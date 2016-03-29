@@ -285,6 +285,8 @@ These functions include:
 ## Developing Your Digital Environment
 </section>
 
+![](img/arkivum.jpg)
+
 
 <section id="developing-your-collection-policies" class="section scrollspy" markdown="1">
 
