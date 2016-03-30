@@ -523,7 +523,7 @@ There are some skills necessary for the proper care and maintenance of digital o
 
 <div markdown="1">
 <h2 class="title"></h2>
- “I have the skills to do the cataloging and copying files for back-ups. I can do some tape transfers using my own decks. For some transfers I go to specialists, if the original material has a condition issue or I don’t have the deck. I work with a professional editor for transcoding or remastering digital video, because I don’t understand all the variables well enough to get the quality result that I want. You can spend a lot of time and not get the results you want, or you’ll find out after the fact that it would have been better if you’d done it a different way.”
+>“I have the skills to do the cataloging and copying files for back-ups. I can do some tape transfers using my own decks. For some transfers I go to specialists, if the original material has a condition issue or I don’t have the deck. I work with a professional editor for transcoding or remastering digital video, because I don’t understand all the variables well enough to get the quality result that I want. You can spend a lot of time and not get the results you want, or you’ll find out after the fact that it would have been better if you’d done it a different way.”
 </div>
 
 

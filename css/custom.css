@@ -54,12 +54,13 @@ h1, h2, h3, h4, h5, h6  {
 
 .quote-slider{
 background-color: rgba(252,252,252,1) !important;
+  font-size: 28px;
+  font-style: italic;
 }
 
 .quote-slider blockquote{
-  font-size: 28px;
-  font-style: italic;
   border: none;
+
 }
 
 @media only screen and (max-width : 600px) {
