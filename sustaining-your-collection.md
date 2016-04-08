@@ -307,8 +307,10 @@ In order to plan for the storage and management of your collection, it is useful
 * Exhibition and research copies: Derivatives of the master material created either by the artist or by your institution for access, exhibition or loan
 * Ancillary material: Documentation created or received relating to the creation process and intended display of the artwork. This includes the artist’s installation instructions, exhibition documentation, and so forth.
 
+You will then need to decide what level of preservation is needed for each category and how the various objects need to be linked to each other. Depending on your needs, you may want to keep all of this information together in one place, or you may wish to keep it in different locations or systems which are interconnected. 
 
-<div id="collection-slider" class="liquid-slider">
+
+<div id="collection-slider" class="liquid-slider quote-slider">
 
 <div markdown="1">
 <h2 class="title"> <font color="#00e676"> Simple </font> </h2>
@@ -375,10 +377,16 @@ There is further information that will need to be kept in order to ensure an art
 
 Digital Preservation is a relatively new and rapidly evolving field, but there are already a number of established standards for the management of digital objects and metadata. Adhering to these standards helps ensure that your files can be correctly identified and interpreted in the future, and that you will be able to share information about your collection between different systems. 
 
-The most widely recognised standard for digital preservation is the <a href="http://www.oclc.org/research/publications/library/2000/lavoie-oais.html">Open Archival Information System (OAIS)</a>, developed by NASA and approved as an international standard in 2003. OAIS is a conceptual framework that defines the entities that make up an archive. Defining your designated community and ensuring that objects can be accessed and understood by this community are important concepts. The Trusted Digital Repository checklist is a useful tool for measuring your systems against the OAIS standard. 
+If you are a newcomer to the digital preservation landscae, you may want to review some core concepts and documents. The most widely recognised standard for digital preservation is the <a href="http://www.oclc.org/research/publications/library/2000/lavoie-oais.html">Open Archival Information System (OAIS)</a>, developed by Consultative Committee for Space Data Systems and approved as an international standard in 2003 and revised in 2012 (<a href="http://public.ccsds.org/publications/archive/650x0m2.pdf">ISO14721:2012</a>). OAIS describes in high-level terms how a digital repository should function. Far from being a technical document, it simply describes what digital repositories do, and it essentially established some of the key concepts and terminology that you will very often see in digital preservation literature.  Newer tools such as the Trusted Repositories Audit and Certification (<a href="https://www.crl.edu/sites/default/files/d6/attachments/pages/trac_0.pdf">TRAC</a>) checklist help those with digital repositories measure their systems against the OAIS standard.
 
-Recording information about your collection in a standardised way will help ensure that the information can be accessed and understood in the future. It will also mean that systems will recognise this information and be able to use, share and index it. Examples of metadata and packaging standards are:
-BagIt - A standard developed by the Library of Congress for the packaging of files with critical metadata, such as checksum information 
+
+Recording information about your collection in a standardised way will help ensure that the information can be accessed and understood in the future. It will also mean that systems will recognise this information and be able to use, share and index it. 
+
+It is possible to document each of your digital objects without leveraging metadata standards and without using a packaging tool. This would involve entering technical information about your files into a database of some kind, and generating some information, such as checksums, manually and one file at a time. It can save time and reduce data entry errors to use metadata and packaging standards. There are tools that can collect your digital files, checksums, and essential metadata into a “package” that’s ready to archive. Other tools will help you organize the data you collect, so that the same kind of information is consistently stored in the same place for every file, using consistent terminology.
+
+Examples of metadata and packaging standards are:
+
+<a href="https://tools.ietf.org/html/draft-kunze-bagit-13">Bagit</a> - A standard developed by the Library of Congress for the packaging of files with critical metadata, such as checksum information 
 
 <a href="http://dublincore.org/">Dublin Core</a> - A standard for recording descriptive metadata 
 
@@ -387,6 +395,34 @@ BagIt - A standard developed by the Library of Congress for the packaging of fil
 <a href="http://www.loc.gov/standards/mets/">METS</a> - a standard for encoding descriptive, administrative, and structural metadata. 
 
 #### Define your preservation strategy 
+
+Other sections of this website give you details about the current practices for storage and quality control of digital assets, but keeping your data safely stored is only the first step to ensure that it can be used in the future. The next step is to prepare in order to continue to have access to those files, and be able to use them in the long-term.
+
+#####Choosing digital file formats to support long-term
+
+As your collection grows, you may receive a wide range of digital file types. It is important to understand the difference between bit-level preservation and full file-format support. Simply put, you may be able to save a file over the long term without changing a single bit, but without full file-format support, you may not be able to access the content. 
+
+Sustainability is the key concern when producing new digital objects or migrating to a new format. The <a href="http://www.digitalpreservation.gov/formats/sustain/sustain.shtml">Digital Preservation</a> page of the Library of Congress Link describes the key factors that influence sustainability, and provides a list of recommended file formats for different types of media. This can help you select file formats that have a good chance of being well supported into the future. 
+
+#####Whether or not to normalize
+
+Artists create work using a wide range of programming languages, software programs, and video and image formats, and the masters that they produce are just as varied. If you do not feel that you can support such a diverse collection over the long term, one option is normalisation. This refers to the practice of accepting only a limited number of file formats, or accepting different formats and then immediately transcoding them to a single format for storage. The advantage is that this limits the number of file formats and a degree of uniformity is created, which in turn can simplify long-term file format support.
+
+On the other hand, often collections can’t control which formats they receive from artists or donors, and the original formats used for production are a relevant part of the production history of an artwork and should therefore be preserved.
+
+The current drawback of normalisation is ensuring that a normalised format has the same significant properties as the source format. This can be relatively simple for digital still images or audio, but becomes more difficult for video and very risky for software-based art, for example.
+
+#####Options for supporting file formats in the future
+
+It is easy to see that, over the long term, it may be increasingly difficult to support aging file formats. Presently, there are two primary strategies to address this: migration and emulation.
+
+Migration refers to the process of changing file formats from obsolete or nearly obsolete formats to newer, lower risk formats. Migration has the disadvantage of introducing change to a file each time it happens. Over a number of cycles of migration the risk of losing relevant information increases. Also, for complex file formats, like video files or software, migration may cause too much loss or be prohibitively expensive.
+
+The other possible approach is emulation, which proposes the preservation of the environments required to access and use files in their original format, rather than changing files to adapt them to a current environment. The advantage is that files can be kept in their original format, avoiding the loss and risk caused by migration. This option is widely employed, but with varying results. Emulation may not preserve all of an artwork’s significant properties. Expertise in computer science can help in achieving the best possible emulation. Moreover, emulation requires careful planning in terms of resources and also in archiving current environments.
+
+Finally, the combination of the two strategies above creates migration on demand, by which you preserve the files in their original formats and then use emulation to access them and create a new format, for instance for exhibition.
+
+Ideally all these strategies need to be taken into consideration and the necessary elements collected with the artwork as soon as the work comes into your care.
 
 </section>
 
@@ -397,6 +433,37 @@ BagIt - A standard developed by the Library of Congress for the packaging of fil
 #### Budget
 A budget is crucial to the development of your digital environment. No matter who you are, some cost will be necessary to collect and maintain digital artworks. Drawing from the results of the survey, you can start to develop how much storage you will need and begin costing for digital storage, infrastructure and support. This can range from budgeting for hard drives to developing a cost for a robust repository supported by IT staff. Below are 3 examples of different budgets and the necessary considerations to develop these budgets. 
 
+##### Research
+In order to be able to establish a budget you will need to have gathered the following (the links below will take you to other areas of this website that can assist you during this phase): 
+
+* Information about your collection (see Scoping Your Collection - perhaps replace parenthetical with link back?) 
+* Size of your existing digital collections and their projected growth
+* Amount of material to be migrated from analog to digital
+* Policies that you have decided to follow regarding the management of your collection (See Developing Your Collection Policies - perhaps replace parenthetical with link back?)
+* An approximate figure for the budget you have available
+
+#####Estimating your storage options
+
+For each storage option, and depending on the size of your collection, you may need to consider:
+* The initial cost to set up your digital storage
+* The ongoing cost of sustaining your digital storage - depending on the option you choose this may include annual maintenance fees as well as incremental expansion costs
+* The staff and vendor time involved to establish and maintain the system
+Availability of technical expertise
+
+#####Estimating your implementation costs
+* Finally you will have to think about the costs and time of migrating or ingesting your files into your system. These processes may include:
+* Initial assessment of material 
+* Cataloguing and documentation
+* Migration from analog to digital
+* Preparing your files for ingest or transfer to storage 
+* Ingest or transfer to storage 
+
+It is also important to estimate a timeframe for implementation. It can be helpful to determine how long it will take to complete the process from start to finish for a single item, and extrapolate from there. 
+
+
+A budget can be set annually or in relation to specific projects. A budget needs to be monitored so that it can be adjusted if you find your assumptions are inaccurate; for example things may be taking longer than expected, or costs change. 
+
+Below are 3 examples of different budgets and the necessary considerations to develop these budgets. 
 <div id="budget-slider" class="liquid-slider quote-slider">
 
 <div markdown="1">
@@ -478,45 +545,15 @@ In order to be able to establish a budget you will need to have gathered the fol
   </li>
 </ul>
 
-#### Roles
+#### Skills
 
-There are some skills necessary for the proper care and maintenance of digital objects. Not everyone will be able to acquire ALL of the necessary skills, so collaboration with others is crucial to the successful care of your digital collection. Whether you hire outside consultants or staff, here is a list of skills that are necessary to for the development of your digital environment. 
+Caring for digital files is not fundamentally different from caring for art objects in other media, and the steps needed have parallels to the ones in more traditional conservation specializations.
 
-<ul class="collapsible" data-collapsible="accordion">
-<li>
-  <div class="collapsible-header">Conservator</div>
-  <div class="collapsible-body">
-    <ul>
-      <li></li>
-    </ul>
-  </div>
-</li>
-  <li>
-    <div class="collapsible-header">IT</div>
-    <div class="collapsible-body">
-      <ul> 
-        <li></li>
-      </ul>
-    </div>
-  </li>
-    <li>
-    <div class="collapsible-header">Curatorial</div>
-    <div class="collapsible-body">  
-      <ul>
-        <li></li>
-      </ul>
-    </div>
-   </li>
-   <li>
-      <div class="collapsible-header">Registrar</div>
-    <div class="collapsible-body">
-      <ul>
-        <li> </li>
-      </ul>
-    </div> 
-</li>
-</ul>
+For example, if a collection acquires a painting it will likely collect information about its creation, history, and condition, define and maintain the best conditions to store it, and ensure that handling and exhibition are appropriately managed. Museums and other institutions have become very good at ensuring that all these things happen to an agreed standard, and have highly developed teams dedicated to that end. It is just as relevant to understand what a digital file is, how it was created, its history and condition, and ensure that storage and display are appropriately managed. 
 
+Not everyone will be able to acquire ALL of the necessary skills, so collaboration is crucial to the successful care of your digital collection. This includes working with external specialists and facilities in the required fields, for example in video migration, but also connecting across an institution, or even sharing resources among institutions with similar requirements. Depending on the size of your collection it may be necessary to create new roles to ensure the expertise is created and shared.
+
+Participation in professional networks and attending related conferences is a good way to keep abreast of developments, and can also be used to help existing members of staff develop the skills needed. A more targeted way of developing those skills can be to attend or organise workshops about a specific subject. 
 
 
 <div id="roles-slider" class="liquid-slider quote-slider">
@@ -546,15 +583,16 @@ There are some skills necessary for the proper care and maintenance of digital o
 
 ### Developing Your Systems and Processes 
 
-This section will offer guidance on developing your own systems based on the nature of your collection and the available resources. These pages consider the different roles and responsibilities, hardware and software infrastructure and documentation models involved in developing a system for the preservation of digital art and examine the processes that tie them together. This will serve as a resource guide for designing your preservation system.
+This section will offer guidance on developing your own systems based on the nature of your collection and the available resources. It will describe the roles and responsibilities, hardware and software infrastructure, and documentation models involved in developing a system for the preservation of your digital art collection. Furthermore, this section will examine the processes that tie all these elements  together. Ultimately, you will be able to bring together your existing physical and data management systems, human resources, and new digital storage capabilities to create a single, cohesive preservation system. 
 
 ####  Collection Management 
-Information about your collection that’s held in one location, often called a Collection Management System, forms the core of your collection’s management and allows for the following functions: 
-Providing an inventory of all collection items
-Recording acquisition details, including information about the artist, any donor or purchase information and any key provenance information
-History of exhibitions or displays, including loans
-Tracking the location of physical and digital parts of collections items, including the ability to track versions of digital files as they get transcoded or migrated
-Recording condition information  and technical information about an artwork to inform its ongoing management
+As you can see in the illustration above, a digital preservation system may consist of several physical and data management systems working together. The Collection Management System is typically a database containing basic information about each artwork. It enables collection managers to perform the following essential functions: 
+* Maintain an inventory of all collection items
+* Record acquisition details, including information about the artist, any donor or purchase information and any key provenance information
+* Keep a history of exhibitions or displays, including loans
+* Track the location of physical and digital parts of collections items, including the ability to track versions of digital files as they get transcoded or migrated
+* Record condition information  and technical information about an artwork to inform its ongoing management
+
 
 > “I used to use a spreadsheet, but it got unwieldy with too many objects. It’s also designed for calculations and data manipulation, not keeping discrete object records. I now have a database that can accommodate much more information, and is much easier to navigate and search.” - Individual 
 
@@ -602,6 +640,13 @@ This section outlines the key elements associated with the design and build of r
 
 
 #####  Geographic Redundancy 
+The lifetime of a hard-drive varies from three months to five years. If you only have one hard drive and it breaks down, data recovery is very costly, and can be catastrophic. As a rule of thumb: **One copy is no copy. Save three copies of your data on at least two mediums (e.g. hard drive, server, LTO tape, flash drive, cloud) and in at least two geographic locations.**
+
+There are several reasons for maintaining duplicate copies of files, such as ensuring high availability and the ability to recover from a disaster situation or accidental modification or deletion. The type of storage you choose for copies of your data will depend on how quickly you will need to access the data should you lose the primary copy. If speed is important, this will normally require an exact duplicate of the primary infrastructure at an off site location, with an equivalent connection to the outside world or access points. This infrastructure would contain a complete and up to date copy of your entire collection. 
+
+When maintaining a copy of data for disaster recovery purposes (for instance, in the event of fire, flood, or earthquake), the goal is simply to be able to retrieve, rebuild, and access your data. Within reason, ease of access is not a priority. An LTO tape stored off-site is one example of a suitable medium for a disaster recovery backup.
+There are many storage options that will support geographic redundancy. The right option for you will depend on your budget and the size of your collection.
+
 Hardware: potential options (2016)
 
 * 0 to 5TB in the next 5 years and small budget -RAID 1
@@ -700,6 +745,9 @@ We use an on-premises but remotely managed digital preservation software as serv
 
 
 ##### Access and Security 
+When designing your storage, you will need to consider who should be able to access it and how. It is best practice to limit access to your master material, both to prevent unwanted changes being introduced and for legal and copyright reasons.  It may also be necessary to record each time the system is accessed and by whom - this will be particularly relevant to collecting institutions with audit requirements. 
+
+Depending on who needs to access your collection, you may also wish to consider storing compressed derivatives of your master files in a more accessible location. This will not only be more practical than accessing large uncompressed masters, it will also reduce the risks involved with allowing access to your masters. 
 
 <div id="budg-slider-2" class="liquid-slider quote-slider">
 
@@ -721,7 +769,7 @@ We use an on-premises but remotely managed digital preservation software as serv
 
 
 ##### Technology Monitoring 
-
+Storage technology changes rapidly, so it is important to keep up to date and informed.
 
 <div id="eq-slider" class="liquid-slider quote-slider">
 
