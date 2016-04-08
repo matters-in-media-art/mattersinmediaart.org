@@ -39,7 +39,9 @@ Condition reporting practice
 It is important to view, listen to, and experience the entire time-based program and report any deviations from the condition statement.
 
 Condition report layout
+
 A condition report may include the following:
+
 * Basic artwork identification
 * Artist
 * Title
@@ -57,6 +59,7 @@ In most cases exhibition format material will be produced for each loan by the l
 Where this is not the case the borrower, lender, artist and gallery may need to work closely together to ensure that accurate material is produced from the best available master. This may provide an opportunity to address the long-term conservation of the work.
 
 In all cases it is important to establish:
+
 * Whether the display material has been newly produced for the display.
 * If the medium is video is it NTSC, PAL or SECAM? It is often inappropriate to change the nature of the signal as different standards have different aesthetic qualities. However this may create a compatibility problem with some display equipment. Any changes should be discussed with the owner.
 * Whether there is an extra copy.
@@ -158,7 +161,7 @@ In all cases it is important to establish:
 
 ### General Condition Report Templates
 * [Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport.doc) (DOC, 65KB)  
-* [Slide Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport_equipment.doc) (DOC, 61KB)  
+* [Equipment Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport_equipment.doc) (DOC, 61KB)  
 
 
 </section>
@@ -251,9 +254,11 @@ In this section you will find four components of an assessment workflow for digi
 
 
 ##	Assessment Documentation 
+
 See the condition reporting section for guidelines of how to document the assessment process. 
 
 ##	 Assessment Workstation
+
 To assess, quality-control and condition report your digital video files, you might want to consider designing a workstation that is customized to your needs and dedicated to these video evaluating activities. Below you will find three examples of workstations that serve various budgets and are aimed at different levels of quality-control. The three tiers outlined are designed to serve both standard definition and high definition video systems. If you are working exclusively with either SD or HD material, different, more customized, and maybe even more economic solutions can be found. 
 Before going into specific equipment, we are going to describe a few standard features that are applicable to all examples.
 
@@ -313,8 +318,8 @@ Before going into specific equipment, we are going to describe a few standard fe
   <div class="collapsible-body">
   	<p>Monitors that display visual information, even when calibrated, are inherently subjective in how they represent the visual information. Oscilloscopes provide an objective view of the signal by providing access to the luminance and chrominance electronic information. The two critical scopes for the assessment of both analog and digital video are a waveform monitor and a vectorscope.
 
-Waveform Monitor: [IMAGE]The waveform monitor allows you to measure the luminance
-(black and white) information of the video signal. A graticule is used to plot the information on a scale and allows one to see whether the black are too low in the signal (which may disrupt sync in an analog system) or the whites are two high (which would allow visual confirmation that the whites are “blown out” or exceed 100 IRE).
+Waveform Monitor: [IMAGE]
+The waveform monitor allows you to measure the luminance (black and white) information of the video signal. A graticule is used to plot the information on a scale and allows one to see whether the black are too low in the signal (which may disrupt sync in an analog system) or the whites are two high (which would allow visual confirmation that the whites are “blown out” or exceed 100 IRE).
 Vectorscope: [IMAGE]The vectorscope is a 360 degree color wheel that allows one to measure the hue and saturation of the chrominance information in the video signal. Known references like fleshtone, blue sky, etc can be used to see whether the chrominance information is being represented faithfully or may warrant re-transfer or processing done by a processing amplifier.</p>
   </div>
 </li>
@@ -462,18 +467,18 @@ FOR WINDOWS:
 
 You should  then advise the artist or representative to view the file in VLC and confirm that the above characteristics are present and the file looks accurate.
 
-####Environment Characteristics
+#### Environment Characteristics
 
 Having information about the environment of creation (i.e. the software and hardware used) can be useful in confirming assessment and/or diagnosing errors.
 
-*Sample questions*
+Sample questions
 
 * How was the work edited? e.g Final Cut Pro 7.0.7, Adobe Premiere Pro CC
 * If possible, could you provide your project file or XML output of it?
 * What playback environment did you use when viewing your piece? e.g. Mac Pro running OS X 10.9, PC Tower running Windows 8, etc.
 * What software do you typically use when checking/viewing your files? e.g. Quicktime 7, Quicktime X, VLC, etc.
 
-####Display Characteristics
+#### Display Characteristics
 
 As with any time¬based media artwork, it is useful at this stage to understand any display specifications, for more information
 
