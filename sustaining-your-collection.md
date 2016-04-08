@@ -769,7 +769,10 @@ Depending on who needs to access your collection, you may also wish to consider 
 
 
 ##### Technology Monitoring 
-Storage technology changes rapidly, so it is important to keep up to date and informed.
+Storage technology changes rapidly, so it is important to keep up to date and informed. You should keep an eye on the long-term viability of your chosen storage system and be proactive in migrating to more sustainable storage media or services. You will need to consider the reliability and availability of the storage media itself as well as the equipment needed to access it.  
+
+For example, if your storage system incorporates LTO tapes you will need to monitor any manufacturing issues for your brand of tape, updates to the LTO standard, and the availability and compatibility of LTO drives. 
+
 
 <div id="eq-slider" class="liquid-slider quote-slider">
 
