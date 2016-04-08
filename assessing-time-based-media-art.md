@@ -13,15 +13,16 @@ The aim of these guidelines is to extend existing condition reporting practices 
 
 A condition report for time-based media works of art is divided into three sections – the media elements, the equipment and the overall installation. They are different from condition reports for more conventional works of art in that some of the components may be easily replaceable without loss. It is often not possible to know by looking at any component, its value or significance in relation to the identity of the work of art.
 
-### Overview of loaning time-based media
+<section id="guidelines" class="section scrollspy" markdown="1">
+## Overview of Condition Reporting Time-based Media
 
-#### Media
+### Media
 In most cases only the exhibition format of the media element will be lent (for example a DVD).
 This is made from a master that will be retained by the lender.
 It is important to be clear whether the owner will provide new exhibition format material or whether they have an agreement with the artist’s gallery or the artist to oversee this.
 It is useful to specify in the conditions of loan that an extra copy of the exhibition format material is to be provided as part of the loan or that the borrower has explicit permission to make one. It is also important to understand what the procedure is for making new copies if needed during the exhibition.
 
-#### Equipment
+### Equipment
 
 All display equipment will fail and become obsolete. There is a high risk that any equipment you are lent will fail during the course of the exhibition and it is appropriate to plan accordingly.
 Some equipment has an aesthetic or conceptual relationship to the identity of the work. The value of such equipment is therefore greater than purely its function. This means that it is important that these relationships are maintained and that it is not possible to substitute this equipment with a different piece of equipment that does not maintain these relationships, without loss.
@@ -51,7 +52,7 @@ A condition report may include the following:
 * Description
 * Describe the work and list the elements/components and how they work together.
 
-#### Media
+### Media
 In most cases exhibition format material will be produced for each loan by the lender or by the artist or the artist’s gallery. It is therefore unlikely that you will be condition checking old or archival material.
 Where this is not the case the borrower, lender, artist and gallery may need to work closely together to ensure that accurate material is produced from the best available master. This may provide an opportunity to address the long-term conservation of the work.
 
@@ -63,7 +64,7 @@ In all cases it is important to establish:
 * The provenance of exhibition copies. (What have they been produced from and has the artist signed them off?)
 * The procedure for requesting additional copies and the cost associated with the production of these copies.
 
-##### Film and slide material
+### Film and slide material
 * Is the colour, contrast, grading, consistent and correct?
 * Is there any evidence of fading?
 * Are the slides/film prints clean and unscratched?
@@ -72,7 +73,7 @@ In all cases it is important to establish:
 * Are the film prints coated?
 * How often does the exhibition copy need to be changed with new copies?
 
-##### Video and audio tapes
+### Video and audio tapes
 * Why have you been sent this tape? Is the work to be shown on tape or are you expected to produce additional exhibition copies?
 * Does the lender/artist or artist’s representative need to approve any exhibition copies produced?
 * What is the status of the material (master/sub-master etc) and what are the responsibilities of the borrower in relation to it?
@@ -80,7 +81,7 @@ In all cases it is important to establish:
 * Does the quality of the exhibition copy reflect the quality of the master?
 * Check for defects in the image and/or the sound.
 
-##### Optical discs
+### Optical discs
 * Are the discs free from scratches?
 * Are the discs free from finger prints and dust?
 * Is there any evidence of delaminating?
@@ -89,7 +90,7 @@ In all cases it is important to establish:
 * Is the quality of the encoding accurate and free from errors?
 * Check for defects in the image and the sound.
 
-##### Hard-disc drives
+### Hard-disc drives
 * What is the configuration of the disc(s)? (Raid array etc)
 * How are the discs formatted (FAT32, NTFS etc).
 * What is the operating system?
@@ -101,20 +102,20 @@ In all cases it is important to establish:
 * What is the nature of the back up of the files etc and where are they located?
 * Are any passwords required?
 
-##### Sculptural element
+### Sculptural element
 * It is beyond the scope of this project to cover condition checking guidelines for sculpture.
 * However, sculptural elements of a time-based media installation should be handled and condition checked in the same way as other loaned sculptures.
-* Display equipment (if provided as part of the loan)
+* Display equipment 
 
-##### Status
+### Status
 * Is the identity of the work of art linked to a particular make and model?
 * Is the equipment intended to be visible? Is the look of the original make and model therefore important?
 * Is the equipment now obsolete and rare?
 * Has the equipment been modified by the artist?
 * Is there a spare?
-* What is the procedure should the equipment fail? (This should be spelt out in the Loan agreement if equipment is provided by the lender as part of the loan).
+* What is the procedure should the equipment fail?
 
-##### Condition
+### Condition
 * Is the equipment in full working order?
 * Is there evidence of any external damage?
 * Are all accessories present and checked off? (Remote control, operations manual etc)
@@ -124,11 +125,11 @@ In all cases it is important to establish:
 * Has it been maintained?
 * What is the fire risk created by this equipment? (Describe any safeguards taken).
 
-##### Projectors and monitors
+### Projectors and monitors
 * Although other technologies are available the most common are cathode ray tube (CRT) and liquid crystal display (LCD) projectors and monitors.
 * To check a projector it is advisable to project the image at the size required for the work.
 
-##### Liquid crystal display
+### Liquid crystal display
 * Project a white field and a black field and check for faulty pixels.
 * View a white field and check that the white balance is even and there is no discolouration in part of the image.
 * View a black field to check for dust spots.
@@ -137,7 +138,7 @@ In all cases it is important to establish:
 * Check the filters are clean (projectors only).
 * Check the age of the lamp (may be difficult to ascertain for monitors).
 
-##### Cathode ray tubes
+### Cathode ray tubes
 * Project a white field and check for burn-in on the Cathode Ray tubes.
 * Check a white field for brightness and colour balance.
 * Check the number of hours that the tubes have been used.
@@ -147,25 +148,69 @@ In all cases it is important to establish:
 * Has the installation been installed correctly?
 * Were the specifications accurately fulfilled?
 
-##### Some things to consider:
+### Some things to consider:
 * Space and construction requirements
 * How the public encounters the work/enters the space.
 * Lighting and acoustic requirements.
 * Operation and functionality (including timing).
 * Was the sound and image accurately rendered?
-* Where any changes necessary during installation or during the course of the show? (These should be agreed with the lender).
+* Where any changes necessary during installation or during the course of the show?
 
-When conducting this assessment, it is helpful to work with a Condition Report which will walk you through all the steps. This could either be a PDF form or a sheet incorporated in your database. An example template can be downloaded here.
+### General Condition Report Templates
+* [Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport.doc) (DOC, 65KB)  
+* [Slide Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport_equipment.doc) (DOC, 61KB)  
 
-In this section you will find four components of an assessment workflow and also details of how to set up an assessment workstation. The components of an assessment workflow are:
+
+</section>
+
+<section id="media-types" class="section scrollspy" markdown="1">
+
+</section>
+
+<section id="Video" class="section scrollspy" markdown="1">
+
+### Video Condition Report Template
+* [Video Condition Report]({{ site.url }}/downloads/mattersmediaart_tape.doc) (DOC, 41KB)
+
+</section>
+
+<section id="Film" class="section scrollspy" markdown="1">
+
+### Film Condition Report Template
+* [Film Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport_film.doc) (DOC, 39KB)
+
+</section>
+
+<section id="Slide" class="section scrollspy" markdown="1">
+
+### Slide Condition Report Template
+* [Slide Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport_slide.doc) (DOC, 39KB)  
+
+</section>
+
+<section id="Software" class="section scrollspy" markdown="1">
+
+### Software Condition Report Template
+* [Hard Disc Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport_harddiscdrive.doc) (DOC, 40KB)  
+* [Disc]({{ site.url }}/downloads/mattersmediaart_conditionreport_disc.doc) (DOC, 39KB)  
+
+<section id="Assessment" class="section scrollspy" markdown="1">
+
+# Assessment
+
+</section>
+
+<section id="Digital-Video" class="section scrollspy" markdown="1">
+## Video
+
+In this section you will find four components of an assessment workflow for digital video and also details of how to set up an assessment workstation. The components of an assessment workflow are:
 
 * Visual and Aural Assessment
 * Initial Diagnostics
 * Technical Assessment 
 * Assessment Documentation
 
-Some people will carry out all assessment before ingest into a digital repository, others will choose to ingest the material provided by the artist into their repository and then carry out a full assessment.
-
+</section>
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
@@ -206,7 +251,7 @@ Some people will carry out all assessment before ingest into a digital repositor
 
 
 ##	Assessment Documentation 
-Text needed
+See the condition reporting section for guidelines of how to document the assessment process. 
 
 ##	 Assessment Workstation
 To assess, quality-control and condition report your digital video files, you might want to consider designing a workstation that is customized to your needs and dedicated to these video evaluating activities. Below you will find three examples of workstations that serve various budgets and are aimed at different levels of quality-control. The three tiers outlined are designed to serve both standard definition and high definition video systems. If you are working exclusively with either SD or HD material, different, more customized, and maybe even more economic solutions can be found. 
@@ -404,7 +449,6 @@ FOR MACS:
 1. Open VLC and playback your video. Go to Window>Media Information
 2. Select second tab: “Codec Details”
 
-[4/30/2015](https://sites.google.com/a/moma.org/mma3/developing-your-systems/prepare-your-collection/2-assessment/initial-diagnostics?tmpl=%2Fsystem%2Fapp%2Fte…)
 
 FOR WINDOWS:
 
@@ -415,25 +459,33 @@ FOR WINDOWS:
 5. It should look like the image below.
 
 [INSERT SCREEN SHOT]
-You should  then advise the artist or representative to view the file in VLC and confirm that the above characteristics are present and the file looks accurate.
-Environment Characteristics
-Having information about the environment of creation (i.e. the software and hardware used) can be useful in confirming assessment and/or diagnosing errors.
-[4/30/2015](https://sites.google.com/a/moma.org/mma3/developing-your-systems/prepare-your-collection/2-assessment/initial-diagnostics?tmpl=%2Fsystem%2Fapp%2Fte…)
 
-How was the work edited? e.g Final Cut Pro 7.0.7, Adobe Premiere Pro CC
- If possible, could you provide your project file or XML output of it?
-What playback environment did you use when viewing your piece? e.g. Mac Pro running OS X 10.9, PC Tower running Windows 8, etc.
-What software do you typically use when checking/viewing your files? e.g. Quicktime 7, Quicktime X, VLC, etc.
-Display Characteristics
-As with any time¬based media artwork, it is useful at this stage to understand any display specifications, for more information see [link](http://www.tate.org.uk/about/projects/matters¬media¬art/acquisitions/preacquisitions/)
+You should  then advise the artist or representative to view the file in VLC and confirm that the above characteristics are present and the file looks accurate.
+
+####Environment Characteristics
+
+Having information about the environment of creation (i.e. the software and hardware used) can be useful in confirming assessment and/or diagnosing errors.
+
+*Sample questions*
+
+* How was the work edited? e.g Final Cut Pro 7.0.7, Adobe Premiere Pro CC
+* If possible, could you provide your project file or XML output of it?
+* What playback environment did you use when viewing your piece? e.g. Mac Pro running OS X 10.9, PC Tower running Windows 8, etc.
+* What software do you typically use when checking/viewing your files? e.g. Quicktime 7, Quicktime X, VLC, etc.
+
+####Display Characteristics
+
+As with any time¬based media artwork, it is useful at this stage to understand any display specifications, for more information
 
 At this stage it is useful to understand the artist’s attitude to changes in the appearance of their video artwork over time. For example, changes in display technology (LCD projectors vs DLP projectors, changes in playback devices), color shifts, etc.  
 For digital video artworks in particular, this information can prove critical in quantifying the changes that can occur to a file through various playback and display technologies. For example, a particular combination of stream(s) and wrapper may not provide unambiguous instructions for decoding leaving the possibility that different players might play back the video stream differently.
 It is helpful to ask if the artist or their representative have experienced any problems with achieving a suitable level of consistent playback for this work, if so please ask them to describe. 
 
-##	Technical Assessment
-Depending on your workflow you may carry out a technical assessment before you process your content for ingest into a digital repository or after.
-The purpose of this assessment is to expose, document the following characteristics and ensure that they remain unchanged by any processing carried out.
+####	Technical Assessment
+
+Depe
+nding on your workflow you may carry out a technical assessment before you process your content for ingest into a digital repository or after.
+The purpose of this assessment is to expose and document the following characteristics as well as ensure that they remain unchanged by any processing carried out.
 Aspect Ratio
 Pixel format
 Colour matrices and spaces
@@ -444,6 +496,8 @@ Timecode
 Frame Rate
 Duration
 Audio Channel Arrangement (channel count, assignment) subtitles
+
+
 1. Assessing the files:
 There are four main things to analyse the technical metadata of your files for:
 confirming that the content is as expected
@@ -451,18 +505,24 @@ that there are no obvious technical problems with the streams
 that there is no conflicting information between the streams and the wrapper
 that this is not an of absence of key information in the streams and the wrapper
 To begin the technical assessment of your video files, you first need to run mediainfo on your file(s) to expose the technical metadata for analysis. To do this, follow the below instructions:
+
+
 MAC:
-Open Terminal
-run media info on the video files you are about to assess command: mediainfo ¬f [path to input file]
-[4/30/2015](https://sites.google.com/a/moma.org/mma3/developing-your-systems/prepare-your-collection/2-assessment/technical-assessment?tmpl=%2Fsystem%2Fapp%2…)
+* Open Terminal
+* run media info on the video files you are about to assess command: mediainfo ¬f [path to input file]
 It will look something like this:
  
+
+
+
+
+
 On PC: open
 run mediainfo with the following command it will look something like this:
 Confirm that the basic content is as expected, for example the codec, the wrapper, audio sample rate and bit¬depth, subsampling, frame rate and the duration
 Confirmation of Content
  This step in the technical assessment of your video files is to confirm the files you have received match what was expected from the artist or their representative.
-[4/30/2015](https://sites.google.com/a/moma.org/mma3/developing-your-systems/prepare-your-collection/2-assessment/technical-assessment?tmpl=%2Fsystem%2Fapp%2…)
+
 Identifying Obvious Technical Problems
  
 This step is to confirm that the files integrity is intact and there are no obvious signs that the file is incomplete or corrupted. The first method of checking the integrity of the file is to confirm that the file checksum associated with the file validates when transferred or moved to your storage infrastructure. If the checksum does not validate, this is a clear sign that something technically has changed within the file. The second method of checking the file integrity to to analyze the mediainfo report for clear indicators of technical problems. These can vary, but an example is a file that will not open and the mediainfo report looks like the image below:
@@ -470,9 +530,13 @@ This step is to confirm that the files integrity is intact and there are no obvi
  
 By analyzing this report, it becomes clear that the file is incomplete and lacks the video and audio streams necessary for playback as mediainfo report finishes without displaying the video or audio stream technical metadata. This makes it clear that this information is not present in the file and is the reason for its inability to be displayed.
 This is a critical error with the file and will necessitate replacement.
-[4/30/2015](https://sites.google.com/a/moma.org/mma3/developing-your-systems/prepare-your-collection/2-assessment/technical-assessment?tmpl=%2Fsystem%2Fapp%2…)
+
 Identifying Technical Conflicts in Wrapper versus Streams
+
 Problems might arise in the consistent playback of a video stream with regards to aspect ratio and colour interpretation if there is conflicting metadata held in the wrapper and the stream.
+
+
+
 Video
 ID/String                                : 1
 Format                                   : AVC
@@ -499,10 +563,18 @@ StreamSize/String                        : 104 MiB (98%)
 Language/String                          : English
 Encoded_Date                             : UTC 2014¬03¬27 11:47:51 Tagged_Date                              : UTC 2014¬03¬27 11:55:51
 colour_primaries                         : BT.709 transfer_characteristics                 : BT.709 matrix_coefficients                      : BT.601 colour_range                             : Limited
+
 In this example, the 3 fields to look at are “color primaries”, “transfer_characteristics” and “matrix_coefficients”. There is a conflict in the subsampling between the “color primaries” and the “matrix_coefficient” where the file contains decoding information that relates to 2 very different color spaces. This conflict would expose itself if played back in Quicktime where the player would default to BT.601, which is the incorrect colorspace.
+
 Identifying Absence of Key Information avi/ uncompressed problem
+
 aspect ratio information ¬ not captured in ffv1 and mkv
+
 visual check : choppy ¬ field dominance issues
+
 Poor quality or accuracy of colour data ¬ chroma subsampling upscaling issues
+
 Things to document to make sure you display it properly:
+
 full range and broadcast range resolution and interpolation Display Aspect Ratio (DAR)
+</section>
