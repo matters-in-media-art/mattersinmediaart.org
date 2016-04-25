@@ -4,7 +4,7 @@ title: Frequently Asked Questions
 ---
 
 
-### What are the main ways in which time-based media are bought and sold?
+### What are the main ways in which time-based media artworks are bought and sold?
 There are two main ways in which artists working in video have traditionally made their work available. The first is through distributors and the second is through the fine-art gallery system.
 
 ### What is the difference between acquiring a work from a distributor rather than a gallery or dealer?
