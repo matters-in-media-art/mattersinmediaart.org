@@ -537,40 +537,40 @@ Below is a guide to the type of material you might find in a record for a time-b
 <li>
   <div class="collapsible-header">Artist information</div>
   <div class="collapsible-body" markdown="1">
-* Artist and gallery contact sheet
-* Correspondence with the artist
-* Artist recommended technical specifications
-* Artist’s statement
-* Artist’s interview
+<li> * Artist and gallery contact sheet </li>
+<li> * Correspondence with the artist </li>
+<li> * Artist recommended technical specifications </li>
+<li> * Artist’s statement </li>
+<li> * Artist’s interview </li>
 </div>
 </li>
 
 <li>
   <div class="collapsible-header">Art historical research / context</div>
   <div class="collapsible-body" markdown="1">
-* Documents relating to the artwork, including other editions
-* Exhibition reviews
+<li> * Documents relating to the artwork, including other editions </li>
+<li> * Exhibition reviews </li>
 </div>
 </li>
 
 <li>
   <div class="collapsible-header">Structure and condition assessments</div>
   <div class="collapsible-body" markdown="1">
-* Structure and condition report(s)
+<li> * Structure and condition report(s) </li>
 </div>
 </li>
 
 <li>
   <div class="collapsible-header">Ongoing care</div>
   <div class="collapsible-body" markdown="1">
-* Media migration record
-* Template
-* Conservation treatment reports/ treatment photographs
-* Major damage reports
-* Storage guidelines
-* Disaster plan recommendations
-* Scientific analysis reports
-* Guidelines for packing and transport
+<li> * Media migration record </li>
+<li> * Template </li>
+<li> * Conservation treatment reports/ treatment photographs </li>
+<li> * Major damage reports </li>
+<li> * Storage guidelines </li>
+<li> * Disaster plan recommendations </li>
+<li> * Scientific analysis reports </li>
+<li> * Guidelines for packing and transport </li>
 </div>
 </li>
 </ul>

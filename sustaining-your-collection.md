@@ -130,6 +130,7 @@ There are Core Principles that underpin the management of digital collections; h
 The first step to planning what you need is understanding what you have, and how it might grow. 
 
 <div class="row">
+  <a href="{{ site.url }}/downloads/mattersmediaart_survey.pdf">
 <div class="col s12 m12">
   <div class="card green accent-3">
     <div class="card-content white-text">
@@ -137,7 +138,7 @@ The first step to planning what you need is understanding what you have, and how
       <p>This survey has been designed to help you to establish an overview of your digital collection. Although these pages only address the needs of digital video the presence of other types of digital artwork or digital components will have an impact on decisions regarding your systems for example the needs for storage.</p>
     </div>
     <div class="card-action">
-      <a class="modal-trigger white-text" href="#modal1" >Take the survey</a>
+      <div class="chip"><i class="large material-icons">play_for_work</i>Take the Survey </div>
     </div>
   </div>
 </div>
