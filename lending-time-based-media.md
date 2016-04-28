@@ -4,7 +4,7 @@ title: Lending Time-based media art
 ---
 
 <span class="flow-text">
-Among acquisition and exhibition, a loan constitutes another important moment within the life-span of an artwork. It provides an invaluable opportunity to revise an istitution's holdings, documentation, and knowledge.
+Among acquisition and exhibition, a loan constitutes another important moment within the life-span of an artwork. It provides an invaluable opportunity to revise an institution's holdings, documentation, and knowledge.
 </span>
 
 <br>
