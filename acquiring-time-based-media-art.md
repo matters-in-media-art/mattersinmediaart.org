@@ -54,7 +54,7 @@ Prior to acquisition of a time-based media work, the following steps may be take
 <h2 class="title"></h2>
 <h2>1. What is it?</h2>
 <p>Understand what you are proposing to acquire: what is it?
-Gather general information: artist, title, date, medium, duration, edition details, provenance, artist’s dates, credit line, display dimensions
+Gather general information: artist, title, date, medium, duration, edition details, provenance, artist’s dates, credit line, display dimensions. 
 Understand key qualities of the work and prepare a description of the elements necessary to maintain the integrity of the artwork. This includes:</p>
 <ul>
 <li>Artist statement about the work (from artist, gallery or seller)</li>
@@ -112,7 +112,7 @@ Once team/resources are established, curator/collector presents the proposed acq
 * How specific is the equipment to the work – is this going to present challenges in the future?
 * What is the minimum level of technical expertise necessary?
 
-Determine which equipment is ‘dedicated’ and which is ‘non-dedicated’. It is important to understand the relationship of the display equipment to the installation. Many artists have strong views about the equipment to be used in the display of their work and see it as integral because of the impact it has on how the work is experienced. Each case must be considered individually to determine what is appropriate to change and what must remain constant in the display of a work. It is necessary to involve the curator and wherever possible the artist or their representative in these decisions. There are degrees of change: changing a particular item of equipment for one of the same make and model; changing the make and model but keeping the technology the same; changing the technology.
+Determine which equipment is ‘dedicated’ and which is ‘non-dedicated’. It is important to understand the relationship of the display equipment to the installation. Many artists have strong views about the equipment to be used in the display of their work and see it as integral because of the impact it has on how the work is experienced. Each case must be considered individually to determine what is appropriate to change and what must remain constant in the display of a work. It is necessary to involve the curator and wherever possible the artist or their representative in these decisions. There are degrees of change: changing a particular item of equipment for one of the same make and model; changing the make and model but keeping the technology the same; changing the technology completely.
 </div>
 
 
@@ -125,7 +125,7 @@ Specific makes and models of equipment may be designated by the artist as essent
 
 There may be instances when equipment is replaceable but remains assigned to the work of art as a legal stipulation in the acquisition agreement and is therefore not useable in any other installation.
 
-Equipment dedicated to a group of works: a group of works may depend on a particular make and model of equipment or technology that is becoming increasingly rare. In such cases you may wish to reserve the use of this equipment for this group of works.
+A group of works may depend on a particular make and model of equipment or technology that is becoming increasingly rare. In such cases you may wish to reserve the use of this equipment for this group of works.
 </div>
 
 
@@ -162,24 +162,18 @@ Although the artist may have specific requirements for display equipment, the eq
 
 ### Pre-acquisition assessment
 
+
+During this pre-acquisition phase, there is often limited time to gather important information necessary for making a presentation to a board, committee, or self. The goal at this point is to begin the process of assessment that will eventually lead to completion of structure and condition reports during the post-acquisition phase. At this stage, here are some core things to think about:
 * Is this work currently ‘exhibitable’ and can this be sustained?
-* During this pre-acquisition phase, there is often limited time to gather important information necessary for making a presentation to a board, committee, or self.
-* The goal at this point is to begin the process of assessment that will eventually lead to completion of structure and condition reports during the post-acquisition phase.
-* At this stage, here are some core things to think about:
 * Determine the ‘exhibitability’ of the media: assess the playback quality, if the offered format is provided at this stage. From an exhibition history of the provided materials, determine duration of previous display. Make recommendations for preferred media format if different from what is being offered.
 * Assess the condition of display equipment offered with the work: how old is the equipment? How many times has it been used/ displayed? Has it ever been serviced?
 * Assess the condition of the sculptural elements in the installation.
 
+### Cost Assessment
+
+In addition to the costs itemised below, there will be long- and short-term costs associated with the care of time-based media. A cost-assessment worksheet will help to estimate the financial commitment necessary for acquiring the work.
 
 <div id="cost-slider" class="liquid-slider">
-
-
-<div markdown="1">
-<h2 class="title">Cost Assessment</h2>
-<h2>Cost Assessment</h2>
-In addition to the costs itemised below, there will be long- and short-term costs associated with the care of time-based media. A cost-assessment worksheet will help to estimate the financial commitment necessary for acquiring the work.
-</div>
-
 
 <div markdown="1">
 <h2 class="title">Acquisition costs</h2>
@@ -194,7 +188,7 @@ In addition to the costs itemised below, there will be long- and short-term cost
 <div markdown="1">
 <h2 class="title">Exhibition costs</h2>
 <h2>Exhibition costs</h2>
-* Use essential conditions for display established above to determine costs, including extraordinary requirements such as:
+Use essential conditions for display established above to determine costs, including extraordinary requirements such as:
 * Artist/studio involvement
 * Extended installation time
 * Rented installation equipment
@@ -378,7 +372,7 @@ You will need either a deed of gift...
 </div>
 
 
-Before signing the contract, you will have information in hand about the work [refer to Pre-acquisition Guidelines checklist]. You will already have considered the installation details, long-term preservation and exhibition requirements, future technological developments, as well as condition assessment. At this moment you might also wish to secure a Copyright Licence between you, the new owner of the work and the Copyright Holder. Although the artist normally retains the copyright in the work, you may want to secure rights to produce images and copies of the work for a range of purposes from publicity to preservation. Two copies of each agreement document are sent to the Seller for signature. Each party should retain one fully signed original.
+Before signing the contract, you will have information in hand about the work [refer to <a href="#pre-gather">Pre-acquisition Guidelines checklist</a>]. You will already have considered the installation details, long-term preservation and exhibition requirements, future technological developments, as well as condition assessment. At this moment you might also wish to secure a Copyright Licence between you, the new owner of the work and the Copyright Holder. Although the artist normally retains the copyright in the work, you may want to secure rights to produce images and copies of the work for a range of purposes from publicity to preservation. Two copies of each agreement document are sent to the Seller for signature. Each party should retain one fully signed original.
 
 
 Please note the following:
@@ -428,14 +422,14 @@ Notify artist: All parties must be notified after completing the acquisition pro
 <h2>Catalogue and inventory</h2>
 Time-based media works require more complex cataloguing than traditional works of art. Some collecting institutions create separate databases for the additional metadata associated with these works. Decisions about what information to catalogue and how to catalogue it must be made carefully, following discussion among registration, curatorial, collections management, and conservation staff, and information systems staff.
 
-Useful website for moving image archive cataloguing: IMAP Cataloguing Project
+A useful website for moving image archive cataloguing: <a href "http://www.imappreserve.org/cat_proj/">IMAP Cataloguing Project</a>
 
 Assign accession number/establish basic record in collections database
 </div>
 
 <div markdown="1">
 <h2 class="title"></h2>
-<h2>1. Catalogue artwork</h2>
+<h2>Catalogue artwork</h2>
 Enter detailed information about the artwork gathered during the acquisition process into collections database, minimally including:
 
 * Artist, title, creation date, display dimensions
@@ -451,7 +445,7 @@ Additional information collected in the object file may be uploaded into the dat
 
 <div markdown="1">
 <h2 class="title"></h2>
-<h2>2. Inventory and label artwork components</h2>
+<h2>Inventory and label artwork components</h2>
 * Media: e.g. video, audio, film, slides, hard-disk drives.
 * Useful websites: [EAI Online Resource Guide](http://www.eai.org/resourceguide/formats.html); [Texas Commission Videotape Identification and Assessment Guide](http://www.arts.state.tx.us/video/)
 * Dedicated display equipment: (e.g. screens, monitors, projectors, speakers, playback equipment, lights, cameras). Record manufacturer and model numbers; collect product manuals for all equipment
@@ -461,7 +455,7 @@ Additional information collected in the object file may be uploaded into the dat
 
 <div markdown="1">
 <h2 class="title"></h2>
-<h2>3. Organise collected information</h2>
+<h2>Organise collected information</h2>
 Create object files, or binder, from the acquisition process
 
 These files will grow as the work is exhibited, loaned, and conserved. Most institutions create separate files for different purposes such as acquisition, curatorial, conservation and registration. Most of this information will be stored electronically as well, in collections databases, text documents, and digital images.
@@ -480,63 +474,63 @@ Below is a guide to the type of material you might find in a record for a time-b
 <li>
   <div class="collapsible-header">Artwork</div>
   <div class="collapsible-body" markdown="1">
-* Accession Number
-* Artist
-* Title
-* Medium
-* Description
-* Dimensions
-* Duration
-* Image size (max / min)
-* Room size
+<li> * Accession Number </li>
+<li> * Artist </li>
+<li> * Title </li>
+<li> * Medium </li>
+<li> * Description </li>
+<li> * Dimensions </li>
+<li> * Duration </li>
+<li> * Image size (max / min) </li>
+<li> * Room size </li>
 </div>
 </li>
 <li>
   <div class="collapsible-header">Acquisition and registration</div>
   <div class="collapsible-body" markdown="1">
-* Incoming receipt
-* Bill of sale
-* Purchase agreement / Deed of gift
-* In some cases you might have a commissioning agreement or a co-ownership agreement note to introduction to legal documents
-* Curatorial proposal
-* Copy of the Certificate of authenticity or the original
-* Copyright agreement
-* Acquisition correspondence
-* Original inventory of media/ display equipment/ sculptural components which are part of the acquisition
-* Cost assessment
-* Acquisition assessment
+<li> * Incoming receipt </li>
+<li> * Bill of sale </li>
+<li> * Purchase agreement / Deed of gift </li>
+<li> * In some cases you might have a commissioning agreement or a co-ownership agreement note to introduction to legal documents </li>
+<li> * Curatorial proposal </li>
+<li> * Copy of the Certificate of authenticity or the original </li>
+<li> * Copyright agreement </li>
+<li> * Acquisition correspondence </li>
+<li> * Original inventory of media/ display equipment/ sculptural components which are part of the acquisition </li>
+<li> * Cost assessment </li>
+<li> * Acquisition assessment </li> 
 </div>
 </li>
 
 <li>
   <div class="collapsible-header">Dedicated component information</div>
   <div class="collapsible-body" markdown="1">
-* Media
-* Diagram or list of media components which shows the format, when it was made, what it was made from and what it is used for.
-* Display equipment
-* List of dedicated equipment which came as part of the purchase (say why it is dedicated)
-* Manuals
-* Sculptural components
+<li> * Media </li>
+<li> * Diagram or list of media components which shows the format, when it was made, what it was made from and what it is used for. </li>
+<li> * Display equipment </li>
+<li> * List of dedicated equipment which came as part of the purchase (say why it is dedicated) </li>
+<li> * Manuals </li>
+<li> * Sculptural components </li>
 </div>
 </li>
 
 <li>
   <div class="collapsible-header">Display specifications</div>
   <div class="collapsible-body" markdown="1">
-* Installation specifications
-* Additional floor plans and wiring diagrams etc.
+<li> * Installation specifications </li> 
+<li> * Additional floor plans and wiring diagrams etc. </li>
 </div>
 </li>
 
 <li>
   <div class="collapsible-header">Display history</div>
   <div class="collapsible-body" markdown="1">
-* List of prior displays
-* Information about displays and other editions of the work
-* Photographs relating to prior displays
-* Texts relating to prior displays
-* Display summary, including equipment used, logs of minor incidents reported during display, display maintenance procedures, budgets, installation plans, notes about exhibition formats made for the display, photographs, correspondence.
-* Loan documents
+<li> * List of prior displays </li>
+<li> * Information about displays and other editions of the work </li>
+<li> * Photographs relating to prior displays </li>
+<li> * Texts relating to prior displays </li>
+<li> * Display summary, including equipment used, logs of minor incidents reported during display, display maintenance procedures, budgets, installation plans, notes about exhibition formats made for the display, photographs, correspondence. </li>
+<li> * Loan documents </li> 
 </div>
 </li>
 
