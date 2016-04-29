@@ -294,7 +294,7 @@ To assess, quality-control and condition report your digital video files, you mi
 <li>
   <div class="collapsible-header"><i class="material-icons">settings</i>Computer</div>
   <div class="collapsible-body">
-  	<p>Watching digital videos, especially compressed ones, can be challenging for older or regular “desktop”-computers. For your workstation you would want quite a powerful computer, with at least several GB of RAM. Most videos will lag, if you play them off of external hard drives, depending on your interface, or off of servers, depending on your connection; it is thereby often necessary to save them locally, which requires enough storage space on your computer. Alternatively you could consider an external hard drive or RAID with a fast enough interface connection. The platform you choose –Mac or PC– depends on the kind of software you’d like to use: Final Cut Pro only works on Macs, whereas Adobe Premiere is available for both platforms. Make sure to choose your computer platform depending on your software and hardware needs and compatibilities.</p>
+  	<p>Watching digital videos, especially uncompressed ones, can be challenging for older or regular “desktop”-computers. Your workstation requires a relatively powerful computer, with a minimum of several GB of RAM. Most videos will lag, if you play them directly from external hard drives, depending on your interface, and from servers, depending on your connection; therefore it is good practice to save them locally for assessment requiring sufficient storage space on your computer. Alternatively you could consider an external hard drive or RAID with a fast interface connection. The platform you choose –Mac or PC– depends on the kind of software to be used: Final Cut Pro only works on Macs, whereas Adobe Premiere is available for both platforms. Make sure to choose your computer platform depending on your software and hardware needs and compatibilities.</p>
   </div>
 </li>
 <li>
@@ -309,21 +309,21 @@ To assess, quality-control and condition report your digital video files, you mi
   	<p>Monitors that display visual information, even when calibrated, are inherently subjective in how they represent the visual information. Oscilloscopes provide an objective view of the signal by providing access to the luminance and chrominance electronic information. The two critical scopes for the assessment of both analog and digital video are a waveform monitor and a vectorscope.
 
 Waveform Monitor: [IMAGE]
-The waveform monitor allows you to measure the luminance (black and white) information of the video signal. A graticule is used to plot the information on a scale and allows one to see whether the black are too low in the signal (which may disrupt sync in an analog system) or the whites are two high (which would allow visual confirmation that the whites are “blown out” or exceed 100 IRE).
-Vectorscope: [IMAGE]The vectorscope is a 360 degree color wheel that allows one to measure the hue and saturation of the chrominance information in the video signal. Known references like fleshtone, blue sky, etc can be used to see whether the chrominance information is being represented faithfully or may warrant re-transfer or processing done by a processing amplifier.</p>
+The waveform monitor measures the luminance (black and white) information of the video signal. A graticule is used to plot the information on a scale and allows one to see whether the blacks are too low in the signal (which may disrupt sync in an analog system) or the whites are two high (which would allow visual confirmation that the whites are “blown out” or exceed 100 IRE).
+Vectorscope: [IMAGE]The vectorscope is a 360 degree color wheel that measures the hue and saturation of the chrominance information in the video signal. Known references like fleshtone, blue sky, etc. can be used to see whether the chrominance information is being represented faithfully or may warrant re-transfer or processing done by a processing amplifier.</p>
   </div>
 </li>
 <li>
   <div class="collapsible-header"><i class="material-icons">perm_device_information</i>Software</div>
   <div class="collapsible-body">
-  	<p>Software is crucial in the assessment of your digital video material. It’s important to understand the basics of the software and how it functions to know whether your video is being processed and faithfully represented. Typically, capture and editing software like Blackmagic’s Media Express, Adobe Premiere and Final Cut Pro X can be used to analyze the discrete portions of your video material and allows for an in-depth assessment of its basic characteristics (luminance, chrominance and audio). Free tools such as QCtools (REF) also allow for in depth assessment of your video files and have been developed for the archiving community.</p>
+  	<p>Software is crucial in the assessment of your digital video material. It is important to understand the basics of the software and how it functions to know whether your video is being processed and faithfully represented. Typically, capture and editing software like Blackmagic’s Media Express, Adobe Premiere and Final Cut Pro X can be used to analyze the discrete portions of your video material and allows for an in-depth assessment of its basic characteristics (luminance, chrominance and audio). Free tools such as QCtools (REF) also allow for in-depth assessment of your video files and have been developed for the archiving community.</p>
   </div>
 </li>
 <li>
   <div class="collapsible-header"><i class="material-icons">volume_up</i>Audio</div>
   <div class="collapsible-body">
   	<p>[IMAGE OF MONITORS AND METERS]
-Quality audio monitors and meters are also necessary in the assessment of video material. A pair of studio grade, near-field speakers is recommended for close listening to a piece. In addition, audio scopes using either the db or vu method of measurement are useful in looking at whether the audio is clipped, compressed or otherwise distorted as well as measuring whether the audio is in phase or not.</p>
+Quality audio monitors and meters are also necessary in the assessment of video material. A pair of studio grade, near-field speakers is recommended for close listening to a piece. In addition, audio scopes using either the decibel (dB) or volume unit (VU) method of measurement are useful in looking at whether the audio is clipped, compressed or otherwise distorted as well as measuring whether the audio is in phase or not.</p>
   </div>
 </li>
 </ul>
