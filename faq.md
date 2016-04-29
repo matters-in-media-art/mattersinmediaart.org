@@ -62,16 +62,16 @@ Affirmation of Title merely confirms the proper ownership of the copyright. It d
 A master is approved by the artist, is the highest quality material and is usually the source from which copies are made.  
 
 ### Who holds the artist's master?
-In the days when the artist's master was a particular object such as a tape, then who held the master was a greater issue than it is today. Nowadays a digital clone can be kept by many different stakeholders including the artist, a gallery, artist’s estate, museums and educational institutions. 
+In the days when the artist's master was a particular object such as a tape, then who held the master was a greater issue than it is today. Nowadays a digital clone can be kept by many different stakeholders including the artist, a gallery, artist’s estate, museums, collectors and educational institutions. 
 
 ### What is an ‘Artist’s Proof’?
-The existence of one of more artist’s proofs may be declared alongside the edition. For example one might see ‘Edition of 6 with 2 APs’. Artist’s proofs function as editions belonging to the artist. Artist’s proofs are also sometimes sold at a later date. If an artists sells all their dedicated artist’s proofs they would then have to ask an owner for permission to show the work.
+The existence of one or more artist’s proofs may be declared alongside the edition. For example one might see ‘Edition of 6 with 2 APs’. Artist’s proofs function as editions belonging to the artist. Artist’s proofs are also sometimes sold at a later date. If an artists sells all their dedicated artist’s proofs they would then have to ask an owner for permission to show the work.
 
 ### What is an exhibition copy?
 The exhibition copy is the copy of the media used for display. This is can be used during the installation and should be considered replaceable.
 
 ### Whom do I contact for technical support?
-Contact a museum conservation department, gallery, consultant and/or artist/studio that are familiar with these types of works (see  pre-acquisition summary).
+Contact a conservator, gallery, distributor, consultant and/or artist/studio that are familiar with these types of works for a recommendation based on the support you need (see  pre-acquisition summary). There are an increasing number of people with the necessary expertise who offer their services in a freelance capacity. 
 
 ### How do I document the work of art?
 Documentation of the work usually includes a combination of photography, diagrams, schematics, legal documentation, Installation Specifications, and verbal/recorded accounts of the work.
