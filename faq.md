@@ -59,7 +59,7 @@ The Certificate of Authenticity is a document signed by the artist or artist’s
 Affirmation of Title merely confirms the proper ownership of the copyright. It does not ensure the authenticity of the work of art itself.
 
 ### What is a master?
-A master is the source from which copies are made. The purchased archival master should be the one closest to the artist’s originally edited source and approved by the artist.
+A master is approved by the artist, is the highest quality material and is usually the source from which copies are made.  
 
 ### Who holds the artist's master?
 In the days when the artist's master was a particular object such as a tape, then who held the master was a greater issue than it is today. Nowadays a digital clone can be kept by many different stakeholders including the artist, a gallery, artist’s estate, museums and educational institutions. 
@@ -68,7 +68,7 @@ In the days when the artist's master was a particular object such as a tape, the
 The existence of one of more artist’s proofs may be declared alongside the edition. For example one might see ‘Edition of 6 with 2 APs’. Artist’s proofs function as editions belonging to the artist. Artist’s proofs are also sometimes sold at a later date. If an artists sells all their dedicated artist’s proofs they would then have to ask an owner for permission to show the work.
 
 ### What is an exhibition copy?
-The exhibition copy is the copy of the media used for the installation. This is can be used during the installation and should be considered replaceable.
+The exhibition copy is the copy of the media used for display. This is can be used during the installation and should be considered replaceable.
 
 ### Whom do I contact for technical support?
 Contact a museum conservation department, gallery, consultant and/or artist/studio that are familiar with these types of works (see  pre-acquisition summary).
