@@ -281,12 +281,12 @@ To assess, quality-control and condition report your digital video files, you mi
   <div class="collapsible-header"><i class="material-icons">settings_overscan</i>Monitor</div>
   <div class="collapsible-body">
   	<p>
-  		For standard definition video files –for example videos that come from SD tape transfers–, watching the video on a CRT monitor is crucial, as only these monitors will show you both fields of the interlaced content and provide you an authentic display of the video signal. Since CRT monitors are not fabricated anymore today, you’ll most likely have to scout appropriate web platforms (eg. eBay) or watch for a garage sale of a nearby Broadcast studio getting rid of their equipment. Make sure the video inputs fit your system before you buy it, and have it calibrated for best use.
+  		For standard definition video files –for example videos that come from SD tape transfers–, watching the video on a Cathode Ray Tube (CRT) monitor is crucial, as only these monitors will show you both fields of the interlaced content and provide you with an authentic display of the video signal. CRT monitors are no manufactured, however they can be found through appropriate web platforms (eg. eBay) or forums who post when Broadcast studios sell off their equipment. Make sure the video inputs fit your system before you buy it, and calibrate.
   	</p>
   	<p>
-  	Viewing interlaced video files on a computer monitor is problematic because these monitors cannot display interlaced footage and will attempt to merge the fields together into discrete frames. Certain errors, e.g. a head clog from a tape digitization, can only affect one field and lead to complete image loss, which you would not see on a computer monitor.</p>
+  	Viewing interlaced video files on a computer monitor is problematic because these monitors cannot display interlaced footage and will attempt to merge the fields together into discrete frames. Certain errors, e.g. a head clog from a tape digitization, can only affect one field and lead to a complete area of image loss, which you would not see on a computer monitor.</p>
   	<p>
-  	With high definition video, the term progressive entered the video world. Progressive means that a video –just like film– contains full frames, as opposed to the two-fields interlaced. This is often indicated by a lower case p, like 720p. These videos can be quality-controlled easily on a computer monitor. A more advanced approach for viewing these kinds of files would be a color-calibrated, LCD studio monitor.
+  	With the advent of high definition video, the term progressive entered the video world. Progressive means that a video –just like film– contains full frames, as opposed to the two-fields interlaced. This is often indicated by a lower case p, for example 720p. These videos can be quality-controlled easily on a computer monitor. A more advanced approach for viewing these kinds of files would be a color-calibrated, LCD studio monitor.
     </p>
 
   </div>
