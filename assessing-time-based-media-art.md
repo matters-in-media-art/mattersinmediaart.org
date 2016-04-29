@@ -206,7 +206,7 @@ In all cases it is important to establish:
 <section id="Digital-Video" class="section scrollspy" markdown="1">
 ## Video
 
-Video files require visual and aural assessment with the appropriate tools. This section covers the design requirements of a work station, approaches to running initial technical analysis on your file(s), the visual and aural technical assessment and its documentation.  
+Video files are assessed and condition checked both visually and aurally with the appropriate tools. This section covers the design requirements of a work station, approaches to running initial technical analysis on your file(s), the visual and aural technical assessment and its documentation.  
 
 </section>
 
