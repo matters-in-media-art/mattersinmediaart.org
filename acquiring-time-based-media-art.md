@@ -52,7 +52,7 @@ Prior to acquisition of a time-based media work, the following steps may be take
 
 <div>
 <h2 class="title"></h2>
-<h2>1. What is it?</h2>
+<h2>What is it?</h2>
 <p>Understand what you are proposing to acquire: what is it?
 Gather general information: artist, title, date, medium, duration, edition details, provenance, artist’s dates, credit line, display dimensions. 
 Understand key qualities of the work and prepare a description of the elements necessary to maintain the integrity of the artwork. This includes:</p>
@@ -67,7 +67,7 @@ Understand key qualities of the work and prepare a description of the elements n
 
 <div markdown="1">
 <h2 class="title"></h2>
-<h2>2. Explore Deeper</h2>
+<h2>Explore Deeper</h2>
 Based on the artist’s statement and installation instructions, determine the following:
 
 * What are the essential vs. desirable exhibition conditions, including space requirements?
@@ -86,7 +86,7 @@ You also need to determine:
 
 <div markdown="1">
 <h2 class="title"></h2>
-<h2>3. Assemble Expertise</h2>
+<h2>Assemble Expertise</h2>
 * In order to proceed, the curator/collector will need to gather more detailed information relying on the expertise of a larger group of people.
 * Large institutions may assemble a team comprising some or all of the following expertise: curatorial, conservation, registration exhibitions, technical/media/audio-visual, IT, legal/intellectual property.
 * Collectors and small institutions may find knowledgeable technical support: contact a museum conservation department, art gallery, art consultant, and/or artist/studio to recommend sources.
