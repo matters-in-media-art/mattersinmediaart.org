@@ -257,19 +257,19 @@ To assess, quality-control and condition report your digital video files, you mi
   <div class="collapsible-header"><i class="material-icons">settings_input_composite</i>Connection Types</div>
   <div class="collapsible-body">
   	<p>
-  		Since the signal connections of your devices will play an important role in the playback of your video files, we’ll briefly describe what is available and make some recommendations. It is important to note that many analog formats only support 1 signal type and therefore outputting them on a “better” signal type can actually change the authenticity of the signal.
+  		Since the signal connections of your devices will play an important role in the playback of your video files, these will be briefly described together with their commonly associated formats. It is important to note that many analog formats only support 1 signal type and therefore outputting them on a “better” (or more recent) signal type can actually change the authenticity of the signal. Keeping the signal native is has been referred to as transparent migration. 
   	</p>
   	<p>
-  		Composite Video [analog connection, SD]: All the information that composes the signal, luminance, chrominance, blanking and synchronization (CVBS), is merged together into one signal. Composite video is a single connection type (either BnC or RCA). Analog formats that utilize a composite signal output and are recorded using a composite signal are ½” open-reel, ¾” U-matic and VHS.
+  		Composite Video [analog connection, SD]: All the information that composes the signal, luminance, chrominance, blanking and synchronization (CVBS), is merged together into one signal. Composite video is a single connection type (either BNC or RCA). Analog formats that utilize a composite signal output and are recorded using a composite signal include ½” open-reel, ¾” U-matic, laser disc and VHS.
   	</p>
   	<p>
-  		S-Video or Y/C [analog connection, SD]: As opposed to the composite signal, S-Video separates the luminance (Y) and the chrominance (C) into two different channels. Thereby it is a step up in quality from the composite video. It is transmitted by a distinctive looking, 4 pin plug. Formats that allowed for Y/C [ADD].
+  		S-Video or Y/C [analog connection, SD]: As opposed to the composite signal, S-Video separates the luminance (Y) and the chrominance (C) into two different channels. Thereby it is a step up in quality from the composite video. It is transmitted by a distinctive looking, 4-pin connector. Formats that allowed for Y/C include VHS and DVD.
   	</p>
   	<p>
   		Component Video [analog connection, SD]: Component video is the best quality connection to transmit analog video signals. The signal is separated into three channels: Y (luminance), Pb (Blue minus L) and Pr (Red minus L). The green is derived using the pythagoreon theorem. Component video comes as three adjoined plugs, sometimes color-coded to green (Y), blue (Pb) and red (Pr). This connection should be used on analog Betacam and Betacam SP.
   	</p>
   	<p>
-  		Serial Digital Interface [SDI, SD or HD]. The SDI signal is a digital bit stream that is either used to transmit analog and digital video signals as well as used by many digital formats to record the signal to tape (Digibeta). SD-SDI is a signal connection type, using the BnC connection type, that packages the video, aural and any ancillary data (timecode, closed captioning, etc) into a signal bit stream for transmission. SD SDI is a 4:2:2 YUV system of video transmission. HD-SDI uses the same principal but splits the signal amongst multiple connections to increase the bandwidth necessary for transmission of High Definition material.
+  		Serial Digital Interface [SDI, SD or HD]. The SDI signal is a digital bit stream that can be used to transmit analog and digital video signals, and has also been used to by digital formats to record the signal to tape (Digital Betacam). SD-SDI is a signal connection type, using the BNC connection type, that packages the video, aural, and any ancillary data (timecode, closed captioning, etc) into a signal bit stream for transmission. SD-SDI is a 4:2:2 YUV system of video transmission. HD-SDI uses the same principal but splits the signal amongst multiple connections to increase the bandwidth necessary for transmission of High Definition material.
   	</p>
   	<p>
   		High Definition Multimedia Interface [HDMI]: HDMI is typically used in the connection of monitors and other devices together in the transmission of high definition material.
