@@ -323,13 +323,13 @@ Vectorscope: [IMAGE]The vectorscope is a 360 degree color wheel that measures th
   <div class="collapsible-header"><i class="material-icons">volume_up</i>Audio</div>
   <div class="collapsible-body">
   	<p>[IMAGE OF MONITORS AND METERS]
-Quality audio monitors and meters are also necessary in the assessment of video material. A pair of studio grade, near-field speakers is recommended for close listening to a piece. In addition, audio scopes using either the decibel (dB) or volume unit (VU) method of measurement are useful in looking at whether the audio is clipped, compressed or otherwise distorted as well as measuring whether the audio is in phase or not.</p>
+Quality audio monitors and meters are also necessary in the assessment of video material. A pair of studio grade, near-field speakers is recommended for close listening to a piece. In addition, audio scopes using either the decibel (dB) or volume unit (VU) method of measurement are useful in looking at whether the audio is clipped, compressed or otherwise distorted, and for measuring whether the audio is in phase or not. http://www.sweetwater.com/insync/phase-2/ </p>
   </div>
 </li>
 </ul>
 
 
-##	Different Assessment Workstation Examples
+##	Cost Guide For Workstation Tools 
 
 <table class="assessment bordered highlight">
         <thead>
