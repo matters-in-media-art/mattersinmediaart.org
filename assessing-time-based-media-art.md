@@ -329,7 +329,7 @@ Quality audio monitors and meters are also necessary in the assessment of video 
 </ul>
 
 
-###	Different Assessment Workstation Examples
+##	Different Assessment Workstation Examples
 
 <table class="assessment bordered highlight">
         <thead>
@@ -418,13 +418,13 @@ Quality audio monitors and meters are also necessary in the assessment of video 
       </table>
 
 
-##	Initial Diagnostics
-The amount of technical information that you might receive with a digital video artwork will vary depending on how technical the artist is or how good their technical support is.
+###	Initial Technical Analysis
+The amount of technical information that you might receive with a digital video artwork will vary depending on the artist.
 
-Before you can properly assess the digital video files either in your collection or during the acquisition process, you first need to have a better understanding of the environment, ie. the software and hardware system used for production and playback, and the way the video was produced. This information will help inform both the accurate assessment of the video material as well as how to best care for it in the future.
+Before assessing digital video files, it is incredibly helpful to first have a better understanding of the environment, ie. the software and hardware systems used for production of the video, and artist's preferred method of display. This information will help inform both the accurate assessment of the video material as well as how to best care for it in the future.
 
 File Characteristics
-These are the key characteristics of the file that you will want to have prior to receiving the video elements for acquisition:
+These are the key characteristics of the file that you will ideally want to have prior to receiving the the digital video. If this is not possible, the following aspects should examined:
 
 File Characteristics:
 
