@@ -248,10 +248,6 @@ Video files are assessed and condition checked both visually and aurally with th
 </ul>
 
 
-##	Assessment Documentation 
-
-See the condition reporting section for guidelines of how to document the assessment process. 
-
 ##	 Assessment Workstation
 
 To assess, quality-control and condition report your digital video files, you might want to consider designing a workstation that is customized to your needs and dedicated to these video evaluating activities. Below you will find three examples of workstations that serve various budgets and are aimed at different levels of quality-control. The three tiers outlined are designed to serve both standard definition and high definition video systems. If you are working exclusively with either SD or HD material, different, more customized, and maybe even more economic solutions can be found. 
@@ -578,3 +574,7 @@ Things to document to make sure you display it properly:
 
 full range and broadcast range resolution and interpolation Display Aspect Ratio (DAR)
 </section>
+
+##	Assessment Documentation 
+
+See the condition reporting section for guidelines of how to document the assessment process. 
