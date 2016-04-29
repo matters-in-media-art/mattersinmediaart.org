@@ -47,7 +47,7 @@ No: your rights to loan, display, preserve and sell the work are the same whethe
 The Copyright Agreement should specify the buyer’s rights with respect to display, preservation, lending, PR, and publication.
 
 ### Why do I need a copyright licence?
-Unauthorised duplication of a copyrighted work may violate the rights of the copyright holder. A copyright licence will establish and define the owner’s rights with regard to migration, the creation of exhibition copies and similar issues having to do with the duplication of the work.
+Unauthorised duplication of a copyrighted work may violate the rights of the copyright holder. A copyright licence will establish and define the owner’s rights with regard to preservation, the creation of exhibition copies and similar issues having to do with the duplication of the work.
 
 ### How do we know who holds the copyright – owner or artist?
 Most often the artist holds the copyright to his or her work. A seller claiming ownership of the copyright in the work should warrant that he or she has the rights and can confer them upon the buyer.
