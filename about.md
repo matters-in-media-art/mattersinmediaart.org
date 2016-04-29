@@ -31,12 +31,17 @@ Conceived originally as a consensus building project for the three partner museu
 <section id="contribution-guidelines" class="section scrollspy" markdown="1">
 
 ## Contribution Guidelines
+The Matters in Media Art website follows the essential tenants of the [open source philosophy](https://opensource.org/osd). All of the website's source code and content are openly accessible in a repository hosted on GitHub, which offers a framework for anyone to suggesting, discussing, and contributing edits to mattersinmediaart.org's content and/or design and functionality. 
 
-Some text and screenshots will go here to show people how they can file issues on GitHub, fork the repository, make edits / corrections / contributions, and submit pull requests.
+Fundamental to this open source approach is the licensing that we have chosen to adopt. All mattersinmediaart.org source code is licensed under the [MIT license](https://en.wikipedia.org/wiki/MIT_License), and all intellectual content (unless otherwise noted) is licensed under the Creative Commons [CC0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). While these two licenses are quite different from each other, generally speaking, this means that all Matters in Media Art content and source code is free to copy, share, adopt, reuse, and redistribute. For specific terms of the MIT and Public Domain licenses, please see the license statement of the Matters in Media Art repository [link]
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque sed nisl sodales quam accumsan elementum. Nunc justo ligula, tempor vel purus eget, tincidunt efficitur lorem. Donec lectus nunc, sollicitudin sed cursus a, sollicitudin vitae mauris. Sed efficitur volutpat eros, non ultricies enim tincidunt at. Curabitur maximus commodo finibus. Sed vitae pretium elit. Quisque aliquet purus leo, vel lobortis neque maximus quis. Curabitur et convallis risus. Nam iaculis mi non nunc euismod finibus. Maecenas molestie sed odio a tempus. Nam quis venenatis justo. Sed non augue ac eros pretium pretium nec id tortor. Vestibulum at ultricies neque. Aliquam erat volutpat. In ultricies eros id pulvinar sodales. In hac habitasse platea dictumst.
+Contributing
+We welcome input, feedback, and contributions to Matter in Media Art from anyone with a passionate interest in the topic. Contributing to the mattersinmediaart.org does not necessarily require any specific level of technical expertise, as there are two different ways of contributing, one of which is incredibly easy!
 
-Curabitur placerat risus ut imperdiet varius. Nullam cursus mi tortor, sed finibus sem efficitur id. Pellentesque ante purus, interdum id consectetur nec, dapibus eget arcu. Aenean at vestibulum erat. Phasellus venenatis cursus faucibus. Vestibulum eu augue dui. Suspendisse maximus ullamcorper volutpat.
+The first and easiest way of contributing is to do what is called "filing an issue". [explanation of how to file an issue goes here].
+
+The second way of contributing to mattersinmediaart.org is to actually edit the website's content or source code, and then submit this edit for consideration through what GitHub calls a "pull request". [explanation of how edit content and submit pull requests goes here].
+
 
 </section>
 
@@ -46,11 +51,8 @@ Curabitur placerat risus ut imperdiet varius. Nullam cursus mi tortor, sed finib
 <section id="the-team" class="section scrollspy" markdown="1">
 
 ## Project team
-
-### Present
-
-* Nancy Adelson, Associate General Counsel, MoMA
-* Ramona Bannayan, Director Collection Management and Exhibition Registration, MoMA
+* Nancy Adelson, Deputy General Counsel, MoMA
+* Ramona Bannayan, Senior Deputy Director, Exhibitions and Collections, MoMA
 * Michelle Barger, Deputy Head of Conservation/Conservator of Objects, SFMOMA
 * Sydney Briggs, Associate Registrar, Collections, MoMA
 * Amy Brost, Media Conservation Fellow, MoMA
