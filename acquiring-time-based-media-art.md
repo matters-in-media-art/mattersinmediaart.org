@@ -637,7 +637,7 @@ Additional information about conserving media works may be found at the followin
 </section>
 
 
-<section id="post-templates" class="section scrollspy" markdown="1">
+<section id="post-condition report templates" class="section scrollspy" markdown="1">
 
 ### Post Acquisition condition report templates
 * [Structure and condition report]({{ site.url }}/downloads/structure_and_condition_reports.rtf) (RTF, 180KB)
