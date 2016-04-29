@@ -165,7 +165,10 @@ Terms may be specified in the loan agreement:
 
 <div markdown="1">
 <h2 class="title"></h2>
-<h2>Lender – approve</h2>
+<h2>Lender</h2>
+
+### approve
+
 * Approve facilities report
 * Finalise budget
 * Provide installation documentation
@@ -174,7 +177,10 @@ Terms may be specified in the loan agreement:
 
 <div markdown="1">
 <h2 class="title"></h2>
-<h2>Borrower – installation documentation</h2>
+<h2>Borrower</h2>
+
+### installation documentation
+
 * Consider and discuss installation documentation
 * Finalise budget
 </div>         
