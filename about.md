@@ -33,7 +33,7 @@ Conceived originally as a consensus building project for the three partner museu
 ## Contribution Guidelines
 The Matters in Media Art website follows the essential tenants of the [open source philosophy](https://opensource.org/osd). All of the website's source code and content are openly accessible in a repository hosted on GitHub, which offers a framework for anyone to suggesting, discussing, and contributing edits to mattersinmediaart.org's content and/or design and functionality. 
 
-Fundamental to this open source approach is the licensing that we have chosen to adopt. All mattersinmediaart.org source code is licensed under the [MIT license](https://en.wikipedia.org/wiki/MIT_License), and all intellectual content (unless otherwise noted) is licensed under the Creative Commons [CC0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/). While these two licenses are quite different from each other, generally speaking, this means that all Matters in Media Art content and source code is free to copy, share, adopt, reuse, and redistribute. For specific terms of the MIT and Public Domain licenses, please see the license statement of the Matters in Media Art repository [link]
+Fundamental to this open source approach is the licensing that we have chosen to adopt. All mattersinmediaart.org source code is licensed under the [MIT license](https://en.wikipedia.org/wiki/MIT_License), and all intellectual content (unless otherwise noted) is licensed under the Creative Commons [Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license. While these two licenses are quite different from each other, generally speaking, this means that all Matters in Media Art content and source code is free to copy, share, adopt, reuse, and redistribute. For specific terms of the MIT and Public Domain licenses, please see the license statement of the Matters in Media Art repository [link]
 
 Contributing
 We welcome input, feedback, and contributions to Matter in Media Art from anyone with a passionate interest in the topic. Contributing to the mattersinmediaart.org does not necessarily require any specific level of technical expertise, as there are two different ways of contributing, one of which is incredibly easy!
@@ -41,6 +41,16 @@ We welcome input, feedback, and contributions to Matter in Media Art from anyone
 The first and easiest way of contributing is to do what is called "filing an issue". [explanation of how to file an issue goes here].
 
 The second way of contributing to mattersinmediaart.org is to actually edit the website's content or source code, and then submit this edit for consideration through what GitHub calls a "pull request". [explanation of how edit content and submit pull requests goes here].
+
+<!--
+
+make a note about how we are accepting pull requests, but not new repo admins at the moment 
+
+also some text about how we are a small team of volunteers and time is limited
+
+link to the contributors page and explain the distinction between project team and contributors
+
+-->
 
 
 </section>
