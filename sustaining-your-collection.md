@@ -5,7 +5,7 @@ published: true
 ---
 
 <span class="flow-text">
-Welcome to the third phase of Matters in Media Art. These pages focus on the challenge of creating storage systems for our digital art collections and moving digital collections into these systems. 
+Since the start of this project in 2005, time-based art has predominantly shifted to the digital realm. Digital collections, and legacy works that have been digitized, require appropriate storage. These pages focus on the challenge of creating storage systems for our digital art collections and moving digital collections into these systems. 
 </span>
 
 ![](img/Mengbo.jpg)
