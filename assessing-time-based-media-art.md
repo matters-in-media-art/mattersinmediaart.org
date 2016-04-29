@@ -172,28 +172,28 @@ In all cases it is important to establish:
 
 <section id="Video" class="section scrollspy" markdown="1">
 
-## Video Condition Report Template
+#### Video Condition Report Template
 * [Video Condition Report]({{ site.url }}/downloads/mattersmediaart_tape.doc) (DOC, 41KB)
 
 </section>
 
 <section id="Film" class="section scrollspy" markdown="1">
 
-## Film Condition Report Template
+#### Film Condition Report Template
 * [Film Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport_film.doc) (DOC, 39KB)
 
 </section>
 
 <section id="Slide" class="section scrollspy" markdown="1">
 
-## Slide Condition Report Template
+#### Slide Condition Report Template
 * [Slide Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport_slide.doc) (DOC, 39KB)  
 
 </section>
 
 <section id="Software" class="section scrollspy" markdown="1">
 
-## Software Condition Report Template
+#### Software Condition Report Template
 * [Hard Disc Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport_harddiscdrive.doc) (DOC, 40KB)  
 * [Disc]({{ site.url }}/downloads/mattersmediaart_conditionreport_disc.doc) (DOC, 39KB)  
 
@@ -204,7 +204,7 @@ In all cases it is important to establish:
 </section>
 
 <section id="Digital-Video" class="section scrollspy" markdown="1">
-## Video
+### Video
 
 Video files are assessed and condition checked both visually and aurally with the appropriate tools. This section covers the design requirements of a work station, approaches to running initial technical analysis on your file(s), the visual and aural technical assessment and its documentation.  
 
