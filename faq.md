@@ -61,8 +61,8 @@ Affirmation of Title merely confirms the proper ownership of the copyright. It d
 ### What is a master?
 A master is the source from which copies are made. The purchased archival master should be the one closest to the artist’s originally edited source and approved by the artist.
 
-### Who holds the master (artist original)?
-The artists most originally edited master may be held by a variety of stakeholders. The artist, a gallery, artist’s estate, museums and educational institutions have all been known to keep the artist’s master.
+### Who holds the artist's master?
+In the days when the artist's master was a particular object such as a tape, then who held the master was a greater issue than it is today. Nowadays a digital clone can be kept by many different stakeholders including the artist, a gallery, artist’s estate, museums and educational institutions. 
 
 ### What is an ‘Artist’s Proof’?
 The existence of one of more artist’s proofs may be declared alongside the edition. For example one might see ‘Edition of 6 with 2 APs’. Artist’s proofs function as editions belonging to the artist. Artist’s proofs are also sometimes sold at a later date. If an artists sells all their dedicated artist’s proofs they would then have to ask an owner for permission to show the work.
