@@ -628,7 +628,7 @@ Additional information about conserving media works may be found at the followin
 <h2 class="title"></h2>
 <h2>Pack and store artwork</h2>
 * Proper archival storage and packing is crucial to the longevity of the artwork.
-* A brief summary of storage concerns for media may be found in [IMAP’s Preservation 101 section on Storage](http://www.imappreserve.org/pres_101/index.html#storage)
+* A brief summary of storage concerns for media may be found in [<a href="http://www.imappreserve.org/pres_101/index.html#storage">IMAP’s Preservation 101 section on Storage</a>). 
 </div>
 
 

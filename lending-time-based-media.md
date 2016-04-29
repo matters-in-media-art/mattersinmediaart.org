@@ -125,7 +125,7 @@ Here the lender and the borrower come together to consider a particular request.
 <h2 class="title"></h2>
 <h2>Borrower</h2>
 
-#### Request 
+### Request 
 In submitting a request to the lender provide the following:
 
 * A compelling argument
@@ -137,7 +137,7 @@ In submitting a request to the lender provide the following:
 <h2 class="title"></h2>
 <h2>Lender</h2>
 
-#### Consider
+### Consider
 
 In receiving a request the lender considers:
 
@@ -154,7 +154,8 @@ In receiving a request the lender considers:
 <h2 class="title"></h2>
 <h2>Borrower</h2>
 
-####approve
+### approve
+
 Terms may be specified in the loan agreement:
 
 * Review budget
