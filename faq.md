@@ -74,7 +74,7 @@ The exhibition copy is the copy of the media used for display. This is can be us
 Contact a conservator, gallery, distributor, consultant and/or artist/studio that are familiar with these types of works for a recommendation based on the support you need (see  pre-acquisition summary). There are an increasing number of people with the necessary expertise who offer their services in a freelance capacity. 
 
 ### How do I document the work of art?
-Documentation of the work usually includes a combination of photography, diagrams, schematics, legal documentation, Installation Specifications, and verbal/recorded accounts of the work.
+Documentation of the work usually includes a combination of photography, diagrams, schematics, legal documentation, Installation Specifications, and verbal/recorded accounts of the work. There are a number of tools, such as media info that can also assist in extracting technical metadata. The documentation of an artwork is an ongoing process that traces the life of the work. 
 
 ### What should be included in archival files?
 See post-acquisition summary. These files will usually include a receipt for the artwork, condition reports, the invoice, an acquisition summary, the certificate of authenticity, a copyright agreement, the artist’s contact information, a commissioning agreement (if applicable), the curatorial rationale, correspondence and transcripts of an artist’s interview.
