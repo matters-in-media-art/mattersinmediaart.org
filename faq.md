@@ -59,7 +59,7 @@ The Certificate of Authenticity is a document signed by the artist or artist’s
 Affirmation of Title merely confirms the proper ownership of the copyright. It does not ensure the authenticity of the work of art itself.
 
 ### What is a master?
-A master is the source from which copies are made. The purchased archival master should be the one closest to the artist’s originally edited source tape, if the artist’s source itself has not been acquired.
+A master is the source from which copies are made. The purchased archival master should be the one closest to the artist’s originally edited source and approved by the artist.
 
 ### Who holds the master (artist original)?
 The artists most originally edited master may be held by a variety of stakeholders. The artist, a gallery, artist’s estate, museums and educational institutions have all been known to keep the artist’s master.
