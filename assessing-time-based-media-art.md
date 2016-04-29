@@ -248,10 +248,9 @@ Video files are assessed and condition checked both visually and aurally with th
 </ul>
 
 
-##	 Assessment Workstation
+###	 Assessment Workstation
 
-To assess, quality-control and condition report your digital video files, you might want to consider designing a workstation that is customized to your needs and dedicated to these video evaluating activities. Below you will find three examples of workstations that serve various budgets and are aimed at different levels of quality-control. The three tiers outlined are designed to serve both standard definition and high definition video systems. If you are working exclusively with either SD or HD material, different, more customized, and maybe even more economic solutions can be found. 
-Before going into specific equipment, we are going to describe a few standard features that are applicable to all examples.
+To assess, quality-control and condition report your digital video files, you might want to consider designing a workstation that is customized to your needs and dedicated to these video evaluating activities. Below you will find three examples of workstations that serve various budgets and are aimed at different levels of quality-control. The three tiers outlined are designed to serve both standard definition (SD) and high definition (HD) video systems. If you are working exclusively with either SD or HD material, you could make savings by acquiring just the tools for your specific needs. The following aspects are the 7 key components relevant to all digital video assessment workstations.  
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
