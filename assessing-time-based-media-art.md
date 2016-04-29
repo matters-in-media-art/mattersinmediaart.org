@@ -4,7 +4,7 @@ title: "Assessing Time-Based Media Art"
 ---
 
 <span class="flow-text">
-Assessing your media is a crucial step when they enter your collection. Not only will it help you to understand exactly what type of material has entered the collection, it will also help you to understand the needs of each medium, identify errors or anamolies that may need correction, and generally gain a better understanding of each artwork and your collection as a whole. 
+Assessing your digital video media is a crucial step on entering your collection. Not only will it help you to understand the technical characteristics and anomalies of the file(s), it will help you create a baseline against which future examinations can be compared, and generally gain a better understanding of each artwork and your collection as a whole. 
 </span>
 
 ![](img/peter-assessing.jpg)
@@ -172,28 +172,28 @@ In all cases it is important to establish:
 
 <section id="Video" class="section scrollspy" markdown="1">
 
-### Video Condition Report Template
+## Video Condition Report Template
 * [Video Condition Report]({{ site.url }}/downloads/mattersmediaart_tape.doc) (DOC, 41KB)
 
 </section>
 
 <section id="Film" class="section scrollspy" markdown="1">
 
-### Film Condition Report Template
+## Film Condition Report Template
 * [Film Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport_film.doc) (DOC, 39KB)
 
 </section>
 
 <section id="Slide" class="section scrollspy" markdown="1">
 
-### Slide Condition Report Template
+## Slide Condition Report Template
 * [Slide Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport_slide.doc) (DOC, 39KB)  
 
 </section>
 
 <section id="Software" class="section scrollspy" markdown="1">
 
-### Software Condition Report Template
+## Software Condition Report Template
 * [Hard Disc Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport_harddiscdrive.doc) (DOC, 40KB)  
 * [Disc]({{ site.url }}/downloads/mattersmediaart_conditionreport_disc.doc) (DOC, 39KB)  
 
