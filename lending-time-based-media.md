@@ -29,8 +29,6 @@ These resources should be used as reference documents when considering the loan 
 * Installation documentation guidelines
 * Condition report guidelines
 
-It was beyond the scope of the project at this time to fully address the needs of computer-based art. It is however our aim to turn to this in the future.
-
 
 
 <section id="process" class="section scrollspy" markdown="1">
@@ -113,7 +111,7 @@ Do you have the space available to show this work? Is any construction required?
 </ul>
 
 
-With this information, you can now [Create a draft budget](http://www.tate.org.uk/about/projects/matters-media-art/budget-guidelines), review, and make a decision as to whether you wish to proceed with the request or stop.
+With this information, you can now <a href="{{ site.url }}/downloads/loanbudgetcostassessmenttemplate.xls">create a draft budget</a>, review, and make a decision as to whether you wish to proceed with the request or stop.
 
 ## Request, consider, approve
 Here the lender and the borrower come together to consider a particular request. The main areas of discussion are often the nature of the work and associated costs. Not all requests are accepted and successful requests often include some degree of negotiation. The resulting loan agreement is the document outlining the agreed-upon terms of the loan.
@@ -125,7 +123,9 @@ Here the lender and the borrower come together to consider a particular request.
 
 <div markdown="1">
 <h2 class="title"></h2>
-<h2>Borrower – request</h2>
+<h2>Borrower</h2>
+
+#### Request 
 In submitting a request to the lender provide the following:
 
 * A compelling argument
@@ -135,7 +135,10 @@ In submitting a request to the lender provide the following:
 
 <div markdown="1">
 <h2 class="title"></h2>
-<h2>Lender – consider</h2>
+<h2>Lender</h2>
+
+#### Consider
+
 In receiving a request the lender considers:
 
 * The contribution of the work to the exhibition
@@ -149,7 +152,9 @@ In receiving a request the lender considers:
 
 <div markdown="1">
 <h2 class="title"></h2>
-<h2>Borrower – agree terms</h2>
+<h2>Borrower</h2>
+
+####approve
 Terms may be specified in the loan agreement:
 
 * Review budget
