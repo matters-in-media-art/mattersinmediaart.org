@@ -639,7 +639,7 @@ Additional information about conserving media works may be found at the followin
 
 <section id="post-templates" class="section scrollspy" markdown="1">
 
-### Post Acquisition templates
+### Post Acquisition condition report templates
 * [Structure and condition report]({{ site.url }}/downloads/structure_and_condition_reports.rtf) (RTF, 180KB)
 * [Video artwork prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_videoprompt.rtf) (RTF, 81KB)
 * [Audio artwork prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_audioprompt.rtf) (RTF, 77KB)
