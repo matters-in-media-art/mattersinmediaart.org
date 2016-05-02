@@ -283,12 +283,12 @@ To assess, quality-control and condition report your digital video files, you mi
   <div class="collapsible-header"><i class="material-icons">settings_overscan</i>Monitor</div>
   <div class="collapsible-body">
   	<p>
-  		For standard definition video files –for example videos that come from SD tape transfers–, watching the video on a Cathode Ray Tube (CRT) monitor is crucial, as only these monitors will show you both fields of the interlaced content and provide you with an authentic display of the video signal. CRT monitors are no manufactured, however they can be found through appropriate web platforms (eg. eBay) or forums who post when Broadcast studios sell off their equipment. Make sure the video inputs fit your system before you buy it, and calibrate.
+  		For standard definition video files –for example videos that come from SD tape transfers–, watching the video on a Cathode Ray Tube (CRT) monitor is crucial, as only these monitors will show you both fields of the interlaced content and provide you with an authentic display of the video signal. CRT monitors are no longer manufactured, however they can be found through appropriate web platforms (eg. eBay) or forums who post when Broadcast studios sell off their equipment. Make sure the video inputs fit your system before you buy it, and calibration is recommended when setting up.
   	</p>
   	<p>
   	Viewing interlaced video files on a computer monitor is problematic because these monitors cannot display interlaced footage and will attempt to merge the fields together into discrete frames. Certain errors, e.g. a head clog from a tape digitization, can only affect one field and lead to a complete area of image loss, which you would not see on a computer monitor.</p>
   	<p>
-  	With the advent of high definition video, the term progressive entered the video world. Progressive means that a video –just like film– contains full frames, as opposed to the two-fields interlaced. This is often indicated by a lower case p, for example 720p. These videos can be quality-controlled easily on a computer monitor. A more advanced approach for viewing these kinds of files would be a color-calibrated, LCD studio monitor.
+  	With the advent of high definition video, the term progressive entered the video world. Progressive means that a video –just like film– contains full discrete frames, as opposed to the two-fields interlaced. Progressive video content is often indicated by a lower case p, for example 720p. These videos can be quality-controlled easily on a computer monitor. A more advanced approach for viewing these kinds of files would be a color-calibrated, LCD studio monitor.
     </p>
 
   </div>
@@ -296,7 +296,7 @@ To assess, quality-control and condition report your digital video files, you mi
 <li>
   <div class="collapsible-header"><i class="material-icons">settings</i>Computer</div>
   <div class="collapsible-body">
-  	<p>Watching digital videos, especially uncompressed ones, can be challenging for older or regular “desktop”-computers. Your workstation requires a relatively powerful computer, with a minimum of several GB of RAM. Most videos will lag, if you play them directly from external hard drives, depending on your interface, and from servers, depending on your connection; therefore it is good practice to save them locally for assessment requiring sufficient storage space on your computer. Alternatively you could consider an external hard drive or RAID with a fast interface connection. The platform you choose –Mac or PC– depends on the kind of software to be used: Final Cut Pro only works on Macs, whereas Adobe Premiere is available for both platforms. Make sure to choose your computer platform depending on your software and hardware needs and compatibilities.</p>
+  	<p>Watching digital videos, especially uncompressed, can be challenging for older or regular “desktop”-computers. Your workstation requires a relatively powerful computer, with a minimum of several GB of RAM. Most videos will lag, if you play them directly from external hard drives, depending on your interface, and from servers, depending on your connection; therefore it is good practice to save them locally for assessment requiring sufficient storage space on your computer. Alternatively you could consider an external hard drive or RAID with a fast interface connection. The platform you choose –Mac or PC– depends on the kind of software to be used: Final Cut Pro only works on Macs, whereas Adobe Premiere is available for both platforms. Make sure to choose your computer platform depending on your software and hardware needs and compatibilities.</p>
   </div>
 </li>
 <li>
@@ -308,11 +308,11 @@ To assess, quality-control and condition report your digital video files, you mi
 <li>
   <div class="collapsible-header"><i class="material-icons">track_changes</i>Scopes</div>
   <div class="collapsible-body">
-  	<p>Monitors that display visual information, even when calibrated, are inherently subjective in how they represent the visual information. Oscilloscopes provide an objective view of the signal by providing access to the luminance and chrominance electronic information. The two critical scopes for the assessment of both analog and digital video are a waveform monitor and a vectorscope.
+  	<p>Monitors, even when calibrated, are inherently subjective in how they represent the visual information. Oscilloscopes provide an objective view of the signal by providing access to the luminance and chrominance electronic information. The two critical scopes for the assessment of both analog and digital video are a waveform monitor and a vectorscope.
 
 Waveform Monitor: [IMAGE]
 The waveform monitor measures the luminance (black and white) information of the video signal. A graticule is used to plot the information on a scale and allows one to see whether the blacks are too low in the signal (which may disrupt sync in an analog system) or the whites are two high (which would allow visual confirmation that the whites are “blown out” or exceed 100 IRE).
-Vectorscope: [IMAGE]The vectorscope is a 360 degree color wheel that measures the hue and saturation of the chrominance information in the video signal. Known references like fleshtone, blue sky, etc. can be used to see whether the chrominance information is being represented faithfully or may warrant re-transfer or processing done by a processing amplifier.</p>
+Vectorscope: [IMAGE]The vectorscope is a 360 degree color wheel that measures the hue and saturation of the chrominance information in the video signal. Known references like fleshtone, blue sky, etc. can be used to discern whether the chrominance information is being represented faithfully.</p>
   </div>
 </li>
 <li>
@@ -325,7 +325,7 @@ Vectorscope: [IMAGE]The vectorscope is a 360 degree color wheel that measures th
   <div class="collapsible-header"><i class="material-icons">volume_up</i>Audio</div>
   <div class="collapsible-body">
   	<p>[IMAGE OF MONITORS AND METERS]
-Quality audio monitors and meters are also necessary in the assessment of video material. A pair of studio grade, near-field speakers is recommended for close listening to a piece. In addition, audio scopes using either the decibel (dB) or volume unit (VU) method of measurement are useful in looking at whether the audio is clipped, compressed or otherwise distorted, and for measuring whether the audio is in phase or not. http://www.sweetwater.com/insync/phase-2/ </p>
+Quality audio monitors and meters are also necessary in the assessment of video material. A pair of studio grade, near-field speakers is recommended for listening to a piece. In addition, audio scopes using either the decibel (dB) or volume unit (VU) method of measurement are useful in looking at whether the audio is clipped, compressed or otherwise distorted, and for measuring whether the audio is in phase or not. http://www.sweetwater.com/insync/phase-2/ </p>
   </div>
 </li>
 </ul>
@@ -426,13 +426,13 @@ The amount of technical information that you might receive with a digital video 
 Before assessing digital video files, it is incredibly helpful to first have a better understanding of the environment, ie. the software and hardware systems used for production of the video, and artist's preferred method of display. This information will help inform both the accurate assessment of the video material as well as how to best care for it in the future.
 
 File Characteristics
-These are the key characteristics of the file that you will ideally want to have prior to receiving the the digital video. If this is not possible, the following aspects should examined:
+These are the key characteristics of the file that you will ideally want to have prior to receiving the the digital video. If this is not possible, the following aspects should examined on receiving the files:
 
 File Characteristics:
 
 * What is the file wrapper? e.g. mov, mp4, avi, etc.
 * What is your codec? e.g Apple Pro Res 4:2:2, Uncompressed, H.264
-* What is the video resolution? e.g 1080 x 1920, 480 X 720, 576 X 720, etc.
+* What is the video resolution? e.g 1080 x 1920, 480 x 720, 576 x 720, etc.
 * What is the aspect ratio? 16:9, 4:3, etc.  
 * What is the chroma subsampling?: e.g. 422, 4444, etc.
 * Is the file interlaced or progressive?
