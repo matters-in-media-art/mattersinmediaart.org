@@ -1,11 +1,8 @@
 ---
 layout: default
-title: "Assessing Time-Based Media Art"
+title: "Documenting Media Art"
 ---
 
-<span class="flow-text">
-Assessing your digital video media is a crucial step on entering your collection. Not only will it help you to understand the technical characteristics and anomalies of the file(s), it will help you create a baseline against which future examinations can be compared, and generally gain a better understanding of each artwork and your collection as a whole. 
-</span>
 
 ![](img/peter-assessing.jpg)
 
@@ -205,6 +202,7 @@ In all cases it is important to establish:
 
 <section id="Digital-Video" class="section scrollspy" markdown="1">
 ### Video
+![](img/peter-assessing.jpg)
 
 <span class="flow-text">
 Assessing your digital video media is a crucial step on entering your collection. Not only will it help you to understand the technical characteristics and anomalies of the file(s), it will help you create a baseline against which future examinations can be compared, and generally gain a better understanding of each artwork and your collection as a whole. 
