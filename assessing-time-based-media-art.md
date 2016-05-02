@@ -437,7 +437,6 @@ File Characteristics:
 * What is the chroma subsampling?: e.g. 422, 4444, etc.
 * Is the file interlaced or progressive?
 * What is the audio codec? e.g. PCM, AAC, etc.
-* What file format(s) have you used for exhibition? e.g same as above, h264 What is the audio? e.g mono, stereo, surround 5.1
 
 Where possible, to facilitate the accurate delivery of this information, ideally the artist or their representative would do the following:
 
