@@ -438,26 +438,6 @@ File Characteristics:
 * Is the file interlaced or progressive?
 * What is the audio codec? e.g. PCM, AAC, etc.
 
-Where possible, to facilitate the accurate delivery of this information, ideally the artist or their representative would do the following:
-
-FOR MACS:
-
-1. Open VLC and playback your video. Go to Window>Media Information
-2. Select second tab: “Codec Details”
-
-
-FOR WINDOWS:
-
-1. Open VLC and playback your video.
-2. Go to Tools>Media Information
-3. Select third tab: “Codec”
-4. Expand All Streams
-5. It should look like the image below.
-
-[INSERT SCREEN SHOT]
-
-You should  then advise the artist or representative to view the file in VLC and confirm that the above characteristics are present and the file looks accurate.
-
 #### Environment Characteristics
 
 Having information about the environment of creation (i.e. the software and hardware used) can be useful in confirming assessment and/or diagnosing errors.
