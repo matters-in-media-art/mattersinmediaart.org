@@ -206,6 +206,10 @@ In all cases it is important to establish:
 <section id="Digital-Video" class="section scrollspy" markdown="1">
 ### Video
 
+<span class="flow-text">
+Assessing your digital video media is a crucial step on entering your collection. Not only will it help you to understand the technical characteristics and anomalies of the file(s), it will help you create a baseline against which future examinations can be compared, and generally gain a better understanding of each artwork and your collection as a whole. 
+</span>
+
 Video files are assessed and condition checked both visually and aurally with the appropriate tools. This section covers the design requirements of a work station, approaches to running initial technical analysis on your file(s), the visual and aural technical assessment and its documentation.  
 
 </section>
