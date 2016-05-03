@@ -528,6 +528,7 @@ In this example, the 3 fields to look at are:
 * color primaries
 * transfer_characteristics 
 * matrix_coefficients
+
 There is a conflict in the subsampling between the “color_primaries” and the “matrix_coefficient” where the file contains decoding information that relates to 2 very different color spaces, BT.709 and BT.601. This conflict would expose itself if played back in Quicktime where the player would default to BT.601, which is the incorrect colorspace.
 
 
