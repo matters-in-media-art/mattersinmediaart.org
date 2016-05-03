@@ -144,7 +144,7 @@ Cathode ray tubes
 * Has the installation been installed correctly?
 * Were the specifications accurately fulfilled?
 
-### Some things to consider:
+#### Some things to consider:
 * Space and construction requirements
 * How the public encounters the work/enters the space.
 * Lighting and acoustic requirements.
@@ -152,7 +152,7 @@ Cathode ray tubes
 * Was the sound and image accurately rendered?
 * Where any changes necessary during installation or during the course of the show?
 
-### General Condition Report Templates
+#### General Condition Report Templates
 * [Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport.doc) (DOC, 65KB)  
 * [Equipment Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport_equipment.doc) (DOC, 61KB)  
 
@@ -165,32 +165,35 @@ Cathode ray tubes
 
 <section id="Video" class="section scrollspy" markdown="1">
 
-#### Video Condition Report Template
+ Video Condition Report Template
 * [Video Condition Report]({{ site.url }}/downloads/mattersmediaart_tape.doc) (DOC, 41KB)
 
 </section>
 
 <section id="Film" class="section scrollspy" markdown="1">
 
-#### Film Condition Report Template
+ Film Condition Report Template
 * [Film Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport_film.doc) (DOC, 39KB)
 
 </section>
 
 <section id="Slide" class="section scrollspy" markdown="1">
 
-#### Slide Condition Report Template
+ Slide Condition Report Template
 * [Slide Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport_slide.doc) (DOC, 39KB)  
 
 </section>
 
 <section id="Software" class="section scrollspy" markdown="1">
 
-#### Software Condition Report Template
+ Software Condition Report Template
 * [Hard Disc Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport_harddiscdrive.doc) (DOC, 40KB)  
 * [Disc]({{ site.url }}/downloads/mattersmediaart_conditionreport_disc.doc) (DOC, 39KB)  
 
 <section id="Assessment" class="section scrollspy" markdown="1">
+
+
+
 
 
 
