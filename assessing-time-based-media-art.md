@@ -487,13 +487,14 @@ Assessing files: Identifying Technical Problems
 Integrity  
 This step is to confirm that the files integrity is intact and there are no obvious signs that the file is incomplete or corrupted. The first method of checking the integrity of the file is to confirm that the file checksum associated with the file, if supplied with the artist on receipt, validates when transferred or moved to your storage infrastructure. If the checksum does not validate, this is a clear sign that something technically has changed within the file. The second method of checking the file integrity is to analyze the MediaInfo report for clear indicators of technical problems. These can vary, but an example is a file that will not open in any player and the mediainfo report looks like the image below (insert image):
  
- 
-By analyzing this report, it becomes clear that the file is incomplete and lacks the video and audio streams necessary for playback as the MediaInfo report finishes without displaying the video or audio stream technical metadata. This makes it clear that this information is not present in the file and is the reason for its inability to be displayed. This is a critical error with the file and will necessitate replacement.
+When analyzing this report, it becomes clear that the file is incomplete and lacks the video and audio streams necessary for playback as the MediaInfo report finishes without displaying the video or audio stream technical metadata. This makes it clear that this information is not present in the file and is the reason for its inability to be displayed. This is a critical error with the file and will necessitate replacement.
 
 Conflicts in Wrapper versus Streams
-Problems might arise in the consistent playback of a video stream with regards to aspect ratio and colour interpretation if there is conflicting metadata held in the wrapper and the stream. For example:
+
+Problems might arise in the consistent playback of a video stream with regards to aspect ratio and colour interpretation if there is conflicting metadata held in the wrapper and the stream. For example as demonstrated in the "Video" section of this MediaInfo report:
 
 Video
+
 ID/String                                : 1
 Format                                   : AVC
 Format/Info                              : Advanced Video Codec
@@ -530,6 +531,6 @@ In this example, the 3 fields to look at are:
 There is a conflict in the subsampling between the “color_primaries” and the “matrix_coefficient” where the file contains decoding information that relates to 2 very different color spaces, BT.709 and BT.601. This conflict would expose itself if played back in Quicktime where the player would default to BT.601, which is the incorrect colorspace.
 
 
-##	Assessment Documentation 
+###	Assessment Documentation 
 
 See the condition reporting section for guidelines of how to document the assessment process. 
