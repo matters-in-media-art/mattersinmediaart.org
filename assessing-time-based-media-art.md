@@ -20,14 +20,12 @@ A condition report may include the following:
 * Basic artwork identification
 * Artist
 * Title
-* Loan reference
-* Details of the lender and the exhibition
 * Name
-* Exhibition title
-* Open date
-* Close date
 * Description
 * Describe the work and list the elements/components and how they work together.
+* Exhibition title (if relevant) 
+* Open date
+* Close date
 
 #### Media
 In most cases only the exhibition format of the media element will be lent (for example a DVD).
