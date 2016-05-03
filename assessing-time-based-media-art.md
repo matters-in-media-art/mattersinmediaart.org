@@ -436,7 +436,7 @@ These are the key characteristics of the file that you will ideally want to have
 
 #### Environment Characteristics
 
-Before assessing digital video files, it is incredibly helpful to first have a better understanding of the environment, ie. the software and hardware systems used for production of the video, as these can be useful in confirming assessment and/or diagnosing errors. It can also be helpful to understand the artist's preferred method of display. This information will help inform both the accurate assessment of the video material as well as how to best care for it in the future.
+Before assessing digital video files, it is incredibly helpful to first have a better understanding of the environment, ie. the software and hardware systems used for production of the video, as these can be useful in confirming assessment and/or diagnosing errors. This information will help inform both the accurate assessment of the video material as well as how to best care for it in the future.
 
 Sample questions
 
@@ -447,9 +447,7 @@ Sample questions
 
 #### Display Characteristics
 
-As with any time¬based media artwork, it is useful at this stage to understand any display specifications, for more information
-
-At this stage it is useful to understand the artist’s attitude to changes in the appearance of their video artwork over time. For example, changes in display technology (LCD projectors vs DLP projectors, changes in playback devices), color shifts, etc.  
+As with any media-based artwork, it is useful at this stage to understand any artists display specifications. 
 For digital video artworks in particular, this information can prove critical in quantifying the changes that can occur to a file through various playback and display technologies. For example, a particular combination of stream(s) and wrapper may not provide unambiguous instructions for decoding leaving the possibility that different players might play back the video stream differently.
 It is helpful to ask if the artist or their representative have experienced any problems with achieving a suitable level of consistent playback for this work, if so please ask them to describe. 
 
