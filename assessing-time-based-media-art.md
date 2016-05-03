@@ -24,8 +24,7 @@ A condition report may include the following:
 * Description
 * Describe the work and list the elements/components and how they work together.
 * Exhibition title (if relevant) 
-* Open date
-* Close date
+* Open/close date
 
 #### Media
 In most cases only the exhibition format of the media element will be lent (for example a DVD).
