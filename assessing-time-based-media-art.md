@@ -134,7 +134,7 @@ Liquid crystal display
 * Check the filters are clean (projectors only).
 * Check the age of the lamp (may be difficult to ascertain for monitors).
 
-### Cathode ray tubes
+Cathode ray tubes
 * Project a white field and check for burn-in on the Cathode Ray tubes.
 * Check a white field for brightness and colour balance.
 * Check the number of hours that the tubes have been used.
