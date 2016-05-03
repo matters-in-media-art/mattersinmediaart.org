@@ -447,14 +447,11 @@ Sample questions
 
 #### Display Characteristics
 
-As with any media-based artwork, it is useful at this stage to understand any artists display specifications. 
-For digital video artworks in particular, this information can prove critical in quantifying the changes that can occur to a file through various playback and display technologies. For example, a particular combination of stream(s) and wrapper may not provide unambiguous instructions for decoding leaving the possibility that different players might play back the video stream differently.
-It is helpful to ask if the artist or their representative have experienced any problems with achieving a suitable level of consistent playback for this work, if so please ask them to describe. 
+As with any media-based artwork, it is useful at this stage to understand an artists display specifications. For example, a particular combination of stream(s) and wrapper may provide ambiguous instructions for decoding, leaving the possibility that different players might play back the video stream differently. If this is the case it is helpful to clarify with the artist or their representative, if at all possible. 
 
 ####	Technical Assessment
 
-Depe
-nding on your workflow you may carry out a technical assessment before you process your content for ingest into a digital repository or after.
+Depending on your workflow you may carry out a technical assessment before you process your content for ingest into a digital repository or after.
 The purpose of this assessment is to expose and document the following characteristics as well as ensure that they remain unchanged by any processing carried out.
 Aspect Ratio
 Pixel format
