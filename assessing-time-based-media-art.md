@@ -446,39 +446,43 @@ Sample questions
 * What software do you typically use when checking/viewing your files? e.g. Quicktime 7, Quicktime X, VLC, etc.
 
 Display Characteristics
+
 As with any media-based artwork, it is useful to review an artists display specifications, if possible. 
 
 Technical Assessment
+
 Depending on your workflow you may carry out a technical assessment before you condition check the duration of your digital video file. The purpose of this assessment is to expose and document the following characteristics as well as ensure that they remain unchanged by any processing carried out.
 
-Aspect Ratio
-Pixel format (non-square versus square)
-Colour matrices and spaces
-Frame size (resolution) 
-Interlacement versus progressive 
-YUV sample range
-Timecode
-Frame Rate
-Duration
-Audio Channel Arrangement (channel count, assignment) subtitles
+* Aspect Ratio
+* Pixel format (non-square versus square)
+* Color matrices and spaces
+* Frame size (resolution) 
+* Interlacement versus progressive 
+* YUV sample range
+* Timecode
+* Frame Rate
+* Duration
+* Audio Channel Arrangement (channel count, assignment) subtitles
 
-1. Assessing the files:
-There are four main things to analyse the technical metadata of your files for:
-*confirming that the content is as expected (see sample questions) 
-*that there are no obvious technical problems with the streams
-*that there is no conflicting information between the streams and the wrapper. For example, a particular combination of stream(s) and wrapper may provide ambiguous instructions for decoding, leaving the possibility that different players might play back the video stream differently. If this is the case it is helpful to clarify with the artist or their representative, if at all possible. 
-*that this is not an of absence of key information in the streams and the wrapper
+Assessing files: What to look for:
+* Confirming that the content is as expected (see sample questions). 
+* That there are no obvious technical problems with the streams.
+* That there is no conflicting information between the streams and the wrapper. For example, a particular combination of stream(s) and     wrapper may provide ambiguous instructions for decoding, leaving the possibility that different players might play back the video        stream differently. If this is the case it is helpful to clarify with the artist or their representative, if at all possible. 
+* That this is not an of absence of key information in the streams and the wrapper.
+* Confirm that the basic matches what was expected from the artist, for example the codec, the wrapper, audio sample rate and bit¬depth,   subsampling, frame rate and the duration.
 
-To begin the technical assessment of your video files, you first need to run mediainfo on your file(s) to expose the technical metadata for analysis. To do this, follow the below instructions:
+Assessing files: How to:
+* Run MediaInfo (https://en.wikipedia.org/wiki/MediaInfo) on your file(s) to expose the technical metadata for analysis:
 
-MAC:
-* Open Terminal
-* run media info on the video files you are about to assess command: mediainfo ¬f [path to input file]
-It will look something like this:
+          MAC Users:
+          * Open Terminal
+          * Run MediaInfo on the video files you are about to assess command: mediainfo ¬f [path to input file]
+          * It will look something like this:
  
-On PC: open
-run mediainfo with the following command it will look something like this:
-Confirm that the basic content is as expected, for example the codec, the wrapper, audio sample rate and bit¬depth, subsampling, frame rate and the duration
+          PC Users:
+          * Run MediaInfo with the following command it will look something like this:
+
+* Confirm that the basic content is as expected, for example the codec, the wrapper, audio sample rate and bit¬depth, subsampling, frame   rate and the duration. 
 Confirmation of Content
  This step in the technical assessment of your video files is to confirm the files you have received match what was expected from the artist or their representative.
 
