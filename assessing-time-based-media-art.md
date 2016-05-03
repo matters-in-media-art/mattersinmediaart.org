@@ -11,28 +11,7 @@ The aim of these guidelines is to extend existing condition reporting practices 
 <section id="guidelines" class="section scrollspy" markdown="1">
 ### Overview of Condition Documentation for Media-based works
 
-#### Media
-In most cases only the exhibition format of the media element will be lent (for example a DVD).
-This is made from a master that will be retained by the lender.
-It is important to be clear whether the owner will provide new exhibition format material or whether they have an agreement with the artist’s gallery or the artist to oversee this.
-It is useful to specify in the conditions of loan that an extra copy of the exhibition format material is to be provided as part of the loan or that the borrower has explicit permission to make one. It is also important to understand what the procedure is for making new copies if needed during the exhibition.
-
-#### Equipment
-
-All display equipment will fail and become obsolete. There is a high risk that any equipment you are lent will fail during the course of the exhibition and it is appropriate to plan accordingly.
-Some equipment has an aesthetic or conceptual relationship to the identity of the work. The value of such equipment is therefore greater than purely its function. This means that it is important that these relationships are maintained and that it is not possible to substitute this equipment with a different piece of equipment that does not maintain these relationships, without loss.
-
-####Installation
-No artwork is immune to the circumstances of its presentation. However work of art which are only fully realised in their installed state create a different level of difficulty for issues of authority and authentication than works which form stable static objects. Time-based media works of art are vulnerable to a number of changing conditions that can have a profound impact on how they are understood.
-A condition report assesses not only the material condition of the component parts but also whether the installation documentation has been followed and the work has been installed without compromise to the identity of the work.
-Some things to consider
-It is important to be clear the status of any elements loaned.
-Installation documentation is the essential reference document.
-
-There are two fundamental facets of condition reporting for time-based media art: the physical state and the functionality of all the components/elements.
-Condition reporting for time-based media may require the expertise of more than one person.
-Condition reporting practice
-It is important to view, listen to, and experience the entire time-based program and report any deviations from the condition statement.
+There are two fundamental facets of condition reporting for time-based media art: the physical state and the functionality of all the components/elements. Condition reporting for time-based media may require the expertise of more than one person. It is important to view, listen to, and experience the entire time-based program and report any deviations from the condition statement.
 
 Condition report layout
 
@@ -50,6 +29,25 @@ A condition report may include the following:
 * Description
 * Describe the work and list the elements/components and how they work together.
 
+#### Media
+In most cases only the exhibition format of the media element will be lent (for example a DVD).
+This is made from a master that will be retained by the lender.
+It is important to be clear whether the owner will provide new exhibition format material or whether they have an agreement with the artist’s gallery or the artist to oversee this.
+It is useful to specify in the conditions of loan that an extra copy of the exhibition format material is to be provided as part of the loan or that the borrower has explicit permission to make one. It is also important to understand what the procedure is for making new copies if needed during the exhibition.
+
+#### Equipment
+
+All display equipment will fail and become obsolete. There is a high risk that any equipment you are lent will fail during the course of the exhibition and it is appropriate to plan accordingly.
+Some equipment has an aesthetic or conceptual relationship to the identity of the work. The value of such equipment is therefore greater than purely its function. This means that it is important that these relationships are maintained and that it is not possible to substitute this equipment with a different piece of equipment that does not maintain these relationships, without loss.
+
+#### Installation
+No artwork is immune to the circumstances of its presentation. However work of art which are only fully realised in their installed state create a different level of difficulty for issues of authority and authentication than works which form stable static objects. Time-based media works of art are vulnerable to a number of changing conditions that can have a profound impact on how they are understood.
+A condition report assesses not only the material condition of the component parts but also whether the installation documentation has been followed and the work has been installed without compromise to the identity of the work.
+Some things to consider
+It is important to be clear the status of any elements loaned.
+Installation documentation is the essential reference document.
+
+
 ### Media
 In most cases exhibition format material will be produced for each loan by the lender or by the artist or the artist’s gallery. It is therefore unlikely that you will be condition checking old or archival material.
 Where this is not the case the borrower, lender, artist and gallery may need to work closely together to ensure that accurate material is produced from the best available master. This may provide an opportunity to address the long-term conservation of the work.
@@ -57,7 +55,7 @@ Where this is not the case the borrower, lender, artist and gallery may need to 
 In all cases it is important to establish:
 
 * Whether the display material has been newly produced for the display.
-* If the medium is video is it NTSC, PAL or SECAM? It is often inappropriate to change the nature of the signal as different standards have different aesthetic qualities. However this may create a compatibility problem with some display equipment. Any changes should be discussed with the owner.
+* If the medium is video is it NTSC, PAL or SECAM? It is often inappropriate to change the nature of the signal as different standards     have different aesthetic qualities. However this may create a compatibility problem with some display equipment. Any changes should be   discussed with the owner.
 * Whether there is an extra copy.
 * Whether there are enough copies for the duration of the show, and how often they should be changed. This is particularly important in cases where display causes rapid deterioration, for example slides, film prints and tapes.
 * The provenance of exhibition copies. (What have they been produced from and has the artist signed them off?)
