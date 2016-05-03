@@ -529,18 +529,6 @@ In this example, the 3 fields to look at are:
 * matrix_coefficients
 There is a conflict in the subsampling between the “color_primaries” and the “matrix_coefficient” where the file contains decoding information that relates to 2 very different color spaces, BT.709 and BT.601. This conflict would expose itself if played back in Quicktime where the player would default to BT.601, which is the incorrect colorspace.
 
-Identifying Absence of Key Information avi/ uncompressed problem
-
-aspect ratio information ¬ not captured in ffv1 and mkv
-
-visual check : choppy ¬ field dominance issues
-
-Poor quality or accuracy of colour data ¬ chroma subsampling upscaling issues
-
-Things to document to make sure you display it properly:
-
-full range and broadcast range resolution and interpolation Display Aspect Ratio (DAR)
-</section>
 
 ##	Assessment Documentation 
 
