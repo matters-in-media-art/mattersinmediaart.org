@@ -436,54 +436,46 @@ These are the key characteristics of the file that you will ideally want to have
 
 #### Environment Characteristics
 
-Before assessing digital video files, it is incredibly helpful to first have a better understanding of the environment, ie. the software and hardware systems used for production of the video, as these can be useful in confirming assessment and/or diagnosing errors. This information will help inform both the accurate assessment of the video material as well as how to best care for it in the future.
+Before assessing digital video files, it is incredibly helpful to first have a better understanding of the environment, ie. the software and hardware systems used for production of the video, as these can be useful in confirming assessment and/or diagnosing errors. This information will help inform both the accurate assessment of the video material as well as how to best care for it in the future. The following information is useful to have from the artist, if possible before assessment.  
 
 Sample questions
-
+* How was the work shot, or what were the sources?
 * How was the work edited? e.g Final Cut Pro 7.0.7, Adobe Premiere Pro CC
 * If possible, could you provide your project file or XML output of it?
 * What playback environment did you use when viewing your piece? e.g. Mac Pro running OS X 10.9, PC Tower running Windows 8, etc.
 * What software do you typically use when checking/viewing your files? e.g. Quicktime 7, Quicktime X, VLC, etc.
 
-#### Display Characteristics
+Display Characteristics
+As with any media-based artwork, it is useful to review an artists display specifications, if possible. 
 
-As with any media-based artwork, it is useful at this stage to understand an artists display specifications. For example, a particular combination of stream(s) and wrapper may provide ambiguous instructions for decoding, leaving the possibility that different players might play back the video stream differently. If this is the case it is helpful to clarify with the artist or their representative, if at all possible. 
+Technical Assessment
+Depending on your workflow you may carry out a technical assessment before you condition check the duration of your digital video file. The purpose of this assessment is to expose and document the following characteristics as well as ensure that they remain unchanged by any processing carried out.
 
-####	Technical Assessment
-
-Depending on your workflow you may carry out a technical assessment before you process your content for ingest into a digital repository or after.
-The purpose of this assessment is to expose and document the following characteristics as well as ensure that they remain unchanged by any processing carried out.
 Aspect Ratio
-Pixel format
+Pixel format (non-square versus square)
 Colour matrices and spaces
-Frame size
-Interlacement
+Frame size (resolution) 
+Interlacement versus progressive 
 YUV sample range
 Timecode
 Frame Rate
 Duration
 Audio Channel Arrangement (channel count, assignment) subtitles
 
-
 1. Assessing the files:
 There are four main things to analyse the technical metadata of your files for:
-confirming that the content is as expected
-that there are no obvious technical problems with the streams
-that there is no conflicting information between the streams and the wrapper
-that this is not an of absence of key information in the streams and the wrapper
-To begin the technical assessment of your video files, you first need to run mediainfo on your file(s) to expose the technical metadata for analysis. To do this, follow the below instructions:
+*confirming that the content is as expected (see sample questions) 
+*that there are no obvious technical problems with the streams
+*that there is no conflicting information between the streams and the wrapper. For example, a particular combination of stream(s) and wrapper may provide ambiguous instructions for decoding, leaving the possibility that different players might play back the video stream differently. If this is the case it is helpful to clarify with the artist or their representative, if at all possible. 
+*that this is not an of absence of key information in the streams and the wrapper
 
+To begin the technical assessment of your video files, you first need to run mediainfo on your file(s) to expose the technical metadata for analysis. To do this, follow the below instructions:
 
 MAC:
 * Open Terminal
 * run media info on the video files you are about to assess command: mediainfo ¬f [path to input file]
 It will look something like this:
  
-
-
-
-
-
 On PC: open
 run mediainfo with the following command it will look something like this:
 Confirm that the basic content is as expected, for example the codec, the wrapper, audio sample rate and bit¬depth, subsampling, frame rate and the duration
