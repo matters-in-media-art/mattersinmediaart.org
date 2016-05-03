@@ -47,7 +47,7 @@ It is important to be clear the status of any elements loaned.
 Installation documentation is the essential reference document.
 
 
-#### Media
+### Media
 In most cases exhibition format material will be produced for each loan by the lender or by the artist or the artist’s gallery. It is therefore unlikely that you will be condition checking old or archival material.
 Where this is not the case the borrower, lender, artist and gallery may need to work closely together to ensure that accurate material is produced from the best available master. This may provide an opportunity to address the long-term conservation of the work.
 
@@ -60,7 +60,7 @@ In all cases it is important to establish:
 * The provenance of exhibition copies. (What have they been produced from and has the artist signed them off?)
 * The procedure for requesting additional copies and the cost associated with the production of these copies.
 
-### Film and slide material
+#### Film and slide material
 * Is the colour, contrast, grading, consistent and correct?
 * Is there any evidence of fading?
 * Are the slides/film prints clean and unscratched?
@@ -69,7 +69,7 @@ In all cases it is important to establish:
 * Are the film prints coated?
 * How often does the exhibition copy need to be changed with new copies?
 
-### Video and audio tapes
+#### Video and audio tapes
 * Why have you been sent this tape? Is the work to be shown on tape or are you expected to produce additional exhibition copies?
 * Does the lender/artist or artist’s representative need to approve any exhibition copies produced?
 * What is the status of the material (master/sub-master etc) and what are the responsibilities of the borrower in relation to it?
@@ -77,7 +77,7 @@ In all cases it is important to establish:
 * Does the quality of the exhibition copy reflect the quality of the master?
 * Check for defects in the image and/or the sound.
 
-### Optical discs
+#### Optical discs
 * Are the discs free from scratches?
 * Are the discs free from finger prints and dust?
 * Is there any evidence of delaminating?
@@ -86,7 +86,7 @@ In all cases it is important to establish:
 * Is the quality of the encoding accurate and free from errors?
 * Check for defects in the image and the sound.
 
-### Hard-disc drives
+#### Hard-disc drives
 * What is the configuration of the disc(s)? (Raid array etc)
 * How are the discs formatted (FAT32, NTFS etc).
 * What is the operating system?
@@ -98,12 +98,12 @@ In all cases it is important to establish:
 * What is the nature of the back up of the files etc and where are they located?
 * Are any passwords required?
 
-### Sculptural element
+#### Sculptural element
 * It is beyond the scope of this project to cover condition checking guidelines for sculpture.
 * However, sculptural elements of a time-based media installation should be handled and condition checked in the same way as other loaned sculptures.
 * Display equipment 
 
-### Status
+#### Status
 * Is the identity of the work of art linked to a particular make and model?
 * Is the equipment intended to be visible? Is the look of the original make and model therefore important?
 * Is the equipment now obsolete and rare?
@@ -111,7 +111,7 @@ In all cases it is important to establish:
 * Is there a spare?
 * What is the procedure should the equipment fail?
 
-### Condition
+#### Condition
 * Is the equipment in full working order?
 * Is there evidence of any external damage?
 * Are all accessories present and checked off? (Remote control, operations manual etc)
@@ -121,11 +121,11 @@ In all cases it is important to establish:
 * Has it been maintained?
 * What is the fire risk created by this equipment? (Describe any safeguards taken).
 
-### Projectors and monitors
+#### Projectors and monitors
 * Although other technologies are available the most common are cathode ray tube (CRT) and liquid crystal display (LCD) projectors and monitors.
 * To check a projector it is advisable to project the image at the size required for the work.
 
-### Liquid crystal display
+Liquid crystal display
 * Project a white field and a black field and check for faulty pixels.
 * View a white field and check that the white balance is even and there is no discolouration in part of the image.
 * View a black field to check for dust spots.
