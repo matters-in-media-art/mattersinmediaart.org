@@ -423,12 +423,8 @@ Quality audio monitors and meters are also necessary in the assessment of video 
 ###	Initial Technical Analysis
 The amount of technical information that you might receive with a digital video artwork will vary depending on the artist.
 
-Before assessing digital video files, it is incredibly helpful to first have a better understanding of the environment, ie. the software and hardware systems used for production of the video, and artist's preferred method of display. This information will help inform both the accurate assessment of the video material as well as how to best care for it in the future.
-
 File Characteristics
 These are the key characteristics of the file that you will ideally want to have prior to receiving the the digital video. If this is not possible, the following aspects should examined on receiving the files:
-
-File Characteristics:
 
 * What is the file wrapper? e.g. mov, mp4, avi, etc.
 * What is your codec? e.g Apple Pro Res 4:2:2, Uncompressed, H.264
@@ -440,7 +436,7 @@ File Characteristics:
 
 #### Environment Characteristics
 
-Having information about the environment of creation (i.e. the software and hardware used) can be useful in confirming assessment and/or diagnosing errors.
+Before assessing digital video files, it is incredibly helpful to first have a better understanding of the environment, ie. the software and hardware systems used for production of the video, as these can be useful in confirming assessment and/or diagnosing errors. It can also be helpful to understand the artist's preferred method of display. This information will help inform both the accurate assessment of the video material as well as how to best care for it in the future.
 
 Sample questions
 
