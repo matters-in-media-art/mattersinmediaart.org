@@ -196,12 +196,11 @@ In all cases it is important to establish:
 
 <section id="Assessment" class="section scrollspy" markdown="1">
 
-# Assessment
+# Assessment: Digital Video
 
 </section>
 
 <section id="Digital-Video" class="section scrollspy" markdown="1">
-### Video
 ![](img/peter-assessing.jpg)
 
 <span class="flow-text">
