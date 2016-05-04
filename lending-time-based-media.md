@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Lending Time-based media art
+title: Lending Media Art
 ---
 
 <span class="flow-text">
@@ -81,7 +81,7 @@ Do you have the space available to show this work? Is any construction required?
 * Does the work require a carpet?
 * Has the artist tightly specified a particular acoustic quality to the space?
 * Will you need to hire in any expertise?
-* What costs are involved? 
+* What costs are involved?
 </div>
 </li>
 
@@ -91,7 +91,7 @@ Do you have the space available to show this work? Is any construction required?
 * Do you have the expertise in-house to install this work of art?
 * Will the artist or artist’s technician be involved in the installation – if so, what is their role?
 * Will you need to hire in additional expertise for design and installation?
-* What are the costs involved? 
+* What are the costs involved?
 * Maintenance requirements including expertise
 * What are the maintenance requirements for the installation?
 * Do you have the expertise in-house to maintain the installation?
@@ -125,7 +125,7 @@ Here the lender and the borrower come together to consider a particular request.
 <h2 class="title"></h2>
 <h2>Borrower</h2>
 
-### Request 
+### Request
 In submitting a request to the lender provide the following:
 
 * A compelling argument
@@ -192,7 +192,7 @@ Terms may be specified in the loan agreement:
 
 
 
-## Send, install and return 
+## Send, install and return
 The following checklist of actions is a guide for the borrower and the lender in the implementation of the loan and generally includes the following:
 
 ###Borrower
@@ -407,7 +407,7 @@ Costs associated with shipping are usually met by the borrower, however it is im
 
 ## Loan Agreement
 
-The Loan Agreement is a contract between a lender and a borrower. It specifies what is to be lent, the conditions of loan and the respective responsibilities of each party. A covering letter may also be issued with the agreement which draws attention to particularly important conditions of loan. The loan agreement (may also be called a lender’s agreement, borrower’s agreement or loan contract) should be final. 
+The Loan Agreement is a contract between a lender and a borrower. It specifies what is to be lent, the conditions of loan and the respective responsibilities of each party. A covering letter may also be issued with the agreement which draws attention to particularly important conditions of loan. The loan agreement (may also be called a lender’s agreement, borrower’s agreement or loan contract) should be final.
 
 
 <ul class="collapsible" data-collapsible="accordion">

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Acquiring Time-Based Media Art"
+title: "Acquiring Media Art"
 ---
 
 
@@ -54,7 +54,7 @@ Prior to acquisition of a time-based media work, the following steps may be take
 <h2 class="title"></h2>
 <h2>What is it?</h2>
 <p>Understand what you are proposing to acquire: what is it?
-Gather general information: artist, title, date, medium, duration, edition details, provenance, artist’s dates, credit line, display dimensions. 
+Gather general information: artist, title, date, medium, duration, edition details, provenance, artist’s dates, credit line, display dimensions.
 Understand key qualities of the work and prepare a description of the elements necessary to maintain the integrity of the artwork. This includes:</p>
 <ul>
 <li>Artist statement about the work (from artist, gallery or seller)</li>
@@ -233,7 +233,7 @@ Using the information gathered from the assembled team and consultants, the cura
 
 <br><br>
 
-</section> 
+</section>
 
 
 
@@ -263,7 +263,7 @@ The accessioning phase lies between formally agreeing to acquire a work and actu
 There may be occasions when sculptures, paintings or other types of objects are also included as part of the work. However, for the majority of cases, what you are buying when you buy a time-based media work of art is not a unique material object but rather the means and the rights to be able to display the work, loan it, preserve it and sell it. To be able to enact these rights you will need to be in possession of preservation master material and information about how the work is to be installed.
 
 <div id="acq-slider" class="liquid-slider">
-    
+
 
 
 
@@ -413,7 +413,7 @@ Notify artist: All parties must be notified after completing the acquisition pro
 </span>
 
 <div id="post-acq-slider-1" class="liquid-slider">
-    
+
 
 
 
@@ -474,62 +474,62 @@ Below is a guide to the type of material you might find in a record for a time-b
 <li>
   <div class="collapsible-header">Artwork</div>
   <div class="collapsible-body" markdown="1">
- * Accession Number 
- * Artist 
- * Title 
- * Medium 
- * Description 
- * Dimensions 
- * Duration 
- * Image size (max / min) 
- * Room size 
+ * Accession Number
+ * Artist
+ * Title
+ * Medium
+ * Description
+ * Dimensions
+ * Duration
+ * Image size (max / min)
+ * Room size
 </div>
 </li>
 <li>
   <div class="collapsible-header">Acquisition and registration</div>
   <div class="collapsible-body" markdown="1">
- * Incoming receipt 
-* Bill of sale 
-* Purchase agreement / Deed of gift 
-* In some cases you might have a commissioning agreement or a co-ownership agreement note to introduction to legal documents 
-* Curatorial proposal 
-* Copy of the Certificate of authenticity or the original 
-* Copyright agreement 
-* Acquisition correspondence 
-* Original inventory of media/ display equipment/ sculptural components which are part of the acquisition 
-* Cost assessment 
-* Acquisition assessment 
+ * Incoming receipt
+* Bill of sale
+* Purchase agreement / Deed of gift
+* In some cases you might have a commissioning agreement or a co-ownership agreement note to introduction to legal documents
+* Curatorial proposal
+* Copy of the Certificate of authenticity or the original
+* Copyright agreement
+* Acquisition correspondence
+* Original inventory of media/ display equipment/ sculptural components which are part of the acquisition
+* Cost assessment
+* Acquisition assessment
 </div>
 </li>
 
 <li>
   <div class="collapsible-header">Dedicated component information</div>
   <div class="collapsible-body" markdown="1">
-* Media 
-* Diagram or list of media components which shows the format, when it was made, what it was made from and what it is used for. 
-* Display equipment 
-* List of dedicated equipment which came as part of the purchase (say why it is dedicated) 
-* Manuals 
-* Sculptural components 
+* Media
+* Diagram or list of media components which shows the format, when it was made, what it was made from and what it is used for.
+* Display equipment
+* List of dedicated equipment which came as part of the purchase (say why it is dedicated)
+* Manuals
+* Sculptural components
 </div>
 </li>
 
 <li>
   <div class="collapsible-header">Display specifications</div>
   <div class="collapsible-body" markdown="1">
-* Installation specifications 
-* Additional floor plans and wiring diagrams etc. 
+* Installation specifications
+* Additional floor plans and wiring diagrams etc.
 </div>
 </li>
 
 <li>
   <div class="collapsible-header">Display history</div>
   <div class="collapsible-body" markdown="1">
- * List of prior displays 
- * Information about displays and other editions of the work 
- * Photographs relating to prior displays 
- * Texts relating to prior displays 
- * Display summary, including equipment used, logs of minor incidents reported during display, display maintenance procedures, budgets, installation plans, notes about exhibition formats made for the display, photographs, correspondence. 
+ * List of prior displays
+ * Information about displays and other editions of the work
+ * Photographs relating to prior displays
+ * Texts relating to prior displays
+ * Display summary, including equipment used, logs of minor incidents reported during display, display maintenance procedures, budgets, installation plans, notes about exhibition formats made for the display, photographs, correspondence.
  * Loan documents  
 </div>
 </li>
@@ -537,47 +537,47 @@ Below is a guide to the type of material you might find in a record for a time-b
 <li>
   <div class="collapsible-header">Artist information</div>
   <div class="collapsible-body" markdown="1">
- * Artist and gallery contact sheet 
- * Correspondence with the artist 
- * Artist recommended technical specifications 
- * Artist’s statement 
-* Artist’s interview 
+ * Artist and gallery contact sheet
+ * Correspondence with the artist
+ * Artist recommended technical specifications
+ * Artist’s statement
+* Artist’s interview
 </div>
 </li>
 
 <li>
   <div class="collapsible-header">Art historical research / context</div>
   <div class="collapsible-body" markdown="1">
- * Documents relating to the artwork, including other editions 
- * Exhibition reviews 
+ * Documents relating to the artwork, including other editions
+ * Exhibition reviews
 </div>
 </li>
 
 <li>
   <div class="collapsible-header">Structure and condition assessments</div>
   <div class="collapsible-body" markdown="1">
-* Structure and condition report(s) 
+* Structure and condition report(s)
 </div>
 </li>
 
 <li>
   <div class="collapsible-header">Ongoing care</div>
   <div class="collapsible-body" markdown="1">
- * Media migration record 
- * Template 
- * Conservation treatment reports/ treatment photographs 
- * Major damage reports 
- * Storage guidelines 
- * Disaster plan recommendations 
-* Scientific analysis reports 
- * Guidelines for packing and transport 
+ * Media migration record
+ * Template
+ * Conservation treatment reports/ treatment photographs
+ * Major damage reports
+ * Storage guidelines
+ * Disaster plan recommendations
+* Scientific analysis reports
+ * Guidelines for packing and transport
 </div>
 </li>
 </ul>
 
 
 <div id="post-acq-slider-2" class="liquid-slider">
-    
+
 
 <div markdown="1">
 <h2 class="title"></h2>
@@ -628,7 +628,7 @@ Additional information about conserving media works may be found at the followin
 <h2 class="title"></h2>
 <h2>Pack and store artwork</h2>
 * Proper archival storage and packing is crucial to the longevity of the artwork.
-* A brief summary of storage concerns for media may be found in [<a href="http://www.imappreserve.org/pres_101/index.html#storage">IMAP’s Preservation 101 section on Storage</a>). 
+* A brief summary of storage concerns for media may be found in [<a href="http://www.imappreserve.org/pres_101/index.html#storage">IMAP’s Preservation 101 section on Storage</a>).
 </div>
 
 
@@ -654,8 +654,3 @@ Additional information about conserving media works may be found at the followin
 * [Slide projectors display equipment prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_slideprojectors.rtf) (RTF, 114KB)
 
 </section>
-
-
-
-
-
