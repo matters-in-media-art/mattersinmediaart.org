@@ -17,23 +17,17 @@ Installation view Tate Liverpool exhibition 2006
 © Tate 2006
 </span>
 
-
+## Loan Process
 The process diagram and documents for loans are guidelines and templates for owners to follow when borrowing and lending media art. The documents include sample templates for exhibition budgets, condition reports, facilities reports, installation documents and loan agreements. They seek to update existing practice for more traditional art by incorporating new requirements of media art.
 
 These resources should be used as reference documents when considering the loan of media artworks and in conjunction with the process diagram. The sample forms and other materials contained on this site are provided as examples only, and do not constitute legal advice. Before using these or any forms, you should consult with legal counsel to ensure that the document is properly tailored to your institution’s particular concerns.
 
-* Process guidelines
-* Budget guidelines
-* Loan agreement guidelines
-* Facilities report guidelines
-* Installation documentation guidelines
-* Condition report guidelines
 
 
 
 <section id="process" class="section scrollspy" markdown="1">
 
-## Explore, compile and review
+### Explore, compile and review
 The key to successful implementation is thorough planning. As a borrower, your first steps are to create a list of works under consideration, and identify sources of information about the works. The following checklist should give the potential borrower a good indication of whether they can install, manage and maintain the work.
 
 <ul class="collapsible" data-collapsible="accordion">
@@ -113,11 +107,60 @@ Do you have the space available to show this work? Is any construction required?
 
 With this information, you can now <a href="{{ site.url }}/downloads/loanbudgetcostassessmenttemplate.xls">create a draft budget</a>, review, and make a decision as to whether you wish to proceed with the request or stop.
 
-## Request, consider, approve
+### Request, consider, approve
 Here the lender and the borrower come together to consider a particular request. The main areas of discussion are often the nature of the work and associated costs. Not all requests are accepted and successful requests often include some degree of negotiation. The resulting loan agreement is the document outlining the agreed-upon terms of the loan.
 
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+  <div class="collapsible-header">Submit a loan request</div>
+  <div class="collapsible-body" markdown="1">
+  In submitting a request to the lender, the borrower provides the following:
+
+  * A compelling argument
+  * Exhibition dates including all venues
+</div>
+</li>
+
+<li>
+  <div class="collapsible-header">Consider the loan request</div>
+  <div class="collapsible-body" markdown="1">
+  In receiving a request from the borrower, the lender considers:
+
+  * The contribution of the work to the exhibition
+  * Its availability
+  * Its condition
+  * The borrower’s ability to install and maintain the work
+  * Resource implications to the lender, including staff time
+</div>
+</li>
+
+<li>
+  <div class="collapsible-header">Approve the loan request</div>
+  <div class="collapsible-body" markdown="1">
+#### Borrower
+Terms may be specified in the loan agreement:
+  * Review budget
+  * Return completed loan agreement and facilities report
+
+#### Lender
+* Approve facilities report
+* Finalize budget
+* Provide installation documentation
+</div>
+</li>
+
+<li>
+  <div class="collapsible-header">Review installation documents</div>
+  <div class="collapsible-body" markdown="1">
+#### Borrower
+  * Consider and discuss installation documentation
+  * Finalize budget
+</div>
+</li>
+</ul>
 
 
+<!-- previous layout:
 <div id="main-slider" class="liquid-slider">
 
 
@@ -154,7 +197,7 @@ In receiving a request the lender considers:
 <h2 class="title"></h2>
 <h2>Borrower</h2>
 
-### approve
+### Approve
 
 Terms may be specified in the loan agreement:
 
@@ -167,7 +210,7 @@ Terms may be specified in the loan agreement:
 <h2 class="title"></h2>
 <h2>Lender</h2>
 
-### approve
+### Approve
 
 * Approve facilities report
 * Finalize budget
@@ -179,7 +222,7 @@ Terms may be specified in the loan agreement:
 <h2 class="title"></h2>
 <h2>Borrower</h2>
 
-### installation documentation
+### Installation documentation
 
 * Consider and discuss installation documentation
 * Finalize budget
@@ -188,14 +231,14 @@ Terms may be specified in the loan agreement:
 
 
 </div>
+-->
 
 
 
-
-## Send, install and return
+### Send, install and return
 The following checklist of actions is a guide for the borrower and the lender in the implementation of the loan and generally includes the following:
 
-###Borrower
+#### Borrower
 
 <ul class="collapsible" data-collapsible="accordion">
 
@@ -269,7 +312,7 @@ Those monitoring the work whilst on display will need to know:
 
 </ul>
 
-###Lender
+#### Lender
 
 
 <ul class="collapsible" data-collapsible="accordion">
@@ -322,15 +365,24 @@ Those monitoring the work whilst on display will need to know:
 
 <section id="budget" class="section scrollspy" markdown="1">
 
-## Budget Guidelines
+## Budget
+
+<div class="col s12">
+<a href="{{ site.url }}/downloads/loanbudgetcostassessmenttemplate.xls">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Budget calculator </div>
+    </a>
+    </div>
+<br>
 
 The categories listed below give some indication of the likely costs to be considered. The aim of this section is to identify the true costs of loan for the borrower and the lender. A sample template is provided as an Excel download.
 
 In most cases the borrower will bear the transport, installation and maintenance costs associated with the loan. However, some costs may be associated with the preparation of the work of art for loan. For example there may be conservation costs, servicing costs associated with any equipment to be lent, or costs of the production of new exhibition format material. The lender will wish to identify these costs and either negotiate with the borrower over contributing to these costs as a condition of loan or agree to meet them themselves.
 
-The earlier in the process costs can be identified, the greater the likelihood of the successful completion of the loan. The budget template aims to provide useful prompts and we encourage users to copy and modify it. As discussions and negotiations regarding the loan progress it will be possible to add more detail to the budget. Every loan situation is unique and you may find that the budget is finalized earlier or later in the process than shown in the process diagram.
+The earlier in the process costs can be identified, the greater the likelihood of the successful completion of the loan. The budget calculator aims to provide useful prompts and we encourage users to copy and modify it. As discussions and negotiations regarding the loan progress it will be possible to add more detail to the budget. Every loan situation is unique and you may find that the budget is finalized earlier or later in the process than shown in the process diagram.
 
-## Expenditure checklist
+
+
+### Cost checklist
 
 
 <ul class="collapsible" data-collapsible="accordion">
@@ -338,6 +390,7 @@ The earlier in the process costs can be identified, the greater the likelihood o
 <li>
   <div class="collapsible-header">Explore, compile and review</div>
   <div class="collapsible-body" markdown="1">
+  
 * Artist/curator/consultant travel and expenses
 * Installation documentation and materials (FedEx / photocopying / catalogues bought for research)
 </div>
@@ -408,6 +461,12 @@ Costs associated with shipping are usually met by the borrower, however it is im
 ## Loan Agreement
 
 The Loan Agreement is a contract between a lender and a borrower. It specifies what is to be lent, the conditions of loan and the respective responsibilities of each party. A covering letter may also be issued with the agreement which draws attention to particularly important conditions of loan. The loan agreement (may also be called a lender’s agreement, borrower’s agreement or loan contract) should be final.
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_loanagreement.doc">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Loan agreement    </div>
+    </a>
+    </div>
+<br>
 
 
 <ul class="collapsible" data-collapsible="accordion">
@@ -468,8 +527,14 @@ Some institutions may charge a loan administration fee. In addition, a depreciat
 
 ## Facilities report
 
-A facilities report outlines an institution’s facilities, climate, security, staffing, insurance and loan history. Examples of standard facilities reports are to be found on the websites of the registrars groups listed in the External resources section. Most institutions have a completed report on file which has been verified by a registrar. The purpose of this document is to assure a lender that the borrower has a history of professional and responsible care of museum artifacts. It is often required by a lender in the early stages of a loan request to determine if the borrower’s facilities are appropriate. Further dialogue may then be initiated between the lending and borrowing institutions to discuss the specific needs of a particular artwork. The installation and maintenance of media artworks requires specific skills and expertise, we are therefore suggesting that it might be useful to attach an addendum to the standard facilities report asking questions specific to media artworks. The purpose of these guidelines is to gauge the suitability and level of expertise of the borrowing institution with regard to the specific needs of media art.
 
+A facilities report outlines an institution’s facilities, climate, security, staffing, insurance and loan history. Examples of standard facilities reports are to be found on the websites of the registrars groups listed in the External resources section. Most institutions have a completed report on file which has been verified by a registrar. The purpose of this document is to assure a lender that the borrower has a history of professional and responsible care of museum artifacts. It is often required by a lender in the early stages of a loan request to determine if the borrower’s facilities are appropriate. Further dialogue may then be initiated between the lending and borrowing institutions to discuss the specific needs of a particular artwork. The installation and maintenance of media artworks requires specific skills and expertise, we are therefore suggesting that it might be useful to attach an addendum to the standard facilities report asking questions specific to media artworks. The purpose of these guidelines is to gauge the suitability and level of expertise of the borrowing institution with regard to the specific needs of media art.
+<div class="col s13">
+<a href="{{ site.url }}/downloads/mattersmediaart_facilitiesreport.doc">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Facilities report    </div>
+    </a>
+    </div>
+<br>
 
 <ul class="collapsible" data-collapsible="accordion">
 
@@ -516,7 +581,7 @@ A facilities report outlines an institution’s facilities, climate, security, s
 
 <section id="documentation" class="section scrollspy" markdown="1">
 
-## Installation Documentation Guidelines
+## Installation Documentation
 
 The installation documentation is produced by the owner and accompanies the loan. The installation documentation for media artworks is ideally agreed with the artist when a work is acquired. This project assumes that the artist’s views have been recorded prior to loan and are able to guide the lender and the borrower in honoring what is important for a good installation of the work. When this is not the case, the loan may provide an occasion for dialogue and documentation. It may be part of the nature of the work that there are different ways in which it can be installed and this should be indicated in the installation documentation. In some cases the installation documentation will have evolved through an ongoing dialogue between the owner and the artist. The installation of the work provides an opportunity to add to the documentation. This is a live document with room for evolution.
 
@@ -526,7 +591,7 @@ The goal of this document is to provide a basic framework to help understand all
 
 A brief description of the artwork using standard terminology. The goal is to enable a reader to quickly understand the nature of the artwork. (For example: a 35-minute, 4-channel, color video installation with stereo sound). It is also helpful to describe how the work appears if working properly.
 
-### Installation ingredients
+### Installation components
 
 This represents a comprehensive list of all physical components that make up the installed artwork. This would cover the details of the exhibition format, the equipment list, the details of the installation space and materials required for the installation and any spares or consumables needed to keep the installation running.
 
@@ -664,15 +729,15 @@ Produce a scale plan and an elevation and written narrative confirming the detai
 
 ### Spares and consumables
 
-* Enter details of filters, lamps etc. Prior to the installation find out how many hours the lamps and filters last. Manufacturers have data on this. However, these figures are affected by the amount of dust in the space and also how the equipment is switched on and off. Enter the estimated cost into the budget template and ensure that spares are on hand.
+* Enter details of filters, lamps etc. Prior to the installation find out how many hours the lamps and filters last. Manufacturers have data on this. However, these figures are affected by the amount of dust in the space and also how the equipment is switched on and off. Enter the estimated cost into the [budget calculator]({{ site.url }}//downloads/loanbudgetcostassessmenttemplate.xls)  and ensure that spares are on hand.
 * Equipment failure – what spares do you have available if/when this happens? What is the procedure for notifying the lender? What does the borrower have permission to do?
 
 ### Key qualities / key requirements
 
 A description of both the specific and ephemeral elements necessary to maintain the integrity of the artwork. Decisions about what constitutes integrity are based on information gathered from the artist and other sources, relating to the essential nature of the artwork and its components. Some things to consider:
 
-* If the artist has said that specific qualities are important (such as light level, sound, wall colors etc) can these be measured to establish a reference
-* A non-technical description of what the viewer experiences can often be a valuable guide to installation
+* If the artist has said that specific qualities are important (such as light level, sound, wall colors, etc.), can these be measured to establish a reference?
+* A non-technical description of what the viewer experiences can often be a valuable guide to installation.
 * Are there fixed dimensions, such as image size or gallery dimensions?
 * Must the equipment be arranged or configured in a specific way?
 
@@ -694,7 +759,7 @@ Some things to consider:
 
 * Do the art handlers need to have a knowledge of construction, electrical systems, audio-visual technology, art handling, computer programming?
 * List any special tools required (for example – signal generator, special screwdrivers for converging cathode ray tube projectors)
-* Do the technicians need particular certification to operate the required lifting equipment etc?
+* Do the technicians need particular certification to operate the required lifting equipment etc.?
 * How many technicians are required to install the artwork?
 * How long will it take to install the work?
 </div>
@@ -767,7 +832,8 @@ Include procedures for switching the work on and off
 
 ### General notes
 
-* This section provides an opportunity to emphasize any aspect of the installation which requires special attention.
+This section provides an opportunity to emphasize any aspect of the installation which requires special attention.
+
 * What details should the installation crew pay special attention to?
 * Has the work been shown in a similar environment before (hours of operation etc)?
 * What is the status of the components:
