@@ -160,16 +160,20 @@ Although the artist may have specific requirements for display equipment, the eq
 
 ![Photo of conservator assessing a video]({{site.baseurl}}/img/assessment.jpg)
 
-### Pre-acquisition assessment
+### Pre-assessment
 
 
-During this pre-acquisition phase, there is often limited time to gather important information necessary for making a presentation to a board, committee, or self. The goal at this point is to begin the process of assessment that will eventually lead to completion of structure and condition reports during the post-acquisition phase. At this stage, here are some core things to think about:
+During this pre-acquisition phase, there is often limited time to gather important information necessary for making a presentation to a board, committee, or self. The goal at this point is to begin the process of assessment that will eventually lead to completion of [structure and condition reports]({{ site.url }}/acquiring-time-based-media-art.html#post-templates)  during the post-acquisition phase. At this stage, here are some core things to think about:
+
 * Is this work currently ‘exhibitable’ and can this be sustained?
 * Determine the ‘exhibitability’ of the media: assess the playback quality, if the offered format is provided at this stage. From an exhibition history of the provided materials, determine duration of previous display. Make recommendations for preferred media format if different from what is being offered.
 * Assess the condition of display equipment offered with the work: how old is the equipment? How many times has it been used/ displayed? Has it ever been serviced?
 * Assess the condition of the sculptural elements in the installation.
+</section>
 
-### Cost Assessment
+<section id="costs" class="section scrollspy" markdown="1">
+
+### Costs
 
 In addition to the costs itemized below, there will be long- and short-term costs associated with the care of media art. A cost-assessment worksheet will help to estimate the financial commitment necessary for acquiring the work.
 
@@ -207,32 +211,49 @@ Use essential conditions for display established above to determine costs, inclu
 
 </div>
 
+</section>
 
 
 
+<section id="proceed" class="section scrollspy" markdown="1">
 
-### Proceed with acquisition? – Summarize findings and make recommendations for proceeding
 
-Using the information gathered from the assembled team and consultants, the curator/collector determines if the art work is an appropriate acquisition for the Collection. If yes, then the curator/collector identifies recommendations to incorporate into the purchase agreement.
+### Proceed with acquisition?
+
+Summarize findings and make recommendations for proceeding. Using the information gathered from the assembled team and consultants, the curator/collector determines if the art work is an appropriate acquisition for the collection. If yes, then the curator/collector identifies recommendations to incorporate into the purchase agreement.
 
 * Identify issues for negotiation.
 * Specify the preferred preservation and exhibition material required, e.g. master, sub-master, exhibition copy.
 * Provide a final equipment list necessary for acquisition and display: what is provided by the seller? What must be additionally purchased?
 
-<br><br>
+<br>
 
 </section>
 
 
 <section id="pre-templates" class="section scrollspy" markdown="1">
 
-###Pre-Acquisition templates
+
+### Pre-acquisition Templates
+
+<div class="col s12">
+<a href="{{ site.url }}/downloads/installationinstructions_1.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Installation specifications
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_costassessmenttemplate.xls">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Cost assessment
+    </div>
+    </a>
+    </div>
+<br>
+ <!-- previous layout:
 * [Installation specifications]({{ site.url }}/downloads/installationinstructions_1.rtf) (RTF, 59KB)
 * [Cost assessment]({{ site.url }}/downloads/mattersmediaart_costassessmenttemplate.xls) (Excel, 24KB)
-
-
-<br><br>
-
+-->
 </section>
 
 
@@ -243,7 +264,7 @@ Using the information gathered from the assembled team and consultants, the cura
 
 
 
-## Accessioning
+## Acquisition
 * What rights do we need to secure as part of the acquisition of the work?
 * Do we have what we need for the future conservation and display of the work?
 * Can we make copies for exhibition and preservation?
@@ -257,7 +278,7 @@ Contractual documents are required to acquire an artwork. Because of the complex
 <section id="accessioning-guidelines" class="section scrollspy" markdown="1">
 
 
-## Accessioning guidelines
+### Guidelines
 The accessioning phase lies between formally agreeing to acquire a work and actually being in a position, with everything in place, to accession a work into a collection. It is a moment when you make sure that you have everything that was agreed as part of the purchase or gift. In the case of traditional works of art, for example a painting, this is the moment when you check the painting arrived, that it is the painting you thought you were buying and that it is in the expected condition. The end of this phase is marked by legal title passing to the new owner.
 
 There may be occasions when sculptures, paintings or other types of objects are also included as part of the work. However, for the majority of cases, what you are buying when you buy a media artwork is not a unique material object but rather the means and the rights to be able to display the work, loan it, preserve it and sell it. To be able to enact these rights you will need to be in possession of preservation master material and information about how the work is to be installed.
@@ -317,59 +338,37 @@ You are advised not to sign any agreement unless you first obtain legal advice. 
 <section id="accessioning-templates" class="section scrollspy" markdown="1">
 
 
-## Acquisition Templates
-In the following templates, [square brackets] have been used where the information contained within them is optional or subject to change according to the particular circumstances – as well as to comment on particular issues that should be addressed when tailoring this agreement. All square brackets should eventually be removed and the information within them modified or deleted before the Agreement is signed. <span class="red-text">__Red bold font__</span> is used where the information contained within is optional as it specifically applies to media art.
-
-<div class="row">
-
-  <div class="col s12">
-    <a href="{{ site.url }}/downloads/mattersmediaart_copyrightlicense.rtf">
-        <div class="card green accent-3">
-      <div class="card-content black-text">
-        <h3>Copyright agreeement</h3>
-        <p>
-        Because ownership of an artwork does not necessarily include ownership of the copyright to that artwork this document is an authorization from the Copyright Holder to the Owner of a work of art permitting the Owner to, for example, reproduce the work in publications and/or for preservation purposes. This template is an agreement between the Copyright Holder (usually the artist) and the collector (referred to as the ‘Museum’ in the document). It can be used as a general license agreement as well as a document specific to media art.</p>
-        <br>
-        <div class="chip"><i class="large material-icons">play_for_work</i>RTF, 30KB </div>
-      </div>
+### Accession Templates
+In the following templates, square brackets have been used where the information contained within them is optional or subject to change according to the particular circumstances – as well as to comment on particular issues that should be addressed when tailoring this agreement. All square brackets should eventually be removed and the information within them modified or deleted before the agreement is signed. <span class="red-text">__Red bold font__</span> is used where the information contained within is optional as it specifically applies to media art.
+<br><br>
+<div class="col s13">
+<a href="{{ site.url }}/downloads/mattersmediaart_copyrightlicense.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Copyright agreement
     </div>
-  </a>
-  </div>
-</div>
-
-<div class="row">
-You will need either a deed of gift...
-  <div class="col s12">
-    <a href="{{ site.url }}/downloads/mattersmediaart_deedofgift.doc">
-        <div class="card green accent-3">
-      <div class="card-content black-text">
-        <h3>Deed of gift</h3>
-        A document that memorializes the transfer of ownership of a work of art by way of gift. This template assumes a full gift between two parties. It can be adapted to situations where there is more than one Donee or if the gift is fractional.
-        <br><br>
-        <div class="chip"><i class="large material-icons">play_for_work</i>RTF, 30KB </div>
-      </div>
+    </a>
     </div>
-  </a>
-  </div>
+Because ownership of an artwork does not necessarily include ownership of the copyright to that artwork this document is an authorization from the Copyright Holder to the Owner of a work of art permitting the Owner to, for example, reproduce the work in publications and/or for preservation purposes. This template is an agreement between the Copyright Holder (usually the artist) and the collector (referred to as the ‘Museum’ in the document). It can be used as a general license agreement as well as a document specific to media art.
 
-</div>
-
-<div class="row">
-
-...or a purchase agreement
-  <div class="col s12">
-    <a href="{{ site.url }}/downloads/mattersmediaart_purchaseagreement.rtf">
-        <div class="card green accent-3">
-      <div class="card-content black-text">
-        <h3>Purchase agreement</h3>
-         A contract between the Seller of the work of art and the Purchaser that controls the terms of sale. This template can be adapted for use in situations where there is more than one Purchaser (i.e. a joint acquisition sometimes referred to as a co-ownership agreement and would need to be reviewed with the relevant co-ownership agreement and relevant co-owner(s).)
-         <br><br>
-        <div class="chip"><i class="large material-icons">play_for_work</i>RTF, 34KB </div>
-      </div>
+<br>
+<div class="col s13">
+<a href="{{ site.url }}/downloads/mattersmediaart_deedofgift.doc">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Deed of gift
     </div>
-  </a>
-  </div>
-</div>
+    </a>
+    </div>
+A document that memorializes the transfer of ownership of a work of art by way of gift. This template assumes a full gift between two parties. It can be adapted to situations where there is more than one Donee or if the gift is fractional.
+
+<br>
+<div class="col s13">
+<a href="{{ site.url }}/downloads/mattersmediaart_purchaseagreement.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Purchase agreement
+    </div>
+    </a>
+    </div>
+A contract between the seller of the work of art and the purchaser that controls the terms of sale. This template can be adapted for use in situations where there is more than one purchaser (i.e. a joint acquisition sometimes referred to as a co-ownership agreement and would need to be reviewed with the relevant co-ownership agreement and relevant co-owner(s).)
+
+<br>
+
 
 
 Before signing the contract, you will have information in hand about the work [refer to <a href="#pre-gather">Pre-acquisition Guidelines checklist</a>]. You will already have considered the installation details, long-term preservation and exhibition requirements, future technological developments, as well as condition assessment. At this moment you might also wish to secure a Copyright Licence between you, the new owner of the work and the Copyright Holder. Although the artist normally retains the copyright in the work, you may want to secure rights to produce images and copies of the work for a range of purposes from publicity to preservation. Two copies of each agreement document are sent to the Seller for signature. Each party should retain one fully signed original.
@@ -412,21 +411,18 @@ The work is catalogued and documented during this phase, and images are created 
 Notify artist: All parties must be notified after completing the acquisition process, including the artist and vendor (or donor)
 </span>
 
-<div id="post-acq-slider-1" class="liquid-slider">
 
 
 
+### Document and Catalog
 
-<div markdown="1">
-<h2 class="title"></h2>
-<h2>Catalogue and inventory</h2>
 Media artworks require more complex cataloguing than traditional works of art. Some collecting institutions create separate databases for the additional metadata associated with these works. Decisions about what information to catalogue and how to catalogue it must be made carefully, following discussion among registration, curatorial, collections management, and conservation staff, and information systems staff.
 
-A useful website for moving image archive cataloguing: <a href "http://www.imappreserve.org/cat_proj/">IMAP Cataloguing Project</a>
+A useful website for moving image archive cataloguing: **[IMAP Cataloguing Project](http://www.imappreserve.org/cat_proj/)**
 
-Assign accession number/establish basic record in collections database
-</div>
+Assign accession number/establish basic record in collections database.
 
+<div id="post-acq-slider-1" class="liquid-slider">
 <div markdown="1">
 <h2 class="title"></h2>
 <h2>Catalogue artwork</h2>
@@ -466,7 +462,7 @@ These files will grow as the work is exhibited, loaned, and conserved. Most inst
 
 
 
-## Cataloging Media Art
+#### Cataloging Media Art
 Records for media installations hold a great deal of information which can be difficult to manage.
 Below is a guide to the type of material you might find in a record for a media artwork and a suggested way of organizing this information into sections within your file or binder.
 
@@ -637,9 +633,11 @@ Additional information about conserving media works may be found at the followin
 </section>
 
 
-<section id="post-condition-report-templates" class="section scrollspy" markdown="1">
+<section id="post-templates" class="section scrollspy" markdown="1">
 
-### Post Acquisition condition report templates
+### Post-acquisition Templates
+
+ <!-- previous layout:
 * [Structure and condition report]({{ site.url }}/downloads/structure_and_condition_reports.rtf) (RTF, 180KB)
 * [Video artwork prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_videoprompt.rtf) (RTF, 81KB)
 * [Audio artwork prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_audioprompt.rtf) (RTF, 77KB)
@@ -652,5 +650,91 @@ Additional information about conserving media works may be found at the followin
 * [Screens and monitors display equipment prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_screensmonitors.rtf) (RTF, 122KB)
 * [Film projectors display equipment prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_filmprojectors.rtf) (RTF, 114KB)
 * [Slide projectors display equipment prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_slideprojectors.rtf) (RTF, 114KB)
+-->
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/structure_and_condition_reports.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Structure and condition report
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_videoprompt.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Video artwork
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_audioprompt.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Audio artwork
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_filmprompt.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Film artwork
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_slideprompt.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Slide artwork
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_computuerworksprompt.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Computer-based artwork
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_computerequipment.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Computer-based display equipment
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_playbackdevice.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Playback device display equipment
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_videoprojectors.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Video projectors display equipment
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_screensmonitors.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Screens and monitors display equipment
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_filmprojectors.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Film projectors display equipment
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_slideprojectors.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Slide projectors display equipment
+    </div>
+    </a>
+    </div>
+<br>
 
 </section>
