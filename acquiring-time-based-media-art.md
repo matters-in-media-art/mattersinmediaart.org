@@ -6,7 +6,7 @@ title: "Acquiring Media Art"
 
 
 <span class="flow-text">
-Because time-based media works require a proactive approach to care and management, the moment of acquisition is critical in gathering information that will ensure their display and care into the future.
+Because media artworks require a proactive approach to care and management, the moment of acquisition is critical in gathering information that will ensure their display and care into the future.
 </span>
 
 ![](http://images.tate.org.uk/sites/default/files/styles/grid-normal-12-cols/public/images/eija-liisaahtila_annieakiegod_1998_0.jpg?itok=lJxaLd3A)
@@ -34,7 +34,7 @@ In this guide, the acquisition process is discussed in three overlapping phases:
 * How do I anticipate the cost of owning this work?
 * What master material and equipment should come with the acquisition?
 
-The focus of the pre-acquisition phase for time-based media works is deciding whether to acquire the work of art. Information gathered during this phase is used to justify the acquisition and to forecast costs, installation logistics, and conservation concerns for future ownership. This information falls into two main categories, conceptual and technical. An understanding of the conceptual and technical elements that comprise the work of art is essential for acquisition consideration, but also to the continued viability and authentic presentation of the work. In reality, there is often little time prior to an acquisition to gather all the information in detail. However, you are aiming to gain a general understanding of the areas outlined below. The information collected during the pre-acquisition phase provides a baseline of knowledge for deeper levels of documentation after the work is acquired.
+The focus of the pre-acquisition phase for media art is deciding whether to acquire the work of art. Information gathered during this phase is used to justify the acquisition and to forecast costs, installation logistics, and conservation concerns for future ownership. This information falls into two main categories, conceptual and technical. An understanding of the conceptual and technical elements that comprise the work of art is essential for acquisition consideration, but also to the continued viability and authentic presentation of the work. In reality, there is often little time prior to an acquisition to gather all the information in detail. However, you are aiming to gain a general understanding of the areas outlined below. The information collected during the pre-acquisition phase provides a baseline of knowledge for deeper levels of documentation after the work is acquired.
 
 </section>
 
@@ -44,7 +44,7 @@ The focus of the pre-acquisition phase for time-based media works is deciding wh
 
 <br><br>
 <span class="flow-text">
-Prior to acquisition of a time-based media work, the following steps may be taken by a curator or collector:
+Prior to acquisition of a media artwork, the following steps may be taken by a curator or collector:
 </span>
 
 <div id="main-slider" class="liquid-slider">
@@ -171,7 +171,7 @@ During this pre-acquisition phase, there is often limited time to gather importa
 
 ### Cost Assessment
 
-In addition to the costs itemised below, there will be long- and short-term costs associated with the care of time-based media. A cost-assessment worksheet will help to estimate the financial commitment necessary for acquiring the work.
+In addition to the costs itemized below, there will be long- and short-term costs associated with the care of media art. A cost-assessment worksheet will help to estimate the financial commitment necessary for acquiring the work.
 
 <div id="cost-slider" class="liquid-slider">
 
@@ -200,7 +200,7 @@ Use essential conditions for display established above to determine costs, inclu
 <h2 class="title">Continuing costs</h2>
 <h2>Continuing costs</h2>
 * Estimate lifetime and replaceability of physical components: are there consumable elements that must be continually replaced?
-* Understand equipment or consumables that are designated by the artist to be essential to the realisation of their work: consider purchasing back-ups for future preservation.
+* Understand equipment or consumables that are designated by the artist to be essential to the realization of their work: consider purchasing back-ups for future preservation.
 * Outside contractors
 </div>       
 
@@ -211,7 +211,7 @@ Use essential conditions for display established above to determine costs, inclu
 
 
 
-### Proceed with acquisition? – Summarise findings and make recommendations for proceeding
+### Proceed with acquisition? – Summarize findings and make recommendations for proceeding
 
 Using the information gathered from the assembled team and consultants, the curator/collector determines if the art work is an appropriate acquisition for the Collection. If yes, then the curator/collector identifies recommendations to incorporate into the purchase agreement.
 
@@ -249,7 +249,7 @@ Using the information gathered from the assembled team and consultants, the cura
 * Can we make copies for exhibition and preservation?
 * Does this acquisition warrant the need for formal legal documents?
 
-Contractual documents are required to acquire an artwork. Because of the complexities attached to the bundle of rights being conferred with the transfer of ownership of time-based media works, legal documents take on a greater significance than is the case with more traditional works. These documents include a purchase agreement, or a deed of gift, and a copyright licence. They specify the terms and conditions of the acquisition and help ensure that all parties understand their respective rights and obligations. The documents can be used among the following parties (which, in any given transaction, may be a museum, artist or artist’s estate, gallery or collector): purchaser, seller, donor, and copyright holder. Templates for the documents are provided here for reference purposes. Depending, of course, on the terms of each transaction, they may be used as a starting point in negotiations.
+Contractual documents are required to acquire an artwork. Because of the complexities attached to the bundle of rights being conferred with the transfer of ownership of media artworks, legal documents take on a greater significance than is the case with more traditional works. These documents include a purchase agreement, or a deed of gift, and a copyright license. They specify the terms and conditions of the acquisition and help ensure that all parties understand their respective rights and obligations. The documents can be used among the following parties (which, in any given transaction, may be a museum, artist or artist’s estate, gallery or collector): purchaser, seller, donor, and copyright holder. Templates for the documents are provided here for reference purposes. Depending, of course, on the terms of each transaction, they may be used as a starting point in negotiations.
 
 
 </section>
@@ -260,7 +260,7 @@ Contractual documents are required to acquire an artwork. Because of the complex
 ## Accessioning guidelines
 The accessioning phase lies between formally agreeing to acquire a work and actually being in a position, with everything in place, to accession a work into a collection. It is a moment when you make sure that you have everything that was agreed as part of the purchase or gift. In the case of traditional works of art, for example a painting, this is the moment when you check the painting arrived, that it is the painting you thought you were buying and that it is in the expected condition. The end of this phase is marked by legal title passing to the new owner.
 
-There may be occasions when sculptures, paintings or other types of objects are also included as part of the work. However, for the majority of cases, what you are buying when you buy a time-based media work of art is not a unique material object but rather the means and the rights to be able to display the work, loan it, preserve it and sell it. To be able to enact these rights you will need to be in possession of preservation master material and information about how the work is to be installed.
+There may be occasions when sculptures, paintings or other types of objects are also included as part of the work. However, for the majority of cases, what you are buying when you buy a media artwork is not a unique material object but rather the means and the rights to be able to display the work, loan it, preserve it and sell it. To be able to enact these rights you will need to be in possession of preservation master material and information about how the work is to be installed.
 
 <div id="acq-slider" class="liquid-slider">
 
@@ -280,7 +280,7 @@ Once a decision has been made to acquire the work, it is important to notify the
 <div markdown="1">
 <h2 class="title"></h2>
 <h2>Verify artwork components</h2>
-During the pre-acquisition phase the buyer will have familiarised themselves with the details of the work and established what is important to its installation and conservation. Preliminary discussions will have taken place to clarify what is being offered as part of the purchase price. During this phase those elements are delivered, and the recipient will have the opportunity to check that what has been agreed has arrived and that it is in good condition. In some cases, the vendor may wait to deliver the certificate until after payment.
+During the pre-acquisition phase the buyer will have familiarized themselves with the details of the work and established what is important to its installation and conservation. Preliminary discussions will have taken place to clarify what is being offered as part of the purchase price. During this phase those elements are delivered, and the recipient will have the opportunity to check that what has been agreed has arrived and that it is in good condition. In some cases, the vendor may wait to deliver the certificate until after payment.
 </div>
 
 
@@ -298,7 +298,7 @@ It is important to view the material you have received as part of the acquisitio
 <div markdown="1">
 <h2 class="title"></h2>
 <h2>Exchange contracts</h2>
-Contractual documents are exchanged during the accessioning phase. This may be as simple as an invoice; however there are cases where it is of benefit to all parties to have more detailed contracts. These documents include a purchase agreement, or a deed of gift, and a copyright licence. They specify the terms and conditions of the acquisition and help ensure that all parties understand their respective rights and obligations. The documents can be used among the following parties (which, in any given transaction, may be a museum, artist or artist’s estate, gallery or collector): purchaser, seller, donor, and copyright holder. Templates for the documents are provided for reference purposes.
+Contractual documents are exchanged during the accessioning phase. This may be as simple as an invoice; however there are cases where it is of benefit to all parties to have more detailed contracts. These documents include a purchase agreement, or a deed of gift, and a copyright license. They specify the terms and conditions of the acquisition and help ensure that all parties understand their respective rights and obligations. The documents can be used among the following parties (which, in any given transaction, may be a museum, artist or artist’s estate, gallery or collector): purchaser, seller, donor, and copyright holder. Templates for the documents are provided for reference purposes.
 
 Depending on the terms of each transaction, the templates will be modified and are offered here simply as a starting point in negotiations. A relationship of trust between the artist and their representatives and the new owner is important to successful custodianship. If you think that there is something controversial in the agreement, for example requests to stream the media elements online, discuss this with the artist first. Some artists may trust a museum and not worry about reading contractual documents carefully, it is therefore good practice to make sure they are aware of the content.
 
@@ -318,7 +318,7 @@ You are advised not to sign any agreement unless you first obtain legal advice. 
 
 
 ## Acquisition Templates
-In the following templates, [square brackets] have been used where the information contained within them is optional or subject to change according to the particular circumstances – as well as to comment on particular issues that should be addressed when tailoring this agreement. All square brackets should eventually be removed and the information within them modified or deleted before the Agreement is signed. <span class="red-text">__Red bold font__</span> is used where the information contained within is optional as it specifically applies to time-based media.
+In the following templates, [square brackets] have been used where the information contained within them is optional or subject to change according to the particular circumstances – as well as to comment on particular issues that should be addressed when tailoring this agreement. All square brackets should eventually be removed and the information within them modified or deleted before the Agreement is signed. <span class="red-text">__Red bold font__</span> is used where the information contained within is optional as it specifically applies to media art.
 
 <div class="row">
 
@@ -328,7 +328,7 @@ In the following templates, [square brackets] have been used where the informati
       <div class="card-content black-text">
         <h3>Copyright agreeement</h3>
         <p>
-        Because ownership of an artwork does not necessarily include ownership of the copyright to that artwork this document is an authorisation from the Copyright Holder to the Owner of a work of art permitting the Owner to, for example, reproduce the work in publications and/or for preservation purposes. This template is an agreement between the Copyright Holder (usually the artist) and the collector (referred to as the ‘Museum’ in the document). It can be used as a general licence agreement as well as a document specific to time-based media.</p>
+        Because ownership of an artwork does not necessarily include ownership of the copyright to that artwork this document is an authorization from the Copyright Holder to the Owner of a work of art permitting the Owner to, for example, reproduce the work in publications and/or for preservation purposes. This template is an agreement between the Copyright Holder (usually the artist) and the collector (referred to as the ‘Museum’ in the document). It can be used as a general license agreement as well as a document specific to media art.</p>
         <br>
         <div class="chip"><i class="large material-icons">play_for_work</i>RTF, 30KB </div>
       </div>
@@ -344,7 +344,7 @@ You will need either a deed of gift...
         <div class="card green accent-3">
       <div class="card-content black-text">
         <h3>Deed of gift</h3>
-        A document that memorialises the transfer of ownership of a work of art by way of gift. This template assumes a full gift between two parties. It can be adapted to situations where there is more than one Donee or if the gift is fractional.
+        A document that memorializes the transfer of ownership of a work of art by way of gift. This template assumes a full gift between two parties. It can be adapted to situations where there is more than one Donee or if the gift is fractional.
         <br><br>
         <div class="chip"><i class="large material-icons">play_for_work</i>RTF, 30KB </div>
       </div>
@@ -395,12 +395,12 @@ Please note the following:
 <!-- Post Acquisition -->
 
 ## Post-acquisitions
-The work is catalogued and documented during this phase, and images are created for public release and for internal use. The artist may be interviewed after acquiring the work to answer remaining questions about future conservation and display. Technical and conceptual knowledge about the work is used to create a long-term conservation plan. The media, display equipment, and sculptural components are packed and stored in archival housing in favourable environments for long-term preservation.
+The work is catalogued and documented during this phase, and images are created for public release and for internal use. The artist may be interviewed after acquiring the work to answer remaining questions about future conservation and display. Technical and conceptual knowledge about the work is used to create a long-term conservation plan. The media, display equipment, and sculptural components are packed and stored in archival housing in favorable environments for long-term preservation.
 
 * What information do we need to have in place to establish a baseline record and for future record-keeping?
 * What is needed to prepare for the future life of the work as part of our Collection?
 * How do I prepare for interviewing the artist about the installation and conservation of the work?
-* The goal of the post-acquisition phase is to prepare the artwork for long-term preservation and future installation. This includes organising information about the work in digital and hard-copy format.
+* The goal of the post-acquisition phase is to prepare the artwork for long-term preservation and future installation. This includes organizing information about the work in digital and hard-copy format.
 
 </section>
 
@@ -420,7 +420,7 @@ Notify artist: All parties must be notified after completing the acquisition pro
 <div markdown="1">
 <h2 class="title"></h2>
 <h2>Catalogue and inventory</h2>
-Time-based media works require more complex cataloguing than traditional works of art. Some collecting institutions create separate databases for the additional metadata associated with these works. Decisions about what information to catalogue and how to catalogue it must be made carefully, following discussion among registration, curatorial, collections management, and conservation staff, and information systems staff.
+Media artworks require more complex cataloguing than traditional works of art. Some collecting institutions create separate databases for the additional metadata associated with these works. Decisions about what information to catalogue and how to catalogue it must be made carefully, following discussion among registration, curatorial, collections management, and conservation staff, and information systems staff.
 
 A useful website for moving image archive cataloguing: <a href "http://www.imappreserve.org/cat_proj/">IMAP Cataloguing Project</a>
 
@@ -455,7 +455,7 @@ Additional information collected in the object file may be uploaded into the dat
 
 <div markdown="1">
 <h2 class="title"></h2>
-<h2>Organise collected information</h2>
+<h2>Organize collected information</h2>
 Create object files, or binder, from the acquisition process
 
 These files will grow as the work is exhibited, loaned, and conserved. Most institutions create separate files for different purposes such as acquisition, curatorial, conservation and registration. Most of this information will be stored electronically as well, in collections databases, text documents, and digital images.
@@ -466,9 +466,9 @@ These files will grow as the work is exhibited, loaned, and conserved. Most inst
 
 
 
-## Cataloging Time-Based Media
-Records for time-based media installations hold a great deal of information which can be difficult to manage.
-Below is a guide to the type of material you might find in a record for a time-based media work and a suggested way of organising this information into sections within your file or binder.
+## Cataloging Media Art
+Records for media installations hold a great deal of information which can be difficult to manage.
+Below is a guide to the type of material you might find in a record for a media artwork and a suggested way of organizing this information into sections within your file or binder.
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
@@ -584,7 +584,7 @@ Below is a guide to the type of material you might find in a record for a time-b
 <h2>Document installed artwork</h2>
 Review documentation from artist/vendor/donor. Is it sufficient for long-term care and future installation?
 
-* Documenting time-based media art includes recording the work in its existing state as it enters the collection:
+* Documenting media art includes recording the work in its existing state as it enters the collection:
 * Photograph the installation and its individual components
 * Videotape the initial installation
 * Archive installation plans and specifications for display

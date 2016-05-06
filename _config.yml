@@ -1,7 +1,7 @@
 # Site settings
 title: Matters in Media Art
 email: info@matters-in-media-art.org
-description: A multi-phase project designed to provide guidelines for care of time-based media works of art. Collaborating towards the care of time-based media - a multi-phase project designed to provide guidelines for care of time-based media works of art.
+description: A multi-phase, collaborative project designed to provide guidelines for the care of media art.
 baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb

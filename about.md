@@ -8,7 +8,7 @@ title: About Matters in Media Art
 <section id="about" class="section scrollspy" markdown="1">
 
 <span class="flow-text">
-Matters in Media Art is an information resource on the care of time-based media works of art.
+Matters in Media Art is an information resource on the care of media art.
 </span>
 
 ![](img/paik.jpg)
@@ -21,9 +21,9 @@ Matters in Media Art is an information resource on the care of time-based media 
 
 ## Project History
 
-Launched in 2005, this collaborative project between the New Art Trust (NAT) and its partner museums – the Museum of Modern Art (MoMA), the San Francisco Museum of Modern Art (SFMOMA) and Tate – has been designed to help those who collect and keep time-based artworks (e.g. video, film, audio and software-based installations).
+Launched in 2005, this collaborative project between the New Art Trust (NAT) and its partner museums – the Museum of Modern Art (MoMA), the San Francisco Museum of Modern Art (SFMOMA) and Tate – has been designed to help those who collect and keep media artworks (e.g. video, film, audio and software-based installations).
 
-Conceived originally as a consensus building project for the three partner museums of the NAT, the enduring goal has been to affirm our commitment to time-based art and artists by developing shared practices for the works’ care and preservation. It has always been the consortium’s hope that if the three museums could come together to agree on emerging stewardship practices, then by sharing these practices online they would be used, improved upon and refined by larger audiences of artists and collectors. 
+Conceived originally as a consensus building project for the three partner museums of the NAT, the enduring goal has been to affirm our commitment to media art and artists by developing shared practices for the works’ care and preservation. It has always been the consortium’s hope that if the three museums could come together to agree on emerging stewardship practices, then by sharing these practices online they would be used, improved upon and refined by larger audiences of artists and collectors.
 </section>
 
 
@@ -31,7 +31,7 @@ Conceived originally as a consensus building project for the three partner museu
 <section id="contribution-guidelines" class="section scrollspy" markdown="1">
 
 ## Contribution Guidelines
-The Matters in Media Art website follows the essential tenants of the [open source philosophy](https://opensource.org/osd). All of the website's source code and content are openly accessible in a repository hosted on GitHub, which offers a framework for anyone to suggest, discuss, and contribute edits to mattersinmediaart.org's content and/or design and functionality. 
+The Matters in Media Art website follows the essential tenants of the [open source philosophy](https://opensource.org/osd). All of the website's source code and content are openly accessible in a repository hosted on GitHub, which offers a framework for anyone to suggest, discuss, and contribute edits to mattersinmediaart.org's content and/or design and functionality.
 
 Fundamental to this open source approach is the licensing that we have chosen to adopt. All mattersinmediaart.org source code is licensed under the [MIT license](https://en.wikipedia.org/wiki/MIT_License), and all intellectual content (unless otherwise noted) is licensed under the Creative Commons [Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license. While these two licenses are quite different from each other, generally speaking, this means that all Matters in Media Art content and source code is free to copy, share, adopt, reuse, and redistribute. For specific terms of the MIT and Public Domain licenses, please see the license statement of the Matters in Media Art repository [link]
 
@@ -44,7 +44,7 @@ The second way of contributing to mattersinmediaart.org is to actually edit the 
 
 <!--
 
-make a note about how we are accepting pull requests, but not new repo admins at the moment 
+make a note about how we are accepting pull requests, but not new repo admins at the moment
 
 also some text about how we are a small team of volunteers and time is limited
 
@@ -120,6 +120,6 @@ link to the contributors page and explain the distinction between project team a
 #### Facilitator
 George Gawlinski
 
-In addition to the above participants this project called on the time and expertise of numerous colleagues around the world and within the participating institutions. Finally we would like to thank Pam and Dick Kramlich and the Directors of the New Art Trust, whose commitment to time-based media works of art made this project possible.
+In addition to the above participants this project called on the time and expertise of numerous colleagues around the world and within the participating institutions. Finally we would like to thank Pam and Dick Kramlich and the Directors of the New Art Trust, whose commitment to media art made this project possible.
 
 </section>

@@ -6,12 +6,12 @@ title: "Documenting Media Art"
 
 ![](img/peter-assessing.jpg)
 
-The aim of these guidelines is to extend existing condition reporting practices to include time-based media works of art. A condition report provides the baseline against which future examinations can be compared. For media-based works of art a report is divided into three sections – the media elements, the equipment and the overall installation. They are different from condition reports for more conventional works of art in that some of the components may be easily replaceable without loss. It is often not possible to know by looking at any component, its value or significance in relation to the identity of the work of art.
+The aim of these guidelines is to extend existing condition reporting practices to include media artworks. A condition report provides the baseline against which future examinations can be compared. For media-based works of art a report is divided into three sections – the media elements, the equipment and the overall installation. They are different from condition reports for more conventional works of art in that some of the components may be easily replaceable without loss. It is often not possible to know by looking at any component, its value or significance in relation to the identity of the work of art.
 
 <section id="guidelines" class="section scrollspy" markdown="1">
 ### Overview of Condition Documentation for Media-based works
 
-There are two fundamental facets of condition reporting for time-based media art: the physical state and the functionality of all the components/elements. Condition reporting for time-based media may require the expertise of more than one person. It is important to view, listen to, and experience the entire time-based program and report any deviations from the condition statement.
+There are two fundamental facets of condition reporting for media art: the physical state and the functionality of all the components/elements. Condition reporting for media art may require the expertise of more than one person. It is important to view, listen to, and experience the entire media program and report any deviations from the condition statement.
 
 Condition report layout
 
@@ -23,7 +23,7 @@ A condition report may include the following:
 * Name
 * Description
 * Describe the work and list the elements/components and how they work together.
-* Exhibition title (if relevant) 
+* Exhibition title (if relevant)
 * Open/close date
 
 Media
@@ -40,7 +40,7 @@ Some equipment has an aesthetic or conceptual relationship to the identity of th
 
 Installation
 
-No artwork is immune to the circumstances of its presentation. However work of art which are only fully realised in their installed state create a different level of difficulty for issues of authority and authentication than works which form stable static objects. Time-based media works of art are vulnerable to a number of changing conditions that can have a profound impact on how they are understood.
+No artwork is immune to the circumstances of its presentation. However work of art which are only fully realized in their installed state create a different level of difficulty for issues of authority and authentication than works which form stable static objects. Media artworks are vulnerable to a number of changing conditions that can have a profound impact on how they are understood.
 A condition report assesses not only the material condition of the component parts but also whether the installation documentation has been followed and the work has been installed without compromise to the identity of the work.
 Some things to consider
 It is important to be clear the status of any elements loaned.
@@ -61,7 +61,7 @@ In all cases it is important to establish:
 * The procedure for requesting additional copies and the cost associated with the production of these copies.
 
 #### Film and slide material
-* Is the colour, contrast, grading, consistent and correct?
+* Is the color, contrast, grading, consistent and correct?
 * Is there any evidence of fading?
 * Are the slides/film prints clean and unscratched?
 * Are slides properly mounted?
@@ -100,8 +100,8 @@ In all cases it is important to establish:
 
 #### Sculptural element
 * It is beyond the scope of this project to cover condition checking guidelines for sculpture.
-* However, sculptural elements of a time-based media installation should be handled and condition checked in the same way as other loaned sculptures.
-* Display equipment 
+* However, sculptural elements of a media installation should be handled and condition checked in the same way as other loaned sculptures.
+* Display equipment
 
 #### Status
 * Is the identity of the work of art linked to a particular make and model?
@@ -127,19 +127,19 @@ In all cases it is important to establish:
 
 Liquid crystal display
 * Project a white field and a black field and check for faulty pixels.
-* View a white field and check that the white balance is even and there is no discolouration in part of the image.
+* View a white field and check that the white balance is even and there is no discoloration in part of the image.
 * View a black field to check for dust spots.
 * View a grid and check for convergence of red, green and blue.
-* View colour bars and check the colour rendition.
+* View color bars and check the color rendition.
 * Check the filters are clean (projectors only).
 * Check the age of the lamp (may be difficult to ascertain for monitors).
 
 Cathode ray tubes
 * Project a white field and check for burn-in on the Cathode Ray tubes.
-* Check a white field for brightness and colour balance.
+* Check a white field for brightness and color balance.
 * Check the number of hours that the tubes have been used.
 * Project a black field and check for dust.
-* View colour bars and check the colour rendition.
+* View color bars and check the color rendition.
 * Check the focus and the accuracy of the convergence using a grid or dot pattern (projectors only).
 * Has the installation been installed correctly?
 * Were the specifications accurately fulfilled?
@@ -205,7 +205,7 @@ Cathode ray tubes
 ![](img/peter-assessing.jpg)
 
 <span class="flow-text">
-Assessing your digital video media is a crucial step on entering your collection. Not only will it help you to understand the technical characteristics and anomalies of the file(s), it will help you create a baseline against which future examinations can be compared, and generally gain a better understanding of each artwork and your collection as a whole. 
+Assessing your digital video media is a crucial step on entering your collection. Not only will it help you to understand the technical characteristics and anomalies of the file(s), it will help you create a baseline against which future examinations can be compared, and generally gain a better understanding of each artwork and your collection as a whole.
 </span>
 
 Video files are assessed and condition checked both visually and aurally with the appropriate tools. This section covers the design requirements of a work station, approaches to running initial technical analysis on your file(s), the visual and aural technical assessment and its documentation.  
@@ -217,7 +217,7 @@ Video files are assessed and condition checked both visually and aurally with th
   <div class="collapsible-header"><i class="material-icons">visibility</i>Visual Assessment</div>
   <div class="collapsible-body">
   	<p>
-  		Colour space and gamma, Luminance, and Chrominance are the key characterstics to visually asses
+  		Color space and gamma, Luminance, and Chrominance are the key characteristics to visually asses
   	</p>
     <strong> Tools for Visual Assessment</strong>
    <ul>
@@ -238,12 +238,12 @@ Video files are assessed and condition checked both visually and aurally with th
   </div>
 </li>
 <li>
-  <div class="collapsible-header"><i class="material-icons">warning</i>Visual and Aural Artefacts</div>
+  <div class="collapsible-header"><i class="material-icons">warning</i>Visual and Aural Artifacts</div>
   <div class="collapsible-body">
    <ul>
-    <li>Analogue ‘burn in’ artefacts</li>
-    <li>Digital artefacts</li>
-    <li>Identifying cause/ origina – A/V Artifact Atlas</li>
+    <li>Analogue ‘burn in’ artifacts</li>
+    <li>Digital artifacts</li>
+    <li>Identifying cause / original – A/V Artifact Atlas</li>
    </ul>
   </div>
 </li>
@@ -259,7 +259,7 @@ To assess, quality-control and condition report your digital video files, you mi
   <div class="collapsible-header"><i class="material-icons">settings_input_composite</i>Connection Types</div>
   <div class="collapsible-body">
   	<p>
-  		Since the signal connections of your devices will play an important role in the playback of your video files, these will be briefly described together with their commonly associated formats. It is important to note that many analog formats only support 1 signal type and therefore outputting them on a “better” (or more recent) signal type can actually change the authenticity of the signal. Keeping the signal native is has been referred to as transparent migration. 
+  		Since the signal connections of your devices will play an important role in the playback of your video files, these will be briefly described together with their commonly associated formats. It is important to note that many analog formats only support 1 signal type and therefore outputting them on a “better” (or more recent) signal type can actually change the authenticity of the signal. Keeping the signal native is has been referred to as transparent migration.
   	</p>
   	<p>
   		Composite Video [analog connection, SD]: All the information that composes the signal, luminance, chrominance, blanking and synchronization (CVBS), is merged together into one signal. Composite video is a single connection type (either BNC or RCA). Analog formats that utilize a composite signal output and are recorded using a composite signal include ½” open-reel, ¾” U-matic, laser disc and VHS.
@@ -268,7 +268,7 @@ To assess, quality-control and condition report your digital video files, you mi
   		S-Video or Y/C [analog connection, SD]: As opposed to the composite signal, S-Video separates the luminance (Y) and the chrominance (C) into two different channels. Thereby it is a step up in quality from the composite video. It is transmitted by a distinctive looking, 4-pin connector. Formats that allowed for Y/C include VHS and DVD.
   	</p>
   	<p>
-  		Component Video [analog connection, SD]: Component video is the best quality connection to transmit analog video signals. The signal is separated into three channels: Y (luminance), Pb (Blue minus L) and Pr (Red minus L). The green is derived using the pythagoreon theorem. Component video comes as three adjoined plugs, sometimes color-coded to green (Y), blue (Pb) and red (Pr). This connection should be used on analog Betacam and Betacam SP.
+  		Component Video [analog connection, SD]: Component video is the best quality connection to transmit analog video signals. The signal is separated into three channels: Y (luminance), Pb (Blue minus L) and Pr (Red minus L). The green is derived using the pythagorean theorem. Component video comes as three adjoined plugs, sometimes color-coded to green (Y), blue (Pb) and red (Pr). This connection should be used on analog Betacam and Betacam SP.
   	</p>
   	<p>
   		Serial Digital Interface [SDI, SD or HD]. The SDI signal is a digital bit stream that can be used to transmit analog and digital video signals, and has also been used to by digital formats to record the signal to tape (Digital Betacam). SD-SDI is a signal connection type, using the BNC connection type, that packages the video, aural, and any ancillary data (timecode, closed captioning, etc) into a signal bit stream for transmission. SD-SDI is a 4:2:2 YUV system of video transmission. HD-SDI uses the same principal but splits the signal amongst multiple connections to increase the bandwidth necessary for transmission of High Definition material.
@@ -283,7 +283,7 @@ To assess, quality-control and condition report your digital video files, you mi
   <div class="collapsible-header"><i class="material-icons">settings_overscan</i>Monitor</div>
   <div class="collapsible-body">
   	<p>
-  		For standard definition video files –for example videos that come from SD tape transfers–, watching the video on a Cathode Ray Tube (CRT) monitor is crucial, as only these monitors will show you both fields of the interlaced content and provide you with an authentic display of the video signal. CRT monitors are no longer manufactured, however they can be found through appropriate web platforms (eg. eBay) or forums who post when Broadcast studios sell off their equipment. Make sure the video inputs fit your system before you buy it, and calibration is recommended when setting up.
+  		For standard definition video files –for example videos that come from SD tape transfers–, watching the video on a Cathode Ray Tube (CRT) monitor is crucial, as only these monitors will show you both fields of the interlaced content and provide you with an authentic display of the video signal. CRT monitors are no longer manufactured, however they can be found through appropriate web platforms (e.g. eBay) or forums who post when Broadcast studios sell off their equipment. Make sure the video inputs fit your system before you buy it, and calibration is recommended when setting up.
   	</p>
   	<p>
   	Viewing interlaced video files on a computer monitor is problematic because these monitors cannot display interlaced footage and will attempt to merge the fields together into discrete frames. Certain errors, e.g. a head clog from a tape digitization, can only affect one field and lead to a complete area of image loss, which you would not see on a computer monitor.</p>
@@ -331,7 +331,7 @@ Quality audio monitors and meters are also necessary in the assessment of video 
 </ul>
 
 
-####	Cost Guide For Workstation Tools 
+####	Cost Guide For Workstation Tools
 
 <table class="assessment bordered highlight">
         <thead>
@@ -436,7 +436,7 @@ These are the key characteristics of the file that you will ideally want to have
 
 #### Environment Characteristics
 
-Before assessing digital video files, it is incredibly helpful to first have a better understanding of the environment, ie. the software and hardware systems used for production of the video, as these can be useful in confirming assessment and/or diagnosing errors. This information will help inform both the accurate assessment of the video material as well as how to best care for it in the future. The following information is useful to have from the artist, if possible before assessment.  
+Before assessing digital video files, it is incredibly helpful to first have a better understanding of the environment, i.e. the software and hardware systems used for production of the video, as these can be useful in confirming assessment and/or diagnosing errors. This information will help inform both the accurate assessment of the video material as well as how to best care for it in the future. The following information is useful to have from the artist, if possible before assessment.  
 
 Sample questions
 * How was the work shot, or what were the sources?
@@ -447,7 +447,7 @@ Sample questions
 
 Display Characteristics
 
-As with any media-based artwork, it is useful to review an artists display specifications, if possible. 
+As with any media-based artwork, it is useful to review an artists display specifications, if possible.
 
 Technical Assessment
 
@@ -456,8 +456,8 @@ Depending on your workflow you may carry out a technical assessment before you c
 * Aspect Ratio
 * Pixel format (non-square versus square)
 * Color matrices and spaces
-* Frame size (resolution) 
-* Interlacement versus progressive 
+* Frame size (resolution)
+* Interlacement versus progressive
 * YUV sample range
 * Timecode
 * Frame Rate
@@ -465,9 +465,9 @@ Depending on your workflow you may carry out a technical assessment before you c
 * Audio Channel Arrangement (channel count, assignment) subtitles
 
 Assessing files: What to look for:
-* Confirming that the content is as expected (see sample questions). 
+* Confirming that the content is as expected (see sample questions).
 * That there are no obvious technical problems with the streams.
-* That there is no conflicting information between the streams and the wrapper. For example, a particular combination of stream(s) and     wrapper may provide ambiguous instructions for decoding, leaving the possibility that different players might play back the video        stream differently. If this is the case it is helpful to clarify with the artist or their representative, if at all possible. 
+* That there is no conflicting information between the streams and the wrapper. For example, a particular combination of stream(s) and     wrapper may provide ambiguous instructions for decoding, leaving the possibility that different players might play back the video        stream differently. If this is the case it is helpful to clarify with the artist or their representative, if at all possible.
 * That this is not an of absence of key information in the streams and the wrapper.
 * Confirm that the basic matches content matches what was expected from the artist, for example the codec, the wrapper, audio sample rate and bit¬depth,   subsampling, frame rate and the duration.
 
@@ -478,7 +478,7 @@ Assessing files: How to:
           * Open Terminal
           * Run MediaInfo on the video files you are about to assess command: mediainfo ¬f [path to input file]
           * It will look something like this:
- 
+
           PC Users:
           * Run MediaInfo with the following command it will look something like this:
 
@@ -486,12 +486,12 @@ Assessing files: Identifying Technical Problems
 
 Integrity  
 This step is to confirm that the files integrity is intact and there are no obvious signs that the file is incomplete or corrupted. The first method of checking the integrity of the file is to confirm that the file checksum associated with the file, if supplied with the artist on receipt, validates when transferred or moved to your storage infrastructure. If the checksum does not validate, this is a clear sign that something technically has changed within the file. The second method of checking the file integrity is to analyze the MediaInfo report for clear indicators of technical problems. These can vary, but an example is a file that will not open in any player and the mediainfo report looks like the image below (insert image):
- 
+
 When analyzing this report, it becomes clear that the file is incomplete and lacks the video and audio streams necessary for playback as the MediaInfo report finishes without displaying the video or audio stream technical metadata. This makes it clear that this information is not present in the file and is the reason for its inability to be displayed. This is a critical error with the file and will necessitate replacement.
 
 Conflicts in Wrapper versus Streams
 
-Problems might arise in the consistent playback of a video stream with regards to aspect ratio and colour interpretation if there is conflicting metadata held in the wrapper and the stream. For example as demonstrated in the "Video" section of this MediaInfo report:
+Problems might arise in the consistent playback of a video stream with regards to aspect ratio and color interpretation if there is conflicting metadata held in the wrapper and the stream. For example as demonstrated in the "Video" section of this MediaInfo report:
 
 Video
 
@@ -519,19 +519,19 @@ Bits¬(Pixel*Frame)                       : 0.095
 StreamSize/String                        : 104 MiB (98%)
 Language/String                          : English
 Encoded_Date                             : UTC 2014¬03¬27 11:47:51 Tagged_Date                : UTC 2014¬03¬27 11:55:51
-colour_primaries                         : BT.709 
-transfer_characteristics                 : BT.709 
+colour_primaries                         : BT.709
+transfer_characteristics                 : BT.709
 matrix_coefficients                      : BT.601 colour_range                                                      
                                          : Limited
 
 In this example, the 3 fields to look at are:
 * color primaries
-* transfer_characteristics 
+* transfer_characteristics
 * matrix_coefficients
 
 There is a conflict in the subsampling between the “color_primaries” and the “matrix_coefficient” where the file contains decoding information that relates to 2 very different color spaces, BT.709 and BT.601. This conflict would expose itself if played back in Quicktime where the player would default to BT.601, which is the incorrect colorspace.
 
 
-####	Assessment Documentation 
+####	Assessment Documentation
 
-See Overview of Condition Documentation section for guidelines of how to document the assessment process. 
+See Overview of Condition Documentation section for guidelines of how to document the assessment process.
