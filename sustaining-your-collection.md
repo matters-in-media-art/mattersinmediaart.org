@@ -582,7 +582,7 @@ RAID and enterprise storage systems provide what could be considered a basic for
 
 A checksum enhances these block-level checks insofar as it is a portable piece of evidence that can travel with a file, and be checked, regardless of storage the type of storage system it resides on –  it can prove that a file has not been modified since chain of custody was established.
 
-###Checksum Tools
+### Checksum Tools
 
 These tools can simply generate checksums – out of the box, they will not necessarily store the checksum value, or facilitate the verification of a checksum.
 
