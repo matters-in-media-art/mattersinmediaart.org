@@ -335,7 +335,7 @@ In order to be able to establish a budget you will need to have gathered the fol
 [Link to the budget template](https://docs.google.com/spreadsheets/d/1WBgSIlsFzoQEWQQaz-cIWYo5LjTrvcYtuWyd9¬HnG8g/edit?usp=sharing)
 
 
-###Estimate your storage costs
+### Estimate your storage costs
 
 For each storage option, and depending on the size of your collection, you may need to consider:
 
@@ -425,11 +425,11 @@ There is a certain amount of information you should make sure is held with the f
   </div>
 </li>
 <li>
-  <div class="collapsible-header"><a href="http://mattersinmediaart.org/sustaining-your-collection.html#Implement-Fixity">Fixity</a></div>
+  <div class="collapsible-header">Fixity</div>
   <div class="collapsible-body">
     <ul>
       <li> 
-       Creating checksums allows you to ensure that a file has remained unchanged.</li>
+       Creating checksums allows you to ensure that a file has remained unchanged. For more information, please refer to the <a href="http://mattersinmediaart.org/sustaining-your-collection.html#Implement-Fixity">Fixity</a> section</li>
     </ul>  
   </div>
 </li>
