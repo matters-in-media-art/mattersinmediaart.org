@@ -31,7 +31,7 @@ Conceived originally as a consensus building project for the three partner museu
 <section id="contribution-guidelines" class="section scrollspy" markdown="1">
 
 ## Contribution Guidelines
-The Matters in Media Art website follows the essential tenants of the [open source philosophy](https://opensource.org/osd). All of the website's source code and content are openly accessible in a repository hosted on GitHub, which offers a framework for anyone to suggesting, discussing, and contributing edits to mattersinmediaart.org's content and/or design and functionality. 
+The Matters in Media Art website follows the essential tenants of the [open source philosophy](https://opensource.org/osd). All of the website's source code and content are openly accessible in a repository hosted on GitHub, which offers a framework for anyone to suggest, discuss, and contribute edits to mattersinmediaart.org's content and/or design and functionality. 
 
 Fundamental to this open source approach is the licensing that we have chosen to adopt. All mattersinmediaart.org source code is licensed under the [MIT license](https://en.wikipedia.org/wiki/MIT_License), and all intellectual content (unless otherwise noted) is licensed under the Creative Commons [Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license. While these two licenses are quite different from each other, generally speaking, this means that all Matters in Media Art content and source code is free to copy, share, adopt, reuse, and redistribute. For specific terms of the MIT and Public Domain licenses, please see the license statement of the Matters in Media Art repository [link]
 
@@ -120,6 +120,6 @@ link to the contributors page and explain the distinction between project team a
 #### Facilitator
 George Gawlinski
 
-In addition to the above participants this project called on the time and expertise of numerous colleagues around the world and within the participating institutions. We would particularly like to thank Dana Mitroff, Senior Web Manager, San Francisco Museum of Modern Art, and Allegra Burnette, Creative Manager for Digital Media, Museum of Modern Art, New York, for their feedback and cooperation regarding the website. Finally we would like to thank Pam and Dick Kramlich and the Directors of the New Art Trust, whose commitment to time-based media works of art made this project possible.
+In addition to the above participants this project called on the time and expertise of numerous colleagues around the world and within the participating institutions. Finally we would like to thank Pam and Dick Kramlich and the Directors of the New Art Trust, whose commitment to time-based media works of art made this project possible.
 
 </section>
