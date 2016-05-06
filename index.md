@@ -15,7 +15,7 @@ title: Matters in Media Art
 <div class="col l8 m9 s12" markdown="1">
 
 <div class="card-panel white" markdown="1">
-# Guidelines for the care of time-based media artworks
+# Guidelines for the care of media artworks
 </div>
 
 
