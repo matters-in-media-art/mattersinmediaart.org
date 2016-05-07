@@ -390,7 +390,7 @@ The earlier in the process costs can be identified, the greater the likelihood o
 <li>
   <div class="collapsible-header">Explore, compile and review</div>
   <div class="collapsible-body" markdown="1">
-  
+
 * Artist/curator/consultant travel and expenses
 * Installation documentation and materials (FedEx / photocopying / catalogues bought for research)
 </div>
@@ -661,6 +661,248 @@ Enter details of the exhibition format and its duration. Some things to consider
 </ul>
 
 
+### Condition of installation components
+
+There are two fundamental facets of condition reporting for media art: the physical state and the functionality of all the components/elements. Condition reporting for media art may require the expertise of more than one person. It is important to view, listen to, and experience the entire media program and report any deviations from the condition statement.
+
+  <div class="row">
+  <div class="col s12 m12">
+    <div class="card grey lighten-3">
+      <div class="card-content grey lighten-3 text">
+        <span class="card-title"> <font color="#00e676"> Condition report for loan</font></span>
+        <p>A condition report for a loan may include the following:
+         <br><br>
+         <li> Basic artwork identification</li>
+         <li> Artist</li>
+         <li> Title</li>
+         <li> Name</li>
+         <li> Description</li>
+         <li> List of components and how they work together</li>
+         <li> Exhibition title (if relevant)</li>
+         <li> Open/close date</li>
+        </p>
+      </div>
+    </div>
+  </div>
+  </div>
+
+#### Media
+
+In most cases only the exhibition format of the media element will be lent (for example a DVD).
+This is made from a master that will be retained by the lender.
+It is important to be clear whether the owner will provide new exhibition format material or whether they have an agreement with the artist’s gallery or the artist to oversee this.
+It is useful to specify in the conditions of loan that an extra copy of the exhibition format material is to be provided as part of the loan or that the borrower has explicit permission to make one. It is also important to understand what the procedure is for making new copies if needed during the exhibition.
+
+In most cases exhibition format material will be produced for each loan by the lender or by the artist or the artist’s gallery. It is therefore unlikely that you will be condition checking old or archival material.
+Where this is not the case the borrower, lender, artist and gallery may need to work closely together to ensure that accurate material is produced from the best available master. This may provide an opportunity to address the long-term conservation of the work.
+
+In all cases it is important to establish:
+
+* Whether the display material has been newly produced for the display.
+* If the medium is video is it NTSC, PAL or SECAM? It is often inappropriate to change the nature of the signal as different standards     have different aesthetic qualities. However this may create a compatibility problem with some display equipment. Any changes should be   discussed with the owner.
+* Whether there is an extra copy.
+* Whether there are enough copies for the duration of the show, and how often they should be changed. This is particularly important in cases where display causes rapid deterioration, for example slides, film prints and tapes.
+* The provenance of exhibition copies. (What have they been produced from and has the artist signed them off?)
+* The procedure for requesting additional copies and the cost associated with the production of these copies.
+
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+  <div class="collapsible-header">Film and slide material</div>
+  <div class="collapsible-body" markdown="1">
+  * Is the color, contrast, grading, consistent and correct?
+  * Is there any evidence of fading?
+  * Are the slides/film prints clean and unscratched?
+  * Are slides properly mounted?
+  * Is there any evidence of moisture damage?
+  * Are the film prints coated?
+  * How often does the exhibition copy need to be changed with new copies?
+</div>
+</li>
+<li>
+  <div class="collapsible-header">Video and audio tapes</div>
+  <div class="collapsible-body" markdown="1">
+  * Why have you been sent this tape? Is the work to be shown on tape or are you expected to produce additional exhibition copies?
+  * Does the lender/artist or artist’s representative need to approve any exhibition copies produced?
+  * What is the status of the material (master/sub-master etc) and what are the responsibilities of the borrower in relation to it?
+  * Does the tape appear to be in good condition (rewound, no signs of creasing or damage)?
+  * Does the quality of the exhibition copy reflect the quality of the master?
+  * Check for defects in the image and/or the sound.
+</div>
+</li>
+<li>
+  <div class="collapsible-header">Optical discs</div>
+  <div class="collapsible-body" markdown="1">
+  * Are the discs free from scratches?
+  * Are the discs free from finger prints and dust?
+  * Is there any evidence of delaminating?
+  * Are the discs free from warping?
+  * Do the discs play correctly and loop etc as required?
+  * Is the quality of the encoding accurate and free from errors?
+  * Check for defects in the image and the sound.
+</div>
+</li>
+<li>
+  <div class="collapsible-header">Hard-disc drives</div>
+  <div class="collapsible-body" markdown="1">
+  * What is the configuration of the disc(s)? (Raid array etc)
+  * How are the discs formatted (FAT32, NTFS etc).
+  * What is the operating system?
+  * What additional software is loaded?
+  * What are the file names, encoding, and location of the media files?
+  * What are the makes, models and specifications of the media cards?
+  * What connectors are available for the display devices?
+  * How are the audio and video signals output (check compatibility with display devices)?
+  * What is the nature of the back up of the files etc and where are they located?
+  * Are any passwords required?
+</div>
+</li>
+</ul>
+
+#### Equipment
+
+All display equipment will fail and become obsolete. There is a high risk that any equipment you are lent will fail during the course of the exhibition and it is appropriate to plan accordingly.
+Some equipment has an aesthetic or conceptual relationship to the identity of the work. The value of such equipment is therefore greater than purely its function. This means that it is important that these relationships are maintained and that it is not possible to substitute this equipment with a different piece of equipment that does not maintain these relationships, without loss.
+See also [dedicated and non-dedicated equipment]({{ site.url }}/acquiring-time-based-media-art.html#pre-gather).
+
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+  <div class="collapsible-header">Sculptural elements</div>
+  <div class="collapsible-body" markdown="1">
+  * Sculptural elements of a media installation should be handled and condition checked in the same way as other loaned sculptures.
+  * Display equipment
+</div>
+</li>
+<li>
+  <div class="collapsible-header">Equipment status</div>
+  <div class="collapsible-body" markdown="1">
+  * Is the identity of the work of art linked to a particular make and model?
+  * Is the equipment intended to be visible? Is the look of the original make and model therefore important?
+  * Is the equipment now obsolete and rare?
+  * Has the equipment been modified by the artist?
+  * Is there a spare?
+  * What is the procedure should the equipment fail?
+</div>
+</li>
+<li>
+  <div class="collapsible-header">Equipment condition</div>
+  <div class="collapsible-body" markdown="1">
+  * Is the equipment in full working order?
+  * Is there evidence of any external damage?
+  * Are all accessories present and checked off? (Remote control, operations manual etc)
+  * Is the packing adequate?
+  * Do you have a record of the hours it has been operational? (This information is available in the menus of many projectors).
+  * Is the equipment clean?
+  * Has it been maintained?
+  * What is the fire risk created by this equipment? (Describe any safeguards taken).
+</div>
+</li>
+</ul>
+
+##### Projectors and monitors
+* Although other technologies are available the most common are cathode ray tube (CRT) and liquid crystal display (LCD) projectors and monitors.
+* To check a projector it is advisable to project the image at the size required for the work.
+
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+  <div class="collapsible-header">Liquid crystal display</div>
+  <div class="collapsible-body" markdown="1">
+  * Project a white field and a black field and check for faulty pixels.
+  * View a white field and check that the white balance is even and there is no discoloration in part of the image.
+  * View a black field to check for dust spots.
+  * View a grid and check for convergence of red, green and blue.
+  * View color bars and check the color rendition.
+  * Check the filters are clean (projectors only).
+  * Check the age of the lamp (may be difficult to ascertain for monitors).
+</div>
+</li>
+<li>
+  <div class="collapsible-header">Cathode ray tubes</div>
+  <div class="collapsible-body" markdown="1">
+  * Project a white field and check for burn-in on the Cathode Ray tubes.
+  * Check a white field for brightness and color balance.
+  * Check the number of hours that the tubes have been used.
+  * Project a black field and check for dust.
+  * View color bars and check the color rendition.
+  * Check the focus and the accuracy of the convergence using a grid or dot pattern (projectors only).
+  * Has the installation been installed correctly?
+  * Were the specifications accurately fulfilled?
+</div>
+</li>
+</ul>
+
+
+<br>
+
+#### Installation
+
+No artwork is immune to the circumstances of its presentation. However work of art which are only fully realized in their installed state create a different level of difficulty for issues of authority and authentication than works which form stable static objects. Media artworks are vulnerable to a number of changing conditions that can have a profound impact on how they are understood.
+A condition report assesses not only the material condition of the component parts but also whether the installation documentation has been followed and the work has been installed without compromise to the identity of the work.
+Some things to consider
+It is important to be clear the status of any elements loaned.
+Installation documentation is the essential reference document.
+
+<br>
+
+#### Some things to consider:
+* Space and construction requirements
+* How the public encounters the work/enters the space.
+* Lighting and acoustic requirements.
+* Operation and functionality (including timing).
+* Was the sound and image accurately rendered?
+* Where any changes necessary during installation or during the course of the show?
+<br><br>
+
+#### Loan Condition Report Templates
+
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_conditionreport.doc">
+  <div class="chip"><i class="large material-icons">play_for_work</i>General condition report
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_conditionreport_equipment.doc">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Equipment condition report
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_tape.doc">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Video condition report
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_conditionreport_film.doc">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Film condition report
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_conditionreport_slide.doc">
+    <div class="chip"><i class="large material-icons">play_for_work</i>Slide condition report
+      </div>
+      </a>
+      </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_conditionreport_harddiscdrive.doc">
+<div class="chip"><i class="large material-icons">play_for_work</i>Hard drive condition report
+        </div>
+        </a>
+        </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_conditionreport_disc.doc">
+<div class="chip"><i class="large material-icons">play_for_work</i>Disc condition report
+        </div>
+        </a>
+        </div>
+<br><br>
 
 
 ### Details of the installation space
@@ -729,7 +971,7 @@ Produce a scale plan and an elevation and written narrative confirming the detai
 
 ### Spares and consumables
 
-* Enter details of filters, lamps etc. Prior to the installation find out how many hours the lamps and filters last. Manufacturers have data on this. However, these figures are affected by the amount of dust in the space and also how the equipment is switched on and off. Enter the estimated cost into the [budget calculator]({{ site.url }}//downloads/loanbudgetcostassessmenttemplate.xls)  and ensure that spares are on hand.
+* Enter details of filters, lamps etc. Prior to the installation find out how many hours the lamps and filters last. Manufacturers have data on this. However, these figures are affected by the amount of dust in the space and also how the equipment is switched on and off. Enter the estimated cost into the [budget calculator]({{ site.url }}/downloads/loanbudgetcostassessmenttemplate.xls)  and ensure that spares are on hand.
 * Equipment failure – what spares do you have available if/when this happens? What is the procedure for notifying the lender? What does the borrower have permission to do?
 
 ### Key qualities / key requirements

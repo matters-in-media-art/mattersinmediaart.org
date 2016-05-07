@@ -6,189 +6,328 @@ title: "Documenting Media Art"
 
 ![](img/peter-assessing.jpg)
 
-The aim of these guidelines is to extend existing condition reporting practices to include media artworks. A condition report provides the baseline against which future examinations can be compared. For media-based works of art a report is divided into three sections – the media elements, the equipment and the overall installation. They are different from condition reports for more conventional works of art in that some of the components may be easily replaceable without loss. It is often not possible to know by looking at any component, its value or significance in relation to the identity of the work of art.
+
+Media artworks require more complex documentation and cataloguing than traditional works of art. Some collecting institutions create separate databases for the additional metadata associated with these works. Decisions about what information to catalogue and how to catalogue it must be made carefully, following discussion among registration, curatorial, collections management, and conservation staff, and information systems staff. Read more here on [collection management systems]({{ site.url }}/sustaining-your-collection.html#Review-Collection-Management-Systems).
+
+
+<div id="post-acq-slider-1" class="liquid-slider">
+<div markdown="1">
+<h2 class="title"></h2>
+<h2>Catalogue artwork</h2>
+Enter detailed information about the artwork gathered during the acquisition process into collections database, minimally including:
+
+* Artist, title, creation date, display dimensions
+* Media format, duration
+* Display equipment, sculptural components
+* Provenance, exhibition history
+* Accession/collection number
+* Valuation, vendor cost
+* Credit line
+
+Additional information collected in the object file may be uploaded into the database or simply tracked and kept as hard copy.
+</div>
+
+<div markdown="1">
+<h2 class="title"></h2>
+<h2>Inventory and label artwork components</h2>
+* Media: e.g. video, audio, film, slides, hard-disk drives.
+* Useful websites: [EAI Online Resource Guide](http://www.eai.org/resourceguide/formats.html); [Texas Commission Videotape Identification and Assessment Guide](http://www.arts.state.tx.us/video/); [IMAP Cataloguing Project](http://www.imappreserve.org/cat_proj/)
+* Dedicated display equipment: (e.g. screens, monitors, projectors, speakers, playback equipment, lights, cameras). Record manufacturer and model numbers; collect product manuals for all equipment
+* Useful website: [Mona Jimenez: Artist Instrumentation Database](http://www.fondation-langlois.org/html/e/page.php?NumPage=708)
+* Sculptural components: measure and record all objects to be installed.
+</div>
+
+<div markdown="1">
+<h2 class="title"></h2>
+<h2>Organize collected information</h2>
+Create object files, or binder, from the acquisition process
+
+These files will grow as the work is exhibited, loaned, and conserved. Most institutions create separate files for different purposes such as acquisition, curatorial, conservation and registration. Most of this information will be stored electronically as well, in collections databases, text documents, and digital images.
+</div>
+
+
+</div> <!-- end of slider -->
+
+
+
+## Cataloging Media Art
+Records for media installations hold a great deal of information which can be difficult to manage.
+Below is a guide to the type of material you might find in a record for a media artwork and a suggested way of organizing this information into sections within your file or binder.
+
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+  <div class="collapsible-header">Artwork</div>
+  <div class="collapsible-body" markdown="1">
+ * Accession Number
+ * Artist
+ * Title
+ * Medium
+ * Description
+ * Dimensions
+ * Duration
+ * Image size (max / min)
+ * Room size
+</div>
+</li>
+<li>
+  <div class="collapsible-header">Acquisition and registration</div>
+  <div class="collapsible-body" markdown="1">
+ * Incoming receipt
+* Bill of sale
+* Purchase agreement / Deed of gift
+* In some cases you might have a commissioning agreement or a co-ownership agreement note to introduction to legal documents
+* Curatorial proposal
+* Copy of the Certificate of authenticity or the original
+* Copyright agreement
+* Acquisition correspondence
+* Original inventory of media/ display equipment/ sculptural components which are part of the acquisition
+* Cost assessment
+* Acquisition assessment
+</div>
+</li>
+
+<li>
+  <div class="collapsible-header">Dedicated component information</div>
+  <div class="collapsible-body" markdown="1">
+* Media
+* Diagram or list of media components which shows the format, when it was made, what it was made from and what it is used for.
+* Display equipment
+* List of dedicated equipment which came as part of the purchase (say why it is dedicated)
+* Manuals
+* Sculptural components
+</div>
+</li>
+
+<li>
+  <div class="collapsible-header">Display specifications</div>
+  <div class="collapsible-body" markdown="1">
+* Installation specifications
+* Additional floor plans and wiring diagrams etc.
+</div>
+</li>
+
+<li>
+  <div class="collapsible-header">Display history</div>
+  <div class="collapsible-body" markdown="1">
+ * List of prior displays
+ * Information about displays and other editions of the work
+ * Photographs relating to prior displays
+ * Texts relating to prior displays
+ * Display summary, including equipment used, logs of minor incidents reported during display, display maintenance procedures, budgets, installation plans, notes about exhibition formats made for the display, photographs, correspondence.
+ * Loan documents  
+</div>
+</li>
+
+<li>
+  <div class="collapsible-header">Artist information</div>
+  <div class="collapsible-body" markdown="1">
+ * Artist and gallery contact sheet
+ * Correspondence with the artist
+ * Artist recommended technical specifications
+ * Artist’s statement
+* Artist’s interview
+</div>
+</li>
+
+<li>
+  <div class="collapsible-header">Art historical research / context</div>
+  <div class="collapsible-body" markdown="1">
+ * Documents relating to the artwork, including other editions
+ * Exhibition reviews
+</div>
+</li>
+
+<li>
+  <div class="collapsible-header">Structure and condition assessments</div>
+  <div class="collapsible-body" markdown="1">
+* Structure and condition report(s)
+</div>
+</li>
+
+<li>
+  <div class="collapsible-header">Ongoing care</div>
+  <div class="collapsible-body" markdown="1">
+ * Media migration record
+ * Template
+ * Conservation treatment reports/ treatment photographs
+ * Major damage reports
+ * Storage guidelines
+ * Disaster plan recommendations
+* Scientific analysis reports
+ * Guidelines for packing and transport
+</div>
+</li>
+</ul>
+
+
+<div id="post-acq-slider-2" class="liquid-slider">
+
+
+<div markdown="1">
+<h2 class="title"></h2>
+<h2>Document installed artwork</h2>
+Review documentation from artist/vendor/donor. Is it sufficient for long-term care and future installation?
+
+* Documenting media art includes recording the work in its existing state as it enters the collection:
+* Photograph the installation and its individual components
+* Videotape the initial installation
+* Archive installation plans and specifications for display
+</div>
+
+<div markdown="1">
+<h2 class="title"></h2>
+<h2>Conduct artist interviews</h2>
+The artist interviews may actually include communications with the artist, technicians, owners, gallery staff and others familiar with the artwork. The goal of these interviews is to gather information about technical history, exhibition requirements, artist intent, and technological obsolescence.
+
+(Guidelines for artist interviews may be found on the [INCCA website](http://www.incca.org/))
+
+Create archival transcripts of the interviews. If they can be shared and may benefit colleagues, consider joining INCCA and entering abstracts of the interviews on the [INCCA Artists Archives Database](http://www.incca.org/)
+</div>
+
+<div markdown="1">
+<h2 class="title"></h2>
+<h2>Develop conservation plan</h2>
+The conservation plan anticipates:
+
+* Installation equipment: maintenance requirements and future equipment replacement
+* Media migration cycle
+* Storage specifications
+* Future conservation strategies and costs
+
+Additional information about conserving media works may be found at the following websites:
+
+* [EAI Online Resource Guide for Exhibiting, Collecting, and Preserving Media Art](http://www.eai.org/resourceguide/)
+* [IMAP Preservation 101](http://www.imappreserve.org/pres_101/index.html)
+</div>
+
+
+<div markdown="1">
+<h2 class="title"></h2>
+<h2>Prepare for future display</h2>
+* Make media exhibition copies as needed
+* Project costs for future exhibition
+</div>
+
+<div markdown="1">
+<h2 class="title"></h2>
+<h2>Pack and store artwork</h2>
+* Proper archival storage and packing is crucial to the longevity of the artwork.
+* A brief summary of storage concerns for media may be found in [<a href="http://www.imappreserve.org/pres_101/index.html#storage">IMAP’s Preservation 101 section on Storage</a>).
+</div>
+
+
+</div> <!-- end of slider -->
+
+
+<section id="post-templates" class="section scrollspy" markdown="1">
+
+## Condition Report Templates
+
+When assessing media art, aim to extend existing condition reporting practices to include media artworks. A condition report provides the baseline against which future examinations can be compared. For media-based works of art a report is divided into three sections – the media elements, the equipment and the overall installation. They are different from condition reports for more conventional works of art in that some of the components may be easily replaceable without loss. It is often not possible to know by looking at any component, its value or significance in relation to the identity of the work of art.
+
+ <!-- previous layout:
+* [Structure and condition report]({{ site.url }}/downloads/structure_and_condition_reports.rtf) (RTF, 180KB)
+* [Video artwork prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_videoprompt.rtf) (RTF, 81KB)
+* [Audio artwork prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_audioprompt.rtf) (RTF, 77KB)
+* [Film artwork prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_filmprompt.rtf) (RTF, 103KB)
+* [Slide artwork prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_slideprompt.rtf) (RTF, 92KB)
+* [Computer-based artwork prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_computuerworksprompt.rtf) (RTF, 73KB)
+* [Computer-based display equipment prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_computerequipment.rtf) (RTF, 92KB)
+* [Playback device display equipment prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_playbackdevice.rtf) (RTF, 102KB)
+* [Video projectors display equipment prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_videoprojectors.rtf) (RTF, 125KB)
+* [Screens and monitors display equipment prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_screensmonitors.rtf) (RTF, 122KB)
+* [Film projectors display equipment prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_filmprojectors.rtf) (RTF, 114KB)
+* [Slide projectors display equipment prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_slideprojectors.rtf) (RTF, 114KB)
+-->
+
+<div class="col s12">
+<a href="{{ site.url }}/downloads/structure_and_condition_reports.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Structure and condition report
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_videoprompt.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Video artwork
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_audioprompt.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Audio artwork
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_filmprompt.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Film artwork
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_slideprompt.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Slide artwork
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_computuerworksprompt.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Computer-based artwork
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_computerequipment.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Computer-based display equipment
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_playbackdevice.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Playback device display equipment
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_videoprojectors.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Video projectors display equipment
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_screensmonitors.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Screens and monitors display equipment
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_filmprojectors.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Film projectors display equipment
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_structureconditionreport_slideprojectors.rtf">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Slide projectors display equipment
+    </div>
+    </a>
+    </div>
+<br>
+
+
 
 <section id="guidelines" class="section scrollspy" markdown="1">
-### Overview of Condition Documentation for Media-based works
-
-There are two fundamental facets of condition reporting for media art: the physical state and the functionality of all the components/elements. Condition reporting for media art may require the expertise of more than one person. It is important to view, listen to, and experience the entire media program and report any deviations from the condition statement.
-
-Condition report layout
-
-A condition report may include the following:
-
-* Basic artwork identification
-* Artist
-* Title
-* Name
-* Description
-* Describe the work and list the elements/components and how they work together.
-* Exhibition title (if relevant)
-* Open/close date
-
-Media
-
-In most cases only the exhibition format of the media element will be lent (for example a DVD).
-This is made from a master that will be retained by the lender.
-It is important to be clear whether the owner will provide new exhibition format material or whether they have an agreement with the artist’s gallery or the artist to oversee this.
-It is useful to specify in the conditions of loan that an extra copy of the exhibition format material is to be provided as part of the loan or that the borrower has explicit permission to make one. It is also important to understand what the procedure is for making new copies if needed during the exhibition.
-
-Equipment
-
-All display equipment will fail and become obsolete. There is a high risk that any equipment you are lent will fail during the course of the exhibition and it is appropriate to plan accordingly.
-Some equipment has an aesthetic or conceptual relationship to the identity of the work. The value of such equipment is therefore greater than purely its function. This means that it is important that these relationships are maintained and that it is not possible to substitute this equipment with a different piece of equipment that does not maintain these relationships, without loss.
-
-Installation
-
-No artwork is immune to the circumstances of its presentation. However work of art which are only fully realized in their installed state create a different level of difficulty for issues of authority and authentication than works which form stable static objects. Media artworks are vulnerable to a number of changing conditions that can have a profound impact on how they are understood.
-A condition report assesses not only the material condition of the component parts but also whether the installation documentation has been followed and the work has been installed without compromise to the identity of the work.
-Some things to consider
-It is important to be clear the status of any elements loaned.
-Installation documentation is the essential reference document.
-
-
-### Media
-In most cases exhibition format material will be produced for each loan by the lender or by the artist or the artist’s gallery. It is therefore unlikely that you will be condition checking old or archival material.
-Where this is not the case the borrower, lender, artist and gallery may need to work closely together to ensure that accurate material is produced from the best available master. This may provide an opportunity to address the long-term conservation of the work.
-
-In all cases it is important to establish:
-
-* Whether the display material has been newly produced for the display.
-* If the medium is video is it NTSC, PAL or SECAM? It is often inappropriate to change the nature of the signal as different standards     have different aesthetic qualities. However this may create a compatibility problem with some display equipment. Any changes should be   discussed with the owner.
-* Whether there is an extra copy.
-* Whether there are enough copies for the duration of the show, and how often they should be changed. This is particularly important in cases where display causes rapid deterioration, for example slides, film prints and tapes.
-* The provenance of exhibition copies. (What have they been produced from and has the artist signed them off?)
-* The procedure for requesting additional copies and the cost associated with the production of these copies.
-
-#### Film and slide material
-* Is the color, contrast, grading, consistent and correct?
-* Is there any evidence of fading?
-* Are the slides/film prints clean and unscratched?
-* Are slides properly mounted?
-* Is there any evidence of moisture damage?
-* Are the film prints coated?
-* How often does the exhibition copy need to be changed with new copies?
-
-#### Video and audio tapes
-* Why have you been sent this tape? Is the work to be shown on tape or are you expected to produce additional exhibition copies?
-* Does the lender/artist or artist’s representative need to approve any exhibition copies produced?
-* What is the status of the material (master/sub-master etc) and what are the responsibilities of the borrower in relation to it?
-* Does the tape appear to be in good condition (rewound, no signs of creasing or damage)?
-* Does the quality of the exhibition copy reflect the quality of the master?
-* Check for defects in the image and/or the sound.
-
-#### Optical discs
-* Are the discs free from scratches?
-* Are the discs free from finger prints and dust?
-* Is there any evidence of delaminating?
-* Are the discs free from warping?
-* Do the discs play correctly and loop etc as required?
-* Is the quality of the encoding accurate and free from errors?
-* Check for defects in the image and the sound.
-
-#### Hard-disc drives
-* What is the configuration of the disc(s)? (Raid array etc)
-* How are the discs formatted (FAT32, NTFS etc).
-* What is the operating system?
-* What additional software is loaded?
-* What are the file names, encoding, and location of the media files?
-* What are the makes, models and specifications of the media cards?
-* What connectors are available for the display devices?
-* How are the audio and video signals output (check compatibility with display devices)?
-* What is the nature of the back up of the files etc and where are they located?
-* Are any passwords required?
-
-#### Sculptural element
-* It is beyond the scope of this project to cover condition checking guidelines for sculpture.
-* However, sculptural elements of a media installation should be handled and condition checked in the same way as other loaned sculptures.
-* Display equipment
-
-#### Status
-* Is the identity of the work of art linked to a particular make and model?
-* Is the equipment intended to be visible? Is the look of the original make and model therefore important?
-* Is the equipment now obsolete and rare?
-* Has the equipment been modified by the artist?
-* Is there a spare?
-* What is the procedure should the equipment fail?
-
-#### Condition
-* Is the equipment in full working order?
-* Is there evidence of any external damage?
-* Are all accessories present and checked off? (Remote control, operations manual etc)
-* Is the packing adequate?
-* Do you have a record of the hours it has been operational? (This information is available in the menus of many projectors).
-* Is the equipment clean?
-* Has it been maintained?
-* What is the fire risk created by this equipment? (Describe any safeguards taken).
-
-#### Projectors and monitors
-* Although other technologies are available the most common are cathode ray tube (CRT) and liquid crystal display (LCD) projectors and monitors.
-* To check a projector it is advisable to project the image at the size required for the work.
-
-Liquid crystal display
-* Project a white field and a black field and check for faulty pixels.
-* View a white field and check that the white balance is even and there is no discoloration in part of the image.
-* View a black field to check for dust spots.
-* View a grid and check for convergence of red, green and blue.
-* View color bars and check the color rendition.
-* Check the filters are clean (projectors only).
-* Check the age of the lamp (may be difficult to ascertain for monitors).
-
-Cathode ray tubes
-* Project a white field and check for burn-in on the Cathode Ray tubes.
-* Check a white field for brightness and color balance.
-* Check the number of hours that the tubes have been used.
-* Project a black field and check for dust.
-* View color bars and check the color rendition.
-* Check the focus and the accuracy of the convergence using a grid or dot pattern (projectors only).
-* Has the installation been installed correctly?
-* Were the specifications accurately fulfilled?
-
-#### Some things to consider:
-* Space and construction requirements
-* How the public encounters the work/enters the space.
-* Lighting and acoustic requirements.
-* Operation and functionality (including timing).
-* Was the sound and image accurately rendered?
-* Where any changes necessary during installation or during the course of the show?
-
-#### General Condition Report Templates
-* [Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport.doc) (DOC, 65KB)  
-* [Equipment Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport_equipment.doc) (DOC, 61KB)  
-
-
-</section>
-
-<section id="media-types" class="section scrollspy" markdown="1">
-
-</section>
-
-<section id="Video" class="section scrollspy" markdown="1">
-
- Video Condition Report Template
-* [Video Condition Report]({{ site.url }}/downloads/mattersmediaart_tape.doc) (DOC, 41KB)
-
-</section>
-
-<section id="Film" class="section scrollspy" markdown="1">
-
- Film Condition Report Template
-* [Film Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport_film.doc) (DOC, 39KB)
-
-</section>
-
-<section id="Slide" class="section scrollspy" markdown="1">
-
- Slide Condition Report Template
-* [Slide Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport_slide.doc) (DOC, 39KB)  
-
-</section>
-
-<section id="Software" class="section scrollspy" markdown="1">
-
- Software Condition Report Template
-* [Hard Disc Condition Report]({{ site.url }}/downloads/mattersmediaart_conditionreport_harddiscdrive.doc) (DOC, 40KB)  
-* [Disc]({{ site.url }}/downloads/mattersmediaart_conditionreport_disc.doc) (DOC, 39KB)  
 
 <section id="Assessment" class="section scrollspy" markdown="1">
 
@@ -197,16 +336,16 @@ Cathode ray tubes
 
 
 
-# Assessment: Digital Video
+## Assessing Digital Video
 
 </section>
 
 <section id="Digital-Video" class="section scrollspy" markdown="1">
 ![](img/peter-assessing.jpg)
 
-<span class="flow-text">
+
 Assessing your digital video media is a crucial step on entering your collection. Not only will it help you to understand the technical characteristics and anomalies of the file(s), it will help you create a baseline against which future examinations can be compared, and generally gain a better understanding of each artwork and your collection as a whole.
-</span>
+
 
 Video files are assessed and condition checked both visually and aurally with the appropriate tools. This section covers the design requirements of a work station, approaches to running initial technical analysis on your file(s), the visual and aural technical assessment and its documentation.  
 
@@ -330,6 +469,7 @@ Quality audio monitors and meters are also necessary in the assessment of video 
 </li>
 </ul>
 
+<br>
 
 ####	Cost Guide For Workstation Tools
 
@@ -423,8 +563,54 @@ Quality audio monitors and meters are also necessary in the assessment of video 
 ###	Initial Technical Analysis
 The amount of technical information that you might receive with a digital video artwork will vary depending on the artist.
 
+<div id="main-slider" class="liquid-slider">
+
+
+<div>
+<h2 class="title"></h2>
+<h2>File Characteristics</h2>
+<p>These are the key characteristics of the file that you will ideally want to have prior to receiving the the digital video. If this is not possible, the following aspects should examined on receiving the files:</p>
+<ul>
+<li>What is the file wrapper? e.g. mov, mp4, avi, etc.</li>
+<li>What is your codec? e.g Apple Pro Res 4:2:2, Uncompressed, H.264</li>
+<li>What is the video resolution? e.g 1080 x 1920, 480 x 720, 576 x 720, etc.</li>
+<li>What is the aspect ratio? 16:9, 4:3, etc.</li>
+<li>What timecode is present?</li>
+<li>What is the duration?</li>
+<li>What is the pixel aspect ratio? Square vs non-square</li>
+<li>What is the chroma subsampling?: e.g. 422, 4444, etc.</li>
+<li>Is the file interlaced or progressive?</li>
+<li>What is the audio codec? e.g. PCM, AAC, etc.</li>
+<li>How are the audio channels arranged? e.g. channel count, assignment</li>
+<li>Are any subtitles present?</li>
+</ul>
+</div>
+
+<div>
+<h2 class="title"></h2>
+<h2>Environment Characteristics</h2>
+<p>When assessing digital video files, it is incredibly helpful to have a good understanding of the environment the file was created in, i.e. the software and hardware systems used for production of the video. These can be useful in confirming assessment and/or diagnosing errors. This information will help inform both the accurate assessment of the video material as well as how to best care for it in the future. The following information is useful to receive from the artist upon acquisition:</p>
+<ul>
+<li>How was the work shot, or what were the sources?</li>
+<li>How was the work edited? e.g Final Cut Pro 7.0.7, Adobe Premiere Pro CC</li>
+<li>If possible, could you provide your project file or XML output of it?</li>
+<li>What playback environment did you use when viewing your piece? e.g. Mac Pro running OS X 10.9, PC Tower running Windows 8, etc.</li>
+<li>What software do you typically use when checking/viewing your files? e.g. Quicktime 7, Quicktime X, VLC, etc.</li>
+</ul>
+</div>
+
+<div>
+<h2 class="title"></h2>
+<h2>Display Characteristics</h2>
+<p>As with any media-based artwork, it is useful to review an artists display specifications, if possible.
+</p>
+</div>
+</div>
+
+
+<!-- old layout
 File Characteristics
-These are the key characteristics of the file that you will ideally want to have prior to receiving the the digital video. If this is not possible, the following aspects should examined on receiving the files:
+These are the key characteristics of the file that you will ideally want to have prior to receiving the the digital video. If this is not possible, the following aspects should be examined on receiving the files:
 
 * What is the file wrapper? e.g. mov, mp4, avi, etc.
 * What is your codec? e.g Apple Pro Res 4:2:2, Uncompressed, H.264
@@ -434,11 +620,16 @@ These are the key characteristics of the file that you will ideally want to have
 * Is the file interlaced or progressive?
 * What is the audio codec? e.g. PCM, AAC, etc.
 
+
 #### Environment Characteristics
 
 Before assessing digital video files, it is incredibly helpful to first have a better understanding of the environment, i.e. the software and hardware systems used for production of the video, as these can be useful in confirming assessment and/or diagnosing errors. This information will help inform both the accurate assessment of the video material as well as how to best care for it in the future. The following information is useful to have from the artist, if possible before assessment.  
 
-Sample questions
+
+This information will help inform both the accurate assessment of the video material as well as how to best care for it in the future. The following information is useful to have from the artist, if possible before assessment.  
+
+#### Sample questions
+
 * How was the work shot, or what were the sources?
 * How was the work edited? e.g Final Cut Pro 7.0.7, Adobe Premiere Pro CC
 * If possible, could you provide your project file or XML output of it?
@@ -463,24 +654,29 @@ Depending on your workflow you may carry out a technical assessment before you c
 * Frame Rate
 * Duration
 * Audio Channel Arrangement (channel count, assignment) subtitles
+-->
 
-Assessing files: What to look for:
-* Confirming that the content is as expected (see sample questions).
-* That there are no obvious technical problems with the streams.
+### Assessing files
+
+* Confirm that the content is as expected.
+* Ensure that there are no technical problems with the streams.
 * That there is no conflicting information between the streams and the wrapper. For example, a particular combination of stream(s) and     wrapper may provide ambiguous instructions for decoding, leaving the possibility that different players might play back the video        stream differently. If this is the case it is helpful to clarify with the artist or their representative, if at all possible.
 * That this is not an of absence of key information in the streams and the wrapper.
-* Confirm that the basic matches content matches what was expected from the artist, for example the codec, the wrapper, audio sample rate and bit¬depth,   subsampling, frame rate and the duration.
+* Confirm that the basic matches content matches what was expected from the artist, for example the codec, the wrapper, audio sample rate and bit¬depth, subsampling, frame rate and the duration.
 
 Assessing files: How to:
+
 * Run MediaInfo (https://en.wikipedia.org/wiki/MediaInfo) on your file(s) to expose the technical metadata for analysis:
 
-          MAC Users:
-          * Open Terminal
-          * Run MediaInfo on the video files you are about to assess command: mediainfo ¬f [path to input file]
-          * It will look something like this:
+MAC Users:
 
-          PC Users:
-          * Run MediaInfo with the following command it will look something like this:
+* Open Terminal
+* Run MediaInfo on the video files you are about to assess command: mediainfo ¬f [path to input file]
+* It will look something like this:
+
+PC Users:
+
+* Run MediaInfo with the following command it will look something like this:
 
 Assessing files: Identifying Technical Problems
 
