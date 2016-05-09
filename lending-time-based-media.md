@@ -17,23 +17,17 @@ Installation view Tate Liverpool exhibition 2006
 © Tate 2006
 </span>
 
+## Loan Process
+The process diagram and documents for loans are guidelines and templates for owners to follow when borrowing and lending media art. The documents include sample templates for exhibition budgets, condition reports, facilities reports, installation documents and loan agreements. They seek to update existing practice for more traditional art by incorporating new requirements of media art.
 
-The process diagram and documents for loans are guidelines and templates for owners to follow when borrowing and lending time-based media. The documents include sample templates for exhibition budgets, condition reports, facilities reports, installation documents and loan agreements. They seek to update existing practice for more traditional art by incorporating new requirements of time-based media.
+These resources should be used as reference documents when considering the loan of media artworks and in conjunction with the process diagram. The sample forms and other materials contained on this site are provided as examples only, and do not constitute legal advice. Before using these or any forms, you should consult with legal counsel to ensure that the document is properly tailored to your institution’s particular concerns.
 
-These resources should be used as reference documents when considering the loan of time-based media works of art and in conjunction with the process diagram. The sample forms and other materials contained on this site are provided as examples only, and do not constitute legal advice. Before using these or any forms, you should consult with legal counsel to ensure that the document is properly tailored to your institution’s particular concerns.
-
-* Process guidelines
-* Budget guidelines
-* Loan agreement guidelines
-* Facilities report guidelines
-* Installation documentation guidelines
-* Condition report guidelines
 
 
 
 <section id="process" class="section scrollspy" markdown="1">
 
-## Explore, compile and review
+### Explore, compile and review
 The key to successful implementation is thorough planning. As a borrower, your first steps are to create a list of works under consideration, and identify sources of information about the works. The following checklist should give the potential borrower a good indication of whether they can install, manage and maintain the work.
 
 <ul class="collapsible" data-collapsible="accordion">
@@ -113,11 +107,60 @@ Do you have the space available to show this work? Is any construction required?
 
 With this information, you can now <a href="{{ site.url }}/downloads/loanbudgetcostassessmenttemplate.xls">create a draft budget</a>, review, and make a decision as to whether you wish to proceed with the request or stop.
 
-## Request, consider, approve
+### Request, consider, approve
 Here the lender and the borrower come together to consider a particular request. The main areas of discussion are often the nature of the work and associated costs. Not all requests are accepted and successful requests often include some degree of negotiation. The resulting loan agreement is the document outlining the agreed-upon terms of the loan.
 
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+  <div class="collapsible-header">Submit a loan request</div>
+  <div class="collapsible-body" markdown="1">
+  In submitting a request to the lender, the borrower provides the following:
+
+  * A compelling argument
+  * Exhibition dates including all venues
+</div>
+</li>
+
+<li>
+  <div class="collapsible-header">Consider the loan request</div>
+  <div class="collapsible-body" markdown="1">
+  In receiving a request from the borrower, the lender considers:
+
+  * The contribution of the work to the exhibition
+  * Its availability
+  * Its condition
+  * The borrower’s ability to install and maintain the work
+  * Resource implications to the lender, including staff time
+</div>
+</li>
+
+<li>
+  <div class="collapsible-header">Approve the loan request</div>
+  <div class="collapsible-body" markdown="1">
+#### Borrower
+Terms may be specified in the loan agreement:
+  * Review budget
+  * Return completed loan agreement and facilities report
+
+#### Lender
+* Approve facilities report
+* Finalize budget
+* Provide installation documentation
+</div>
+</li>
+
+<li>
+  <div class="collapsible-header">Review installation documents</div>
+  <div class="collapsible-body" markdown="1">
+#### Borrower
+  * Consider and discuss installation documentation
+  * Finalize budget
+</div>
+</li>
+</ul>
 
 
+<!-- previous layout:
 <div id="main-slider" class="liquid-slider">
 
 
@@ -154,7 +197,7 @@ In receiving a request the lender considers:
 <h2 class="title"></h2>
 <h2>Borrower</h2>
 
-### approve
+### Approve
 
 Terms may be specified in the loan agreement:
 
@@ -167,10 +210,10 @@ Terms may be specified in the loan agreement:
 <h2 class="title"></h2>
 <h2>Lender</h2>
 
-### approve
+### Approve
 
 * Approve facilities report
-* Finalise budget
+* Finalize budget
 * Provide installation documentation
 </div>  
 
@@ -179,30 +222,30 @@ Terms may be specified in the loan agreement:
 <h2 class="title"></h2>
 <h2>Borrower</h2>
 
-### installation documentation
+### Installation documentation
 
 * Consider and discuss installation documentation
-* Finalise budget
+* Finalize budget
 </div>         
 
 
 
 </div>
+-->
 
 
 
-
-## Send, install and return
+### Send, install and return
 The following checklist of actions is a guide for the borrower and the lender in the implementation of the loan and generally includes the following:
 
-###Borrower
+#### Borrower
 
 <ul class="collapsible" data-collapsible="accordion">
 
 <li>
   <div class="collapsible-header">Insure/ship</div>
   <div class="collapsible-body" markdown="1">
-* Some elements of a time-based media installation are mass-produced or copies and may be easily replaceable but this should not be assumed.
+* Some elements of a media installation are mass-produced or copies and may be easily replaceable but this should not be assumed.
 * In some cases it may be very difficult to provide replacements because the master may have been lost or a piece of equipment is obsolete or rare.
 * Other components may have been modified by the artist or be sculptural objects.
 * Make sure you understand the status of the components being insured and shipped .
@@ -212,7 +255,7 @@ The following checklist of actions is a guide for the borrower and the lender in
 <li>
   <div class="collapsible-header">Check display equipment</div>
   <div class="collapsible-body" markdown="1">
-* The standards required for display of time-based media works of art are higher than required in an office or domestic setting.
+* The standards required for display of media artworks are higher than required in an office or domestic setting.
 * It is important that someone with the relevant expertise check the performance of the display equipment (hired or purchased) well in advance of the display.
 * Testing should mirror the display as closely as possible (eg size of image, lighting conditions).
 </div>
@@ -221,7 +264,7 @@ The following checklist of actions is a guide for the borrower and the lender in
 <li>
   <div class="collapsible-header">Construct space</div>
   <div class="collapsible-body" markdown="1">
-* Many time-based media installations require light-lock corridors, false ceilings and other forms of construction.
+* Many media installations require light-lock corridors, false ceilings and other forms of construction.
 * Scale drawings are invaluable.
 * Always check real measurements of the gallery space as small inaccuracies can have a large impact on an installation.
 </div>
@@ -243,7 +286,7 @@ The following checklist of actions is a guide for the borrower and the lender in
 * Hold a meeting with interested parties to sign off the installation once it is completed.
 
 Those monitoring the work whilst on display will need to know:
-* The appearance of the work when it is operating correctly, and how to recognise faults
+* The appearance of the work when it is operating correctly, and how to recognize faults
 * The reporting procedure for faults
 * The procedures for switching the work on and off
 </div>
@@ -252,7 +295,7 @@ Those monitoring the work whilst on display will need to know:
 <li>
   <div class="collapsible-header">Maintain</div>
   <div class="collapsible-body" markdown="1">
-* Time-based media installations are dynamic systems which need to be maintained in order to minimise the risk of failure.
+* Media installations are dynamic systems which need to be maintained in order to minimize the risk of failure.
 * Purchase all elements which need to be replaced regularly (filters, lamps etc) prior to display.
 * Establish a schedule and a team of people trained to carry out basic maintenance. It is valuable to keep a log of such work throughout an exhibition.
 * Complete and update installation documentation
@@ -269,7 +312,7 @@ Those monitoring the work whilst on display will need to know:
 
 </ul>
 
-###Lender
+#### Lender
 
 
 <ul class="collapsible" data-collapsible="accordion">
@@ -277,7 +320,7 @@ Those monitoring the work whilst on display will need to know:
 <li>
   <div class="collapsible-header">Produce exhibition format material</div>
   <div class="collapsible-body" markdown="1">
-* In many cases the only physical material loaned for a time-based media installation is the exhibition format material which has been made by the lender from their master.
+* In many cases the only physical material loaned for a media installation is the exhibition format material which has been made by the lender from their master.
 * Produce and check exhibition format material.
 </div>
 </li>
@@ -322,15 +365,24 @@ Those monitoring the work whilst on display will need to know:
 
 <section id="budget" class="section scrollspy" markdown="1">
 
-## Budget Guidelines
+## Budget
+
+<div class="col s12">
+<a href="{{ site.url }}/downloads/loanbudgetcostassessmenttemplate.xls">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Budget calculator </div>
+    </a>
+    </div>
+<br>
 
 The categories listed below give some indication of the likely costs to be considered. The aim of this section is to identify the true costs of loan for the borrower and the lender. A sample template is provided as an Excel download.
 
 In most cases the borrower will bear the transport, installation and maintenance costs associated with the loan. However, some costs may be associated with the preparation of the work of art for loan. For example there may be conservation costs, servicing costs associated with any equipment to be lent, or costs of the production of new exhibition format material. The lender will wish to identify these costs and either negotiate with the borrower over contributing to these costs as a condition of loan or agree to meet them themselves.
 
-The earlier in the process costs can be identified, the greater the likelihood of the successful completion of the loan. The budget template aims to provide useful prompts and we encourage users to copy and modify it. As discussions and negotiations regarding the loan progress it will be possible to add more detail to the budget. Every loan situation is unique and you may find that the budget is finalised earlier or later in the process than shown in the process diagram.
+The earlier in the process costs can be identified, the greater the likelihood of the successful completion of the loan. The budget calculator aims to provide useful prompts and we encourage users to copy and modify it. As discussions and negotiations regarding the loan progress it will be possible to add more detail to the budget. Every loan situation is unique and you may find that the budget is finalized earlier or later in the process than shown in the process diagram.
 
-## Expenditure checklist
+
+
+### Cost checklist
 
 
 <ul class="collapsible" data-collapsible="accordion">
@@ -338,6 +390,7 @@ The earlier in the process costs can be identified, the greater the likelihood o
 <li>
   <div class="collapsible-header">Explore, compile and review</div>
   <div class="collapsible-body" markdown="1">
+
 * Artist/curator/consultant travel and expenses
 * Installation documentation and materials (FedEx / photocopying / catalogues bought for research)
 </div>
@@ -408,6 +461,12 @@ Costs associated with shipping are usually met by the borrower, however it is im
 ## Loan Agreement
 
 The Loan Agreement is a contract between a lender and a borrower. It specifies what is to be lent, the conditions of loan and the respective responsibilities of each party. A covering letter may also be issued with the agreement which draws attention to particularly important conditions of loan. The loan agreement (may also be called a lender’s agreement, borrower’s agreement or loan contract) should be final.
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_loanagreement.doc">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Loan agreement    </div>
+    </a>
+    </div>
+<br>
 
 
 <ul class="collapsible" data-collapsible="accordion">
@@ -468,20 +527,26 @@ Some institutions may charge a loan administration fee. In addition, a depreciat
 
 ## Facilities report
 
-A facilities report outlines an institution’s facilities, climate, security, staffing, insurance and loan history. Examples of standard facilities reports are to be found on the websites of the registrars groups listed in the External resources section. Most institutions have a completed report on file which has been verified by a registrar. The purpose of this document is to assure a lender that the borrower has a history of professional and responsible care of museum artefacts. It is often required by a lender in the early stages of a loan request to determine if the borrower’s facilities are appropriate. Further dialogue may then be initiated between the lending and borrowing institutions to discuss the specific needs of a particular artwork. The installation and maintenance of time-based media works of art requires specific skills and expertise, we are therefore suggesting that it might be useful to attach an addendum to the standard facilities report asking questions specific to time-based media works. The purpose of these guidelines is to gauge the suitability and level of expertise of the borrowing institution with regard to the specific needs of time-based media works.
 
+A facilities report outlines an institution’s facilities, climate, security, staffing, insurance and loan history. Examples of standard facilities reports are to be found on the websites of the registrars groups listed in the External resources section. Most institutions have a completed report on file which has been verified by a registrar. The purpose of this document is to assure a lender that the borrower has a history of professional and responsible care of museum artifacts. It is often required by a lender in the early stages of a loan request to determine if the borrower’s facilities are appropriate. Further dialogue may then be initiated between the lending and borrowing institutions to discuss the specific needs of a particular artwork. The installation and maintenance of media artworks requires specific skills and expertise, we are therefore suggesting that it might be useful to attach an addendum to the standard facilities report asking questions specific to media artworks. The purpose of these guidelines is to gauge the suitability and level of expertise of the borrowing institution with regard to the specific needs of media art.
+<div class="col s13">
+<a href="{{ site.url }}/downloads/mattersmediaart_facilitiesreport.doc">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Facilities report    </div>
+    </a>
+    </div>
+<br>
 
 <ul class="collapsible" data-collapsible="accordion">
 
 <li>
   <div class="collapsible-header">Handling and installation</div>
   <div class="collapsible-body" markdown="1">
-* Do you have specially trained staff to handle and install time-based media art?
+* Do you have specially trained staff to handle and install media art?
 * If yes, how many? Please specify the type of audio visual (AV) training this staff have received and their level of experience.
-* If there are no permanent staff in place who normally handle and install time-based media, who will be responsible for this work?
+* If there are no permanent staff in place who normally handle and install media art, who will be responsible for this work?
 * Who will supervise?
 * Who will carry out maintenance and monitor the condition of the artwork whilst on display?
-* Do you have staff experienced in condition reporting time-based media?
+* Do you have staff experienced in condition reporting media artworks?
 * If yes, who completes these reports and what is their experience?
 </div>
 </li>
@@ -516,17 +581,17 @@ A facilities report outlines an institution’s facilities, climate, security, s
 
 <section id="documentation" class="section scrollspy" markdown="1">
 
-## Installation Documentation Guidelines
+## Installation Documentation
 
-The installation documentation is produced by the owner and accompanies the loan. The installation documentation for time-based media works of art is ideally agreed with the artist when a work is acquired. This project assumes that the artist’s views have been recorded prior to loan and are able to guide the lender and the borrower in honouring what is important for a good installation of the work. When this is not the case, the loan may provide an occasion for dialogue and documentation. It may be part of the nature of the work that there are different ways in which it can be installed and this should be indicated in the installation documentation. In some cases the installation documentation will have evolved through an ongoing dialogue between the owner and the artist. The installation of the work provides an opportunity to add to the documentation. This is a live document with room for evolution.
+The installation documentation is produced by the owner and accompanies the loan. The installation documentation for media artworks is ideally agreed with the artist when a work is acquired. This project assumes that the artist’s views have been recorded prior to loan and are able to guide the lender and the borrower in honoring what is important for a good installation of the work. When this is not the case, the loan may provide an occasion for dialogue and documentation. It may be part of the nature of the work that there are different ways in which it can be installed and this should be indicated in the installation documentation. In some cases the installation documentation will have evolved through an ongoing dialogue between the owner and the artist. The installation of the work provides an opportunity to add to the documentation. This is a live document with room for evolution.
 
-The goal of this document is to provide a basic framework to help understand all of the elements required for the successful installation of time-based media works of art and to maintain their integrity. Some artworks require rigid and specific installation instructions. Other works allow for more flexibility within the installation. In putting together installation documentation, consider what you would need to know if you were coming fresh to this work for the first time. We have also provided a sample template.
+The goal of this document is to provide a basic framework to help understand all of the elements required for the successful installation of media artworks and to maintain their integrity. Some artworks require rigid and specific installation instructions. Other works allow for more flexibility within the installation. In putting together installation documentation, consider what you would need to know if you were coming fresh to this work for the first time. We have also provided a sample template.
 
 ### Artwork description
 
-A brief description of the artwork using standard terminology. The goal is to enable a reader to quickly understand the nature of the artwork. (For example: a 35-minute, 4-channel, colour video installation with stereo sound). It is also helpful to describe how the work appears if working properly.
+A brief description of the artwork using standard terminology. The goal is to enable a reader to quickly understand the nature of the artwork. (For example: a 35-minute, 4-channel, color video installation with stereo sound). It is also helpful to describe how the work appears if working properly.
 
-### Installation ingredients
+### Installation components
 
 This represents a comprehensive list of all physical components that make up the installed artwork. This would cover the details of the exhibition format, the equipment list, the details of the installation space and materials required for the installation and any spares or consumables needed to keep the installation running.
 
@@ -539,8 +604,8 @@ This represents a comprehensive list of all physical components that make up the
 Enter details of the exhibition format and its duration. Some things to consider:
 
 * Is the material looped? Is the loop intended to be seamless? If not, what is the duration of black on the loop?
-* If the work comprises more than one channel, are the channels synchronised?
-* What is the availability of spares? Who is authorised to produce spares?
+* If the work comprises more than one channel, are the channels synchronized?
+* What is the availability of spares? Who is authorized to produce spares?
 * For film, slide and tapes how often should these be replaced with new copies?
 </div>
 </li>
@@ -564,7 +629,7 @@ Enter details of the exhibition format and its duration. Some things to consider
 </li>
 
 <li>
-  <div class="collapsible-header">35 mm colour transparencies</div>
+  <div class="collapsible-header">35 mm color transparencies</div>
   <div class="collapsible-body" markdown="1">
 * What is the stock used?
 * How are they mounted?
@@ -596,6 +661,248 @@ Enter details of the exhibition format and its duration. Some things to consider
 </ul>
 
 
+### Condition of installation components
+
+There are two fundamental facets of condition reporting for media art: the physical state and the functionality of all the components/elements. Condition reporting for media art may require the expertise of more than one person. It is important to view, listen to, and experience the entire media program and report any deviations from the condition statement.
+
+  <div class="row">
+  <div class="col s12 m12">
+    <div class="card grey lighten-3">
+      <div class="card-content grey lighten-3 text">
+        <span class="card-title"> <font color="#00e676"> Condition report for loan</font></span>
+        <p>A condition report for a loan may include the following:
+         <br><br>
+         <li> Basic artwork identification</li>
+         <li> Artist</li>
+         <li> Title</li>
+         <li> Name</li>
+         <li> Description</li>
+         <li> List of components and how they work together</li>
+         <li> Exhibition title (if relevant)</li>
+         <li> Open/close date</li>
+        </p>
+      </div>
+    </div>
+  </div>
+  </div>
+
+#### Media
+
+In most cases only the exhibition format of the media element will be lent (for example a DVD).
+This is made from a master that will be retained by the lender.
+It is important to be clear whether the owner will provide new exhibition format material or whether they have an agreement with the artist’s gallery or the artist to oversee this.
+It is useful to specify in the conditions of loan that an extra copy of the exhibition format material is to be provided as part of the loan or that the borrower has explicit permission to make one. It is also important to understand what the procedure is for making new copies if needed during the exhibition.
+
+In most cases exhibition format material will be produced for each loan by the lender or by the artist or the artist’s gallery. It is therefore unlikely that you will be condition checking old or archival material.
+Where this is not the case the borrower, lender, artist and gallery may need to work closely together to ensure that accurate material is produced from the best available master. This may provide an opportunity to address the long-term conservation of the work.
+
+In all cases it is important to establish:
+
+* Whether the display material has been newly produced for the display.
+* If the medium is video is it NTSC, PAL or SECAM? It is often inappropriate to change the nature of the signal as different standards     have different aesthetic qualities. However this may create a compatibility problem with some display equipment. Any changes should be   discussed with the owner.
+* Whether there is an extra copy.
+* Whether there are enough copies for the duration of the show, and how often they should be changed. This is particularly important in cases where display causes rapid deterioration, for example slides, film prints and tapes.
+* The provenance of exhibition copies. (What have they been produced from and has the artist signed them off?)
+* The procedure for requesting additional copies and the cost associated with the production of these copies.
+
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+  <div class="collapsible-header">Film and slide material</div>
+  <div class="collapsible-body" markdown="1">
+  * Is the color, contrast, grading, consistent and correct?
+  * Is there any evidence of fading?
+  * Are the slides/film prints clean and unscratched?
+  * Are slides properly mounted?
+  * Is there any evidence of moisture damage?
+  * Are the film prints coated?
+  * How often does the exhibition copy need to be changed with new copies?
+</div>
+</li>
+<li>
+  <div class="collapsible-header">Video and audio tapes</div>
+  <div class="collapsible-body" markdown="1">
+  * Why have you been sent this tape? Is the work to be shown on tape or are you expected to produce additional exhibition copies?
+  * Does the lender/artist or artist’s representative need to approve any exhibition copies produced?
+  * What is the status of the material (master/sub-master etc) and what are the responsibilities of the borrower in relation to it?
+  * Does the tape appear to be in good condition (rewound, no signs of creasing or damage)?
+  * Does the quality of the exhibition copy reflect the quality of the master?
+  * Check for defects in the image and/or the sound.
+</div>
+</li>
+<li>
+  <div class="collapsible-header">Optical discs</div>
+  <div class="collapsible-body" markdown="1">
+  * Are the discs free from scratches?
+  * Are the discs free from finger prints and dust?
+  * Is there any evidence of delaminating?
+  * Are the discs free from warping?
+  * Do the discs play correctly and loop etc as required?
+  * Is the quality of the encoding accurate and free from errors?
+  * Check for defects in the image and the sound.
+</div>
+</li>
+<li>
+  <div class="collapsible-header">Hard-disc drives</div>
+  <div class="collapsible-body" markdown="1">
+  * What is the configuration of the disc(s)? (Raid array etc)
+  * How are the discs formatted (FAT32, NTFS etc).
+  * What is the operating system?
+  * What additional software is loaded?
+  * What are the file names, encoding, and location of the media files?
+  * What are the makes, models and specifications of the media cards?
+  * What connectors are available for the display devices?
+  * How are the audio and video signals output (check compatibility with display devices)?
+  * What is the nature of the back up of the files etc and where are they located?
+  * Are any passwords required?
+</div>
+</li>
+</ul>
+
+#### Equipment
+
+All display equipment will fail and become obsolete. There is a high risk that any equipment you are lent will fail during the course of the exhibition and it is appropriate to plan accordingly.
+Some equipment has an aesthetic or conceptual relationship to the identity of the work. The value of such equipment is therefore greater than purely its function. This means that it is important that these relationships are maintained and that it is not possible to substitute this equipment with a different piece of equipment that does not maintain these relationships, without loss.
+See also [dedicated and non-dedicated equipment]({{ site.url }}/acquiring-time-based-media-art.html#pre-gather).
+
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+  <div class="collapsible-header">Sculptural elements</div>
+  <div class="collapsible-body" markdown="1">
+  * Sculptural elements of a media installation should be handled and condition checked in the same way as other loaned sculptures.
+  * Display equipment
+</div>
+</li>
+<li>
+  <div class="collapsible-header">Equipment status</div>
+  <div class="collapsible-body" markdown="1">
+  * Is the identity of the work of art linked to a particular make and model?
+  * Is the equipment intended to be visible? Is the look of the original make and model therefore important?
+  * Is the equipment now obsolete and rare?
+  * Has the equipment been modified by the artist?
+  * Is there a spare?
+  * What is the procedure should the equipment fail?
+</div>
+</li>
+<li>
+  <div class="collapsible-header">Equipment condition</div>
+  <div class="collapsible-body" markdown="1">
+  * Is the equipment in full working order?
+  * Is there evidence of any external damage?
+  * Are all accessories present and checked off? (Remote control, operations manual etc)
+  * Is the packing adequate?
+  * Do you have a record of the hours it has been operational? (This information is available in the menus of many projectors).
+  * Is the equipment clean?
+  * Has it been maintained?
+  * What is the fire risk created by this equipment? (Describe any safeguards taken).
+</div>
+</li>
+</ul>
+
+##### Projectors and monitors
+* Although other technologies are available the most common are cathode ray tube (CRT) and liquid crystal display (LCD) projectors and monitors.
+* To check a projector it is advisable to project the image at the size required for the work.
+
+<ul class="collapsible" data-collapsible="accordion">
+<li>
+  <div class="collapsible-header">Liquid crystal display</div>
+  <div class="collapsible-body" markdown="1">
+  * Project a white field and a black field and check for faulty pixels.
+  * View a white field and check that the white balance is even and there is no discoloration in part of the image.
+  * View a black field to check for dust spots.
+  * View a grid and check for convergence of red, green and blue.
+  * View color bars and check the color rendition.
+  * Check the filters are clean (projectors only).
+  * Check the age of the lamp (may be difficult to ascertain for monitors).
+</div>
+</li>
+<li>
+  <div class="collapsible-header">Cathode ray tubes</div>
+  <div class="collapsible-body" markdown="1">
+  * Project a white field and check for burn-in on the Cathode Ray tubes.
+  * Check a white field for brightness and color balance.
+  * Check the number of hours that the tubes have been used.
+  * Project a black field and check for dust.
+  * View color bars and check the color rendition.
+  * Check the focus and the accuracy of the convergence using a grid or dot pattern (projectors only).
+  * Has the installation been installed correctly?
+  * Were the specifications accurately fulfilled?
+</div>
+</li>
+</ul>
+
+
+<br>
+
+#### Installation
+
+No artwork is immune to the circumstances of its presentation. However work of art which are only fully realized in their installed state create a different level of difficulty for issues of authority and authentication than works which form stable static objects. Media artworks are vulnerable to a number of changing conditions that can have a profound impact on how they are understood.
+A condition report assesses not only the material condition of the component parts but also whether the installation documentation has been followed and the work has been installed without compromise to the identity of the work.
+Some things to consider
+It is important to be clear the status of any elements loaned.
+Installation documentation is the essential reference document.
+
+<br>
+
+#### Some things to consider:
+* Space and construction requirements
+* How the public encounters the work/enters the space.
+* Lighting and acoustic requirements.
+* Operation and functionality (including timing).
+* Was the sound and image accurately rendered?
+* Where any changes necessary during installation or during the course of the show?
+<br><br>
+
+#### Loan Condition Report Templates
+
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_conditionreport.doc">
+  <div class="chip"><i class="large material-icons">play_for_work</i>General condition report
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_conditionreport_equipment.doc">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Equipment condition report
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_tape.doc">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Video condition report
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_conditionreport_film.doc">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Film condition report
+    </div>
+    </a>
+    </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_conditionreport_slide.doc">
+    <div class="chip"><i class="large material-icons">play_for_work</i>Slide condition report
+      </div>
+      </a>
+      </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_conditionreport_harddiscdrive.doc">
+<div class="chip"><i class="large material-icons">play_for_work</i>Hard drive condition report
+        </div>
+        </a>
+        </div>
+<br>
+<div class="col s12">
+<a href="{{ site.url }}/downloads/mattersmediaart_conditionreport_disc.doc">
+<div class="chip"><i class="large material-icons">play_for_work</i>Disc condition report
+        </div>
+        </a>
+        </div>
+<br><br>
 
 
 ### Details of the installation space
@@ -632,7 +939,7 @@ Produce a scale plan and an elevation and written narrative confirming the detai
   <div class="collapsible-header">Qualities</div>
   <div class="collapsible-body" markdown="1">
 * Acoustic qualities and audio levels
-* Wall and ceiling colour
+* Wall and ceiling color
 * Light levels
 
 </div>
@@ -664,15 +971,15 @@ Produce a scale plan and an elevation and written narrative confirming the detai
 
 ### Spares and consumables
 
-* Enter details of filters, lamps etc. Prior to the installation find out how many hours the lamps and filters last. Manufacturers have data on this. However, these figures are affected by the amount of dust in the space and also how the equipment is switched on and off. Enter the estimated cost into the budget template and ensure that spares are on hand.
+* Enter details of filters, lamps etc. Prior to the installation find out how many hours the lamps and filters last. Manufacturers have data on this. However, these figures are affected by the amount of dust in the space and also how the equipment is switched on and off. Enter the estimated cost into the [budget calculator]({{ site.url }}/downloads/loanbudgetcostassessmenttemplate.xls)  and ensure that spares are on hand.
 * Equipment failure – what spares do you have available if/when this happens? What is the procedure for notifying the lender? What does the borrower have permission to do?
 
 ### Key qualities / key requirements
 
 A description of both the specific and ephemeral elements necessary to maintain the integrity of the artwork. Decisions about what constitutes integrity are based on information gathered from the artist and other sources, relating to the essential nature of the artwork and its components. Some things to consider:
 
-* If the artist has said that specific qualities are important (such as light level, sound, wall colours etc) can these be measured to establish a reference
-* A non-technical description of what the viewer experiences can often be a valuable guide to installation
+* If the artist has said that specific qualities are important (such as light level, sound, wall colors, etc.), can these be measured to establish a reference?
+* A non-technical description of what the viewer experiences can often be a valuable guide to installation.
 * Are there fixed dimensions, such as image size or gallery dimensions?
 * Must the equipment be arranged or configured in a specific way?
 
@@ -694,7 +1001,7 @@ Some things to consider:
 
 * Do the art handlers need to have a knowledge of construction, electrical systems, audio-visual technology, art handling, computer programming?
 * List any special tools required (for example – signal generator, special screwdrivers for converging cathode ray tube projectors)
-* Do the technicians need particular certification to operate the required lifting equipment etc?
+* Do the technicians need particular certification to operate the required lifting equipment etc.?
 * How many technicians are required to install the artwork?
 * How long will it take to install the work?
 </div>
@@ -722,11 +1029,11 @@ Can any of the electrical elements (e.g. plugs/cables) be modified without the a
 </li>
 
 <li>
-  <div class="collapsible-header">Synchronisation details (if applicable)</div>
+  <div class="collapsible-header">Synchronization details (if applicable)</div>
   <div class="collapsible-body" markdown="1">
 * Provide the time-code references
 * Describe any authoring requirements
-* Describe which synchronisation units can be used
+* Describe which synchronization units can be used
 * Describe the degree of accuracy required
 </div>
 </li>
@@ -767,7 +1074,8 @@ Include procedures for switching the work on and off
 
 ### General notes
 
-* This section provides an opportunity to emphasise any aspect of the installation which requires special attention.
+This section provides an opportunity to emphasize any aspect of the installation which requires special attention.
+
 * What details should the installation crew pay special attention to?
 * Has the work been shown in a similar environment before (hours of operation etc)?
 * What is the status of the components:

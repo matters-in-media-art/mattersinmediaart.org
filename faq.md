@@ -32,7 +32,7 @@ This is normally determined by the seller/gallery but the exact details are usua
 See the pre-acquisition summary. This will most often include documentation of the installation, provenance of the artwork, an equipment checklist including the distinction between what is required but not included in the sale, an outline from the artist as to intent special considerations for installations, an archival master and exhibition copies of the work.
 
 ### What is dedicated display equipment/non-dedicated display equipment?
-See the pre-acquisition summary 
+See the pre-acquisition summary
 
 ### What are essential documents/contracts?
 See the pre-acquisition summary
@@ -62,7 +62,7 @@ Affirmation of Title merely confirms the proper ownership of the copyright. It d
 A master is approved by the artist, is the highest quality material and is usually the source from which copies are made.  
 
 ### Who holds the artist's master?
-In the days when the artist's master was a particular object such as a tape, then who held the master was a greater issue than it is today. Nowadays a digital clone can be kept by many different stakeholders including the artist, a gallery, artist’s estate, museums, collectors and educational institutions. 
+In the days when the artist's master was a particular object such as a tape, then who held the master was a greater issue than it is today. Nowadays a digital clone can be kept by many different stakeholders including the artist, a gallery, artist’s estate, museums, collectors and educational institutions.
 
 ### What is an ‘Artist’s Proof’?
 The existence of one or more artist’s proofs may be declared alongside the edition. For example one might see ‘Edition of 6 with 2 APs’. Artist’s proofs function as editions belonging to the artist. Artist’s proofs are also sometimes sold at a later date. If an artists sells all their dedicated artist’s proofs they would then have to ask an owner for permission to show the work.
@@ -71,10 +71,10 @@ The existence of one or more artist’s proofs may be declared alongside the edi
 The exhibition copy is the copy of the media used for display. This is can be used during the installation and should be considered replaceable.
 
 ### Whom do I contact for technical support?
-Contact a conservator, gallery, distributor, consultant and/or artist/studio that are familiar with these types of works for a recommendation based on the support you need (see  pre-acquisition summary). There are an increasing number of people with the necessary expertise who offer their services in a freelance capacity. 
+Contact a conservator, gallery, distributor, consultant and/or artist/studio that are familiar with these types of works for a recommendation based on the support you need (see  pre-acquisition summary). There are an increasing number of people with the necessary expertise who offer their services in a freelance capacity.
 
 ### How do I document the work of art?
-Documentation of the work usually includes a combination of photography, diagrams, schematics, legal documentation, Installation Specifications, and verbal/recorded accounts of the work. There are a number of tools, such as 'Media Info' that can also assist in extracting technical metadata. The documentation of an artwork is an ongoing process that traces the life of the work. 
+Documentation of the work usually includes a combination of photography, diagrams, schematics, legal documentation, Installation Specifications, and verbal/recorded accounts of the work. There are a number of tools, such as 'Media Info' that can also assist in extracting technical metadata. The documentation of an artwork is an ongoing process that traces the life of the work.
 
 ### What should be included in archival files?
 See post-acquisition summary. These files will usually include a receipt for the artwork, condition reports, the invoice, an acquisition summary, the certificate of authenticity, a copyright agreement, the artist’s contact information, a commissioning agreement (if applicable), the curatorial rationale, correspondence and transcripts of an artist’s interview.
@@ -82,14 +82,14 @@ See post-acquisition summary. These files will usually include a receipt for the
 ### What is a Condition Report?
 The Condition Report is a record that monitors the physical and electronic qualities of all components of the work.
 
-### My collections management database only provides limited fields for cataloguing time-based art. Where can I learn more about additional fields?
-Many museums and private collectors are struggling with this. Some producers of museum catalogue databases will revise their software in the future (please lobby them). In the meantime, you may need to create a database specifically for your time-based media collections. The ‘Cataloguing Project’ of Independent Media Arts Preservation (IMAP) may serve as a helpful resource.
+### My collections management database only provides limited fields for cataloguing media art. Where can I learn more about additional fields?
+Many museums and private collectors are struggling with this. Some producers of museum catalogue databases will revise their software in the future (please lobby them). In the meantime, you may need to create a database specifically for your media art collection. The ‘Cataloguing Project’ of Independent Media Arts Preservation (IMAP) may serve as a helpful resource.
 
 ### How will the work last over time?
 Media works last through processes of active preservation involving bit preservation and monitoring for obsolescence and other risks, documentation, the development over time of an understanding of the work and what is important to its conservation or preservation, an assessment of new replacement technologies, and dialogue with the artist as to possibilities for future iterations.
 
 ### What are the recommended formats for migration?
-The recommended migration formats change over time. The decision depends in part on the material supplied by the artist. When the master for a video artwork is provided in a fairly standard format, such as uncompressed video in a Quicktime wrapper, then a number of institutions are chosing to preserve that artist supplied copy as the master in the format in which it was supplied. Where the video format supplied is highly unusual then a decision is often made to create a new copy in a common format. Some institutions chose to 'normalise' their video, for example by holding all of their materia as an uncompressed copy in an AVI wrapper. There is some discussion regarding the use of open source versus proprietary wrappers within a preservation system.
+The recommended migration formats change over time. The decision depends in part on the material supplied by the artist. When the master for a video artwork is provided in a fairly standard format, such as uncompressed video in a Quicktime wrapper, then a number of institutions are choosing to preserve that artist supplied copy as the master in the format in which it was supplied. Where the video format supplied is highly unusual then a decision is often made to create a new copy in a common format. Some institutions chose to 'normalize' their video, for example by holding all of their material as an uncompressed copy in an AVI wrapper. There is some discussion regarding the use of open source versus proprietary wrappers within a preservation system.
 
 ### Is a copied tape identical to the original?
 An analogue copy is never identical to the original and each time it is copied generational loss occurs. In the digital domain it is possible to achieve a perfect clone from one format to an identical format. However all digital tape formats are different and if you copy a digital tape made on one format to another format, changes will occur. This is due to differences in sampling rate, how the data is sampled and differences in the compression algorithms used.
