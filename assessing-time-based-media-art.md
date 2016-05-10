@@ -223,7 +223,7 @@ Additional information about conserving media works may be found at the followin
 
 ## Condition Report Templates
 
-When assessing media art, aim to extend existing condition reporting practices to include media artworks. A condition report provides the baseline against which future examinations can be compared. For media-based works of art a report is divided into three sections – the media elements, the equipment and the overall installation. They are different from condition reports for more conventional works of art in that some of the components may be easily replaceable without loss. It is often not possible to know by looking at any component, its value or significance in relation to the identity of the work of art.
+When assessing media art, aim to extend existing condition reporting practices to include media artworks. A condition report provides the baseline against which future examinations can be compared. For media-based works of art a report is divided into three sections – the media elements, the equipment and the overall installation. They are different from condition reports for more conventional works of art in that some of the components may be easily replaceable without loss. It is often not possible to know by looking at any component, its value or significance in relation to the identity of the work of art. In addition to the example reports below, please also refer to the website Time-based Media Conservation by Joanna Phillips, Time-based Media Conservator at the Solomon R. Guggenheim Museum http://www.guggenheim.org/conservation/time-based-media
 
  <!-- previous layout:
 * [Structure and condition report]({{ site.url }}/downloads/structure_and_condition_reports.rtf) (RTF, 180KB)
