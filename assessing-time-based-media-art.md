@@ -3,7 +3,15 @@ layout: default
 title: "Documenting Media Art"
 ---
 
+<<<<<<< HEAD
 Media artworks require more complex documentation and cataloguing than traditional works of art. Some collecting institutions create separate databases for the additional metadata associated with these works. Decisions about what information to catalogue and how to catalogue it must be made carefully, following discussion among registration, curatorial, collections management, and conservation staff, and information systems staff. Read more here on [collection management systems]({{ site.url }}/sustaining-your-collection.html#Review-Collection-Management-Systems).
+=======
+
+![](img/peter-assessing.jpg)
+
+
+Media artworks require complex documentation and cataloguing. Some collecting institutions create separate databases for the additional metadata associated with these works. Decisions about what information to catalogue and how to catalogue it must be made carefully, following discussion among registration, curatorial, collections management, and conservation staff, and information systems staff. Read more here on [collection management systems]({{ site.url }}/sustaining-your-collection.html#Review-Collection-Management-Systems).
+>>>>>>> origin/mma-dev
 
 
 <div id="post-acq-slider-1" class="liquid-slider">
@@ -12,7 +20,7 @@ Media artworks require more complex documentation and cataloguing than tradition
 <h2>Catalogue artwork</h2>
 Enter detailed information about the artwork gathered during the acquisition process into collections database, minimally including:
 
-* Artist, title, creation date, display dimensions
+* Artist, title, creation date, display dimensions, edition number
 * Media format, duration
 * Display equipment, sculptural components
 * Provenance, exhibition history
@@ -219,7 +227,7 @@ Additional information about conserving media works may be found at the followin
 
 ## Condition Report Templates
 
-When assessing media art, aim to extend existing condition reporting practices to include media artworks. A condition report provides the baseline against which future examinations can be compared. For media-based works of art a report is divided into three sections – the media elements, the equipment and the overall installation. They are different from condition reports for more conventional works of art in that some of the components may be easily replaceable without loss. It is often not possible to know by looking at any component, its value or significance in relation to the identity of the work of art.
+When assessing media art, aim to extend existing condition reporting practices to include media artworks. A condition report provides the baseline against which future examinations can be compared. For media-based works of art a report is divided into three sections – the media elements, the equipment and the overall installation. They are different from condition reports for more conventional works of art in that some of the components may be easily replaceable without loss. It is often not possible to know by looking at any component, its value or significance in relation to the identity of the work of art. In addition to the example reports below, please also refer to the website Time-based Media Conservation by Joanna Phillips, Time-based Media Conservator at the Solomon R. Guggenheim Museum http://www.guggenheim.org/conservation/time-based-media
 
  <!-- previous layout:
 * [Structure and condition report]({{ site.url }}/downloads/structure_and_condition_reports.rtf) (RTF, 180KB)
