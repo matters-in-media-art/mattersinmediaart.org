@@ -16,7 +16,7 @@ Media artworks require complex documentation and cataloguing. Some collecting in
 <h2>Catalogue artwork</h2>
 Enter detailed information about the artwork gathered during the acquisition process into collections database, minimally including:
 
-* Artist, title, creation date, display dimensions
+* Artist, title, creation date, display dimensions, edition number
 * Media format, duration
 * Display equipment, sculptural components
 * Provenance, exhibition history
