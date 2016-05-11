@@ -2,7 +2,7 @@
 layout: default
 title: Frequently Asked Questions
 ---
-####AQUISITION
+## AQUISITION
 
 ### What are the main ways in which media artworks are bought and sold?
 There are two main ways in which artists working in video have traditionally made their work available. The first is through distributors and the second is through the fine-art gallery system.
@@ -58,13 +58,13 @@ Affirmation of Title merely confirms the proper ownership of the copyright. It d
 ### What is an ‘Artist’s Proof’?
 The existence of one or more artist’s proofs may be declared alongside the edition. For example one might see ‘Edition of 6 with 2 APs’. Artist’s proofs function as editions belonging to the artist. Artist’s proofs are also sometimes sold at a later date. If an artists sells all their dedicated artist’s proofs they would then have to ask an owner for permission to show the work.
 
-####LOANS
+## LOANS
 ###What is sent when a media artwork is lent?
 If you are lending a media artwork you needwhat you send depends on the nature of the work; in some cases you may need to ship everything needed to install the work, in other cases the display specifications and the media file may be enough. These details should be discussed well in advance. If the equipment is not unique to that work it is advisable to discuss with the borrower and discuss whether they are able to provide suitable equipment. 
 ###What is a virtual loan?
 A virtual loan is one where the lender is named on the wall text and in the catalogue as lending the work but nothing physically moved from the lender to the borrower. 
 
-####PRESERVATION AND COLLECTION MANAGEMENT
+## PRESERVATION AND COLLECTION MANAGEMENT
 ### What is the difference between film and video?
 Film is essentially a transparent photographic medium through which light is projected to create an image. It usually requires a negative and is frame-based. Video is an electronic system of encoding whereby images and sound are encoded as electrical waveforms or pulses. To see the images, the electrical waveforms or pulses of energy have to be decoded. Video may be analogue or digital. Analogue video is stored as continuous waveforms digital video is stored as a binary system of 0s and 1s encoded as electronic pulses. Digital video is nowadays largely file based and no longer stored on video tape, although it may be stored data tape. 
 
@@ -107,6 +107,6 @@ The best known preparation for obsolescence includes the stockpiling of equipmen
 ### How will the work last over time?
 Media works last through processes of active preservation involving bit preservation and monitoring for obsolescence and other risks, documentation, the development over time of an understanding of the work and what is important to its conservation or preservation, an assessment of new replacement technologies, and dialogue with the artist as to possibilities for future iterations.
 
-#### WHERE CAN I GO FOR HELP?
-LINK TO COMMUNITY CONNECTIONS
+## WHERE CAN I GO FOR HELP?
+ADD LINK TO COMMUNITY CONNECTIONS
 
