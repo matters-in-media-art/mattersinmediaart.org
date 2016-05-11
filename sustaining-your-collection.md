@@ -459,9 +459,9 @@ There is further information that will need to be kept in order to ensure an art
 </div>
 </div>
 
-### A Digital Repository
+### Digital Repositories
 
-A digital repository for your collection is more than just storage. There are many functions that can be carried out by a digital repository system in order to monitor and ensure the ongoing preservation of your collection objects. Just as for collection management systems, the way these functions are implemented will depend on individual circumstances. For a small, homogenous collection, many of these functions could be carried out manually. For a larger and more varied collection, there are significant benefits to having automated workflows and systems in place.
+Collections management systems however are just a part of the picture of digital stewardship, as they do not generally facilitate core digital preservation actvities. To meet these needs, organizations typically emlpoy a system, or suite of systems reffered to as a digital repository. There are many functions that can be carried out by a digital repository system in order to monitor and ensure the ongoing preservation of your collection objects. Just as for collection management systems, the way these functions are implemented will depend on individual circumstances. For a small, homogenous collection, many of these functions could be carried out manually. For a larger and more varied collection, there are significant benefits to having automated workflows and systems in place.
 
 This is an area which has developed very rapidly in recent years and even large organizations have struggled to develop the infrastructure to keep pace with their growing digital collections. It is therefore important to understand that the term repository refers to a number of functions which need to be carried out and which are underpinned by some of the key ideas to emerge regarding digital preservation practice.
 
