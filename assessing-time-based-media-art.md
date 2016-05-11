@@ -3,11 +3,15 @@ layout: default
 title: "Documenting Media Art"
 ---
 
+<<<<<<< HEAD
+Media artworks require more complex documentation and cataloguing than traditional works of art. Some collecting institutions create separate databases for the additional metadata associated with these works. Decisions about what information to catalogue and how to catalogue it must be made carefully, following discussion among registration, curatorial, collections management, and conservation staff, and information systems staff. Read more here on [collection management systems]({{ site.url }}/sustaining-your-collection.html#Review-Collection-Management-Systems).
+=======
 
 ![](img/peter-assessing.jpg)
 
 
-Media artworks require more complex documentation and cataloguing than traditional works of art. Some collecting institutions create separate databases for the additional metadata associated with these works. Decisions about what information to catalogue and how to catalogue it must be made carefully, following discussion among registration, curatorial, collections management, and conservation staff, and information systems staff. Read more here on [collection management systems]({{ site.url }}/sustaining-your-collection.html#Review-Collection-Management-Systems).
+Media artworks require complex documentation and cataloguing. Some collecting institutions create separate databases for the additional metadata associated with these works. Decisions about what information to catalogue and how to catalogue it must be made carefully, following discussion among registration, curatorial, collections management, and conservation staff, and information systems staff. Read more here on [collection management systems]({{ site.url }}/sustaining-your-collection.html#Review-Collection-Management-Systems).
+>>>>>>> origin/mma-dev
 
 
 <div id="post-acq-slider-1" class="liquid-slider">
@@ -16,7 +20,7 @@ Media artworks require more complex documentation and cataloguing than tradition
 <h2>Catalogue artwork</h2>
 Enter detailed information about the artwork gathered during the acquisition process into collections database, minimally including:
 
-* Artist, title, creation date, display dimensions
+* Artist, title, creation date, display dimensions, edition number
 * Media format, duration
 * Display equipment, sculptural components
 * Provenance, exhibition history
@@ -49,7 +53,7 @@ These files will grow as the work is exhibited, loaned, and conserved. Most inst
 </div> <!-- end of slider -->
 
 
-
+<section id="cataloging" class="section scrollspy" markdown="1">
 ## Cataloging Media Art
 Records for media installations hold a great deal of information which can be difficult to manage.
 Below is a guide to the type of material you might find in a record for a media artwork and a suggested way of organizing this information into sections within your file or binder.
@@ -218,12 +222,12 @@ Additional information about conserving media works may be found at the followin
 
 </div> <!-- end of slider -->
 
-
+</section>
 <section id="post-templates" class="section scrollspy" markdown="1">
 
 ## Condition Report Templates
 
-When assessing media art, aim to extend existing condition reporting practices to include media artworks. A condition report provides the baseline against which future examinations can be compared. For media-based works of art a report is divided into three sections – the media elements, the equipment and the overall installation. They are different from condition reports for more conventional works of art in that some of the components may be easily replaceable without loss. It is often not possible to know by looking at any component, its value or significance in relation to the identity of the work of art.
+When assessing media art, aim to extend existing condition reporting practices to include media artworks. A condition report provides the baseline against which future examinations can be compared. For media-based works of art a report is divided into three sections – the media elements, the equipment and the overall installation. They are different from condition reports for more conventional works of art in that some of the components may be easily replaceable without loss. It is often not possible to know by looking at any component, its value or significance in relation to the identity of the work of art. In addition to the example reports below, please also refer to the website Time-based Media Conservation by Joanna Phillips, Time-based Media Conservator at the Solomon R. Guggenheim Museum http://www.guggenheim.org/conservation/time-based-media
 
  <!-- previous layout:
 * [Structure and condition report]({{ site.url }}/downloads/structure_and_condition_reports.rtf) (RTF, 180KB)
@@ -335,12 +339,11 @@ When assessing media art, aim to extend existing condition reporting practices t
 
 
 
-
+</section>
+<section id="assessing" class="section scrollspy" markdown="1">
 ## Assessing Digital Video
 
-</section>
 
-<section id="Digital-Video" class="section scrollspy" markdown="1">
 ![](img/peter-assessing.jpg)
 
 
@@ -349,7 +352,6 @@ Assessing your digital video media is a crucial step on entering your collection
 
 Video files are assessed and condition checked both visually and aurally with the appropriate tools. This section covers the design requirements of a work station, approaches to running initial technical analysis on your file(s), the visual and aural technical assessment and its documentation.  
 
-</section>
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
@@ -388,7 +390,8 @@ Video files are assessed and condition checked both visually and aurally with th
 </li>
 </ul>
 
-
+</section>
+<section id="workstation" class="section scrollspy" markdown="1">
 ###	 Assessment Workstation
 
 To assess, quality-control and condition report your digital video files, you might want to consider designing a workstation that is customized to your needs and dedicated to these video evaluating activities. Below you will find three examples of workstations that serve various budgets and are aimed at different levels of quality-control. The three tiers outlined are designed to serve both standard definition (SD) and high definition (HD) video systems. If you are working exclusively with either SD or HD material, you could make savings by acquiring just the tools for your specific needs. The following aspects are the 7 key components relevant to all digital video assessment workstations.  
@@ -559,7 +562,8 @@ Quality audio monitors and meters are also necessary in the assessment of video 
         </tbody>
       </table>
 
-
+</section>
+<section id="analysis" class="section scrollspy" markdown="1">
 ###	Initial Technical Analysis
 The amount of technical information that you might receive with a digital video artwork will vary depending on the artist.
 
@@ -656,6 +660,8 @@ Depending on your workflow you may carry out a technical assessment before you c
 * Audio Channel Arrangement (channel count, assignment) subtitles
 -->
 
+</section>
+<section id="assessing-files" class="section scrollspy" markdown="1">
 ### Assessing files
 
 * Confirm that the content is as expected.
@@ -688,39 +694,51 @@ When analyzing this report, it becomes clear that the file is incomplete and lac
 Conflicts in Wrapper versus Streams
 
 Problems might arise in the consistent playback of a video stream with regards to aspect ratio and color interpretation if there is conflicting metadata held in the wrapper and the stream. For example as demonstrated in the "Video" section of this MediaInfo report:
+<div class="row">
+<div class="col s12 m12">
+  <div class="card grey lighten-3">
+    <div class="card-content grey lighten-3 text">
+      <span class="card-title"> <font color="#00e676"> Mediainfo report</font></span>
+      <p>
+       Video<br><br>
+       ID/String  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                              : 1<br>
+       Format&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                                  : AVC<br>
+       Format/Info&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                              : Advanced Video Codec<br>
+       Format_Profile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                      : Main@L4.0<br>
+       Format_Settings_CABAC/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;           : No<br>
+       Format_Settings_RefFrames/String &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;        : 2 frames<br>
+       Format_Settings_GOP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: M=1, N=50<br>
+       CodecID &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: avc1<br>
+       CodecID/Info  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Advanced Video Coding<br>
+       Duration/String  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        : 2mn 57s<br>
+       BitRate/String  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        : 4 925 Kbps<br>
+       Width/String &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                            : 1 920 pixels<br>
+       Height/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                            : 1 080 pixels<br>
+       DisplayAspectRatio/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;               : 16:9<br>
+       FrameRate_Mode/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                   : Constant<br>
+       FrameRate/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        : 25.000 fps<br>
+       ColorSpace&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                              : YUV<br>
+       ChromaSubsampling&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        : 4:2:0<br>
+       BitDepth/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                          : 8 bits<br>
+       ScanType/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Progressive<br>
+       Bits (Pixel*Frame)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                 : 0.095<br>
+       StreamSize/String&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                      : 104 MiB (98%)<br>
+       Language/String &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        : English<br>
+       Encoded_Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                            : UTC 2014-03-27 11:47:51<br>
+       Tagged_Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                              : UTC 2014-03-27 11:55:51<br>
+       <strong>colour_primaries&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                        : BT.709</strong><br>
+       <strong>transfer_characteristics&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;              : BT.709</strong><br>
+       <strong>matrix_coefficients&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                     : BT.601</strong><br>
+       colour_range&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;                            : Limited<br>
+      </p>
+    </div>
+  </div>
+</div>
+</div>
 
-Video
-
-ID/String                                : 1
-Format                                   : AVC
-Format/Info                              : Advanced Video Codec
-Format_Profile                           : Main@L4.0
-Format_Settings_CABAC/String             : No
-Format_Settings_RefFrames/String         : 2 frames
-Format_Settings_GOP                      : M=1, N=50
-CodecID                                  : avc1
-CodecID/Info                             : Advanced Video Coding
-Duration/String                          : 2mn 57s
-BitRate/String                           : 4 925 Kbps
-Width/String                             : 1 920 pixels
-Height/String                            : 1 080 pixels
-DisplayAspectRatio/String                : 16:9
-FrameRate_Mode/String                    : Constant
-FrameRate/String                         : 25.000 fps
-ColorSpace                               : YUV
-ChromaSubsampling                        : 4:2:0
-BitDepth/String                          : 8 bits
-ScanType/String                          : Progressive
-Bits¬(Pixel*Frame)                       : 0.095
-StreamSize/String                        : 104 MiB (98%)
-Language/String                          : English
-Encoded_Date                             : UTC 2014¬03¬27 11:47:51 Tagged_Date                : UTC 2014¬03¬27 11:55:51
-colour_primaries                         : BT.709
-transfer_characteristics                 : BT.709
-matrix_coefficients                      : BT.601 colour_range                                                      
-                                         : Limited
 
 In this example, the 3 fields to look at are:
+
 * color primaries
 * transfer_characteristics
 * matrix_coefficients
@@ -731,3 +749,5 @@ There is a conflict in the subsampling between the “color_primaries” and the
 ####	Assessment Documentation
 
 See Overview of Condition Documentation section for guidelines of how to document the assessment process.
+
+</section>
