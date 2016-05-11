@@ -101,9 +101,6 @@ The Condition Report is a record that monitors the physical and electronic quali
 ### My collections management database only provides limited fields for cataloguing media art. Where can I learn more about additional fields?
 Many museums, individuals and private collectors are struggling with this. Some producers of museum catalogue databases will revise their software in the future (please lobby them). In the meantime, you may need to create a database specifically for your media art collection. The ‘Cataloguing Project’ of Independent Media Arts Preservation (IMAP) may serve as a helpful resource. 
 
-### My collections management database does not support the fields i need for digital preservation. What can i do?
-You may be be able to link your collection management system to a database designed to support digital preservaiton such as Binder produced by Artefactual.
-
 ### How do I prepare myself for equipment becoming obsolete?
 The best known preparation for obsolescence includes the stockpiling of equipment, information gathering, and dialogue with artists/technicians/corporations (through preservation planning).
 
