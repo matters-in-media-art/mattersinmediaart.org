@@ -109,5 +109,5 @@ The best known preparation for obsolescence includes the stockpiling of equipmen
 Media works last through processes of active preservation involving bit preservation and monitoring for obsolescence and other risks, documentation, the development over time of an understanding of the work and what is important to its conservation or preservation, an assessment of new replacement technologies, and dialogue with the artist as to possibilities for future iterations.
 
 ## WHERE CAN I GO FOR HELP?
-ADD LINK TO COMMUNITY CONNECTIONS
+[ADD LINK TO COMMUNITY CONNECTIONS]
 
