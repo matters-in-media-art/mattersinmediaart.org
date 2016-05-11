@@ -61,6 +61,7 @@ The existence of one or more artist’s proofs may be declared alongside the edi
 ## LOANS
 ### What is sent when a media artwork is lent?
 If you are lending a media artwork you needwhat you send depends on the nature of the work; in some cases you may need to ship everything needed to install the work, in other cases the display specifications and the media file may be enough. These details should be discussed well in advance. If the equipment is not unique to that work it is advisable to discuss with the borrower and discuss whether they are able to provide suitable equipment. 
+
 ### What is a virtual loan?
 A virtual loan is one where the lender is named on the wall text and in the catalogue as lending the work but nothing physically moved from the lender to the borrower. 
 
