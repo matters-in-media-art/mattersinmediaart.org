@@ -5,7 +5,16 @@ title: "Documenting Media Art"
 
 
 <span class="flow-text">
-Media artworks require more complex documentation and cataloguing than traditional works of art. Some collecting institutions create separate databases for the additional metadata associated with these works. Decisions about what information to catalogue and how to catalogue it must be made carefully, following discussion among registration, curatorial, collections management, and conservation staff, and information systems staff. Read more here on [collection management systems]({{ site.url }}/sustaining-your-collection.html#Review-Collection-Management-Systems).
+Media artworks often require complex, cross-disciplinary documentation, challenging traditional cataloging systems. Curators, registrars, exhibition technicians, IT specialists, intellectual property managers, conservators, outside experts and artists contribute to compiling a multi-voice record for each work of art.
+</span>
+
+<br>
+
+![](img/IMG_4848_2.JPG)
+
+<span class="img-caption" markdown="1">
+Aebhric Coleman and Steve Dye documenting "TV Buddha" (1989) by Nam June Paik
+<!--(c) Partial and promised gift of Pamela and Richard Kramlich to the New Art Trust to benefit the San Francisco Museum of Modern Art, The Museum of Modern Art, New York, and Tate, United Kingdom-->
 </span>
 
 
@@ -51,7 +60,7 @@ These files will grow as the work is exhibited, loaned, and conserved. Most inst
 <section id="cataloging" class="section scrollspy" markdown="1">
 ## Cataloging Media Art
 Records for media installations hold a great deal of information which can be difficult to manage.
-Below is a guide to the type of material you might find in a record for a media artwork and a suggested way of organizing this information into sections within your file or binder.
+Below is a guide to the type of material you might find in a record for a media artwork and a suggested way of organizing this information into sections within your file or binder. Read more here on [collection management systems]({{ site.url }}/sustaining-your-collection.html#Review-Collection-Management-Systems).
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
