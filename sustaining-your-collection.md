@@ -14,28 +14,25 @@ Since the start of this project in 2005, media arts have predominantly shifted t
 Our aim is to provide information that is useful to those who are caring for their own collection of video artworks outside an institution, as well as small, medium and large organizations. Throughout these pages key principles are highlighted and approaches are suggested depending on the size of your collection and your available resources, namely skills, budget and infrastructure. For each section we invite you to fill in a survey, which will act as a tool to help you to outline the needs of your collection. The results will form the basis for an overall preservation system design.
 
 <section id="Core-Principles" class="section scrollspy" markdown="1">
-<div class="row">
-<div class="col s12 m12">
-  <div class="card grey lighten-3">
-    <div class="card-content grey lighten-3 text">
-      <span class="card-title"> <font color="#00e676"> Core Principles</font></span>
-       <br>
-       <p>
-        <ul>
-         <li> Do to digital works as you would to any artwork: identify, catalog, describe, treat, document and track </li>
-         <li> Be prepared to be unprepared: the necessary skills evolve constantly and will be found both within and beyond your walls </li>
-         <li> Build storage for your present collection but lay groundwork for the future </li>
-         <li> The budget to build collection storage is nothing without the budget to sustain it</li>  
-         <li>Digital collections require active maintenance and will not survive passive storage</li>
-       </ul>
-       </p>
-    </div>
-  </div>
+
+<div class="card grey lighten-3">
+  <div class="card-content grey lighten-3 text">
+    <span class="card-title"> <font color="#00e676"> Core Principles</font></span>
+     <br>
+     <p>
+      <ul>
+       <li> Do to digital works as you would to any artwork: identify, catalog, describe, treat, document and track </li>
+       <li> Be prepared to be unprepared: the necessary skills evolve constantly and will be found both within and beyond your walls </li>
+       <li> Build storage for your present collection but lay groundwork for the future </li>
+       <li> The budget to build collection storage is nothing without the budget to sustain it</li>  
+       <li>Digital collections require active maintenance and will not survive passive storage</li>
+     </ul>
+     </p>
 </div>
 </div>
 
 
-
+</section>
 
 
 
@@ -62,17 +59,7 @@ The first step to planning what you need is understanding what you have. And how
   </div> <!-- end of card -->
 
 
-    <div class="col s12">
-    <a href="{{ site.url }}/downloads/mattersmediaart_survey.pdf">
-      <div class="chip"><i class="large material-icons">play_for_work</i>Take the Survey
-        </div>
-        </a>
-        </div>
-        <br>
-  </div>
-</div>
-</div>
-<br><br>
+
 
 
 
