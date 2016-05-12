@@ -353,18 +353,19 @@ Video files are assessed and condition checked both visually and aurally with th
   <div class="collapsible-header"><i class="material-icons">visibility</i>Visual Assessment</div>
   <div class="collapsible-body">
   	<p>
-  		Color space and gamma, Luminance, and Chrominance are the key characteristics to visually asses
+  		luminance, chrominance, color space and gamma,  are the key characteristics to visually asses
   	</p>
     <strong> Tools for Visual Assessment</strong>
    <ul>
     <li>Reference monitor (SD vs HD)</li>
-    <li>Waveform/ vectorscope</li>
+    <li>Oscilloscopes</li>
+    <li>Playback Software</li>
    </ul>
   </div>
 </li>
 <li>
   <div class="collapsible-header"><i class="material-icons">hearing</i>Aural Assessment </div>
-  <div class="collapsible-body"><p>Key characteristics for Aural assessment: Levels (db vs VU), Phase</p>
+  <div class="collapsible-body"><p>Key characteristics for aural assessment: Levels (db/VU), phase</p>
    <ul>Tools for Aural Assessment
     <li>Meters (digital)</li>
     <li>Phase Oscilloscope</li>
@@ -377,7 +378,7 @@ Video files are assessed and condition checked both visually and aurally with th
   <div class="collapsible-header"><i class="material-icons">warning</i>Visual and Aural Artifacts</div>
   <div class="collapsible-body">
    <ul>
-    <li>Analogue ‘burn in’ artifacts</li>
+    <li>Analogue artifacts</li>
     <li>Digital artifacts</li>
     <li>Identifying cause / original – A/V Artifact Atlas</li>
    </ul>
@@ -433,7 +434,7 @@ To assess, quality-control and condition report your digital video files, you mi
 <li>
   <div class="collapsible-header"><i class="material-icons">settings</i>Computer</div>
   <div class="collapsible-body">
-  	<p>Watching digital videos, especially uncompressed, can be challenging for older or regular “desktop”-computers. Your workstation requires a relatively powerful computer, with a minimum of several GB of RAM. Most videos will lag, if you play them directly from external hard drives, depending on your interface, and from servers, depending on your connection; therefore it is good practice to save them locally for assessment requiring sufficient storage space on your computer. Alternatively you could consider an external hard drive or RAID with a fast interface connection. The platform you choose –Mac or PC– depends on the kind of software to be used: Final Cut Pro only works on Macs, whereas Adobe Premiere is available for both platforms. Make sure to choose your computer platform depending on your software and hardware needs and compatibilities.</p>
+  	<p>Watching digital videos, especially uncompressed or high data rate, can be challenging for older or regular “desktop”-computers. Your workstation requires a relatively powerful computer, with a minimum of several GB of RAM. Most videos will lag, if you play them directly from external hard drives, depending on your interface, and from servers, depending on your connection; therefore it is good practice to save them locally for assessment requiring sufficient storage space on your computer. Alternatively you could consider an external hard drive or RAID with a fast interface connection. The platform you choose –Mac or PC– depends on the kind of software to be used: Final Cut Pro only works on Macs, whereas Adobe Premiere is available for both platforms. Make sure to choose your computer platform depending on your software and hardware needs and compatibilities.</p>
   </div>
 </li>
 <li>
@@ -668,7 +669,7 @@ Depending on your workflow you may carry out a technical assessment before you c
 
 * Confirm that the content is as expected.
 * Ensure that there are no technical problems with the streams.
-* That there is no conflicting information between the streams and the wrapper. For example, a particular combination of stream(s) and     wrapper may provide ambiguous instructions for decoding, leaving the possibility that different players might play back the video        stream differently. If this is the case it is helpful to clarify with the artist or their representative, if at all possible.
+* That there is no conflicting information between the streams and the wrapper. For example, a particular combination of stream(s) and     wrapper may provide ambiguous instructions for decoding, leaving the possibility that different players might play back the video stream differently. If this is the case it is helpful to clarify with the artist or their representative, if at all possible.
 * That this is not an of absence of key information in the streams and the wrapper.
 * Confirm that the basic matches content matches what was expected from the artist, for example the codec, the wrapper, audio sample rate and bit¬depth, subsampling, frame rate and the duration.
 
