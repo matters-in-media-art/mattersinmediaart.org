@@ -9,7 +9,9 @@ Since this project started in 2005, media arts have predominantly shifted to the
 </span>
 
 ![](img/Mengbo.jpg)
-
+<span class="img-caption" markdown="1">
+Feng Mengbo _Long March: Restart_ (2008). Video game (color, sound), custom computer software, and wireless game controller. Dimensions and duration variable. The Museum of Modern Art, New York. Given anonymously, 2008. © 2015 Feng Mengbo. Installation view, Scenes for a New Heritage: Contemporary Art From the Collection, The Museum of Modern Art, New York (March 7, 2015 - April 10, 2016). Digital image © 2015 The Museum of Modern Art, New York. Photo: Thomas Griesel.
+</span>
 
 Our aim is to provide information that is useful to those who are caring for their own collection of video artworks outside an institution, as well as small, medium and large organizations. Throughout these pages key principles are highlighted and approaches are suggested depending on the size of your collection and your available resources, namely skills, budget and infrastructure. For each section we invite you to fill in a survey, which will act as a tool to help you to outline the needs of your collection. The results will form the basis for an overall preservation system design.
 

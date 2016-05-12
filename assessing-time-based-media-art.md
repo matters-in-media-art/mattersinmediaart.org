@@ -350,7 +350,7 @@ When assessing media art, aim to extend existing condition reporting practices t
 
 ![](img/peter-assessing.jpg)
 <span class="img-caption" markdown="1">
-Peter Oleksik assessing "Boomerang" by Nancy Holt and Richard Serra (1974).   
+Peter Oleksik assessing _Boomerang_ by Nancy Holt and Richard Serra (1974).   
 
 Assessing your digital video media is a crucial step on entering your collection. Not only will it help you to understand the technical characteristics and anomalies of the file(s), it will help you create a baseline against which future examinations can be compared, and generally gain a better understanding of each artwork and your collection as a whole.
 

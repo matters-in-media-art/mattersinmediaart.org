@@ -12,6 +12,9 @@ Matters in Media Art is an information resource on the care of media art.
 </span>
 
 ![](img/paik.jpg)
+<span class="img-caption" markdown="1">
+Nam June Paik _Untitled_ (1993). Player piano, 15 televisions, two cameras, two laser disc players, one electric light and light bulb, and wires, overall approx. 8′ 4″ x 8′ 9″ x 48″ (254 x 266.7 x 121.9 cm), including laser disc player and lamp. The Museum of Modern Art, New York. Bernhill Fund, Gerald S. Elliot Fund, gift of Margot Paul Ernst, and purchase. © 2013 Estate of Nam June Paik
+</span>
 
 </section>
 
