@@ -35,73 +35,32 @@ Our aim is to provide information that is useful to those who are caring for the
 
 </section>
 
+
+
+
+
+
+
+
 <section id="Know-Your-Collection" class="section scrollspy" markdown="1">
+
 ## Know your Collection
 
 The first step to planning what you need is understanding what you have. And how it might grow. This will form the basis to any further decisions regarding your infrastructure, staffing needs and budget. To help you with this initial assessment, we created a survey to gather all the core information.
 
 
-<div class="row">
-  <a href="{{ site.url }}/downloads/mattersmediaart_survey.pdf">
-<div class="col s12 m12">
+<a href="{{ site.url }}/downloads/mattersmediaart_survey.pdf">
   <div class="card green accent-3">
     <div class="card-content white-text">
       <span class="card-title">Survey: Scoping Your Digital Collection</span>
       <p>This survey has been designed to help you to establish an overview of your digital collection. Although these pages only address the needs of digital video, the presence of other types of digital artwork or digital components will have an impact on decisions regarding your systems, for example the needs for storage.</p>
-    </div>
+    </div> <!-- end of card-content -->
     <div class="card-action">
       <div class="chip"><i class="large material-icons">play_for_work</i>Take the Survey </div>
-    </div>
-  </div>
-</div>
-</div>
+    </div> <!-- end of card action-->
+  </div> <!-- end of card -->
 
 
-<!-- Modal Structure -->
-<div id="modal1" class="modal modal-fixed-footer">
-<div class="modal-content">
-  <h4>Scoping Your Collection</h4>
-  <p>We can put a nice interactive survey here...</p>
-
-<div class="row">
-<form class="col s12">
-  <div class="row">
-    <div class="input-field col s6">
-      <input placeholder="Placeholder" id="first_name" type="text" class="validate">
-      <label for="first_name">First Name</label>
-    </div>
-    <div class="input-field col s6">
-      <input id="last_name" type="text" class="validate">
-      <label for="last_name">Last Name</label>
-    </div>
-  </div>
-  <div class="row">
-    <div class="input-field col s12">
-      <input disabled value="I am not editable" id="disabled" type="text" class="validate">
-      <label for="disabled">Disabled</label>
-    </div>
-  </div>
-  <div class="row">
-    <div class="input-field col s12">
-      <input id="password" type="password" class="validate">
-      <label for="password">Password</label>
-    </div>
-  </div>
-  <div class="row">
-    <div class="input-field col s12">
-      <input id="email" type="email" class="validate">
-      <label for="email">Email</label>
-    </div>
-  </div>
-</form>
-</div>
-
-
-</div>
-<div class="modal-footer">
-  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat ">Close</a>
-</div>
-</div>
 
 <br>
 In order to plan for the storage and management of your collection, it is useful to define the categories of collection items and associated documentation that you hold. This might include the following:
@@ -136,7 +95,9 @@ Documentation created or received relating to the creation process and intended 
 
 
 You will then need to decide what level of preservation is needed for each category and how the various objects need to be linked to each other. Depending on your needs, you may want to keep all of this information together in one place, or you may wish to keep it in different locations or systems which are interconnected.
+
 <div id="collection-slider" class="liquid-slider quote-slider">
+
 <div markdown="1">
 <h2 class="title"> <font color="#00e676"> Simple </font> </h2>
 <h2> <font color="#00e676"> ______________________ </font> </h2>
@@ -157,9 +118,17 @@ You will then need to decide what level of preservation is needed for each categ
 “We keep every file we receive from the artist. When we create derivatives for preservation purposes, exhibition, or loan, every new file is given a component number in our collection management system and stored in the repository, along with details about the creation of those files. We make an access copy that goes into our DAM, so that our staff can view the collection without needing direct access to the digital repository.”
 <h2> <font color="ef5350"> ______________________ </font></h2>
 </div>
+
 </div>
 
+
 </section>
+
+
+
+
+
+
 
 <section id="Assess-Your-Skills" class="section scrollspy" markdown="1">
 
@@ -207,9 +176,6 @@ Depending on the size of your collection it may be necessary to create new roles
 
 
 
-
-
-
 <div id="roles-slider" class="liquid-slider quote-slider">
 
 <div markdown="1">
@@ -232,6 +198,12 @@ Depending on the size of your collection it may be necessary to create new roles
 </div>
 
 </section>
+
+
+
+
+
+
 
 <section id="Calculate-Your-Budget" class="section scrollspy" markdown="1">
 
@@ -353,7 +325,17 @@ A budget can be set annually or in relation to specific projects. A budget needs
 
 
 </section>
+
+
+
+
+
+
+
+
+
 <section id="Review-Collection-Management-Systems" class="section scrollspy" markdown="1">
+
 ## Review Collection Management Systems
 
 The collection management system is typically a database containing basic information about each artwork. It enables collection managers to perform the following essential functions:
@@ -489,6 +471,14 @@ These functions can include:
 
 </section>
 
+
+
+
+
+
+
+
+
 <section id="Design-Your-Storage" class="section scrollspy" markdown="1">
 ## Design your Storage
 
@@ -571,6 +561,16 @@ High-availability: This is a redundant copy of your data maintained for the abil
 Disaster recovery: When maintaining a copy of data for disaster (for instance, in the event of fire, flood, or earthquake) recovery purposes, the goal is simply to be able to retrieve, rebuild, and access your data. Within reason, ease of access is not a priority. An LTO tape stored off-site is one example of a suitable medium for a disaster recovery backup.
 </section>
 
+
+
+
+
+
+
+
+
+
+
 <section id="Implement-Fixity" class="section scrollspy" markdown="1">
 
 ## Implement Fixity
@@ -642,6 +642,18 @@ These tools create checksums, store the values, and facilitate the verification 
 
 </section>
 
+
+
+
+
+
+
+
+
+
+
+
+
 <section id="Provide-Access" class="section scrollspy" markdown="1">
 ## Provide & Limit Access
 When designing your storage, you will need to consider who should be able to access it and how. It is best practice to limit access to your master material, both to prevent unwanted changes being introduced and for legal and copyright reasons.  It may also be necessary to record each time the system is accessed and by whom - this will be particularly relevant to collecting institutions with audit requirements.
@@ -666,6 +678,15 @@ Depending on who needs to access your collection, you may also wish to consider 
 </div>
 
 </section>
+
+
+
+
+
+
+
+
+
 
 <section id="Keep-up-with-Technology" class="section scrollspy" markdown="1">
 ## Keep up with Technology
