@@ -457,10 +457,11 @@ To assess, quality-control and condition report your digital video files, you mi
   <div class="collapsible-header"><i class="material-icons">track_changes</i>Scopes</div>
   <div class="collapsible-body">
   	<p>Monitors, even when calibrated, are inherently subjective in how they represent the visual information. Oscilloscopes provide an objective view of the signal by providing access to the luminance and chrominance electronic information. The two critical scopes for the assessment of both analog and digital video are a waveform monitor and a vectorscope.
-
-Waveform Monitor: ![](img/Waveform_monitor.jpg)
+    <br><br>
+Waveform Monitor:
 The waveform monitor measures the luminance (black and white) information of the video signal. A graticule is used to plot the information on a scale and allows one to see whether the blacks are too low in the signal (which may disrupt sync in an analog system) or the whites are two high (which would allow visual confirmation that the whites are “blown out” or exceed 100 IRE).
-Vectorscope: ![](img/vectorscope.jpg) The vectorscope is a 360 degree color wheel that measures the hue and saturation of the chrominance information in the video signal. Known references like fleshtone, blue sky, etc. can be used to discern whether the chrominance information is being represented faithfully.</p>
+<br><br>
+Vectorscope: The vectorscope is a 360 degree color wheel that measures the hue and saturation of the chrominance information in the video signal. Known references like fleshtone, blue sky, etc. can be used to discern whether the chrominance information is being represented faithfully.</p>
   </div>
 </li>
 <li>
