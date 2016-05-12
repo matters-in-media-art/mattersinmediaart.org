@@ -322,8 +322,8 @@ In order to be able to establish a budget you will need to have gathered the fol
   </li>
 </ul>
 
-
-[Link to the budget template](https://docs.google.com/spreadsheets/d/1WBgSIlsFzoQEWQQaz-cIWYo5LjTrvcYtuWyd9¬HnG8g/edit?usp=sharing)
+<!--
+[Link to the budget template](https://docs.google.com/spreadsheets/d/1WBgSIlsFzoQEWQQaz-cIWYo5LjTrvcYtuWyd9¬HnG8g/edit?usp=sharing) -->
 
 
 ### Estimate your storage costs
