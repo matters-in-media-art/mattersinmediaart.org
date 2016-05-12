@@ -5,7 +5,7 @@ published: true
 ---
 
 <span class="flow-text">
-Since the start of this project in 2005, media arts have predominantly shifted to the digital realm. Digital collections and legacy works that have been digitized require appropriate storage. These pages focus on the challenge of creating storage systems for our digital art collections and moving digital collections into these systems.
+Since this project started in 2005, media arts have predominantly shifted to the digital realm. Digital collections and legacy works that have been digitized require appropriate storage. These pages focus on the challenge of creating storage systems for our digital art collections and moving digital collections into these systems.
 </span>
 
 ![](img/Mengbo.jpg)
