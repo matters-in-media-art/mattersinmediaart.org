@@ -159,9 +159,10 @@ You will then need to decide what level of preservation is needed for each categ
 </div>
 </div>
 
-
 </section>
+
 <section id="Assess-Your-Skills" class="section scrollspy" markdown="1">
+
 ## Assess your Skills
 
 ![](img/image for community resources.jpg)
@@ -231,6 +232,7 @@ Depending on the size of your collection it may be necessary to create new roles
 </div>
 
 </section>
+
 <section id="Calculate-Your-Budget" class="section scrollspy" markdown="1">
 
 ## Calculate your Budget
@@ -568,6 +570,7 @@ High-availability: This is a redundant copy of your data maintained for the abil
 
 Disaster recovery: When maintaining a copy of data for disaster (for instance, in the event of fire, flood, or earthquake) recovery purposes, the goal is simply to be able to retrieve, rebuild, and access your data. Within reason, ease of access is not a priority. An LTO tape stored off-site is one example of a suitable medium for a disaster recovery backup.
 </section>
+
 <section id="Implement-Fixity" class="section scrollspy" markdown="1">
 
 ## Implement Fixity
@@ -663,6 +666,7 @@ Depending on who needs to access your collection, you may also wish to consider 
 </div>
 
 </section>
+
 <section id="Keep-up-with-Technology" class="section scrollspy" markdown="1">
 ## Keep up with Technology
 Storage technology changes rapidly, so it is important to keep up to date and informed. You should keep an eye on the long-term viability of your chosen storage system and be proactive in migrating to more sustainable storage media or services. You will need to consider the reliability and availability of the storage media itself as well as the equipment needed to access it.  
