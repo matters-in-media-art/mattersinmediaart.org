@@ -13,8 +13,8 @@ Media artworks often require complex, cross-disciplinary documentation, challeng
 ![](img/IMG_4848_2.JPG)
 
 <span class="img-caption" markdown="1">
-Aebhric Coleman and Steve Dye documenting "TV Buddha" (1989) by Nam June Paik
-<!--(c) Partial and promised gift of Pamela and Richard Kramlich to the New Art Trust to benefit the San Francisco Museum of Modern Art, The Museum of Modern Art, New York, and Tate, United Kingdom-->
+Aebhric Coleman from the NAT and Steve Dye from SFMOMA documenting _TV Buddha_ (1989) by Nam June Paik.
+Partial and promised gift of Pamela and Richard Kramlich to the New Art Trust to benefit the San Francisco Museum of Modern Art, The Museum of Modern Art, New York, and Tate, United Kingdom. © 2013 Estate of Nam June Paik. Digital image © 2013 San Francisco Museum of Modern Art.
 </span>
 
 

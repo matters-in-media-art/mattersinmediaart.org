@@ -47,7 +47,7 @@ The first step to planning what you need is understanding what you have. And how
 
 
 
-<a href="{{ site.url }}/downloads/mattersmediaart_survey.pdf">
+<a href="{{ site.url }}/downloads/Survey_Scoping-your-collection.pdf">
   <div class="card grey lighten-3">
     <div class="card-content grey lighten-3 text">
       <span class="card-title"><font color="#00e676">Survey: Scoping Your Digital Collection</font></span>
@@ -138,6 +138,11 @@ You will then need to decide what level of preservation is needed for each categ
 ## Assess your Skills
 
 ![](img/image for community resources.jpg)
+
+<span class="img-caption" markdown="1">
+Expert meeting of media art conservators and archivists on collection management systems hosted by the Museum of Modern Art, New York. Digital image © 2014 The Museum of Modern Art, New York.
+</span>
+
 
 Caring for digital files is not fundamentally different from caring for art objects in other media, and the steps needed have parallels to the ones in more traditional conservation specializations.
 

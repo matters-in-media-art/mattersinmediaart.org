@@ -160,6 +160,11 @@ Although the artist may have specific requirements for display equipment, the eq
 
 ![Photo of conservator assessing a video]({{site.baseurl}}/img/assessment.jpg)
 
+<span class="img-caption" markdown="1">
+Glenn Wharton and Peter Oleksik from MOMA NY preview a digital video. Digital image © The Museum of Modern Art, New York. 
+</span>
+
+
 ### Pre-assessment
 
 
