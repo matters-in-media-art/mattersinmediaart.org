@@ -13,7 +13,10 @@ Since this project started in 2005, media arts have predominantly shifted to the
 Feng Mengbo _Long March: Restart_ (2008). Video game (color, sound), custom computer software, and wireless game controller. Dimensions and duration variable. The Museum of Modern Art, New York. Given anonymously, 2008. © 2015 Feng Mengbo. Installation view, Scenes for a New Heritage: Contemporary Art From the Collection, The Museum of Modern Art, New York (March 7, 2015 - April 10, 2016). Digital image © 2015 The Museum of Modern Art, New York. Photo: Thomas Griesel.
 </span>
 
-Our aim is to provide information that is useful to those who are caring for their own collection of video artworks outside an institution, as well as small, medium and large organizations. Throughout these pages key principles are highlighted and approaches are suggested depending on the size of your collection and your available resources, namely skills, budget and infrastructure. For each section we invite you to fill in a survey, which will act as a tool to help you to outline the needs of your collection. The results will form the basis for an overall preservation system design.
+<br>
+Our aim is to provide information that is useful to anyone who is caring for their own collection of video artworks in small, medium or large organizations as well as outside of an institution. Core principles are accentuated and you will find different approaches for different collection requirements highlighted throughout the text as quotes. We invite you to fill out a [survey]({{ site.url }}/sustaining-your-collection.html#Know-Your-Collection), which will act as a tool to help you outline the needs of your collection. The results will form the basis for an overall preservation system design.
+
+<br>
 
 <section id="Core-Principles" class="section scrollspy" markdown="1">
 
@@ -225,7 +228,7 @@ Depending on the size of your collection it may be necessary to create new roles
 
 No matter if you are a private collector or a large institution, significant costs are involved in collecting and maintaining digital artworks. When calculating a budget, there are two different types of costs to consider: capital costs (one-time purchases of fundamental infrastructure or tools that will in theory last several years) and ongoing or recurring costs that will become part of a regular operating budget and may increase as your collection grows.
 
-Drawing from the results of the survey, you can start to develop how much storage you will need and begin costing for digital storage, infrastructure and support. This can range from budgeting for hard drives to developing costs for a robust repository supported by IT staff. Below are 3 examples of different budgets and the necessary considerations to develop these budgets.
+Drawing from the results of the [survey]({{ site.url }}/sustaining-your-collection.html#Know-Your-Collection), you can start to develop how much storage you will need and begin costing for digital storage, infrastructure and support. This can range from budgeting for hard drives to developing costs for a robust repository supported by IT staff. Below are 3 examples of different budgets and the necessary considerations to develop these budgets.
 
 <div id="budget-slider" class="liquid-slider quote-slider">
 
