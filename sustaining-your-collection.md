@@ -228,27 +228,7 @@ Depending on the size of your collection it may be necessary to create new roles
 
 No matter if you are a private collector or a large institution, significant costs are involved in collecting and maintaining digital artworks. When calculating a budget, there are two different types of costs to consider: capital costs (one-time purchases of fundamental infrastructure or tools that will in theory last several years) and ongoing or recurring costs that will become part of a regular operating budget and may increase as your collection grows.
 
-Drawing from the results of the [survey]({{ site.url }}/sustaining-your-collection.html#Know-Your-Collection), you can start to develop how much storage you will need and begin costing for digital storage, infrastructure and support. This can range from budgeting for hard drives to developing costs for a robust repository supported by IT staff. Below are 3 examples of different budgets and the necessary considerations to develop these budgets.
-
-<div id="budget-slider" class="liquid-slider quote-slider">
-
-<div markdown="1">
-<h2 class="title"></h2>
->“We have a dedicated budget for staff and collections care for digital collections, as well as a budget for building and maintaining our storage infrastructure. Budgets are revisited annually as our growth estimates evolve.”
-</div>
-
-
-<div markdown="1">
-<h2 class="title"></h2>
->“We do have a budget primarily for storage and modest conservation assessments and costs. This budget was originally designed around physical storage for objects, but we have since expanded it to include budgeting for digital storage. We have a running storage cost for cloud storage [insert Amazon cloud costs here] and back up everything else to LTO tapes.”
-</div>
-
-<div markdown="1">
-<h2 class="title"></h2>
->“What budget? I have zero budget, so everything I invest in cataloging and storage feels like a stretch. But I do realize I have to keep track of my work and pay attention to storage, or else I risk losing my work. It’s hard to allocate money to save back-ups of my work when it’s not like it’s earning tons of money, but by keeping things simple I think I’ve been able to cover the basics at a reasonable cost.”
-</div>
-</div>
-
+Drawing from the results of the [survey]({{ site.url }}/sustaining-your-collection.html#Know-Your-Collection), you can start to develop how much storage you will need and begin costing for digital storage, infrastructure and support. This can range from budgeting for hard drives to developing costs for a robust repository supported by IT staff.
 In order to be able to establish a budget you will need to have gathered the following:
 
 
@@ -322,8 +302,40 @@ In order to be able to establish a budget you will need to have gathered the fol
   </li>
 </ul>
 
+<br>
+
+We created an excel sheet for you into which you can enter your costs and calculate total amounts, illustrated by graphs over time:
+<div class="col s12">
+<a href="{{ site.url }}/downloads/MMA_budget_template.xlsx">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Budget calculator</div>
+    </a>
+    </div>
+
 <!--
-[Link to the budget template](https://docs.google.com/spreadsheets/d/1WBgSIlsFzoQEWQQaz-cIWYo5LjTrvcYtuWyd9¬HnG8g/edit?usp=sharing) -->
+[Link to the budget template](https://docs.google.com/spreadsheets/d/1WBgSIlsFzoQEWQQaz-cIWYo5LjTrvcYtuWyd9-HnG8g/edit?usp=sharing)-->
+
+<br>
+
+Below are three examples of different budgets and the necessary considerations to develop these budgets:
+
+<div id="budget-slider" class="liquid-slider quote-slider">
+
+<div markdown="1">
+<h2 class="title"></h2>
+>“We have a dedicated budget for staff and collections care for digital collections, as well as a budget for building and maintaining our storage infrastructure. Budgets are revisited annually as our growth estimates evolve.”
+</div>
+
+
+<div markdown="1">
+<h2 class="title"></h2>
+>“We do have a budget primarily for storage and modest conservation assessments and costs. This budget was originally designed around physical storage for objects, but we have since expanded it to include budgeting for digital storage. We have a running storage cost for cloud storage [insert Amazon cloud costs here] and back up everything else to LTO tapes.”
+</div>
+
+<div markdown="1">
+<h2 class="title"></h2>
+>“What budget? I have zero budget, so everything I invest in cataloging and storage feels like a stretch. But I do realize I have to keep track of my work and pay attention to storage, or else I risk losing my work. It’s hard to allocate money to save back-ups of my work when it’s not like it’s earning tons of money, but by keeping things simple I think I’ve been able to cover the basics at a reasonable cost.”
+</div>
+</div>
 
 
 ### Estimate your storage costs
