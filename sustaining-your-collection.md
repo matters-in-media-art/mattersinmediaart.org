@@ -55,9 +55,13 @@ The first step to planning what you need is understanding what you have. And how
       <span class="card-title"><font color="#00e676">Survey: Scoping Your Digital Collection</font></span>
       <p>This survey has been designed to help you to establish an overview of your digital collection. Although these pages only address the needs of digital video, the presence of other types of digital artwork or digital components will have an impact on decisions regarding your systems, for example the needs for storage.</p>
     </div> <!-- end of card-content -->
-    <div class="card-action">
-      <div class="chip"><i class="large material-icons">play_for_work</i>Take the Survey </div>
-    </div> <!-- end of card action-->
+    <div class="col s12">
+    <a href="{{ site.url }}/downloads/Survey_Scoping-your-collection.pdf">
+      <div class="chip"><i class="large material-icons">play_for_work</i>Collection Survey
+        </div>
+        </a>
+        </div>
+        <br><br>
   </div> <!-- end of card -->
 
 
