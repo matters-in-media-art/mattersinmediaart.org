@@ -683,6 +683,8 @@ Depending on your workflow you may carry out a technical assessment before you c
 * That this is not an of absence of key information in the streams and the wrapper.
 * Confirm that the basic matches content matches what was expected from the artist, for example the codec, the wrapper, audio sample rate and bit¬depth, subsampling, frame rate and the duration.
 
+<br>
+
 #### Assessing Files: How to
 
 * Run <a href="https://en.wikipedia.org/wiki/MediaInfo">MediaInfo</a> on your file(s) to expose the technical metadata for analysis:
@@ -690,17 +692,22 @@ Depending on your workflow you may carry out a technical assessment before you c
 MAC Users:
 
 * Open Terminal
-* Run MediaInfo on the video files you are about to assess command: mediainfo ¬f [path to input file]
-* It will look something like this:
+* Run MediaInfo on the video files you are about to assess with the command: mediainfo -f [path to input file]
+
+<!--* It will look something like this:
 
 PC Users:
 
-* Run MediaInfo with the following command it will look something like this:
+* Run MediaInfo with the following command it will look something like this:-->
+
+<br>
 
 #### Assessing files: Identifying Technical Problems
 
 ##### Integrity  
-This step is to confirm that the files integrity is intact and there are no obvious signs that the file is incomplete or corrupted. The first method of checking the integrity of the file is to confirm that the file checksum associated with the file, if supplied with the artist on receipt, validates when transferred or moved to your storage infrastructure. If the checksum does not validate, this is a clear sign that something technically has changed within the file. The second method of checking the file integrity is to analyze the MediaInfo report for clear indicators of technical problems. These can vary, but an example is a file that will not open in any player and the mediainfo report looks like the image below [!](img/mediainfoerror.jpg)
+This step is to confirm that the files integrity is intact and there are no obvious signs that the file is incomplete or corrupted. The first method of checking the integrity of the file is to confirm that the file checksum associated with the file, if supplied with the artist on receipt, validates when transferred or moved to your storage infrastructure. If the checksum does not validate, this is a clear sign that something technically has changed within the file. The second method of checking the file integrity is to analyze the MediaInfo report for clear indicators of technical problems. These can vary, but an example is a file that will not open in any player and the mediainfo report looks like the image below:
+
+![](img/mediainfoerror.jpg)
 
 When analyzing this report, it becomes clear that the file is incomplete and lacks the video and audio streams necessary for playback as the MediaInfo report finishes without displaying the video or audio stream technical metadata. This makes it clear that this information is not present in the file and is the reason for its inability to be displayed. This is a critical error with the file and will necessitate replacement.
 
@@ -758,9 +765,9 @@ In this example, the 3 fields to look at are:
 
 There is a conflict in the subsampling between the “color_primaries” and the “matrix_coefficient” where the file contains decoding information that relates to 2 very different color spaces, BT.709 and BT.601. This conflict would expose itself if played back in Quicktime where the player would default to BT.601, which is the incorrect colorspace.
 
-
+<!-- not sure where this should link to -MH
 ####	Assessment Documentation
 
 See Overview of Condition Documentation section for guidelines of how to document the assessment process.
-
+-->
 </section>
