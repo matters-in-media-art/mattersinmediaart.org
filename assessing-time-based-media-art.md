@@ -233,7 +233,7 @@ Additional information about conserving media works may be found at the followin
 
 When assessing media art, aim to extend existing condition reporting practices to include media artworks. A condition report provides the baseline against which future examinations can be compared. For media-based works of art a report is divided into three sections – the media elements, the equipment and the overall installation. They are different from condition reports for more conventional works of art in that some of the components may be easily replaceable without loss. It is often not possible to know by looking at any component, its value or significance in relation to the identity of the work of art. In addition to the example reports below, please also refer to the website Time-based Media Conservation by Joanna Phillips, Time-based Media Conservator at the Solomon R. Guggenheim Museum http://www.guggenheim.org/conservation/time-based-media
 
- <!-- previous layout:
+<!-- previous layout:
 * [Structure and condition report]({{ site.url }}/downloads/structure_and_condition_reports.rtf) (RTF, 180KB)
 * [Video artwork prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_videoprompt.rtf) (RTF, 81KB)
 * [Audio artwork prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_audioprompt.rtf) (RTF, 77KB)
@@ -349,7 +349,8 @@ When assessing media art, aim to extend existing condition reporting practices t
 
 
 ![](img/peter-assessing.jpg)
-
+<span class="img-caption" markdown="1">
+Peter Oleksik assessing "Boomerang" by Nancy Holt and Richard Serra (1974).   
 
 Assessing your digital video media is a crucial step on entering your collection. Not only will it help you to understand the technical characteristics and anomalies of the file(s), it will help you create a baseline against which future examinations can be compared, and generally gain a better understanding of each artwork and your collection as a whole.
 
@@ -457,22 +458,21 @@ To assess, quality-control and condition report your digital video files, you mi
   <div class="collapsible-body">
   	<p>Monitors, even when calibrated, are inherently subjective in how they represent the visual information. Oscilloscopes provide an objective view of the signal by providing access to the luminance and chrominance electronic information. The two critical scopes for the assessment of both analog and digital video are a waveform monitor and a vectorscope.
 
-Waveform Monitor: [IMAGE]
+Waveform Monitor: ![](img/Waveform_monitor.jpg)
 The waveform monitor measures the luminance (black and white) information of the video signal. A graticule is used to plot the information on a scale and allows one to see whether the blacks are too low in the signal (which may disrupt sync in an analog system) or the whites are two high (which would allow visual confirmation that the whites are “blown out” or exceed 100 IRE).
-Vectorscope: [IMAGE]The vectorscope is a 360 degree color wheel that measures the hue and saturation of the chrominance information in the video signal. Known references like fleshtone, blue sky, etc. can be used to discern whether the chrominance information is being represented faithfully.</p>
+Vectorscope: ![](img/vectorscope.jpg) The vectorscope is a 360 degree color wheel that measures the hue and saturation of the chrominance information in the video signal. Known references like fleshtone, blue sky, etc. can be used to discern whether the chrominance information is being represented faithfully.</p>
   </div>
 </li>
 <li>
   <div class="collapsible-header"><i class="material-icons">perm_device_information</i>Software</div>
   <div class="collapsible-body">
-  	<p>Software is crucial in the assessment of your digital video material. It is important to understand the basics of the software and how it functions to know whether your video is being processed and faithfully represented. Typically, capture and editing software like Blackmagic’s Media Express, Adobe Premiere and Final Cut Pro X can be used to analyze the discrete portions of your video material and allows for an in-depth assessment of its basic characteristics (luminance, chrominance and audio). Free tools such as QCtools (REF) also allow for in-depth assessment of your video files and have been developed for the archiving community.</p>
+  	<p>Software is crucial in the assessment of your digital video material. It is important to understand the basics of the software and how it functions to know whether your video is being processed and faithfully represented. Typically, capture and editing software like Blackmagic’s Media Express, Adobe Premiere and Final Cut Pro X can be used to analyze the discrete portions of your video material and allows for an in-depth assessment of its basic characteristics (luminance, chrominance and audio). Free tools such as <a href ="https://www.bavc.org/preserve-media/preservation-tools">QCtools</a> also allow for in-depth assessment of your video files and have been developed for the archiving community.</p>
   </div>
 </li>
 <li>
   <div class="collapsible-header"><i class="material-icons">volume_up</i>Audio</div>
   <div class="collapsible-body">
-  	<p>[IMAGE OF MONITORS AND METERS]
-Quality audio monitors and meters are also necessary in the assessment of video material. A pair of studio grade, near-field speakers is recommended for listening to a piece. In addition, audio scopes using either the decibel (dB) or volume unit (VU) method of measurement are useful in looking at whether the audio is clipped, compressed or otherwise distorted, and for measuring whether the audio is in phase or not. http://www.sweetwater.com/insync/phase-2/ </p>
+  	<p>Quality audio monitors and meters are also necessary in the assessment of video material. A pair of studio grade, near-field speakers is recommended for listening to a piece. In addition, audio scopes using either the decibel (dB) or volume unit (VU) method of measurement are useful in looking at whether the audio is clipped, compressed or otherwise distorted, and for measuring whether the audio is in <a href="http://www.sweetwater.com/insync/phase-2/">phase</a> or not.</p>
   </div>
 </li>
 </ul>
@@ -678,13 +678,13 @@ Depending on your workflow you may carry out a technical assessment before you c
 
 * Confirm that the content is as expected.
 * Ensure that there are no technical problems with the streams.
-* That there is no conflicting information between the streams and the wrapper. For example, a particular combination of stream(s) and     wrapper may provide ambiguous instructions for decoding, leaving the possibility that different players might play back the video stream differently. If this is the case it is helpful to clarify with the artist or their representative, if at all possible.
+* That there is no conflicting information between the streams and the wrapper. For example, a particular combination of stream(s) and wrapper may provide ambiguous instructions for decoding, leaving the possibility that different players might play back the video stream differently. If this is the case it is helpful to clarify with the artist or their representative, if at all possible.
 * That this is not an of absence of key information in the streams and the wrapper.
 * Confirm that the basic matches content matches what was expected from the artist, for example the codec, the wrapper, audio sample rate and bit¬depth, subsampling, frame rate and the duration.
 
 #### Assessing Files: How to
 
-* Run MediaInfo (https://en.wikipedia.org/wiki/MediaInfo) on your file(s) to expose the technical metadata for analysis:
+* Run <a href="https://en.wikipedia.org/wiki/MediaInfo">MediaInfo</a> on your file(s) to expose the technical metadata for analysis:
 
 MAC Users:
 
@@ -699,7 +699,7 @@ PC Users:
 #### Assessing files: Identifying Technical Problems
 
 ##### Integrity  
-This step is to confirm that the files integrity is intact and there are no obvious signs that the file is incomplete or corrupted. The first method of checking the integrity of the file is to confirm that the file checksum associated with the file, if supplied with the artist on receipt, validates when transferred or moved to your storage infrastructure. If the checksum does not validate, this is a clear sign that something technically has changed within the file. The second method of checking the file integrity is to analyze the MediaInfo report for clear indicators of technical problems. These can vary, but an example is a file that will not open in any player and the mediainfo report looks like the image below (insert image):
+This step is to confirm that the files integrity is intact and there are no obvious signs that the file is incomplete or corrupted. The first method of checking the integrity of the file is to confirm that the file checksum associated with the file, if supplied with the artist on receipt, validates when transferred or moved to your storage infrastructure. If the checksum does not validate, this is a clear sign that something technically has changed within the file. The second method of checking the file integrity is to analyze the MediaInfo report for clear indicators of technical problems. These can vary, but an example is a file that will not open in any player and the mediainfo report looks like the image below [!](img/mediainfoerror.jpg)
 
 When analyzing this report, it becomes clear that the file is incomplete and lacks the video and audio streams necessary for playback as the MediaInfo report finishes without displaying the video or audio stream technical metadata. This makes it clear that this information is not present in the file and is the reason for its inability to be displayed. This is a critical error with the file and will necessitate replacement.
 
