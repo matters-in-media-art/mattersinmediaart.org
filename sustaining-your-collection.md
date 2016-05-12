@@ -16,24 +16,24 @@ Our aim is to provide information that is useful to those who are caring for the
 <section id="Core-Principles" class="section scrollspy" markdown="1">
 <div class="row">
 <div class="col s12 m12">
-  <div class="card green accent-3">
-    <div class="card-content white-text">
-      <span class="card-title">Core Principles</span>
-        <p>
-         <ul>
-          <li> Do to digital works as you would to any artwork: identify, catalog, describe, treat, document and track </li>
-          <li> Be prepared to be unprepared: the necessary skills evolve constantly and will be found both within and beyond your walls </li>
-          <li> Build storage for your present collection but lay groundwork for the future </li>
-          <li> The budget to build collection storage is nothing without the budget to sustain it</li>  
-          <li>Digital collections require active maintenance and will not survive passive storage</li>
-        </ul>
-        </p>
-       </div>
+  <div class="card grey lighten-3">
+    <div class="card-content grey lighten-3 text">
+      <span class="card-title"> <font color="#00e676"> Core Principles</font></span>
+       <br>
+       <p>
+        <ul>
+         <li> Do to digital works as you would to any artwork: identify, catalog, describe, treat, document and track </li>
+         <li> Be prepared to be unprepared: the necessary skills evolve constantly and will be found both within and beyond your walls </li>
+         <li> Build storage for your present collection but lay groundwork for the future </li>
+         <li> The budget to build collection storage is nothing without the budget to sustain it</li>  
+         <li>Digital collections require active maintenance and will not survive passive storage</li>
+       </ul>
+       </p>
     </div>
   </div>
 </div>
+</div>
 
-</section>
 
 
 
@@ -49,10 +49,11 @@ Our aim is to provide information that is useful to those who are caring for the
 The first step to planning what you need is understanding what you have. And how it might grow. This will form the basis to any further decisions regarding your infrastructure, staffing needs and budget. To help you with this initial assessment, we created a survey to gather all the core information.
 
 
+
 <a href="{{ site.url }}/downloads/mattersmediaart_survey.pdf">
-  <div class="card green accent-3">
-    <div class="card-content white-text">
-      <span class="card-title">Survey: Scoping Your Digital Collection</span>
+  <div class="card grey lighten-3">
+    <div class="card-content grey lighten-3 text">
+      <span class="card-title"><font color="#00e676">Survey: Scoping Your Digital Collection</font></span>
       <p>This survey has been designed to help you to establish an overview of your digital collection. Although these pages only address the needs of digital video, the presence of other types of digital artwork or digital components will have an impact on decisions regarding your systems, for example the needs for storage.</p>
     </div> <!-- end of card-content -->
     <div class="card-action">
@@ -61,8 +62,23 @@ The first step to planning what you need is understanding what you have. And how
   </div> <!-- end of card -->
 
 
+    <div class="col s12">
+    <a href="{{ site.url }}/downloads/mattersmediaart_survey.pdf">
+      <div class="chip"><i class="large material-icons">play_for_work</i>Take the Survey
+        </div>
+        </a>
+        </div>
+        <br>
+  </div>
+</div>
+</div>
+<br><br>
 
-<br>
+
+
+
+
+<br><br>
 In order to plan for the storage and management of your collection, it is useful to define the categories of collection items and associated documentation that you hold. This might include the following:
 
 <ul class="collapsible" data-collapsible="accordion">
@@ -412,7 +428,7 @@ There is a certain amount of information you should make sure is held with the f
   <div class="collapsible-header">Fixity</div>
   <div class="collapsible-body">
     <ul>
-      <li> 
+      <li>
        Creating checksums allows you to ensure that a file has remained unchanged. For more information, please refer to the <a href="http://mattersinmediaart.org/sustaining-your-collection.html#Implement-Fixity">Fixity</a> section</li>
     </ul>  
   </div>
@@ -485,24 +501,23 @@ These functions can include:
 
 This section outlines the key elements associated with the design and build of reliable storage for long term digital preservation. The content has been arranged to address a range of situations; whether you are an individual who is designing a low risk personal storage solution, through to a large organization. No matter the size of your collection the following core principles need to be considered when designing your storage:
 
-
-
 <div class="row">
 <div class="col s12 m12">
-  <div class="card light-blue accent-2">
-    <div class="card-content white-text">
-      <span class="card-title">Core Principles</span>
-        <p>
-         <ul>
-          <li> Geographic Rendundancy - Multiple copies of data should be held at different geographical locations, and a disaster recovery plan should be in place. </li>
-          <li> Fixity Checking - Regularly monitoring digital files in order to detect corruption or unwanted changes to your data. </li>
-          <li> Access and Security - The speed and restriction of access to data needs to be appropriate for its intended use and the level of protection required. </li>
-          <li> Technology Monitoring - Trends in storage technology should be monitored to assess when migration to new storage media will be necessary.</li>  
-        </ul>
-        </p>
-       </div>
+  <div class="card grey lighten-3">
+    <div class="card-content grey lighten-3 text">
+      <span class="card-title"> <font color="#00e676"> Core Principles</font></span>
+       <br>
+       <p>
+       <ul>
+        <li> Geographic Rendundancy - Multiple copies of data should be held at different geographical locations, and a disaster recovery plan should be in place. </li>
+        <li> Fixity Checking - Regularly monitoring digital files in order to detect corruption or unwanted changes to your data. </li>
+        <li> Access and Security - The speed and restriction of access to data needs to be appropriate for its intended use and the level of protection required. </li>
+        <li> Technology Monitoring - Trends in storage technology should be monitored to assess when migration to new storage media will be necessary.</li>  
+      </ul>
+       </p>
     </div>
   </div>
+</div>
 </div>
 
 
