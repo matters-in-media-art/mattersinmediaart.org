@@ -121,12 +121,25 @@ video#bgvid {
   width: 100%;
 }
 
+
+.assessment th{
+text-align: center;
+font-size: 15px;
+font-weight: lighter;
+}
+
 .assessment td, th{
 padding: 6px 5px !important;
+border-left: 0px solid #cfd8dc;
+border-right: 1px solid #cfd8dc;
+font-weight: lighter;
+font-size: 17px;
 }
 
 .assessment .yes{
-  background-color: #00E676;
+  /*background-color: #00E676;*/
+  text-align: center;
+  color: #00E676;
 }
 
 .container .s12 ul{
@@ -2519,7 +2532,8 @@ table {
     text-align: center; }
 
 thead {
-  border-bottom: 1px solid #d0d0d0; }
+  border-bottom: 1px solid #d0d0d0;
+ }
 
 td, th {
   padding: 15px 5px;

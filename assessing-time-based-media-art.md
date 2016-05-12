@@ -469,90 +469,97 @@ Quality audio monitors and meters are also necessary in the assessment of video 
 
 <br>
 
-####	Cost Guide For Workstation Tools
+####	Set-ups for Assessment Workstations
+
 
 <table class="assessment bordered highlight">
         <thead>
           <tr>
-              <th data-field="id">Name of equipment</th>
-              <th data-field="name">$</th>
-              <th data-field="price">$$</th>
-              <th data-field="price">$$$</th>
+              <th data-field="id"></th>
+              <th data-field="name">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+              <th data-field="price">&nbsp;&nbsp;Advanced&nbsp;&nbsp;</th>
+              <th data-field="price">Professional</th>
           </tr>
         </thead>
 
         <tbody>
           <tr>
             <td>Analog-to-digital video card</td>
-            <td class="yes"></td>
-            <td class="yes"></td>
-            <td class="yes"></td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
             <td>Computer</td>
-            <td class="yes"></td>
-            <td class="yes"></td>
-            <td class="yes"></td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Video Editing Software</td>
-            <td class="yes"></td>
-            <td class="yes"></td>
-            <td class="yes"></td>
+            <td>Video editing software</td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Video playback software Assessment Software</td>
-            <td class="yes"></td>
-            <td class="yes"></td>
-            <td class="yes"></td>
+            <td>Video playback software</td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>CRT Monitor has SDI video input</td>
-            <td class="yes"></td>
-            <td class="yes"></td>
-            <td class="yes"></td>
+            <td>Assessment software</td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>CRT Monitor has composite video input</td>
-            <td></td>
-            <td class="yes"></td>
-            <td class="yes"></td>
+            <td>CRT monitor with SDI video input</td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Audio Monitors</td>
+            <td>CRT Monitor with composite video input</td>
             <td></td>
-            <td class="yes"></td>
-            <td class="yes"></td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Audio Meter</td>
+            <td>Audio monitors</td>
             <td></td>
-            <td class="yes"></td>
-            <td class="yes"></td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Analog Waveform Monitor/Vectorscope</td>
+            <td>Audio meter</td>
             <td></td>
-            <td class="yes"></td>
-            <td class="yes"></td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Digital Waveform Monitor/Vectorscope</td>
+            <td>Analog waveform monitor/vectorscope</td>
             <td></td>
-            <td></td>
-            <td class="yes"></td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Sync Generator with Colorbars/1Khz tone</td>
+            <td>Digital waveform monitor/vectorscope</td>
             <td></td>
             <td></td>
-            <td class="yes"></td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>CRT Monitor has component video input</td>
+            <td>Sync generator with colorbars/1Khz tone</td>
             <td></td>
             <td></td>
-            <td class="yes"></td>
+            <td class="yes">✓</td>
+          </tr>
+          <tr>
+            <td>CRT monitor with component video input</td>
+            <td></td>
+            <td></td>
+            <td class="yes">✓</td>
           </tr>
         </tbody>
       </table>
@@ -657,7 +664,7 @@ Depending on your workflow you may carry out a technical assessment before you c
 
 </section>
 <section id="assessing-files" class="section scrollspy" markdown="1">
-### Assessing files
+### Assessing Files
 
 * Confirm that the content is as expected.
 * Ensure that there are no technical problems with the streams.
@@ -665,7 +672,7 @@ Depending on your workflow you may carry out a technical assessment before you c
 * That this is not an of absence of key information in the streams and the wrapper.
 * Confirm that the basic matches content matches what was expected from the artist, for example the codec, the wrapper, audio sample rate and bit¬depth, subsampling, frame rate and the duration.
 
-Assessing files: How to:
+#### Assessing Files: How to
 
 * Run MediaInfo (https://en.wikipedia.org/wiki/MediaInfo) on your file(s) to expose the technical metadata for analysis:
 
@@ -679,14 +686,14 @@ PC Users:
 
 * Run MediaInfo with the following command it will look something like this:
 
-Assessing files: Identifying Technical Problems
+#### Assessing files: Identifying Technical Problems
 
-Integrity  
+##### Integrity  
 This step is to confirm that the files integrity is intact and there are no obvious signs that the file is incomplete or corrupted. The first method of checking the integrity of the file is to confirm that the file checksum associated with the file, if supplied with the artist on receipt, validates when transferred or moved to your storage infrastructure. If the checksum does not validate, this is a clear sign that something technically has changed within the file. The second method of checking the file integrity is to analyze the MediaInfo report for clear indicators of technical problems. These can vary, but an example is a file that will not open in any player and the mediainfo report looks like the image below (insert image):
 
 When analyzing this report, it becomes clear that the file is incomplete and lacks the video and audio streams necessary for playback as the MediaInfo report finishes without displaying the video or audio stream technical metadata. This makes it clear that this information is not present in the file and is the reason for its inability to be displayed. This is a critical error with the file and will necessitate replacement.
 
-Conflicts in Wrapper versus Streams
+##### Conflicts in Wrapper versus Streams
 
 Problems might arise in the consistent playback of a video stream with regards to aspect ratio and color interpretation if there is conflicting metadata held in the wrapper and the stream. For example as demonstrated in the "Video" section of this MediaInfo report:
 <div class="row">
