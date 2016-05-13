@@ -149,7 +149,7 @@ You will then need to decide what level of preservation is needed for each categ
 ![](img/image for community resources.jpg)
 
 <span class="img-caption" markdown="1">
-Expert meeting of media art conservators and archivists on collection management systems hosted by the Museum of Modern Art, New York. Digital image © 2014 The Museum of Modern Art, New York.
+Expert meeting of media conservators and archivists on digital repositories and user needs hosted by the Museum of Modern Art, New York. Digital image © 2014 The Museum of Modern Art, New York.
 </span>
 
 
@@ -462,7 +462,7 @@ There is further information that will need to be kept in order to ensure an art
 
 ### Digital Repositories
 
-Collections management systems however are just a part of the picture of digital stewardship, as they do not generally facilitate core digital preservation actvities. To meet these needs, organizations typically emlpoy a system, or suite of systems reffered to as a digital repository. There are many functions that can be carried out by a digital repository system in order to monitor and ensure the ongoing preservation of your collection objects. Just as for collection management systems, the way these functions are implemented will depend on individual circumstances. For a small, homogenous collection, many of these functions could be carried out manually. For a larger and more varied collection, there are significant benefits to having automated workflows and systems in place.
+Collections management systems however are just a part of the picture of digital stewardship, as they do not generally facilitate core digital preservation actvities. To meet these needs, organizations typically employ a system, or suite of systems referred to as a digital repository. There are many functions that can be carried out by a digital repository system in order to monitor and ensure the ongoing preservation of your collection objects. Just as for collection management systems, the way these functions are implemented will depend on individual circumstances. For a small, homogenous collection, many of these functions could be carried out manually. For a larger and more varied collection, there are significant benefits to having automated workflows and systems in place.
 
 This is an area which has developed very rapidly in recent years and even large organizations have struggled to develop the infrastructure to keep pace with their growing digital collections. It is therefore important to understand that the term repository refers to a number of functions which need to be carried out and which are underpinned by some of the key ideas to emerge regarding digital preservation practice.
 
@@ -475,8 +475,6 @@ These functions can include:
 * Generation of normalized masters where necessary. A normalized master is a preservation copy of a file in a standardized format. There is some debate regarding when the creation of normalized copies is advisable. In general, video file formats are less vulnerable to obsolescence than tape formats. This is partly because it is easier to support software playback over time, especially given open source tools such as ffmpeg.
 
 * Generation of access derivatives and an interface for user access to these derivatives, alongside associated metadata
-
-* Generation of exhibition copies
 
 * Auditing of system and user activities
 
@@ -510,7 +508,7 @@ This section outlines the key elements associated with the design and build of r
        <br>
        <p>
        <ul>
-        <li> Geographic Rendundancy - Multiple copies of data should be held at different geographical locations, and a disaster recovery plan should be in place. </li>
+        <li> Geographic Redundancy - Multiple copies of data should be held at different geographical locations, and a disaster recovery plan should be in place. </li>
         <li> Fixity Checking - Regularly monitoring digital files in order to detect corruption or unwanted changes to your data. </li>
         <li> Access and Security - The speed and restriction of access to data needs to be appropriate for its intended use and the level of protection required. </li>
         <li> Technology Monitoring - Trends in storage technology should be monitored to assess when migration to new storage media will be necessary.</li>  
@@ -542,7 +540,7 @@ Hardware: potential options (2016)
 
 Keeping multiple copies in sync: potential options
 
-* Manual (sneakernet)
+* Manual 
 * Peer-to-peer file sharing (P2P)
 * Cloud service (i.e. dropbox, crashplan, http://www.cloudwards.net...)
 
@@ -560,13 +558,13 @@ Keeping multiple copies in sync: potential options
 <div markdown="1">
 <h2 class="title"></h2>
 “I have about 10TB of data, which I do not access that frequently and have the funds to pay an annual fee to storage my data in the cloud.”
-“We have about 10TB of data, and expects to only have 15TB in five years, so we have two 18TB RAID devices that plugs right into my Mac at  home and the office. I pay an annual fee for a cloud backup service, which we can use to keep our two locations in synchronization, as well as having the benefit of the third copy in the cloud.”
+“We have about 10TB of data, and expect to only have 15TB in five years, so we have two 18TB RAID devices that plug right into my Mac at  home and the office. I pay an annual fee for a cloud backup service, which we can use to keep our two locations in synchronization, as well as having the benefit of the third copy in the cloud.”
 </div>
 
 
 <div markdown="1">
 <h2 class="title"></h2>
- “I manages a collection that currently has 35TB. Based on acquisition analysis I estimate that over the course of the next five years, we will grow to around 50TB. In consultation with our IT department, I found out that they actually already have some storage infrastructure at two locations, both of which can scale to this size. They added the amount of storage that we needed for this year’s growth, and have budgeted for the anticipated growth over the next five years. I conveyed to IT that these digital artworks are very valuable, and so they have set carefully considered read/write access permissions that are more restrictive than the policies set for other kinds of data managed on this system. Ideally we should have three copies in three locations, but unfortunately the budget can not accommodate cloud storage, or building a third data center, so as an alternative I currently manually back the data up to LTO tapes which we store in a third location in the event that we need to recover from a disaster.”
+ “I manage a collection that currently has 35TB. Based on acquisition analysis I estimate that over the course of the next five years, we will grow to around 50TB. In consultation with our IT department, I found out that they actually already have some storage infrastructure at two locations, both of which can scale to this size. They added the amount of storage that we needed for this year’s growth, and have budgeted for the anticipated growth over the next five years. I conveyed to IT that these digital artworks are very valuable, and so they have set carefully considered read/write access permissions that are more restrictive than the policies set for other kinds of data managed on this system. Ideally we should have three copies in three locations, but unfortunately the budget can not accommodate cloud storage, or building a third data center, so as an alternative I currently manually back the data up to LTO tapes which we store in a third location in the event that we need to recover from a disaster.”
 </div>
 </div>
 
