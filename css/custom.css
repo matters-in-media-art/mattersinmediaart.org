@@ -35,7 +35,7 @@ h1, h2, h3, h4, h5, h6  {
 /*  top: 25% !important;
 */  -webkit-transform: translateY(25%);
   -ms-transform: translateY(25%);
-  transform: translateY(25%);
+  transform: translateY(25%) translateX(-15%);
 
 }
 
