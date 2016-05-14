@@ -5,8 +5,15 @@ title: "Documenting Media Art"
 
 
 <span class="flow-text">
-Media artworks require more complex documentation and cataloguing than traditional works of art. Some collecting institutions create separate databases for the additional metadata associated with these works. Decisions about what information to catalogue and how to catalogue it must be made carefully, following discussion among registration, curatorial, collections management, and conservation staff, and information systems staff. Read more here on [collection management systems]({{ site.url }}/sustaining-your-collection.html#Review-Collection-Management-Systems).
+Media artworks often require complex, cross-disciplinary documentation, challenging traditional cataloging systems. Curators, registrars, exhibition technicians, IT specialists, intellectual property managers, conservators, outside experts and artists contribute to compiling a multi-voice record for each work of art.
 </span>
+
+<br>
+
+![](img/IMG_4848_2.JPG)
+
+<span class="img-caption" markdown="1">
+Aebhric Coleman from the NAT and Steve Dye from SFMOMA documenting _TV Buddha_ (1989) by Nam June Paik.</span>
 
 
 <div id="post-acq-slider-1" class="liquid-slider">
@@ -51,7 +58,7 @@ These files will grow as the work is exhibited, loaned, and conserved. Most inst
 <section id="cataloging" class="section scrollspy" markdown="1">
 ## Cataloging Media Art
 Records for media installations hold a great deal of information which can be difficult to manage.
-Below is a guide to the type of material you might find in a record for a media artwork and a suggested way of organizing this information into sections within your file or binder.
+Below is a guide to the type of material you might find in a record for a media artwork and a suggested way of organizing this information into sections within your file or binder. Read more here on [collection management systems]({{ site.url }}/sustaining-your-collection.html#Review-Collection-Management-Systems).
 
 <ul class="collapsible" data-collapsible="accordion">
 <li>
@@ -224,7 +231,7 @@ Additional information about conserving media works may be found at the followin
 
 When assessing media art, aim to extend existing condition reporting practices to include media artworks. A condition report provides the baseline against which future examinations can be compared. For media-based works of art a report is divided into three sections – the media elements, the equipment and the overall installation. They are different from condition reports for more conventional works of art in that some of the components may be easily replaceable without loss. It is often not possible to know by looking at any component, its value or significance in relation to the identity of the work of art. In addition to the example reports below, please also refer to the website Time-based Media Conservation by Joanna Phillips, Time-based Media Conservator at the Solomon R. Guggenheim Museum http://www.guggenheim.org/conservation/time-based-media
 
- <!-- previous layout:
+<!-- previous layout:
 * [Structure and condition report]({{ site.url }}/downloads/structure_and_condition_reports.rtf) (RTF, 180KB)
 * [Video artwork prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_videoprompt.rtf) (RTF, 81KB)
 * [Audio artwork prompt sheet]({{ site.url }}/downloads/mattersmediaart_structureconditionreport_audioprompt.rtf) (RTF, 77KB)
@@ -340,7 +347,8 @@ When assessing media art, aim to extend existing condition reporting practices t
 
 
 ![](img/peter-assessing.jpg)
-
+<span class="img-caption" markdown="1">
+Peter Oleksik assessing _Boomerang_ by Nancy Holt and Richard Serra (1974).   
 
 Assessing your digital video media is a crucial step on entering your collection. Not only will it help you to understand the technical characteristics and anomalies of the file(s), it will help you create a baseline against which future examinations can be compared, and generally gain a better understanding of each artwork and your collection as a whole.
 
@@ -353,18 +361,19 @@ Video files are assessed and condition checked both visually and aurally with th
   <div class="collapsible-header"><i class="material-icons">visibility</i>Visual Assessment</div>
   <div class="collapsible-body">
   	<p>
-  		Color space and gamma, Luminance, and Chrominance are the key characteristics to visually asses
+  		luminance, chrominance, color space and gamma,  are the key characteristics to visually asses
   	</p>
     <strong> Tools for Visual Assessment</strong>
    <ul>
     <li>Reference monitor (SD vs HD)</li>
-    <li>Waveform/ vectorscope</li>
+    <li>Oscilloscopes</li>
+    <li>Playback Software</li>
    </ul>
   </div>
 </li>
 <li>
   <div class="collapsible-header"><i class="material-icons">hearing</i>Aural Assessment </div>
-  <div class="collapsible-body"><p>Key characteristics for Aural assessment: Levels (db vs VU), Phase</p>
+  <div class="collapsible-body"><p>Key characteristics for aural assessment: Levels (db/VU), phase</p>
    <ul>Tools for Aural Assessment
     <li>Meters (digital)</li>
     <li>Phase Oscilloscope</li>
@@ -377,7 +386,7 @@ Video files are assessed and condition checked both visually and aurally with th
   <div class="collapsible-header"><i class="material-icons">warning</i>Visual and Aural Artifacts</div>
   <div class="collapsible-body">
    <ul>
-    <li>Analogue ‘burn in’ artifacts</li>
+    <li>Analogue artifacts</li>
     <li>Digital artifacts</li>
     <li>Identifying cause / original – A/V Artifact Atlas</li>
    </ul>
@@ -433,7 +442,7 @@ To assess, quality-control and condition report your digital video files, you mi
 <li>
   <div class="collapsible-header"><i class="material-icons">settings</i>Computer</div>
   <div class="collapsible-body">
-  	<p>Watching digital videos, especially uncompressed, can be challenging for older or regular “desktop”-computers. Your workstation requires a relatively powerful computer, with a minimum of several GB of RAM. Most videos will lag, if you play them directly from external hard drives, depending on your interface, and from servers, depending on your connection; therefore it is good practice to save them locally for assessment requiring sufficient storage space on your computer. Alternatively you could consider an external hard drive or RAID with a fast interface connection. The platform you choose –Mac or PC– depends on the kind of software to be used: Final Cut Pro only works on Macs, whereas Adobe Premiere is available for both platforms. Make sure to choose your computer platform depending on your software and hardware needs and compatibilities.</p>
+  	<p>Watching digital videos, especially uncompressed or high data rate, can be challenging for older or regular “desktop”-computers. Your workstation requires a relatively powerful computer, with a minimum of several GB of RAM. Most videos will lag, if you play them directly from external hard drives, depending on your interface, and from servers, depending on your connection; therefore it is good practice to save them locally for assessment requiring sufficient storage space on your computer. Alternatively you could consider an external hard drive or RAID with a fast interface connection. The platform you choose –Mac or PC– depends on the kind of software to be used: Final Cut Pro only works on Macs, whereas Adobe Premiere is available for both platforms. Make sure to choose your computer platform depending on your software and hardware needs and compatibilities.</p>
   </div>
 </li>
 <li>
@@ -446,113 +455,120 @@ To assess, quality-control and condition report your digital video files, you mi
   <div class="collapsible-header"><i class="material-icons">track_changes</i>Scopes</div>
   <div class="collapsible-body">
   	<p>Monitors, even when calibrated, are inherently subjective in how they represent the visual information. Oscilloscopes provide an objective view of the signal by providing access to the luminance and chrominance electronic information. The two critical scopes for the assessment of both analog and digital video are a waveform monitor and a vectorscope.
-
-Waveform Monitor: [IMAGE]
+    <br><br>
+Waveform Monitor:
 The waveform monitor measures the luminance (black and white) information of the video signal. A graticule is used to plot the information on a scale and allows one to see whether the blacks are too low in the signal (which may disrupt sync in an analog system) or the whites are two high (which would allow visual confirmation that the whites are “blown out” or exceed 100 IRE).
-Vectorscope: [IMAGE]The vectorscope is a 360 degree color wheel that measures the hue and saturation of the chrominance information in the video signal. Known references like fleshtone, blue sky, etc. can be used to discern whether the chrominance information is being represented faithfully.</p>
+<br><br>
+Vectorscope: The vectorscope is a 360 degree color wheel that measures the hue and saturation of the chrominance information in the video signal. Known references like fleshtone, blue sky, etc. can be used to discern whether the chrominance information is being represented faithfully.</p>
   </div>
 </li>
 <li>
   <div class="collapsible-header"><i class="material-icons">perm_device_information</i>Software</div>
   <div class="collapsible-body">
-  	<p>Software is crucial in the assessment of your digital video material. It is important to understand the basics of the software and how it functions to know whether your video is being processed and faithfully represented. Typically, capture and editing software like Blackmagic’s Media Express, Adobe Premiere and Final Cut Pro X can be used to analyze the discrete portions of your video material and allows for an in-depth assessment of its basic characteristics (luminance, chrominance and audio). Free tools such as QCtools (REF) also allow for in-depth assessment of your video files and have been developed for the archiving community.</p>
+  	<p>Software is crucial in the assessment of your digital video material. It is important to understand the basics of the software and how it functions to know whether your video is being processed and faithfully represented. Typically, capture and editing software like Blackmagic’s Media Express, Adobe Premiere and Final Cut Pro X can be used to analyze the discrete portions of your video material and allows for an in-depth assessment of its basic characteristics (luminance, chrominance and audio). Free tools such as <a href ="https://www.bavc.org/preserve-media/preservation-tools">QCtools</a> also allow for in-depth assessment of your video files and have been developed for the archiving community.</p>
   </div>
 </li>
 <li>
   <div class="collapsible-header"><i class="material-icons">volume_up</i>Audio</div>
   <div class="collapsible-body">
-  	<p>[IMAGE OF MONITORS AND METERS]
-Quality audio monitors and meters are also necessary in the assessment of video material. A pair of studio grade, near-field speakers is recommended for listening to a piece. In addition, audio scopes using either the decibel (dB) or volume unit (VU) method of measurement are useful in looking at whether the audio is clipped, compressed or otherwise distorted, and for measuring whether the audio is in phase or not. http://www.sweetwater.com/insync/phase-2/ </p>
+  	<p>Quality audio monitors and meters are also necessary in the assessment of video material. A pair of studio grade, near-field speakers is recommended for listening to a piece. In addition, audio scopes using either the decibel (dB) or volume unit (VU) method of measurement are useful in looking at whether the audio is clipped, compressed or otherwise distorted, and for measuring whether the audio is in <a href="http://www.sweetwater.com/insync/phase-2/">phase</a> or not.</p>
   </div>
 </li>
 </ul>
 
 <br>
 
-####	Cost Guide For Workstation Tools
+####	Set-ups for Assessment Workstations
+
 
 <table class="assessment bordered highlight">
         <thead>
           <tr>
-              <th data-field="id">Name of equipment</th>
-              <th data-field="name">$</th>
-              <th data-field="price">$$</th>
-              <th data-field="price">$$$</th>
+              <th data-field="id"></th>
+              <th data-field="name">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Basic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+              <th data-field="price">&nbsp;&nbsp;Advanced&nbsp;&nbsp;</th>
+              <th data-field="price">Professional</th>
           </tr>
         </thead>
 
         <tbody>
           <tr>
             <td>Analog-to-digital video card</td>
-            <td class="yes"></td>
-            <td class="yes"></td>
-            <td class="yes"></td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
             <td>Computer</td>
-            <td class="yes"></td>
-            <td class="yes"></td>
-            <td class="yes"></td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Video Editing Software</td>
-            <td class="yes"></td>
-            <td class="yes"></td>
-            <td class="yes"></td>
+            <td>Video editing software</td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Video playback software Assessment Software</td>
-            <td class="yes"></td>
-            <td class="yes"></td>
-            <td class="yes"></td>
+            <td>Video playback software</td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>CRT Monitor has SDI video input</td>
-            <td class="yes"></td>
-            <td class="yes"></td>
-            <td class="yes"></td>
+            <td>Assessment software</td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>CRT Monitor has composite video input</td>
-            <td></td>
-            <td class="yes"></td>
-            <td class="yes"></td>
+            <td>CRT monitor with SDI video input</td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Audio Monitors</td>
+            <td>CRT Monitor with composite video input</td>
             <td></td>
-            <td class="yes"></td>
-            <td class="yes"></td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Audio Meter</td>
+            <td>Audio monitors</td>
             <td></td>
-            <td class="yes"></td>
-            <td class="yes"></td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Analog Waveform Monitor/Vectorscope</td>
+            <td>Audio meter</td>
             <td></td>
-            <td class="yes"></td>
-            <td class="yes"></td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Digital Waveform Monitor/Vectorscope</td>
+            <td>Analog waveform monitor/vectorscope</td>
             <td></td>
-            <td></td>
-            <td class="yes"></td>
+            <td class="yes">✓</td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>Sync Generator with Colorbars/1Khz tone</td>
+            <td>Digital waveform monitor/vectorscope</td>
             <td></td>
             <td></td>
-            <td class="yes"></td>
+            <td class="yes">✓</td>
           </tr>
           <tr>
-            <td>CRT Monitor has component video input</td>
+            <td>Sync generator with colorbars/1Khz tone</td>
             <td></td>
             <td></td>
-            <td class="yes"></td>
+            <td class="yes">✓</td>
+          </tr>
+          <tr>
+            <td>CRT monitor with component video input</td>
+            <td></td>
+            <td></td>
+            <td class="yes">✓</td>
           </tr>
         </tbody>
       </table>
@@ -657,36 +673,43 @@ Depending on your workflow you may carry out a technical assessment before you c
 
 </section>
 <section id="assessing-files" class="section scrollspy" markdown="1">
-### Assessing files
+### Assessing Files
 
 * Confirm that the content is as expected.
 * Ensure that there are no technical problems with the streams.
-* That there is no conflicting information between the streams and the wrapper. For example, a particular combination of stream(s) and     wrapper may provide ambiguous instructions for decoding, leaving the possibility that different players might play back the video        stream differently. If this is the case it is helpful to clarify with the artist or their representative, if at all possible.
+* That there is no conflicting information between the streams and the wrapper. For example, a particular combination of stream(s) and wrapper may provide ambiguous instructions for decoding, leaving the possibility that different players might play back the video stream differently. If this is the case it is helpful to clarify with the artist or their representative, if at all possible.
 * That this is not an of absence of key information in the streams and the wrapper.
 * Confirm that the basic matches content matches what was expected from the artist, for example the codec, the wrapper, audio sample rate and bit¬depth, subsampling, frame rate and the duration.
 
-Assessing files: How to:
+<br>
 
-* Run MediaInfo (https://en.wikipedia.org/wiki/MediaInfo) on your file(s) to expose the technical metadata for analysis:
+#### Assessing Files: How to
+
+* Run <a href="https://en.wikipedia.org/wiki/MediaInfo">MediaInfo</a> on your file(s) to expose the technical metadata for analysis:
 
 MAC Users:
 
 * Open Terminal
-* Run MediaInfo on the video files you are about to assess command: mediainfo ¬f [path to input file]
-* It will look something like this:
+* Run MediaInfo on the video files you are about to assess with the command: mediainfo -f [path to input file]
+
+<!--* It will look something like this:
 
 PC Users:
 
-* Run MediaInfo with the following command it will look something like this:
+* Run MediaInfo with the following command it will look something like this:-->
 
-Assessing files: Identifying Technical Problems
+<br>
 
-Integrity  
-This step is to confirm that the files integrity is intact and there are no obvious signs that the file is incomplete or corrupted. The first method of checking the integrity of the file is to confirm that the file checksum associated with the file, if supplied with the artist on receipt, validates when transferred or moved to your storage infrastructure. If the checksum does not validate, this is a clear sign that something technically has changed within the file. The second method of checking the file integrity is to analyze the MediaInfo report for clear indicators of technical problems. These can vary, but an example is a file that will not open in any player and the mediainfo report looks like the image below (insert image):
+#### Assessing files: Identifying Technical Problems
+
+##### Integrity  
+This step is to confirm that the files integrity is intact and there are no obvious signs that the file is incomplete or corrupted. The first method of checking the integrity of the file is to confirm that the file checksum associated with the file, if supplied with the artist on receipt, validates when transferred or moved to your storage infrastructure. If the checksum does not validate, this is a clear sign that something technically has changed within the file. The second method of checking the file integrity is to analyze the MediaInfo report for clear indicators of technical problems. These can vary, but an example is a file that will not open in any player and the mediainfo report looks like the image below:
+
+![](img/mediainfoerror.jpg)
 
 When analyzing this report, it becomes clear that the file is incomplete and lacks the video and audio streams necessary for playback as the MediaInfo report finishes without displaying the video or audio stream technical metadata. This makes it clear that this information is not present in the file and is the reason for its inability to be displayed. This is a critical error with the file and will necessitate replacement.
 
-Conflicts in Wrapper versus Streams
+##### Conflicts in Wrapper versus Streams
 
 Problems might arise in the consistent playback of a video stream with regards to aspect ratio and color interpretation if there is conflicting metadata held in the wrapper and the stream. For example as demonstrated in the "Video" section of this MediaInfo report:
 <div class="row">
@@ -740,9 +763,9 @@ In this example, the 3 fields to look at are:
 
 There is a conflict in the subsampling between the “color_primaries” and the “matrix_coefficient” where the file contains decoding information that relates to 2 very different color spaces, BT.709 and BT.601. This conflict would expose itself if played back in Quicktime where the player would default to BT.601, which is the incorrect colorspace.
 
-
+<!-- not sure where this should link to -MH
 ####	Assessment Documentation
 
 See Overview of Condition Documentation section for guidelines of how to document the assessment process.
-
+-->
 </section>

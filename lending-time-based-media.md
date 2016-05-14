@@ -11,10 +11,7 @@ Among acquisition and exhibition, a loan constitutes another important moment wi
 
 ![](http://images.tate.org.uk/sites/default/files/styles/grid-normal-12-cols/public/images/bruce_namuman_make_me_think_me_exhibition_01.jpg?itok=GhSPJEAV)
 <span class="img-caption" markdown="1">
-Bruce Nauman
-_Bruce Nauman: Make Me Think Me_
-Installation view Tate Liverpool exhibition 2006
-© Tate 2006
+Installation view of the 2006 Tate Liverpool exhibition _Bruce Nauman: Make Me Think Me_ © Tate 2006
 </span>
 
 ## Loan Process

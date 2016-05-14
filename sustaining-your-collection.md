@@ -5,105 +5,76 @@ published: true
 ---
 
 <span class="flow-text">
-Since the start of this project in 2005, media arts have predominantly shifted to the digital realm. Digital collections and legacy works that have been digitized require appropriate storage. These pages focus on the challenge of creating storage systems for our digital art collections and moving digital collections into these systems.
+Since this project started in 2005, media arts have predominantly shifted to the digital realm. Digital collections and legacy works that have been digitized require appropriate storage. These pages focus on the challenge of creating storage systems for our digital art collections and moving digital collections into these systems.
 </span>
 
 ![](img/Mengbo.jpg)
+<span class="img-caption" markdown="1">
+Feng Mengbo _Long March: Restart_ (2008). Video game (color, sound), custom computer software, and wireless game controller. Dimensions and duration variable. The Museum of Modern Art, New York. Given anonymously, 2008. © 2015 Feng Mengbo. Installation view, Scenes for a New Heritage: Contemporary Art From the Collection, The Museum of Modern Art, New York (March 7, 2015 - April 10, 2016). Digital image © 2015 The Museum of Modern Art, New York. Photo: Thomas Griesel.
+</span>
 
+<br>
+Our aim is to provide information that is useful to anyone who is caring for their own collection of video artworks in small, medium or large organizations as well as outside of an institution. Core principles are accentuated and you will find different approaches for different collection requirements highlighted throughout the text as quotes. We invite you to fill out a [survey]({{ site.url }}/sustaining-your-collection.html#Know-Your-Collection), which will act as a tool to help you outline the needs of your collection. The results will form the basis for an overall preservation system design.
 
-Our aim is to provide information that is useful to those who are caring for their own collection of video artworks outside an institution, as well as small, medium and large organizations. Throughout these pages key principles are highlighted and approaches are suggested depending on the size of your collection and your available resources, namely skills, budget and infrastructure. For each section we invite you to fill in a survey, which will act as a tool to help you to outline the needs of your collection. The results will form the basis for an overall preservation system design.
+<br>
 
 <section id="Core-Principles" class="section scrollspy" markdown="1">
-<div class="row">
-<div class="col s12 m12">
-  <div class="card green accent-3">
-    <div class="card-content white-text">
-      <span class="card-title">Core Principles</span>
-        <p>
-         <ul>
-          <li> Do to digital works as you would to any artwork: identify, catalog, describe, treat, document and track </li>
-          <li> Be prepared to be unprepared: the necessary skills evolve constantly and will be found both within and beyond your walls </li>
-          <li> Build storage for your present collection but lay groundwork for the future </li>
-          <li> The budget to build collection storage is nothing without the budget to sustain it</li>  
-          <li>Digital collections require active maintenance and will not survive passive storage</li>
-        </ul>
-        </p>
-       </div>
-    </div>
-  </div>
+
+<div class="card grey lighten-3">
+  <div class="card-content grey lighten-3 text">
+    <span class="card-title"> <font color="#00e676"> Core Principles</font></span>
+     <br>
+     <p>
+      <ul>
+       <li> Do to digital works as you would to any artwork: identify, catalog, describe, treat, document and track </li>
+       <li> Be prepared to be unprepared: the necessary skills evolve constantly and will be found both within and beyond your walls </li>
+       <li> Build storage for your present collection but lay groundwork for the future </li>
+       <li> The budget to build collection storage is nothing without the budget to sustain it</li>  
+       <li>Digital collections require active maintenance and will not survive passive storage</li>
+     </ul>
+     </p>
 </div>
+</div>
+
 
 </section>
 
+
+
+
+
+
 <section id="Know-Your-Collection" class="section scrollspy" markdown="1">
+
 ## Know your Collection
 
 The first step to planning what you need is understanding what you have. And how it might grow. This will form the basis to any further decisions regarding your infrastructure, staffing needs and budget. To help you with this initial assessment, we created a survey to gather all the core information.
 
 
-<div class="row">
-  <a href="{{ site.url }}/downloads/mattersmediaart_survey.pdf">
-<div class="col s12 m12">
-  <div class="card green accent-3">
-    <div class="card-content white-text">
-      <span class="card-title">Survey: Scoping Your Digital Collection</span>
+
+<a href="{{ site.url }}/downloads/Survey_Scoping-your-collection.pdf">
+  <div class="card grey lighten-3">
+    <div class="card-content grey lighten-3 text">
+      <span class="card-title"><font color="#00e676">Survey: Scoping Your Digital Collection</font></span>
       <p>This survey has been designed to help you to establish an overview of your digital collection. Although these pages only address the needs of digital video, the presence of other types of digital artwork or digital components will have an impact on decisions regarding your systems, for example the needs for storage.</p>
-    </div>
-    <div class="card-action">
-      <div class="chip"><i class="large material-icons">play_for_work</i>Take the Survey </div>
-    </div>
-  </div>
-</div>
-</div>
+    </div> <!-- end of card-content -->
+    <div class="col s12">
+    <a href="{{ site.url }}/downloads/Survey_Scoping-your-collection.pdf">
+      <div class="chip"><i class="large material-icons">play_for_work</i>Collection Survey
+        </div>
+        </a>
+        </div>
+        <br><br>
+  </div> <!-- end of card -->
 
 
-<!-- Modal Structure -->
-<div id="modal1" class="modal modal-fixed-footer">
-<div class="modal-content">
-  <h4>Scoping Your Collection</h4>
-  <p>We can put a nice interactive survey here...</p>
-
-<div class="row">
-<form class="col s12">
-  <div class="row">
-    <div class="input-field col s6">
-      <input placeholder="Placeholder" id="first_name" type="text" class="validate">
-      <label for="first_name">First Name</label>
-    </div>
-    <div class="input-field col s6">
-      <input id="last_name" type="text" class="validate">
-      <label for="last_name">Last Name</label>
-    </div>
-  </div>
-  <div class="row">
-    <div class="input-field col s12">
-      <input disabled value="I am not editable" id="disabled" type="text" class="validate">
-      <label for="disabled">Disabled</label>
-    </div>
-  </div>
-  <div class="row">
-    <div class="input-field col s12">
-      <input id="password" type="password" class="validate">
-      <label for="password">Password</label>
-    </div>
-  </div>
-  <div class="row">
-    <div class="input-field col s12">
-      <input id="email" type="email" class="validate">
-      <label for="email">Email</label>
-    </div>
-  </div>
-</form>
-</div>
 
 
-</div>
-<div class="modal-footer">
-  <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat ">Close</a>
-</div>
-</div>
 
-<br>
+
+
+
+<br><br>
 In order to plan for the storage and management of your collection, it is useful to define the categories of collection items and associated documentation that you hold. This might include the following:
 
 <ul class="collapsible" data-collapsible="accordion">
@@ -136,7 +107,9 @@ Documentation created or received relating to the creation process and intended 
 
 
 You will then need to decide what level of preservation is needed for each category and how the various objects need to be linked to each other. Depending on your needs, you may want to keep all of this information together in one place, or you may wish to keep it in different locations or systems which are interconnected.
+
 <div id="collection-slider" class="liquid-slider quote-slider">
+
 <div markdown="1">
 <h2 class="title"> <font color="#00e676"> Simple </font> </h2>
 <h2> <font color="#00e676"> ______________________ </font> </h2>
@@ -157,14 +130,28 @@ You will then need to decide what level of preservation is needed for each categ
 “We keep every file we receive from the artist. When we create derivatives for preservation purposes, exhibition, or loan, every new file is given a component number in our collection management system and stored in the repository, along with details about the creation of those files. We make an access copy that goes into our DAM, so that our staff can view the collection without needing direct access to the digital repository.”
 <h2> <font color="ef5350"> ______________________ </font></h2>
 </div>
+
 </div>
 
 
 </section>
+
+
+
+
+
+
+
 <section id="Assess-Your-Skills" class="section scrollspy" markdown="1">
+
 ## Assess your Skills
 
 ![](img/image for community resources.jpg)
+
+<span class="img-caption" markdown="1">
+Expert meeting of media conservators and archivists on digital repositories and user needs hosted by the Museum of Modern Art, New York. Digital image © 2014 The Museum of Modern Art, New York.
+</span>
+
 
 Caring for digital files is not fundamentally different from caring for art objects in other media, and the steps needed have parallels to the ones in more traditional conservation specializations.
 
@@ -206,9 +193,6 @@ Depending on the size of your collection it may be necessary to create new roles
 
 
 
-
-
-
 <div id="roles-slider" class="liquid-slider quote-slider">
 
 <div markdown="1">
@@ -231,33 +215,20 @@ Depending on the size of your collection it may be necessary to create new roles
 </div>
 
 </section>
+
+
+
+
+
+
+
 <section id="Calculate-Your-Budget" class="section scrollspy" markdown="1">
 
 ## Calculate your Budget
 
 No matter if you are a private collector or a large institution, significant costs are involved in collecting and maintaining digital artworks. When calculating a budget, there are two different types of costs to consider: capital costs (one-time purchases of fundamental infrastructure or tools that will in theory last several years) and ongoing or recurring costs that will become part of a regular operating budget and may increase as your collection grows.
 
-Drawing from the results of the survey, you can start to develop how much storage you will need and begin costing for digital storage, infrastructure and support. This can range from budgeting for hard drives to developing costs for a robust repository supported by IT staff. Below are 3 examples of different budgets and the necessary considerations to develop these budgets.
-
-<div id="budget-slider" class="liquid-slider quote-slider">
-
-<div markdown="1">
-<h2 class="title"></h2>
->“We have a dedicated budget for staff and collections care for digital collections, as well as a budget for building and maintaining our storage infrastructure. Budgets are revisited annually as our growth estimates evolve.”
-</div>
-
-
-<div markdown="1">
-<h2 class="title"></h2>
->“We do have a budget primarily for storage and modest conservation assessments and costs. This budget was originally designed around physical storage for objects, but we have since expanded it to include budgeting for digital storage. We have a running storage cost for cloud storage [insert Amazon cloud costs here] and back up everything else to LTO tapes.”
-</div>
-
-<div markdown="1">
-<h2 class="title"></h2>
->“What budget? I have zero budget, so everything I invest in cataloging and storage feels like a stretch. But I do realize I have to keep track of my work and pay attention to storage, or else I risk losing my work. It’s hard to allocate money to save back-ups of my work when it’s not like it’s earning tons of money, but by keeping things simple I think I’ve been able to cover the basics at a reasonable cost.”
-</div>
-</div>
-
+Drawing from the results of the [survey]({{ site.url }}/sustaining-your-collection.html#Know-Your-Collection), you can start to develop how much storage you will need and begin costing for digital storage, infrastructure and support. This can range from budgeting for hard drives to developing costs for a robust repository supported by IT staff.
 In order to be able to establish a budget you will need to have gathered the following:
 
 
@@ -331,8 +302,40 @@ In order to be able to establish a budget you will need to have gathered the fol
   </li>
 </ul>
 
+<br>
 
-[Link to the budget template](https://docs.google.com/spreadsheets/d/1WBgSIlsFzoQEWQQaz-cIWYo5LjTrvcYtuWyd9¬HnG8g/edit?usp=sharing)
+We created an excel sheet for you into which you can enter your costs and calculate total amounts, illustrated by graphs over time:
+<div class="col s12">
+<a href="{{ site.url }}/downloads/MMA_budget_template.xlsx">
+  <div class="chip"><i class="large material-icons">play_for_work</i>Budget calculator</div>
+    </a>
+    </div>
+
+<!--
+[Link to the budget template](https://docs.google.com/spreadsheets/d/1WBgSIlsFzoQEWQQaz-cIWYo5LjTrvcYtuWyd9-HnG8g/edit?usp=sharing)-->
+
+<br>
+
+Below are three examples of different budgets and the necessary considerations to develop these budgets:
+
+<div id="budget-slider" class="liquid-slider quote-slider">
+
+<div markdown="1">
+<h2 class="title"></h2>
+>“We have a dedicated budget for staff and collections care for digital collections, as well as a budget for building and maintaining our storage infrastructure. Budgets are revisited annually as our growth estimates evolve.”
+</div>
+
+
+<div markdown="1">
+<h2 class="title"></h2>
+>“We do have a budget primarily for storage and modest conservation assessments and costs. This budget was originally designed around physical storage for objects, but we have since expanded it to include budgeting for digital storage. We have a running storage cost for cloud storage [insert Amazon cloud costs here] and back up everything else to LTO tapes.”
+</div>
+
+<div markdown="1">
+<h2 class="title"></h2>
+>“What budget? I have zero budget, so everything I invest in cataloging and storage feels like a stretch. But I do realize I have to keep track of my work and pay attention to storage, or else I risk losing my work. It’s hard to allocate money to save back-ups of my work when it’s not like it’s earning tons of money, but by keeping things simple I think I’ve been able to cover the basics at a reasonable cost.”
+</div>
+</div>
 
 
 ### Estimate your storage costs
@@ -351,7 +354,17 @@ A budget can be set annually or in relation to specific projects. A budget needs
 
 
 </section>
+
+
+
+
+
+
+
+
+
 <section id="Review-Collection-Management-Systems" class="section scrollspy" markdown="1">
+
 ## Review Collection Management Systems
 
 The collection management system is typically a database containing basic information about each artwork. It enables collection managers to perform the following essential functions:
@@ -428,7 +441,7 @@ There is a certain amount of information you should make sure is held with the f
   <div class="collapsible-header">Fixity</div>
   <div class="collapsible-body">
     <ul>
-      <li> 
+      <li>
        Creating checksums allows you to ensure that a file has remained unchanged. For more information, please refer to the <a href="http://mattersinmediaart.org/sustaining-your-collection.html#Implement-Fixity">Fixity</a> section</li>
     </ul>  
   </div>
@@ -461,7 +474,7 @@ There is further information that will need to be kept in order to ensure an art
 
 ### Digital Repositories
 
-Collections management systems however are just a part of the picture of digital stewardship, as they do not generally facilitate core digital preservation actvities. To meet these needs, organizations typically emlpoy a system, or suite of systems reffered to as a digital repository. There are many functions that can be carried out by a digital repository system in order to monitor and ensure the ongoing preservation of your collection objects. Just as for collection management systems, the way these functions are implemented will depend on individual circumstances. For a small, homogenous collection, many of these functions could be carried out manually. For a larger and more varied collection, there are significant benefits to having automated workflows and systems in place.
+Collections management systems however are just a part of the picture of digital stewardship, as they do not generally facilitate core digital preservation actvities. To meet these needs, organizations typically employ a system, or suite of systems referred to as a digital repository. There are many functions that can be carried out by a digital repository system in order to monitor and ensure the ongoing preservation of your collection objects. Just as for collection management systems, the way these functions are implemented will depend on individual circumstances. For a small, homogenous collection, many of these functions could be carried out manually. For a larger and more varied collection, there are significant benefits to having automated workflows and systems in place.
 
 This is an area which has developed very rapidly in recent years and even large organizations have struggled to develop the infrastructure to keep pace with their growing digital collections. It is therefore important to understand that the term repository refers to a number of functions which need to be carried out and which are underpinned by some of the key ideas to emerge regarding digital preservation practice.
 
@@ -475,8 +488,6 @@ These functions can include:
 
 * Generation of access derivatives and an interface for user access to these derivatives, alongside associated metadata
 
-* Generation of exhibition copies
-
 * Auditing of system and user activities
 
 * Active monitoring of file integrity
@@ -487,30 +498,37 @@ These functions can include:
 
 </section>
 
+
+
+
+
+
+
+
+
 <section id="Design-Your-Storage" class="section scrollspy" markdown="1">
 ## Design your Storage
 
 
 This section outlines the key elements associated with the design and build of reliable storage for long term digital preservation. The content has been arranged to address a range of situations; whether you are an individual who is designing a low risk personal storage solution, through to a large organization. No matter the size of your collection the following core principles need to be considered when designing your storage:
 
-
-
 <div class="row">
 <div class="col s12 m12">
-  <div class="card light-blue accent-2">
-    <div class="card-content white-text">
-      <span class="card-title">Core Principles</span>
-        <p>
-         <ul>
-          <li> Geographic Rendundancy - Multiple copies of data should be held at different geographical locations, and a disaster recovery plan should be in place. </li>
-          <li> Fixity Checking - Regularly monitoring digital files in order to detect corruption or unwanted changes to your data. </li>
-          <li> Access and Security - The speed and restriction of access to data needs to be appropriate for its intended use and the level of protection required. </li>
-          <li> Technology Monitoring - Trends in storage technology should be monitored to assess when migration to new storage media will be necessary.</li>  
-        </ul>
-        </p>
-       </div>
+  <div class="card grey lighten-3">
+    <div class="card-content grey lighten-3 text">
+      <span class="card-title"> <font color="#00e676"> Core Principles</font></span>
+       <br>
+       <p>
+       <ul>
+        <li> Geographic Redundancy - Multiple copies of data should be held at different geographical locations, and a disaster recovery plan should be in place. </li>
+        <li> Fixity Checking - Regularly monitoring digital files in order to detect corruption or unwanted changes to your data. </li>
+        <li> Access and Security - The speed and restriction of access to data needs to be appropriate for its intended use and the level of protection required. </li>
+        <li> Technology Monitoring - Trends in storage technology should be monitored to assess when migration to new storage media will be necessary.</li>  
+      </ul>
+       </p>
     </div>
   </div>
+</div>
 </div>
 
 
@@ -534,7 +552,7 @@ Hardware: potential options (2016)
 
 Keeping multiple copies in sync: potential options
 
-* Manual (sneakernet)
+* Manual 
 * Peer-to-peer file sharing (P2P)
 * Cloud service (i.e. dropbox, crashplan, http://www.cloudwards.net...)
 
@@ -552,13 +570,13 @@ Keeping multiple copies in sync: potential options
 <div markdown="1">
 <h2 class="title"></h2>
 “I have about 10TB of data, which I do not access that frequently and have the funds to pay an annual fee to storage my data in the cloud.”
-“We have about 10TB of data, and expects to only have 15TB in five years, so we have two 18TB RAID devices that plugs right into my Mac at  home and the office. I pay an annual fee for a cloud backup service, which we can use to keep our two locations in synchronization, as well as having the benefit of the third copy in the cloud.”
+“We have about 10TB of data, and expect to only have 15TB in five years, so we have two 18TB RAID devices that plug right into my Mac at  home and the office. I pay an annual fee for a cloud backup service, which we can use to keep our two locations in synchronization, as well as having the benefit of the third copy in the cloud.”
 </div>
 
 
 <div markdown="1">
 <h2 class="title"></h2>
- “I manages a collection that currently has 35TB. Based on acquisition analysis I estimate that over the course of the next five years, we will grow to around 50TB. In consultation with our IT department, I found out that they actually already have some storage infrastructure at two locations, both of which can scale to this size. They added the amount of storage that we needed for this year’s growth, and have budgeted for the anticipated growth over the next five years. I conveyed to IT that these digital artworks are very valuable, and so they have set carefully considered read/write access permissions that are more restrictive than the policies set for other kinds of data managed on this system. Ideally we should have three copies in three locations, but unfortunately the budget can not accommodate cloud storage, or building a third data center, so as an alternative I currently manually back the data up to LTO tapes which we store in a third location in the event that we need to recover from a disaster.”
+ “I manage a collection that currently has 35TB. Based on acquisition analysis I estimate that over the course of the next five years, we will grow to around 50TB. In consultation with our IT department, I found out that they actually already have some storage infrastructure at two locations, both of which can scale to this size. They added the amount of storage that we needed for this year’s growth, and have budgeted for the anticipated growth over the next five years. I conveyed to IT that these digital artworks are very valuable, and so they have set carefully considered read/write access permissions that are more restrictive than the policies set for other kinds of data managed on this system. Ideally we should have three copies in three locations, but unfortunately the budget can not accommodate cloud storage, or building a third data center, so as an alternative I currently manually back the data up to LTO tapes which we store in a third location in the event that we need to recover from a disaster.”
 </div>
 </div>
 
@@ -568,6 +586,17 @@ High-availability: This is a redundant copy of your data maintained for the abil
 
 Disaster recovery: When maintaining a copy of data for disaster (for instance, in the event of fire, flood, or earthquake) recovery purposes, the goal is simply to be able to retrieve, rebuild, and access your data. Within reason, ease of access is not a priority. An LTO tape stored off-site is one example of a suitable medium for a disaster recovery backup.
 </section>
+
+
+
+
+
+
+
+
+
+
+
 <section id="Implement-Fixity" class="section scrollspy" markdown="1">
 
 ## Implement Fixity
@@ -639,6 +668,18 @@ These tools create checksums, store the values, and facilitate the verification 
 
 </section>
 
+
+
+
+
+
+
+
+
+
+
+
+
 <section id="Provide-Access" class="section scrollspy" markdown="1">
 ## Provide & Limit Access
 When designing your storage, you will need to consider who should be able to access it and how. It is best practice to limit access to your master material, both to prevent unwanted changes being introduced and for legal and copyright reasons.  It may also be necessary to record each time the system is accessed and by whom - this will be particularly relevant to collecting institutions with audit requirements.
@@ -663,6 +704,16 @@ Depending on who needs to access your collection, you may also wish to consider 
 </div>
 
 </section>
+
+
+
+
+
+
+
+
+
+
 <section id="Keep-up-with-Technology" class="section scrollspy" markdown="1">
 ## Keep up with Technology
 Storage technology changes rapidly, so it is important to keep up to date and informed. You should keep an eye on the long-term viability of your chosen storage system and be proactive in migrating to more sustainable storage media or services. You will need to consider the reliability and availability of the storage media itself as well as the equipment needed to access it.  

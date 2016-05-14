@@ -2,7 +2,10 @@
 layout: default
 title: Frequently Asked Questions
 ---
-## Aquisition
+
+<section id="Acquisition" class="section scrollspy" markdown="1">
+
+## Acquisition
 
 ### What are the main ways in which media artworks are bought and sold?
 There are two main ways in which artists working in video have traditionally made their work available. The first is through distributors and the second is through the fine-art gallery system.
@@ -43,8 +46,8 @@ No: your rights to loan, display, preserve and sell the work are the same whethe
 ### What does the Copyright Agreement cover?
 The Copyright Agreement should specify the buyer’s rights with respect to display, preservation, lending, PR, and publication.
 
-### Why do I need a copyright licence?
-Unauthorised duplication of a copyrighted work may violate the rights of the copyright holder. A copyright licence will establish and define the owner’s rights with regard to preservation, the creation of exhibition copies and similar issues having to do with the duplication of the work.
+### Why do I need a copyright license?
+Unauthorized duplication of a copyrighted work may violate the rights of the copyright holder. A copyright license will establish and define the owner’s rights with regard to preservation, the creation of exhibition copies and similar issues having to do with the duplication of the work.
 
 ### How do we know who holds the copyright – owner or artist?
 Most often the artist holds the copyright to his or her work. A seller claiming ownership of the copyright in the work should warrant that he or she has the rights and can confer them upon the buyer.
@@ -58,14 +61,20 @@ Affirmation of Title merely confirms the proper ownership of the copyright. It d
 ### What is an ‘Artist’s Proof’?
 The existence of one or more artist’s proofs may be declared alongside the edition. For example one might see ‘Edition of 6 with 2 APs’. Artist’s proofs function as editions belonging to the artist. Artist’s proofs are also sometimes sold at a later date. If an artists sells all their dedicated artist’s proofs they would then have to ask an owner for permission to show the work.
 
+</section>
+<section id="Loans" class="section scrollspy" markdown="1">
+
+
 ## Loans
 
 ### What is sent when a media artwork is lent?
-If you are lending a media artwork you needwhat you send depends on the nature of the work; in some cases you may need to ship everything needed to install the work, in other cases the display specifications and the media file may be enough. These details should be discussed well in advance. If the equipment is not unique to that work it is advisable to discuss with the borrower and discuss whether they are able to provide suitable equipment. 
+When you are lending a media artwork your needs of what you send depends on the nature of the work; in some cases you may need to ship everything needed to install the work, in other cases the display specifications and the media file may be enough. These details should be discussed well in advance. If the equipment is not unique to that work it is advisable to discuss with the borrower and discuss whether they are able to provide suitable equipment.
 
 ### What is a virtual loan?
-A virtual loan is one where the lender is named on the wall text and in the catalogue as lending the work but nothing physically moved from the lender to the borrower. 
+A virtual loan is one where the lender is named on the wall text and in the catalogue as lending the work but nothing physically moved from the lender to the borrower.
 
+</section>
+<section id="PCM" class="section scrollspy" markdown="1">
 ## Preservation and Collection Management
 
 ### What is the difference between film and video?
@@ -99,12 +108,10 @@ See post-acquisition summary. These files will usually include a receipt for the
 The Condition Report is a record that monitors the physical and electronic qualities of all components of the work.
 
 ### My collections management database only provides limited fields for cataloguing media art. Where can I learn more about additional fields?
-Many museums, individuals and private collectors are struggling with this. Some producers of museum catalogue databases will revise their software in the future (please lobby them). In the meantime, you may need to create a database specifically for your media art collection. The ‘Cataloguing Project’ of Independent Media Arts Preservation (IMAP) may serve as a helpful resource. 
+Many museums, individuals and private collectors are struggling with this. Some producers of museum catalogue databases will revise their software in the future (please lobby them). In the meantime, you may need to create a database specifically for your media art collection. The ‘Cataloguing Project’ of Independent Media Arts Preservation (IMAP) may serve as a helpful resource.
 
 ### How do I prepare myself for equipment becoming obsolete?
 The best known preparation for obsolescence includes the stockpiling of equipment, information gathering, and dialogue with artists/technicians/corporations (through preservation planning).
 
 ### How will the work last over time?
 Media works last through processes of active preservation involving bit preservation and monitoring for obsolescence and other risks, documentation, the development over time of an understanding of the work and what is important to its conservation or preservation, an assessment of new replacement technologies, and dialogue with the artist as to possibilities for future iterations.
-
-
