@@ -10,7 +10,7 @@ Media artworks often require complex, cross-disciplinary documentation, challeng
 
 <br>
 
-![](img/IMG_4848_2.JPG)
+![](img/IMG_4848_2.jpg)
 
 <span class="img-caption" markdown="1">
 Aebhric Coleman from the NAT and Steve Dye from SFMOMA documenting _TV Buddha_ (1989) by Nam June Paik.</span>
