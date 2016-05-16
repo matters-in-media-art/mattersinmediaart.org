@@ -41,7 +41,7 @@ Fundamental to this open source approach is the licensing that we have chosen to
 Contributing
 We welcome input, feedback, and contributions to Matter in Media Art from anyone with a passionate interest in the topic. Contributing to the mattersinmediaart.org does not necessarily require any specific level of technical expertise, as there are two different ways of contributing, one of which is incredibly easy!
 
-The first and easiest way of contributing is to do what is called "filing an issue". [explanation of how to file an issue goes here].
+The first and easiest way of contributing is to do what is called "filing an issue" [on our GitHub page](https://github.com/matters-in-media-art/mattersinmediart.org/issues). GitHub issues can be used to talk about errors or problems with content or functionality, and gives us a place to have a dialog about the problem. [Here is a guide on how to file issues on GitHub](https://help.github.com/articles/creating-an-issue/).
 
 The second way of contributing to mattersinmediaart.org is to actually edit the website's content or source code, and then submit this edit for consideration through what GitHub calls a "pull request". [explanation of how edit content and submit pull requests goes here].
 
