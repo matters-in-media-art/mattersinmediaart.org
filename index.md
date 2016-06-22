@@ -6,8 +6,8 @@ title: Matters in Media Art
 
 
 <video autoplay loop poster="vid/paik.png" id="bgvid">
-    <source src="vid/paik.webmhd.webm" type="video/webm">
-    <source src="vid/paik.mp4" type="video/mp4">
+    <source src="vid/paikHD.webm" type="video/webm">
+    <source src="vid/paikHD.mp4" type="video/mp4">
 </video>
 
 <div class="row landingrow" markdown="1">
