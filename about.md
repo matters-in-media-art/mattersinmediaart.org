@@ -68,43 +68,40 @@ link to the contributors page and explain the distinction between project team a
 <section id="the-team" class="section scrollspy" markdown="1">
 
 ## Project team
-* Nancy Adelson, Deputy General Counsel, MoMA
-* Ramona Bannayan, Senior Deputy Director, Exhibitions and Collections, MoMA
-* Michelle Barger, Deputy Head of Conservation/Conservator of Objects, SFMOMA
-* Sydney Briggs, Associate Registrar, Collections, MoMA
 * Amy Brost, Media Conservation Fellow, MoMA
 * Jim Coddington, Agnes Gund Chief Conservator, MoMA
-* Stuart Comer, Chief Curator of Media and Performance Art, MoMA
-* Steve Dye, Exhibitions Technical Manager, SFMOMA
 * Patricia Falcao, Time-based Media Conservator, Tate
 * Ben Fino-Radin, Associate Media Conservator, MoMA
 * Martina Haidvogl, Associate Media Conservator, SFMOMA
 * Mark Hellar, Consultant, Hellar Studios LLC
 * Anna Henry, Digital Preservation Manager, Tate
-* Charlie Kalinowski, Media Services Manager, AV, MoMA
 * Pip Laurenson, Head of Collection Care Research, Tate
 * Kate Lewis, Media Conservator, MoMA
-* John McNeill, Collection Care Research Manager, Tate
 * Peter Oleksik, Assistant Media Conservator, MoMA
 * Claudia Roeck, Assistant Media Conseravtor, Tate
-* Cara Starke, Curatorial Assistant, Media, MoMA
 * Jill Sterrett, Director of Collections and Conservation, SFMOMA
-* Glenn Wharton, Clinical Associate Professor of Museum Studies, NYU
 
 ### Past
 
 * John Alexander, Senior Assistant Registrar, MoMA
+* Nancy Adelson, Deputy General Counsel, MoMA
+* Ramona Bannayan, Senior Deputy Director, Exhibitions and Collections, MoMA
+* Michelle Barger, Deputy Head of Conservation/Conservator of Objects, SFMOMA
 * Bryony Bery, Sculpture Conservation Researcher/Administrator, Tate
+* Sydney Briggs, Associate Registrar, Collections, MoMA
 * Catherine Clement, Senior Loans Registrar, Tate
 * Allison Cummings, Assistant Registrar for Permanent Collection, SFMOMA
+* Stuart Comer, Chief Curator of Media and Performance Art, MoMA
 * Corey D’Augustine, Conservation Fellow, MoMA
 * Katie Dance, E-Collection Curator, Tate
 * Margo Delidow, Conservation Fellow, MoMA
 * Sophie Dijan, Conservation Administration, Tate
+* Steve Dye, Exhibitions Technical Manager, SFMOMA
 * Christopher Eamon, Director, New Art Trust on Matters in Media Art, SFMOMA
 * Adrian George, Curator, Tate
 * Lisa Hayes, Loans Registrar, Tate
 * David Hollely, Production Manager, Exhibition Design & Production, MoMA
+* Charlie Kalinowski, Media Services Manager, AV, MoMA
 * Wynne Kettell, Registrar Intern, MoMA
 * Barbara London, Associate Curator, Media, MoMA
 * K Mita, Director, Audio Visual & e-Commerce Technology, MoMA
@@ -119,7 +116,9 @@ link to the contributors page and explain the distinction between project team a
 * Marie-Chantale Poisson, Fellow in the Conservation of Contemporary Art, SFMOMA
 * Gwynne Barney Ryan, Fellow in the Conservation of Contemporary Art, SFMOMA
 * Kellie Schneider, Conservation Administrator, Tate
+* Cara Starke, Curatorial Assistant, Media, MoMA
 * Sarah Tinsley, Senior Digital Content Manager, Tate
+* Glenn Wharton, Clinical Associate Professor of Museum Studies, NYU
 * Allyson Wolfe, Registrar Assistant, MoMA
 * Tanya Zimbardo, Assistant Curator in Media Arts, SFMOMA
 
