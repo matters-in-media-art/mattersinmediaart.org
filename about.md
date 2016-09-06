@@ -37,7 +37,7 @@ Conceived originally as a consensus building project for the three partner museu
 
 _While we refine the site, we welcome any and all feedback you may have. Please take a moment to fill out our <a href="http://goo.gl/forms/kfPsM8tcic">survey</a> to help us further improve the website._
 
-The Matters in Media Art website follows the essential tenants of the [open source philosophy](https://opensource.org/osd). All of the website's source code and content are openly accessible in a repository hosted on GitHub, which offers a framework for anyone to suggest, discuss, and contribute edits to mattersinmediaart.org's content and/or design and functionality.
+The Matters in Media Art website follows the essential tenets of the [open source philosophy](https://opensource.org/osd). All of the website's source code and content are openly accessible in a repository hosted on GitHub, which offers a framework for anyone to suggest, discuss, and contribute edits to mattersinmediaart.org's content and/or design and functionality.
 
 Fundamental to this open source approach is the licensing that we have chosen to adopt. All mattersinmediaart.org source code is licensed under the [MIT license](https://en.wikipedia.org/wiki/MIT_License), and all intellectual content (unless otherwise noted) is licensed under the Creative Commons [Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license. While these two licenses are quite different from each other, generally speaking, this means that all mattersinmediaart.org content and source code is free to copy, share, adopt, reuse, and redistribute.
 
