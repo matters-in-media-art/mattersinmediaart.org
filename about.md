@@ -68,7 +68,7 @@ link to the contributors page and explain the distinction between project team a
 <section id="the-team" class="section scrollspy" markdown="1">
 
 ## Project team
-* Amy Brost, Media Conservation Fellow, MoMA
+* Amy Brost, Andrew W. Mellon Fellow in Media Conservation, MoMA
 * Jim Coddington, Agnes Gund Chief Conservator, MoMA
 * Patricia Falcao, Time-based Media Conservator, Tate
 * Ben Fino-Radin, Associate Media Conservator, MoMA
@@ -78,7 +78,7 @@ link to the contributors page and explain the distinction between project team a
 * Pip Laurenson, Head of Collection Care Research, Tate
 * Kate Lewis, Media Conservator, MoMA
 * Peter Oleksik, Assistant Media Conservator, MoMA
-* Claudia Roeck, Assistant Media Conseravtor, Tate
+* Claudia Roeck, Assistant Media Conservator, Tate
 * Jill Sterrett, Director of Collections and Conservation, SFMOMA
 
 ### Past
