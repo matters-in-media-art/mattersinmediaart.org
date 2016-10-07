@@ -509,6 +509,9 @@ These functions can include:
 <section id="Design-Your-Storage" class="section scrollspy" markdown="1">
 ## Design your Storage
 
+<span markdown="0">
+<iframe src="https://player.vimeo.com/video/185972687" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</span>
 
 This section outlines the key elements associated with the design and build of reliable storage for long term digital preservation. The content has been arranged to address a range of situations; whether you are an individual who is designing a low risk personal storage solution, through to a large organization. No matter the size of your collection the following core principles need to be considered when designing your storage:
 
